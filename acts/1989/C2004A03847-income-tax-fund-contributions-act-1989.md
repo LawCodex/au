@@ -1,0 +1,49 @@
+---
+title: Income Tax (Fund Contributions) Act 1989
+identifier: C2004A03847
+register_id: C2004A03847
+type: act
+principal: true
+number: Act No. 99, 1989
+jurisdiction: au
+language: en
+date: "1989-06-30"
+version_start: "1989-06-30"
+status: in_force
+source: "https://www.legislation.gov.au/C2004A03847/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Income Tax (Fund Contributions) Act 1989
+
+No. 99 of 1989
+
+An Act to impose income tax upon so much of the taxable income of certain funds as is attributable to certain contributions
+
+Contents
+
+[image]
+
+Income Tax (Fund Contributions) Act 1989
+
+No. 99 of 1989
+
+An Act to impose income tax upon so much of the taxable income of certain funds as is attributable to certain contributions
+
+[*Assented to 30 June 1989*]
+
+###### 1 Short title
+
+This Act may be cited as the *Income Tax (Fund Contributions) Act 1989*.
+
+###### 2 Commencement
+
+This Act commences on the day on which it receives the Royal Assent.
+
+###### 3 Imposition of income tax
+
+If subsection 5(4) of the *Income Tax Act 1986* has the effect that that Act does not impose tax in respect of the subject of taxation mentioned in paragraph 5(4)(a) of that Act, this Act imposes income tax in respect of that subject of taxation.
+
+###### 4 Financial years for which tax payable
+
+The tax imposed by this Act is levied and shall be paid for each of the financial years for which the tax imposed by the *Income Tax Act 1986* is levied in accordance with section 7 of that Act.

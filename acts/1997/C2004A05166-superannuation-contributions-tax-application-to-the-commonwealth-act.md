@@ -1,0 +1,121 @@
+---
+title: Superannuation Contributions Tax (Application to the Commonwealth) Act 1997
+identifier: C2004A05166
+register_id: C2009C00451
+type: act
+principal: true
+number: Act No. 68, 1997
+jurisdiction: au
+language: en
+date: "1997-06-05"
+compilation_number: 2
+last_amended: "2009-09-18"
+version_start: "2009-09-18"
+status: in_force
+source: "https://www.legislation.gov.au/C2004A05166/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Superannuation Contributions Tax (Application to the Commonwealth) Act 1997
+
+Act No. 68 of 1997 as amended
+
+This compilation was prepared on 25 September 2009\
+taking into account amendments up to Act No. 88 of 2009
+
+The text of any of those amendments not in force\
+on that date is appended in the Notes section
+
+The operation of amendments that have been incorporated may be\
+affected by application provisions that are set out in the Notes section
+
+Prepared by the Office of Legislative Drafting and Publishing,\
+Attorney‑General’s Department, Canberra
+
+Contents
+
+An Act to provide for the notional application of superannuation contributions tax on the taxable contributions of members of non‑contributory Commonwealth superannuation schemes, and for related purposes
+
+###### 1 Short title [see Note 1]
+
+This Act may be cited as the *Superannuation Contributions Tax (Application to the Commonwealth) Act 1997*.
+
+###### 2 Commencement [see Note 1]
+
+This Act commences on the day on which it receives the Royal Assent.
+
+###### 3 Interpretation
+
+(1) Subject to subsection (2), any expression that is used in this Act and in the *Superannuation Contributions Tax (Assessment and Collection) Act 1997* has the same meaning as in that Act.
+
+(2) For the purposes of the application of the *Superannuation Contributions Tax (Assessment and Collection) Act 1997* to a trustee of an unfunded defined benefits superannuation scheme to whom section 5 of this Act applies, a reference in that Act to superannuation contributions surcharge includes a reference to superannuation contributions surcharge that is payable because of the operation of that section.
+
+(3) In this Act:
+
+***Finance Minister*** has the meaning given by the *Income Tax Assessment Act 1997*.
+
+###### 4 Application of Act
+
+This Act applies if:
+
+(a) the trustee of an unfunded defined benefits superannuation scheme is an officer, authority or agent of the Commonwealth in the trustee’s capacity as trustee of the scheme; and
+
+(b) were the trustee not such an officer, authority or agent, the trustee would be liable to pay superannuation contributions surcharge on superannuation contributions for a financial year of a member of the scheme; and
+
+(c) there are no contributed amounts payable to the trustee for or by the member under the scheme.
+
+###### 5 Trustee taken not to be officer, authority or agent of the Commonwealth
+
+The trustee is taken, for the purposes of the *Superannuation Contributions Tax Imposition Act 1997* and the *Superannuation Contributions Tax (Assessment and Collection) Act 1997*, not to be an officer, authority or agent of the Commonwealth in the trustee’s capacity as trustee of the scheme.
+
+###### 6 Directions by Finance Minister
+
+(1) The Finance Minister may give any written directions that are necessary or convenient to be given for discharging the trustee’s liability to pay the surcharge that arises because of the operation of section 5 and, in particular, may give directions in relation to the transfer of money within the Public Account.
+
+(2) Directions under subsection (1) have effect, and are to be complied with, despite any other law of the Commonwealth.
+
+###### 7 Discharge of liability of trustee
+
+Compliance with any directions given under section 6 is taken, for the purposes of the *Superannuation Contributions Tax (Assessment and Collection) Act 1997* to discharge the trustee’s liability to pay the surcharge.
+
+Notes to the Superannuation Contributions Tax (Application to the Commonwealth) Act 1997
+
+Note 1
+
+The *Superannuation Contributions Tax (Application to the Commonwealth) Act 1997* as shown in this compilation comprises Act No. 68, 1997 amended as indicated in the Tables below.
+
+Table of Acts
+
+| Act | Number<br>and year | Date<br>of Assent | Date of commencement | Application, saving or transitional provisions |
+|---|---|---|---|---|
+| Superannuation Contributions Tax (Application to the Commonwealth) Act 1997 | 68, 1997 | 5 June 1997 | 5 June 1997 |  |
+| Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997 | 191, 1997 | 7 Dec 1997 | Schedule 3: 5 June 1997 *(a)* | — |
+| Tax Laws Amendment (2009 Measures No. 4) Act 2009 | 88, 2009 | 18 Sept 2009 | Schedule 5 (items 231, 232): Royal Assent | — |
+
+*(a)* The *Superannuation Contributions Tax (Application to the Commonwealth) Act 1997* was amended by Schedule 3 only of the *Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997*, subsection 2(2) of which provides as follows:
+
+(2) Schedule 3 is taken to have commenced on 5 June 1997, immediately after the commencement of the *Superannuation Contributions Tax (Application to the Commonwealth) Act 1997*.
+
+Table of Amendments
+
+<table>
+<tr>
+<td colspan="2">ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</td>
+</tr>
+<tr>
+<td>Provision affected</td>
+<td>How affected</td>
+</tr>
+<tr>
+<td>S. 3</td>
+<td>am. No. 191, 1997; No. 88, 2009</td>
+</tr>
+<tr>
+<td>Heading to s. 6</td>
+<td>am. No. 88, 2009</td>
+</tr>
+<tr>
+<td>S. 6</td>
+<td>am. No. 88, 2009</td>
+</tr>
+</table>

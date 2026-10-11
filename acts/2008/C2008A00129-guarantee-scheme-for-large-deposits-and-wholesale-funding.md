@@ -1,0 +1,81 @@
+---
+title: Guarantee Scheme for Large Deposits and Wholesale Funding Appropriation Act 2008
+identifier: C2008A00129
+register_id: C2008A00129
+type: act
+principal: true
+number: Act No. 129, 2008
+jurisdiction: au
+language: en
+date: "2008-11-27"
+version_start: "2008-11-27"
+status: in_force
+source: "https://www.legislation.gov.au/C2008A00129/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Guarantee Scheme for Large Deposits and Wholesale Funding Appropriation Act 2008
+
+No. 129, 2008
+
+An Act to provide for an appropriation for the Guarantee Scheme for Large Deposits and Wholesale Funding, and for related purposes
+
+Contents
+
+[image]
+
+Guarantee Scheme for Large Deposits and Wholesale Funding Appropriation Act 2008
+
+No. 129, 2008
+
+An Act to provide for an appropriation for the Guarantee Scheme for Large Deposits and Wholesale Funding, and for related purposes
+
+[*Assented to 27 November 2008*]
+
+The Parliament of Australia enacts:
+
+###### 1 Short title
+
+This Act may be cited as the *Guarantee Scheme for Large Deposits and Wholesale Funding Appropriation Act 2008*.
+
+###### 2 Commencement
+
+This Act commences on the day on which it receives the Royal Assent.
+
+###### 3 Definitions
+
+In this Act:
+
+***Deed of Guarantee*** means the Deed of Guarantee in respect of the Australian Government Guarantee Scheme for Large Deposits and Wholesale Funding, executed on behalf of the Commonwealth on 20 November 2008, as that Deed is in force from time to time.
+
+***Scheme Rules*** means the Scheme Rules identified in the Deed of Guarantee, as those Rules are in force from time to time.
+
+###### 4 Application within and outside Australia
+
+This Act applies both within and outside Australia.
+
+###### 5 Appropriation
+
+The Consolidated Revenue Fund is appropriated for the following purposes:
+
+(a) paying claims under the Deed of Guarantee in accordance with the Scheme Rules;
+
+(b) repaying a borrowing, and paying interest on a borrowing, made under section 6.
+
+###### 6 Borrowing
+
+(1) The Minister may, on behalf of the Commonwealth, borrow money for the purposes of paying claims under the Deed of Guarantee in accordance with the Scheme Rules.
+
+(2) However, a borrowing in accordance with subsection (1) must not be for a period longer than 24 months.
+
+(3) In this section:
+
+***borrow*** includes raise money or obtain credit, whether by dealing in securities or otherwise, but does not include obtain credit in a transaction forming part of the day‑to‑day operations of the Commonwealth.
+
+[*Minister’s second reading speech made in—*
+
+*House of Representatives on 25 November 2008*
+
+*Senate on 26 November 2008*]
+
+(224/08)

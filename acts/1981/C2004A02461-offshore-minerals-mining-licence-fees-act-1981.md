@@ -1,0 +1,182 @@
+---
+title: Offshore Minerals (Mining Licence Fees) Act 1981
+identifier: C2004A02461
+register_id: C2004C00314
+type: act
+principal: true
+number: Act No. 84, 1981
+jurisdiction: au
+language: en
+date: "1981-06-18"
+compilation_number: 1
+last_amended: "1994-02-25"
+version_start: "1994-02-25"
+status: in_force
+source: "https://www.legislation.gov.au/C2004A02461/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Offshore Minerals (Mining Licence Fees) Act 1981
+
+Act No. 84 of 1981 as amended
+
+This compilation was prepared on 17 October 2000\
+taking into account amendments up to Act No. 29 of 1994
+
+The text of any of those amendments not in force\
+on that date is appended in the Notes section
+
+Prepared by the Office of Legislative Drafting,\
+Attorney‑General’s Department, Canberra
+
+Contents
+
+An Act to provide for the payment of fees in respect of mining licences under the *Offshore Minerals Act 1994*
+
+###### 1 Short title [see Note 1]
+
+This Act may be cited as the *Offshore Minerals (Mining Licence Fees) Act 1981*.
+
+###### 2 Commencement [see Note 1]
+
+This Act shall come into operation on the day on which the *Minerals (Submerged Lands) Act 1981* comes into operation.
+
+###### 3 Interpretation
+
+(1) In this Act:
+
+***year***, in relation to the term of a mining licence, means:
+
+(a) the period of 12 months commencing on (and including) the day on which the provisional grant of the licence is properly accepted; or
+
+(b) a period of 12 months commencing on (and including) an anniversary of that day; or
+
+(c) a period of less than 12 months that:
+
+(i) commences on (and includes):
+
+(A) the day on which the provisional grant of the licence is properly accepted; or
+
+(B) an anniversary of that day; and
+
+(ii) ends at the end of the term of the licence.
+
+(2) Expressions used in this Act that are used in the *Offshore Minerals Act 1994* have, unless the contrary intention appears, the same meanings as they have in that Act.
+
+###### 4 Licence fees
+
+(1) A mining licence holder must pay a fee to the Designated Authority in respect of each year of the term of the licence.
+
+(2) Subject to subsection (3), the amount of the fee is to be calculated in accordance with the regulations.
+
+(3) The amount of the fee for a licence for a year is not to exceed the amount obtained by multiplying $1,000 by the number of blocks covered by the licence at the beginning of the year.
+
+###### 4A Holder liable to pay fee
+
+(1) The licence holder is liable to pay the fee.
+
+(2) If the licence has 2 or more holders, the holders are jointly and severally liable to pay the fee.
+
+###### 4B Time for payment
+
+The fee for a year becomes payable one month after the day on which the year begins.
+
+###### 5 Penalty for late payment
+
+Where the liability of a mining licence holder to pay a fee referred to in section 4 is not discharged at or before the time when the fee is payable, there is payable to the Designated Authority by the holder an additional amount calculated at the rate of one‑third of 1% per day upon the amount of the fee from time to time remaining unpaid, to be computed from the time when the fee became payable until it is paid.
+
+###### 6 Fees and penalties debts due to Commonwealth
+
+(1) A fee under section 4, and an amount payable under section 5, are debts due by the licence holder to the Commonwealth and are recoverable in a court of competent jurisdiction.
+
+(2) Fees and other amounts referred to in subsection (1) received by the Designated Authority shall be deemed to be received by the Designated Authority on behalf of the Commonwealth.
+
+###### 7 Regulations
+
+The Governor‑General may make regulations prescribing matters:
+
+(a) required or permitted by this Act to be prescribed; or
+
+(b) necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+Notes to the Offshore Minerals (Mining Licence Fees) Act 1981
+
+Note 1
+
+The *Offshore Minerals (Mining Licence Fees) Act 1981* as shown in this compilation comprises Act No. 84, 1981 amended as indicated in the Tables below.
+
+Table of Acts
+
+<table>
+<tr>
+<td>Act</td>
+<td>Number<br>and year</td>
+<td>Date<br>of Assent</td>
+<td>Date of commencement</td>
+<td colspan="2">Application, saving or transitional provisions</td>
+</tr>
+<tr>
+<td>Minerals (Submerged Lands) (Production Licence Fees) Act 1981</td>
+<td>84, 1981</td>
+<td>18 June 1981</td>
+<td colspan="2">1 Feb 1990 (<i>see</i> s. 2 and <i>Gazette</i> 1989, No. S387)</td>
+<td></td>
+</tr>
+<tr>
+<td>Offshore Minerals (Consequential Provisions) Act 1994</td>
+<td>29, 1994</td>
+<td>25 Feb 1994</td>
+<td colspan="2"><i>(a)</i></td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+*(a)* The *Offshore Minerals (Mining Licence Fees) Act 1981* was amended by the *Offshore Minerals (Consequential Provisions) Act 1994*, section 2 of which provides as follows:
+
+2\. This Act commences immediately after the *Offshore Minerals Act 1994* commences.
+
+The *Offshore Minerals Act 1994* commenced on 25 February 1994.
+
+Table of Amendments
+
+<table>
+<tr>
+<td colspan="2">ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</td>
+</tr>
+<tr>
+<td>Provision affected</td>
+<td>How affected</td>
+</tr>
+<tr>
+<td>Title</td>
+<td>am. No. 29, 1994</td>
+</tr>
+<tr>
+<td>S. 1</td>
+<td>am. No. 29, 1994</td>
+</tr>
+<tr>
+<td>Ss. 3, 4</td>
+<td>rs. No. 29, 1994</td>
+</tr>
+<tr>
+<td>Ss. 4A, 4B</td>
+<td>ad. No. 29, 1994</td>
+</tr>
+<tr>
+<td>Ss. 5, 6</td>
+<td>am. No. 29, 1994</td>
+</tr>
+<tr>
+<td>S. 7</td>
+<td>ad. No. 29, 1994</td>
+</tr>
+</table>

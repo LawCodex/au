@@ -1,0 +1,848 @@
+---
+title: Renewable Energy (Electricity) Amendment Act 2009
+identifier: C2009A00078
+register_id: C2009A00078
+type: act
+principal: false
+number: Act No. 78, 2009
+jurisdiction: au
+language: en
+date: "2009-09-07"
+version_start: "2009-09-07"
+status: in_force
+source: "https://www.legislation.gov.au/C2009A00078/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Renewable Energy (Electricity) Amendment Act 2009
+
+No. 78, 2009
+
+An Act to amend the *Renewable Energy (Electricity) Act 2000*, and for related purposes
+
+Contents
+
+[image]
+
+Renewable Energy (Electricity) Amendment Act 2009
+
+No. 78, 2009
+
+An Act to amend the *Renewable Energy (Electricity) Act 2000*, and for related purposes
+
+[*Assented to 7 September 2009*]
+
+The Parliament of Australia enacts:
+
+###### 1 Short title
+
+This Act may be cited as the *Renewable Energy (Electricity) Amendment Act 2009*.
+
+###### 2 Commencement
+
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<tr>
+<td colspan="3"><b>Commencement information</b></td>
+</tr>
+<tr>
+<td><b>Column 1</b></td>
+<td><b>Column 2</b></td>
+<td><b>Column 3</b></td>
+</tr>
+<tr>
+<td><b>Provision(s)</b></td>
+<td><b>Commencement</b></td>
+<td><b>Date/Details</b></td>
+</tr>
+<tr>
+<td>1. Sections 1 to 3 and anything in this Act not elsewhere covered by this table</td>
+<td>The day on which this Act receives the Royal Assent.</td>
+<td>7 September 2009</td>
+</tr>
+<tr>
+<td>2. Schedule 1</td>
+<td>The day on which this Act receives the Royal Assent.</td>
+<td>7 September 2009</td>
+</tr>
+<tr>
+<td>3. Schedule 2</td>
+<td>At the same time as the provision(s) covered by table item 2.</td>
+<td>7 September 2009</td>
+</tr>
+<tr>
+<td>4. Schedule 3, Part 1</td>
+<td>A single day to be fixed by Proclamation.<br>However, if the provision(s) do not commence before 1 July 2011, they commence on that day.</td>
+<td>1 July 2011</td>
+</tr>
+<tr>
+<td>5. Schedule 3, item 3</td>
+<td>The day after this Act receives the Royal Assent.</td>
+<td>8 September 2009</td>
+</tr>
+<tr>
+<td>6. Schedule 3, item 4</td>
+<td>1 February 2010.</td>
+<td>1 February 2010</td>
+</tr>
+<tr>
+<td>7. Schedule 3, item 5</td>
+<td>The day after this Act receives the Royal Assent.</td>
+<td>8 September 2009</td>
+</tr>
+<tr>
+<td>8. Schedule 3, items 6 and 7</td>
+<td>A single day to be fixed by Proclamation.<br>However, if any of the provision(s) do not commence within the period of 9 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.</td>
+<td>18 April 2010<br>(<i>see</i> F2010L00946)</td>
+</tr>
+<tr>
+<td>9. Schedule 3, items 8 and 9</td>
+<td>1 February 2010.</td>
+<td>1 February 2010</td>
+</tr>
+</table>
+
+Note: This table relates only to the provisions of this Act as originally passed by both Houses of the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
+
+(2) Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act.
+
+###### 3 Schedule(s)
+
+Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+
+## Schedule 1—Amendment of the Renewable Energy (Electricity) Act 2000
+
+**1 Section 3**
+
+Omit:
+
+(b) to reduce emissions of greenhouse gases; and
+
+Substitute:
+
+(b) to reduce emissions of greenhouse gases in the electricity sector; and
+
+**2 Section 4**
+
+Omit “1 January 2021”, substitute “1 January 2031”.
+
+**2A Subsection 5(1)**
+
+Insert:
+
+***2008 WCMG limit*** has the meaning given by section 14.
+
+**2B Subsection 5(1)**
+
+Insert:
+
+***eligible energy sources*** means:
+
+(a) eligible renewable energy sources; or
+
+(b) eligible WCMG.
+
+**2C Subsection 5(1)**
+
+Insert:
+
+***eligible WCMG*** has the meaning given by section 17A.
+
+**3 Subsection 5(1)**
+
+Insert:
+
+***kW*** means kilowatt.
+
+**3A Section 8**
+
+Omit “eligible renewable energy sources”, substitute “eligible energy sources”.
+
+**3B Paragraph 12A(2)(c)**
+
+Omit “eligible renewable energy sources”, substitute “eligible energy sources”.
+
+**3C Subparagraph 13(2)(ba)(i)**
+
+Omit “eligible renewable energy sources”, substitute “eligible energy sources”.
+
+**3D After subsection 13(2)**
+
+Insert:
+
+(2A) An application that lists eligible WCMG as an eligible energy source from which power is intended to be generated cannot be made after 30 June 2010.
+
+**3E Paragraph 14(2)(a)**
+
+Omit “eligible renewable energy source”, substitute “eligible energy source”.
+
+**3F Paragraph 14(3)(b)**
+
+Omit “eligible renewable energy sources”, substitute “eligible energy sources”.
+
+**3G After paragraph 14(3)(b)**
+
+Insert:
+
+; and (c) if some or all of the power generated by the power station is generated from eligible WCMG—the ***2008 WCMG limit*** for the power station.
+
+**3H Subsection 14(3) (note)**
+
+After “baseline”, insert “or the 2008 WCMG limit”.
+
+**3J Subsection 14(4)**
+
+Omit “and (3)(a)”, substitute “, (3)(a) and (3)(c)”.
+
+**3K Subsection 15A(1)**
+
+Omit “The”, substitute “Subject to subsection (3), the”.
+
+Note: The following heading to subsection 15A(1) is inserted “*General rule*”.
+
+**3L At the end of section 15A**
+
+Add:
+
+Applications that list eligible WCMG as an eligible energy source
+
+(3) If an application that is properly made under section 13 lists eligible WCMG as an eligible energy source from which power is intended to be generated, the Regulator must decide the application on or before 31 December 2010.
+
+(4) If the Regulator does not decide the application on or before that day, the Regulator is taken, on the following day, to have made a decision under section 15 refusing the application.
+
+**3M At the end of Division 3 of Part 2**
+
+Add:
+
+###### 17A What is eligible WCMG?
+
+(1) Waste coal mine gas is ***eligible WCMG*** if:
+
+(a) the waste coal mine gas is used in the generation of electricity by a power station in the period:
+
+(i) starting on 1 July 2011, or if a different date is prescribed by the regulations, starting on that different date; and
+
+(ii) ending on 31 December 2020; and
+
+(b) either:
+
+(i) the power station was generating electricity from waste coal mine gas at any time in May 2009; or
+
+(ii) if subparagraph (i) does not apply—the power station had generated electricity from waste coal mine gas before May 2009, and, as at the end of May 2009, the owner or operator of the power station has a plan for the power station to resume generating electricity from waste coal mine gas before the end of September 2009.
+
+(2) For the purposes of this Act, the regulations may provide that waste coal mine gas has the meaning prescribed by the regulations.
+
+(3) For the purposes of this Act, the regulations may prescribe limitations (in addition to those in subsection (1)) that apply in order for waste coal mine gas to be ***eligible WCMG***.
+
+**3N Paragraph 18(4)(a)**
+
+Omit “eligible renewable energy sources”, substitute “eligible energy sources”.
+
+**3P At the end of subsection 18(4)**
+
+Add:
+
+; or (c) to the extent that the electricity was generated from eligible WCMG and is in excess of the accredited power station’s 2008 WCMG limit.
+
+**3Q Paragraph 20(2)(b)**
+
+Omit “eligible renewable energy sources”, substitute “eligible energy sources”.
+
+**4 Section 23B**
+
+Before “The number”, insert “(1)”.
+
+Note: The following heading to new subsection 23B(1) is inserted “*Number of certificates*”.
+
+**5 Section 23B**
+
+Before “each”, insert “subject to subsection (2),”.
+
+**6 At the end of section 23B**
+
+Add:
+
+Regulations may multiply number of certificates
+
+(2) The regulations may provide that, in the circumstances specified by the regulations, the number of certificates that may be created in relation to a small generation unit that is installed during a period specified in column 1 of an item in the following table is to be multiplied by the number specified in column 2 of the item.
+
+Note: The regulations may make provision in relation to the time at which a small generation unit is taken to have been installed (see subsection 23A(2)).
+
+<table>
+<tr>
+<td colspan="3"><b>Multiplier for certificates for small generation units</b></td>
+</tr>
+<tr>
+<td><b>Item</b></td>
+<td><b>Column 1</b><br><b>Period</b></td>
+<td><b>Column 2</b><br><b>Number</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td>9 June 2009 to 30 June 2010</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>1 July 2010 to 30 June 2011</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>1 July 2011 to 30 June 2012</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>1 July 2012 to 30 June 2013</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>1 July 2013 to 30 June 2014</td>
+<td>3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>1 July 2014 to 30 June 2015</td>
+<td>2</td>
+</tr>
+</table>
+
+(3) However, the regulations may provide for a number of certificates to be multiplied only if the certificates relate to the first 1.5kW of the rated power output of the small generation unit.
+
+(4) For the purposes of this Act, a certificate created in accordance with the regulations as mentioned in subsection (2) has a value of 1 MWh (even though the certificate does not actually represent 1 MWh).
+
+**7 Application of amendments of section 23B**
+
+The amendments made by items 4 to 6 apply to small generation units installed on or after 9 June 2009.
+
+**7A Paragraph 25(2)(ca)**
+
+Omit “eligible renewable energy source”, substitute “eligible energy source”.
+
+**7B Paragraph 25A(2)(f)**
+
+Omit “eligible renewable energy source”, substitute “eligible energy source”.
+
+**7C Paragraph 30D(3)(a)**
+
+Omit “eligible renewable energy source”, substitute “eligible energy source”.
+
+**7D Division 12 of Part 2 (heading)**
+
+Repeal the heading, substitute:
+
+#### Division 12—Varying 1997 eligible renewable power baselines and 2008 WCMG limits
+
+**7E At the end of Division 12 of Part 2**
+
+Add:
+
+###### 30G Varying 2008 WCMG limits
+
+(1) The Regulator may, by written determination, vary the 2008 WCMG limit for an accredited power station.
+
+(2) The Regulator must make a determination in accordance with guidelines prescribed in the regulations.
+
+Increase in limit
+
+(3) If a determination increases the 2008 WCMG limit for an accredited power station, the determination has effect for the year or years specified in the determination.
+
+Decrease in limit
+
+(4) If a determination decreases the 2008 WCMG limit for an accredited power station, the determination has effect only for the years following the year in which the determination is made.
+
+**8 Section 40 (table item dealing with 2010 and later years)**
+
+Repeal the item, substitute:
+
+| 2010 | 12500 |
+|---|---|
+| 2011 | 14825 |
+| 2012 | 17150 |
+| 2013 | 19050 |
+| 2014 | 20950 |
+| 2015 | 22850 |
+| 2016 | 27450 |
+| 2017 | 32050 |
+| 2018 | 36650 |
+| 2019 | 41250 |
+| 2020 | 45850 |
+| 2021 | 45000 |
+| 2022 | 45000 |
+| 2023 | 45000 |
+| 2024 | 45000 |
+| 2025 | 45000 |
+| 2026 | 45000 |
+| 2027 | 45000 |
+| 2028 | 45000 |
+| 2029 | 45000 |
+| 2030 | 45000 |
+
+**8A Subsection 66(1) (after table item 5D)**
+
+Insert:
+
+| 5DA | to vary the 2008 WCMG limit for an accredited power station | section 30G | the nominated person for the power station |
+|---|---|---|---|
+
+**8B After paragraph 138(ca)**
+
+Insert:
+
+(cb) for each power station for which there is a 2008 WCMG limit—the limit (including any variation of that limit under section 30G); and
+
+**8C Paragraph 140(da)**
+
+Omit “eligible renewable energy source”, substitute “eligible energy source”.
+
+**8D Paragraph 141A(c)**
+
+Omit “eligible renewable energy source”, substitute “eligible energy source”.
+
+**8E Paragraph 160(2)(b)**
+
+Omit “eligible renewable energy sources”, substitute “eligible energy sources”.
+
+**9 Section 162**
+
+Repeal the section, substitute:
+
+###### 162 Review of operation of renewable energy legislation
+
+(1) The Minister must cause an independent review of the operation of the following to be undertaken as soon as practicable after 31 December 2013:
+
+(a) this Act;
+
+(b) the regulations;
+
+(c) the *Renewable Energy (Electricity) (Charge) Act 2000*.
+
+(2) The review must be undertaken by a person who, in the Minister’s opinion, possesses appropriate qualifications to undertake the review.
+
+(3) The person undertaking the review must give the Minister a written report of the review before 30 June 2014.
+
+(4) The Minister must cause a copy of the report to be tabled in each House of the Parliament within 15 sitting days of that House after the day on which the report is given to the Minister.
+
+(5) The report is not a legislative instrument.
+
+## Schedule 2—Partial exemptions from liability to charge
+
+##### Renewable Energy (Electricity) Act 2000
+
+**1 At the end of section 3**
+
+Add:
+
+A partial exemption relating to one or more emissions‑intensive trade‑exposed activities may be taken into account in working out a liable entity’s renewable energy certificate shortfall for a year. If it is, it will reduce the renewable energy shortfall charge otherwise payable.
+
+**2 Subsection 5(1)**
+
+Insert:
+
+***emissions‑intensive trade‑exposed activity*** means:
+
+(a) if regulations are made for the purposes of subsection 167(1) of the *Carbon Pollution Reduction Scheme Act 2009*—an activity that is taken to be an emissions‑intensive trade‑exposed activity under the emissions‑intensive trade‑exposed assistance program; or
+
+(b) otherwise—an activity prescribed by regulations made for the purposes of this paragraph.
+
+**3 Subsection 5(1)**
+
+Insert:
+
+***emissions‑intensive trade‑exposed assistance program*** has the same meaning as in the *Carbon Pollution Reduction Scheme Act 2009*.
+
+**4 Subsection 5(1)**
+
+Insert:
+
+***partial exemption***, in relation to a liable entity, means a partial exemption for a year, calculated under section 38B, that is used in working out the entity’s renewable energy certificate shortfall for the year under section 38.
+
+**5 Subsection 5(1)**
+
+Insert:
+
+***partial exemption certificate*** means a certificate issued under section 46B.
+
+**6 Section 38 (method statement, after step 1)**
+
+Insert:
+
+Step 1A. Subtract from the total electricity acquired the amount of the liable entity’s partial exemption for the year.
+
+**7 Section 38 (method statement, step 2)**
+
+Omit “the total electricity acquired”, substitute “the result of step 1A”.
+
+**8 After Division 1 of Part 4**
+
+Insert:
+
+#### Division 1A—Partial exemption from liability to charge
+
+###### 38A Object
+
+The object of this Division is to provide a partial exemption from the renewable energy shortfall charge for liable entities in respect of emissions‑intensive trade‑exposed activities.
+
+###### 38B Amount of partial exemption
+
+The amount of a liable entity’s partial exemption for a year is the total, in MWh, of all amounts stated in partial exemption certificates:
+
+(a) issued in relation to the liable entity for the year; and
+
+(b) included in the liable entity’s energy acquisition statement for the year.
+
+###### 38C Information about partial exemptions to be published on Regulator’s website
+
+(1) If a liable entity receives a partial exemption for a year, the Regulator must, before 1 October in the following year, publish on its website:
+
+(a) the name of the entity; and
+
+(b) the value in dollars, estimated by the Regulator, of the amount of the entity’s partial exemption for the year; and
+
+(c) such other information in relation to the partial exemption as is required by the regulations.
+
+(2) The Regulator must also publish on its website such other information in relation to partial exemptions as is required by the regulations.
+
+(3) If a liable entity’s partial exemption is later reduced or increased, the Regulator must correct the information on its website.
+
+**9 At the end of subsection 39(3)**
+
+Add:
+
+; and (d) all partial exemptions expected to be claimed for the year.
+
+**10 Subsection 39(4) (formula)**
+
+Repeal the formula, substitute:
+
+[image]
+
+**11 Part 5 (heading)**
+
+Repeal the heading, substitute:
+
+### Part 5—Statements, certificates and assessments
+
+**12 After paragraph 44(2)(b)**
+
+Insert:
+
+(ba) whether the liable entity wishes to claim a partial exemption for the year; and
+
+**13 After paragraph 44(3)(a)**
+
+Insert:
+
+(aa) if the liable entity wishes to claim a partial exemption for the year—include:
+
+(i) a copy of each partial exemption certificate issued to the liable entity for the year in relation to an emissions‑intensive trade‑exposed activity carried on by the liable entity during the year; and
+
+(ii) for each partial exemption certificate issued to another person in relation to the liable entity for the year and given to the liable entity—a copy of each partial exemption certificate; and
+
+**14 After Division 1 of Part 5**
+
+Insert:
+
+#### Division 1A—Partial exemption certificates
+
+###### 46A Application for partial exemption certificate
+
+(1) A prescribed person may apply to the Regulator for a certificate (a ***partial exemption certificate***) for a year in relation to:
+
+(a) an emissions‑intensive trade‑exposed activity which is, or is to be, carried on at a site during the year; and
+
+(b) either:
+
+(i) a person who is, or will be, a liable entity from whom electricity is, or will be, acquired for use at the site in the activity; or
+
+(ii) if the prescribed person is, or will be, a liable entity—the prescribed person.
+
+(2) The application must:
+
+(a) be in a form approved by the Regulator; and
+
+(b) include any information prescribed by the regulations; and
+
+(c) be lodged with the Regulator in the time and manner prescribed by the regulations; and
+
+(d) be signed by or on behalf of the applicant.
+
+(3) The regulations may provide that information required to be included in an application must be verified by statutory declaration.
+
+###### 46B Partial exemption certificates
+
+(1) If an application is made under section 46A in respect of a year, the Regulator must issue the applicant with a partial exemption certificate for the year that sets out, in relation to the liable entity mentioned in the application (as referred to in paragraph 46A(1)(b)):
+
+(a) the amount of the liable entity’s partial exemption for the year in relation to the emissions‑intensive trade‑exposed activity and site mentioned in the application, calculated according to a method prescribed by the regulations; and
+
+(b) any other information prescribed by the regulations.
+
+(2) The Regulator must issue the certificate within the period prescribed by the regulations.
+
+(3) A certificate issued under subsection (1) is not a legislative instrument.
+
+###### 46C Amending partial exemption certificates
+
+(1) The Regulator may amend a partial exemption certificate if the person to whom the certificate is issued requests, in writing, an amendment.
+
+(2) In deciding whether to amend a partial exemption certificate under subsection (1), the Regulator:
+
+(a) must have regard to the matters prescribed by the regulations; and
+
+(b) may have regard to any other matter that it considers relevant.
+
+(3) The Regulator may also amend a partial exemption certificate on its own initiative in circumstances prescribed by the regulations.
+
+(4) If the Regulator refuses to amend a partial exemption certificate upon a request by a person, the Regulator must notify the person accordingly.
+
+Note: An amendment of a partial exemption certificate under this section may also result in the Regulator issuing an assessment under section 48 or amending an assessment under section 49.
+
+**15 Subsection 66(1) (after table item 5E)**
+
+Insert:
+
+| 5F | to amend, or to refuse to amend, a partial exemption certificate | section 46C | the person to whom the certificate is issued. |
+|---|---|---|---|
+
+**16 Subsection 160(1)**
+
+Repeal the subsection, substitute:
+
+(1) A person (the ***record‑keeper***) who:
+
+(a) is a registered person; or
+
+(b) is a liable entity; or
+
+(c) has been issued with a partial exemption certificate;
+
+must keep records that record and explain all transactions and other acts engaged in, or required to be engaged in, by the record‑keeper under this Act.
+
+Note: The heading to section 160 is altered by omitting “**and liable entities**” and substituting “**, liable entities and holders of partial exemption certificates**”.
+
+**17 After subsection 160(3)**
+
+Insert:
+
+(3A) The records kept by a person who has been issued with a partial exemption certificate must include any documents relevant to ascertaining:
+
+(a) a matter to which the certificate relates; and
+
+(b) any other prescribed matter.
+
+**18 Paragraph 160(4)(b)**
+
+Repeal the paragraph, substitute:
+
+(b) in the case of records kept by a liable entity—so that the liable entity’s liability under this Act can be readily ascertained; and
+
+(c) in the case of records kept by a person who has been issued with a partial exemption certificate—so that matters to which the certificate relates can be readily ascertained.
+
+**19 Subsection 160(5)**
+
+Omit “registered person, or a liable entity,”, substitute “record‑keeper”.
+
+**20 Subsection 160(6)**
+
+Omit “registered person or liable entity” (wherever occurring), substitute “record‑keeper”.
+
+**21 Subsection 160(7)**
+
+Repeal the subsection, substitute:
+
+(7) A person commits an offence if the person fails to comply with a requirement under this section.
+
+Penalty: 30 penalty units.
+
+**22 Transitional regulations**
+
+The Governor‑General may make regulations of a transitional nature relating to the transition from the application of paragraph (b) of the definition of ***emissions‑intensive trade‑exposed activity*** in subsection 5(1) of the *Renewable Energy (Electricity) Act 2000* (as inserted by item 2 of this Schedule) to the application of paragraph (a) of the definition of that expression.
+
+## Schedule 3—Amendments relating to the transition of State renewable energy target schemes
+
+### Part 1—Amendments relating to constitutional corporations
+
+##### Renewable Energy (Electricity) Act 2000
+
+**1 Subsection 5(1)**
+
+Insert:
+
+***constitutional corporation*** means a corporation to which paragraph 51(xx) of the Constitution applies.
+
+**2 At the end of Part 1**
+
+Add:
+
+###### 7B Constitutional basis
+
+To the extent that this Act applies in relation to a constitutional corporation, the operation of this Act is based on the following legislative powers:
+
+(a) the legislative power that the Commonwealth Parliament has under paragraph 51(xx) of the Constitution;
+
+(b) any other legislative power that the Commonwealth Parliament has under the Constitution.
+
+###### 7C Immunity from State laws
+
+A constitutional corporation need not comply with any law of a State that substantially corresponds to this Act.
+
+### Part 2—Transitional provisions
+
+**3 Definitions**
+
+In this Part:
+
+***accredited power station*** has the same meaning as in the Commonwealth Act.
+
+***Commonwealth Act*** means the *Renewable Energy (Electricity) Act 2000*.
+
+***Commonwealth regulator***:
+
+(a) at any time before section 3 of the *Carbon Pollution Reduction Scheme Act 2009* commences—means the Regulator (within the meaning of the Commonwealth Act); and
+
+(b) at any time after the *Carbon Pollution Reduction Scheme Act 2009* commences—means the Authority (within the meaning of the *Australian Climate Change Regulatory Authority Act 2009*).
+
+***renewable energy certificate*** has the same meaning as in the Commonwealth Act.
+
+***small generation unit*** has the same meaning as in the Commonwealth Act.
+
+***State Act*** means a law of a State that substantially corresponds to the Commonwealth Act.
+
+***State certificate*** means a certificate, created under a State Act, that is substantially the same as a renewable energy certificate.
+
+***State regulator*** means a person or body appointed under a State Act that has substantially the same kind of functions under the State Act as the Commonwealth regulator has under the Commonwealth Act.
+
+**4 Continuation of existing accreditations**
+
+(1) If a power station was, immediately before the day on which this item commences, accredited under a State Act and not already accredited under the Commonwealth Act:
+
+(a) the power station is taken to be eligible for accreditation under section 15 of the Commonwealth Act; and
+
+(b) the Commonwealth regulator is taken to have made a determination under paragraph 14(1)(a) of the Commonwealth Act that the components of the power station (as accredited under the State Act) are to be taken to be a power station for the purposes of the Commonwealth Act; and
+
+(c) the Commonwealth regulator is taken to have approved an application for accreditation on the day on which this item commences.
+
+(2) To avoid doubt, subsection 14(3) of the Commonwealth Act applies in relation to an application mentioned in paragraph (1)(b) of this item.
+
+(3) If a person was, immediately before the day on which this item commences, a nominated person for a power station under a State Act:
+
+(a) the person is taken to be:
+
+(i) a registered person (unless the person is already a registered person under the Commonwealth Act); and
+
+(ii) a nominated person for the power station;
+
+under the Commonwealth Act on and after the day on which this item commences; and
+
+(b) the Commonwealth regulator is taken to have approved an application for the person to be registered on the day on which this item commences (unless the person is already a registered person under the Commonwealth Act).
+
+(4) To avoid doubt, section 12 of the Commonwealth Act applies in relation to an application mentioned in paragraph (3)(b) of this item as if the person were the applicant.
+
+**5 Existing accreditations not to continue if notice given**
+
+A nominated person for a power station under a State Act may notify the Commonwealth regulator, in writing by 30 November 2009, that subitems 4(1) and (3) of this Schedule do not apply in relation to the power station. A notice has effect accordingly.
+
+**6 Conversion of State certificates to renewable energy certificates**
+
+(1) If, before 15 May 2010, a State regulator for a State gives written notice to the Commonwealth regulator that a State certificate has been surrendered:
+
+(a) under a provision of the State Act of the State that substantially corresponds to section 28A of the Commonwealth Act; and
+
+(b) after 1 April 2010; and
+
+(c) for the purposes of this subitem;
+
+then the Commonwealth regulator must, before 15 June 2010:
+
+(d) create a renewable energy certificate in respect of the State certificate; and
+
+(e) register the renewable energy certificate under section 26 of the Commonwealth Act.
+
+(2) If, on or after 15 May 2010 but before 2 November 2010, a State regulator for a State gives written notice to the Commonwealth regulator that a State certificate has been surrendered:
+
+(a) under a provision of the State Act of the State that substantially corresponds to section 28A of the Commonwealth Act; and
+
+(b) after 1 April 2010; and
+
+(c) for the purposes of this subitem;
+
+then the Commonwealth regulator must, before 1 December 2010:
+
+(d) create a renewable energy certificate in respect of the State certificate; and
+
+(e) register the renewable energy certificate under section 26 of the Commonwealth Act.
+
+(3) A notice under subitem (1) or (2) must:
+
+(a) be in the prescribed form; and
+
+(b) include any information prescribed by the regulations.
+
+(4) Despite subitems (1) and (2), a renewable energy certificate may only be created for a State certificate once.
+
+(5) For the purposes of a renewable energy certificate created in respect of a State certificate under subitem (1) or (2):
+
+(a) the renewable energy certificate is treated as if it had been created under a prescribed provision of the Commonwealth Act; and
+
+(b) the person who created the State certificate is treated as having created the renewable energy certificate; and
+
+(c) subject to paragraph (6)(c), the person who owned the State certificate, immediately before it was surrendered under the State Act, is treated as the owner of the renewable energy certificate.
+
+(6) Section 26 of the Commonwealth Act applies in relation to a renewable energy certificate created under subitem (1) or (2) as if:
+
+(a) subsections (2), (3), (3A), (5) and (6) were ignored; and
+
+(b) the Commonwealth regulator had determined that the renewable energy certificate is eligible for registration under subsection (4); and
+
+(c) for the purposes of recording the ownership of the renewable energy certificate as mentioned in subsection (4)—the owner of the renewable energy certificate had created the certificate.
+
+(7) A renewable energy certificate created in respect of a State certificate under subitem (1) or (2) is not a certificate for the purpose of section 23F of the Commonwealth Act.
+
+(8) If a renewable energy certificate is created in respect of a State certificate under subitem (1) or (2), the register of renewable energy certificates maintained under section 135 of the Commonwealth Act must also contain the year in which the State certificate was created.
+
+Notice of conversion to be given by Commonwealth regulator
+
+(9) The Commonwealth regulator must notify, in writing, the following persons that a renewable energy certificate has been created in respect of a State certificate and registered under section 26 of the Commonwealth Act:
+
+(a) the creator of the State certificate;
+
+(b) the relevant State regulator;
+
+(c) if the owner of the renewable energy certificate is not the creator of the State certificate—the owner of the renewable energy certificate.
+
+(10) The Commonwealth regulator must provide the notice as soon as practicable after the renewable energy certificate has been registered under section 26 of the Commonwealth Act.
+
+**7 No criminal liability for Commonwealth regulator**
+
+Nothing in item 6 makes the Commonwealth regulator liable to be prosecuted for an offence.
+
+**8 Renewable energy certificate must not be created if State certificate created**
+
+Despite section 18 of the Commonwealth Act, a nominated person (within the meaning of the Commonwealth Act) for an accredited power station must not create a renewable energy certificate for any electricity generated by the power station if a State certificate has been created in relation to that electricity.
+
+**9 Transitional regulations**
+
+(1) The Governor‑General may make regulations prescribing matters:
+
+(a) required or permitted by this Part to be prescribed; or
+
+(b) necessary or convenient to be prescribed for carrying out or giving effect to this Part.
+
+(2) Without limiting subitem (1), regulations of a transitional nature may be made in relation to the following matters:
+
+(a) matters arising from the amendment or repeal of a State Act;
+
+(b) exemptions from fees payable under regulations;
+
+(c) the number of renewable energy certificates that may be created in relation to a small generation unit.
+
+[*Minister’s second reading speech made in—*
+
+*House of Representatives on 17 June 2009*
+
+*Senate on 18 August 2009*]
+
+(102/09)
