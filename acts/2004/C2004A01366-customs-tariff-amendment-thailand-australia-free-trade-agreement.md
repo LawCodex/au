@@ -1,0 +1,12928 @@
+---
+title: Customs Tariff Amendment (Thailand-Australia Free Trade Agreement Implementation) Act 2004
+identifier: C2004A01366
+register_id: C2004A01366
+type: act
+principal: false
+number: Act No. 131, 2004
+jurisdiction: au
+language: en
+date: "2004-11-26"
+version_start: "2004-11-26"
+status: in_force
+source: "https://www.legislation.gov.au/C2004A01366/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Customs Tariff Amendment (Thailand-Australia Free Trade Agreement Implementation) Act 2004
+
+Customs Tariff Amendment (Thailand‑Australia Free Trade Agreement Implementation) Act 2004
+
+No. 131, 2004
+
+An Act to amend the *Customs Tariff Act 1995*, and for related purposes
+
+Contents
+
+[image: Commonwealth Coat of Arms of Australia]
+
+No. 131, 2004
+
+An Act to amend the *Customs Tariff Act 1995*, and for related purposes
+
+[*Assented to 26 November 2004*]
+
+The Parliament of Australia enacts:
+
+###### 1 Short title
+
+This Act may be cited as the *Customs Tariff Amendment (Thailand‑Australia Free Trade Agreement Implementation) Act 2004.*
+
+###### 2 Commencement
+
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<tr>
+<td colspan="3"><b>Commencement information</b></td>
+</tr>
+<tr>
+<td><b>Column 1</b></td>
+<td><b>Column 2</b></td>
+<td><b>Column 3</b></td>
+</tr>
+<tr>
+<td><b>Provision(s)</b></td>
+<td><b>Commencement</b></td>
+<td><b>Date/Details</b></td>
+</tr>
+<tr>
+<td>1. Sections 1 to 3 and anything in this Act not elsewhere covered by this table</td>
+<td>The day on which this Act receives the Royal Assent.</td>
+<td>26 November 2004</td>
+</tr>
+<tr>
+<td>2. Schedule 1, items 1 to 37</td>
+<td>The later of the following days (the <b><i>Thai start‑day</b></i>):<br>(a) 1 January 2005;<br>(b) the day on which the Thailand‑Australia Free Trade Agreement, done at Canberra on 5 July 2004, comes into force for Australia.<br>However, the provision(s) do not commence at all unless:<br>(a) the Thailand‑Australia Free Trade Agreement comes into force for Australia; and<br>(b) item 1 (the <b><i>US item</b></i>) of Schedule 1 to the <i>US Free Trade Agreement Implementation (Customs Tariff) Act 2004</i> commences before, or on the same day as, the Thai start‑day.<br>If the Thai start‑day is the same day as the day on which the US item commences, then items 1 to 37 of Schedule 1 to this Act commence immediately after the US item commences.<br>The Minister must announce by notice in the <i>Gazette</i> the day on which the Thailand‑Australia Free Trade Agreement comes into force for Australia.</td>
+<td>1 January 2005 (<i>see Gazette</i> 2004, S530)</td>
+</tr>
+<tr>
+<td>3. Schedule 1, item 38</td>
+<td>The later of:<br>(a) immediately after the commencement of the <i>Customs Tariff Amendment (Textile, Clothing and Footwear Post‑2005 Arrangements) Act 2004</i>; and<br>(b) immediately after the commencement of the provision(s) covered by table item 2.<br>However, the provision(s) do not commence at all unless both of the events mentioned in paragraphs (a) and (b) occur.</td>
+<td>1 January 2005 (paragraph (b) applies)</td>
+</tr>
+<tr>
+<td>4. Schedule 1, items 39 and 40</td>
+<td>At the same time as the provision(s) covered by table item 2.</td>
+<td>1 January 2005</td>
+</tr>
+<tr>
+<td>5. Schedule 2, items 1 to 35</td>
+<td>The later of the following days (the <b><i>Thai start‑day</b></i>):<br>(a) 1 January 2005;<br>(b) the day on which the Thailand‑Australia Free Trade Agreement, done at Canberra on 5 July 2004, comes into force for Australia.<br>However, the provision(s) do not commence at all if:<br>(a) the Thailand‑Australia Free Trade Agreement does not come into force for Australia; or<br>(b) item 1 of Schedule 1 to the <i>US Free Trade Agreement Implementation (Customs Tariff) Act 2004</i> commences before, or on the same day as, the Thai start‑day.<br>The Minister must announce by notice in the <i>Gazette</i> the day on which the Thailand‑Australia Free Trade Agreement comes into force for Australia.</td>
+<td>Does not commence</td>
+</tr>
+<tr>
+<td>6. Schedule 2, item 36</td>
+<td>The later of:<br>(a) immediately after the commencement of the <i>Customs Tariff Amendment (Textile, Clothing and Footwear Post‑2005 Arrangements) Act 2004</i>; and<br>(b) immediately after the commencement of the provision(s) covered by table item 5.<br>However, the provision(s) do not commence at all unless both of the events mentioned in paragraphs (a) and (b) occur.</td>
+<td>Does not commence</td>
+</tr>
+<tr>
+<td>7. Schedule 2, items 37 and 38</td>
+<td>At the same time as the provision(s) covered by table item 5.</td>
+<td>Does not commence</td>
+</tr>
+<tr>
+<td>8. Schedule 2, Part 2</td>
+<td>Immediately before the commencement of item 1 of Schedule 1 to the <i>US Free Trade Agreement Implementation (Customs Tariff) Act 2004</i>.<br>However, the provision(s) do not commence at all unless the provision(s) covered by table item 5 commence.</td>
+<td>Does not commence</td>
+</tr>
+</table>
+
+Note: This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
+
+(2) Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act.
+
+###### 3 Schedule(s)
+
+Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+
+## Schedule 1—Amendments commencing after the US Free Trade Agreement legislation commences
+
+##### Customs Tariff Act 1995
+
+**1 Subsection 3(1) (at the end of the definition of rate column)**
+
+Add:
+
+; or (d) the third column of the table in Schedule 6.
+
+**2 Subsection 9(1)**
+
+Omit “Schedule 3, 4 or 5”, substitute “Schedule 3, 4, 5 or 6”.
+
+**3 After paragraph 11(1)(ba)**
+
+Insert:
+
+or (bb) the third column of an item in the table in Schedule 6 that applies to goods;
+
+**4 After paragraph 11(1)(e)**
+
+Insert:
+
+or (f) the third column of that item in the table in Schedule 6;
+
+**5 After paragraph 11(2)(ba)**
+
+Insert:
+
+or (bb) the third column of an item in the table in Schedule 6 that applies to goods;
+
+**6 After section 13A**
+
+Insert:
+
+###### 13B When goods are Thai originating goods
+
+For the purposes of this Act, goods are Thai originating goods if, and only if, they are Thai originating goods under Division 1D of Part VIII of the *Customs Act 1901*.
+
+**7 After subparagraph 16(1)(a)(ii)**
+
+Insert:
+
+and (iii) are not Thai originating goods;
+
+**8 At the end of paragraph 16(1)(g)**
+
+Add:
+
+Note: See also subsection (3).
+
+**9 Subparagraph 16(1)(k)(ii)**
+
+Omit “Free.”, substitute “Free;”.
+
+**10 At the end of subsection 16(1)**
+
+Add:
+
+(l) subject to section 16A, if the goods are Thai originating goods:
+
+(i) if the goods are classified to a heading or subheading in Schedule 3 that is specified in column 2 of an item in the table in Schedule 6—by reference to the rate of duty set out in column 3 of that item; or
+
+(ii) otherwise—Free.
+
+**11 Subsection 16(2)**
+
+Omit “However, if”, substitute “If”.
+
+Note: The following heading to subsection 16(2) is inserted “*US originating goods*”.
+
+**12 At the end of section 16**
+
+Add:
+
+Goods from Thailand
+
+(3) Subject to section 16A, if the goods:
+
+(a) are the produce or manufacture of Thailand under Division 1A of Part VIII of the *Customs Act 1901*; and
+
+(b) are Thai originating goods under Division 1D of that Part;
+
+the duty in respect of the goods must be worked out under paragraph (1)(l) (and not under paragraph (1)(g)).
+
+**13 After section 16**
+
+Insert:
+
+###### 16A Special safeguards for Thai originating goods
+
+(1) If the Agricultural Minister is satisfied that the quantity of safeguard goods imported into Australia during a calendar year specified in column 3 of an item of the following table exceeds:
+
+(a) the quantity specified in that column for that year in relation to the goods; or
+
+(b) if the regulations specify another quantity for that year in relation to the goods—the other quantity;
+
+the Agricultural Minister may, by legislative instrument, make a notice in relation to the goods. The Agricultural Minister must publish the notice in the *Gazette*.
+
+<table>
+<tr>
+<td colspan="3"><b>Safeguard goods</b></td>
+</tr>
+<tr>
+<td><b>Column 1</b><br><b>Item</b></td>
+<td><b>Column 2</b><br><b>Subheading in Schedule 3</b></td>
+<td><b>Column 3</b><br><b>Quantity</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td>1604.14.00</td>
+<td>2005: 21,366,277 kilograms<br>2006: 22,434,591 kilograms<br>2007: 23,556,320 kilograms<br>2008: 24,734,136 kilograms</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2008.20.00</td>
+<td>2005: 6,083,197 litres for goods that are canned<br>2,137,189 kilograms for goods that are not<br>canned<br>2006: 6,387,357 litres for goods that are<br>canned<br>2,244,048 kilograms for goods that are not<br>canned<br>2007: 6,706,725 litres for goods that are<br>canned<br>2,356,251 kilograms for goods that are not<br>canned<br>2008: 7,042,061 litres for goods that are<br>canned<br>2,474,063 kilograms for goods that are not<br>canned</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2009.41.00 or 2009.49.00</td>
+<td>2005: 2,080,116 litres<br>2006: 2,184,122 litres<br>2007: 2,293,328 litres<br>2008: 2,407,994 litres</td>
+</tr>
+</table>
+
+(2) In applying subsection (1) to item 3 of the table, the quantity applicable for a calendar year applies to the sum of the quantities of the following goods imported in that year:
+
+(a) Thai originating goods classified to subheading 2009.41.00;
+
+(b) Thai originating goods classified to subheading 2009.49.00.
+
+Example: In 2005 the quantity applicable under item 3 of the table is 2,080,116 litres.
+
+On 1 August 2005, 1,500,000 litres of Thai originating goods classified to subheading 2009.41.00 have been imported into Australia and 580,117 litres of Thai originating goods classified to subheading 2009.49.00 have been imported into Australia.
+
+On 1 August 2005 the quantity is exceeded and the Agricultural Minister may publish a notice covering both kinds of goods.
+
+Content of notice
+
+(3) The notice must specify:
+
+(a) the safeguard goods; and
+
+(b) that the quantity of the goods imported into Australia during the applicable calendar year exceeds the quantity applicable for that year.
+
+The notice may contain any other information that the Agricultural Minister considers appropriate.
+
+(4) A notice under this section may specify one or more safeguard goods.
+
+Duty rates
+
+(5) Despite subsection 12(2) of the *Legislative Instruments Act 2003*, if:
+
+(a) the Agricultural Minister publishes a notice under this section; and
+
+(b) any safeguard goods specified in the notice are imported into Australia during the period beginning on the day after the publication day and ending on 31 December of the calendar year concerned;
+
+then the duty in respect of the goods must be worked out by reference to the general rate set out in the third column of the tariff classification under which the goods are classified (and not under paragraph 16(1)(l) of this Act).
+
+(6) Subsection (5) does not apply to goods exported from Thailand on or before the publication day under a contract entered into on or before the publication day. However, the quantity of those goods must be counted towards the quantity applicable for the next calendar year in relation to goods of that kind.
+
+Definitions
+
+(7) In this section:
+
+***Agricultural Minister*** means the Minister administering the *Primary Industries (Excise) Levies Act 1999*.
+
+***safeguard goods*** means Thai originating goods that:
+
+(a) are classified to a subheading in Schedule 3 that is specified in column 2 of item 1 or 3 of the table in this section; or
+
+(b) are classified to a subheading in Schedule 3 that is specified in column 2 of item 2 of the table in this section and are canned; or
+
+(c) are classified to a subheading in Schedule 3 that is specified in column 2 of item 2 of the table in this section and are not canned.
+
+**14 At the end of subsection 18(1)**
+
+Add:
+
+; or (c) under an item in the table in Schedule 6 that applies to the goods.
+
+**15 After subparagraph 18(2)(a)(ii)**
+
+Insert:
+
+and (iii) are not Thai originating goods;
+
+**16 At the end of paragraph 18(2)(g)**
+
+Add:
+
+Note: See also subsections (3) and (4).
+
+**17 At the end of subsection 18(2)**
+
+Add:
+
+; (l) if the goods are Thai originating goods:
+
+(i) if a rate of duty that applies in relation to Thailand is set out in the third column of that item—by reference to that rate of duty; or
+
+(ii) otherwise—Free.
+
+**18 At the end of section 18**
+
+Add:
+
+Goods from Thailand
+
+(3) If the goods:
+
+(a) are the produce or manufacture of Thailand under Division 1A of Part VIII of the *Customs Act 1901*; and
+
+(b) are Thai originating goods under Division 1D of that Part;
+
+the amount of duty payable in respect of the goods under the item in Schedule 4 must be worked out under paragraph (2)(l) (and not under paragraph (2)(g)).
+
+(4) If:
+
+(a) the goods are the produce or manufacture of Thailand under Division 1A of Part VIII of the *Customs Act 1901*; and
+
+(b) the amount of duty payable in respect of the goods under the item in Schedule 4 must be worked out under paragraph (2)(g); and
+
+(c) “DCS” and “TH” are specified in relation to a rate of duty set out in the third column of that item;
+
+then, despite subsection 14(2), the amount of duty payable in respect of the goods under that item must be worked out by reference to that rate of duty.
+
+**19 After paragraph 19(1)(b)**
+
+Insert:
+
+and (c) the rate column of an item in the table in Schedule 6 that relates to a subheading in Schedule 3:
+
+(i) that is specified in column 2 of that item in the table in Schedule 6; and
+
+(ii) that appears in column 1 of the Table below, opposite that excise item;
+
+**20 Schedule 4 (item 17A, column 3)**
+
+After “US”, insert “/TH”.
+
+**21 Schedule 4 (item 19, column 3)**
+
+After “US”, insert “/TH”.
+
+**22 Schedule 4 (item 20A, column 2)**
+
+Omit “Schedule 3 or 5”, substitute “Schedule 3, 5 or 6”.
+
+**23 Schedule 4 (item 20A, column 3)**
+
+After “US”, insert “/TH”.
+
+**24 Schedule 4 (item 20B, column 2)**
+
+Omit “Schedule 3 or 5”, substitute “Schedule 3, 5 or 6”.
+
+**25 Schedule 4 (item 20B, column 3)**
+
+After “US”, insert “/TH”.
+
+**26 Schedule 4 (item 34, column 3)**
+
+After “US”, insert “/TH”.
+
+**27 Schedule 4 (item 41E, column 3)**
+
+After “US”, insert “/TH”.
+
+**28 At the end of the last rate of duty in column 3 of item 44 in Schedule 4**
+
+Add:
+
+|  |  | TH:<br>The difference between the rate of duty set out in the third column of an item in the table in Schedule 6 that relates to the subheading so specified and the rate of duty for the excise item specified in column 2 of the Table below opposite to that subheading, set out in the third column of that excise item in the Schedule to the *Excise Tariff Act 1921* |
+|---|---|---|
+
+**29 At the end of the last rate of duty in column 3 of item 47 in Schedule 4**
+
+Add:
+
+|  |  | TH:3% |
+|---|---|---|
+
+**30 At the end of the last rate of duty in column 3 of item 50(1)(a) in Schedule 4**
+
+Add:
+
+|  |  | TH:3% |
+|---|---|---|
+
+**31 At the end of the last rate of duty in column 3 of item 50(1)(b) in Schedule 4**
+
+Add:
+
+|  |  | TH:3%, and $0.05449/L |
+|---|---|---|
+
+**32 At the end of the last rate of duty in column 3 of item 50(2) in Schedule 4**
+
+Add:
+
+|  |  | TH:3% |
+|---|---|---|
+
+**33 At the end of the last rate of duty in column 3 of item 53C in Schedule 4**
+
+Add:
+
+|  |  | TH:5% |
+|---|---|---|
+
+**34 The rates of duty in column 3 of item 59 in Schedule 4**
+
+Repeal the rates of duty, substitute:
+
+|  |  | 15%<br>FI:10%<br>DC:10%<br>CA:7.5% |
+|---|---|---|
+|  | From 1 January 2005 | 10%<br>US:10%<br>TH:10%<br>FI:5%<br>DC:5%<br>CA:2.5% |
+|  | From 1 January 2010 | 5%<br>US:5%<br>TH:5%<br>CA:Free |
+
+**35 Schedule 4 (item 61, column 3)**
+
+After “US”, insert “/TH”.
+
+**36 Schedule 4 (item 70, column 3)**
+
+After “US”, insert “/TH”.
+
+**37 At the end of the last rate of duty in column 3 of item 72B in Schedule 4**
+
+Add:
+
+|  |  | TH:5% |
+|---|---|---|
+
+**38 Schedule 4 (item 73, column 3)**
+
+Before “: An”, insert “/TH”.
+
+**39 At the end of the Act**
+
+Add:
+
+## Schedule 6—Thai originating goods
+
+Note: See sections 15 and 16.
+
+<table>
+<tr>
+<td colspan="4"><b>Thai originating goods</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Column 1</b><br><b>Item</b></td>
+<td><b>Column 2</b><br><b>Heading or subheading in Schedule 3</b></td>
+<td><b>Column 3</b><br><b>Rate</b></td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>1516.10.10</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td>1516.20.10</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">3</td>
+<td>1604.14.00</td>
+<td>2.5%<br>From 1 January 2007: Free</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td>2203.00.31</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">5</td>
+<td>2203.00.39</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">6</td>
+<td>2203.00.61</td>
+<td>$30.49/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">7</td>
+<td>2203.00.62</td>
+<td>$35.53/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td>2203.00.69</td>
+<td>$35.53/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">9</td>
+<td>2203.00.71</td>
+<td>$6.09/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">10</td>
+<td>2203.00.72</td>
+<td>$19.12/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">11</td>
+<td>2203.00.79</td>
+<td>$25.02/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">12</td>
+<td>2204.10.23</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">13</td>
+<td>2204.10.29</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">14</td>
+<td>2204.10.83</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">15</td>
+<td>2204.10.89</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">16</td>
+<td>2204.21.30</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">17</td>
+<td>2204.21.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">18</td>
+<td>2204.29.30</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">19</td>
+<td>2204.29.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">20</td>
+<td>2205.10.30</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">21</td>
+<td>2205.10.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">22</td>
+<td>2205.90.30</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">23</td>
+<td>2205.90.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">24</td>
+<td>2206.00.52</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">25</td>
+<td>2206.00.59</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">26</td>
+<td>2206.00.62</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">27</td>
+<td>2206.00.69</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">28</td>
+<td>2206.00.74</td>
+<td>$30.49/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">29</td>
+<td>2206.00.75</td>
+<td>$35.53/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">30</td>
+<td>2206.00.78</td>
+<td>$35.53/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">31</td>
+<td>2206.00.82</td>
+<td>$6.09/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">32</td>
+<td>2206.00.83</td>
+<td>$19.12/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">33</td>
+<td>2206.00.89</td>
+<td>$25.02/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">34</td>
+<td>2206.00.92</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">35</td>
+<td>2206.00.99</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">36</td>
+<td>2207.10.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">37</td>
+<td>2207.20.10</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">38</td>
+<td>2208.20.10</td>
+<td>$56.21/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">39</td>
+<td>2208.20.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">40</td>
+<td>2208.30.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">41</td>
+<td>2208.40.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">42</td>
+<td>2208.50.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">43</td>
+<td>2208.60.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">44</td>
+<td>2208.70.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">45</td>
+<td>2208.90.20</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">46</td>
+<td>2208.90.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">47</td>
+<td>2401.20.00</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">48</td>
+<td>2401.30.00</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">49</td>
+<td>2402.10.20</td>
+<td>$0.22353/stick</td>
+</tr>
+<tr>
+<td colspan="2">50</td>
+<td>2402.10.80</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">51</td>
+<td>2402.20.20</td>
+<td>$0.22353/stick</td>
+</tr>
+<tr>
+<td colspan="2">52</td>
+<td>2402.20.80</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">53</td>
+<td>2403.10.30</td>
+<td>$0.22353/stick</td>
+</tr>
+<tr>
+<td colspan="2">54</td>
+<td>2403.10.70</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">55</td>
+<td>2403.91.00</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">56</td>
+<td>2403.99.20</td>
+<td>$2.27/kg</td>
+</tr>
+<tr>
+<td colspan="2">57</td>
+<td>2403.99.80</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">58</td>
+<td>2707.10.00</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">59</td>
+<td>2707.20.29</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">60</td>
+<td>2707.20.89</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">61</td>
+<td>2707.30.29</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">62</td>
+<td>2707.30.89</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">63</td>
+<td>2707.50.39</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">64</td>
+<td>2707.50.89</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">65</td>
+<td>2709.00.81</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">66</td>
+<td>2709.00.87</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">67</td>
+<td>2709.00.88</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">68</td>
+<td>2710.11.61</td>
+<td>$0.03114/L</td>
+</tr>
+<tr>
+<td colspan="2">69</td>
+<td>2710.11.62</td>
+<td>$0.40516/L</td>
+</tr>
+<tr>
+<td colspan="2">70</td>
+<td>2710.11.69</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">71</td>
+<td>2710.11.73</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">72</td>
+<td>2710.11.74</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">73</td>
+<td>2710.11.79</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">74</td>
+<td>2710.11.81</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.38143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">75</td>
+<td>2710.11.82</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.40143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">76</td>
+<td>2710.19.13</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">77</td>
+<td>2710.19.17</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">78</td>
+<td>2710.19.18</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">79</td>
+<td>2710.19.21</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">80</td>
+<td>2710.19.29</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">81</td>
+<td>2710.19.33</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">82</td>
+<td>2710.19.34</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">83</td>
+<td>2710.19.37</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">84</td>
+<td>2710.19.38</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">85</td>
+<td>2710.19.40</td>
+<td>$0.03151/L</td>
+</tr>
+<tr>
+<td colspan="2">86</td>
+<td>2710.19.50</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">87</td>
+<td>2710.19.73</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">88</td>
+<td>2710.19.74</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">89</td>
+<td>2710.19.79</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">90</td>
+<td>2710.19.81</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.38143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">91</td>
+<td>2710.19.82</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.40143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">92</td>
+<td>2710.19.91</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">93</td>
+<td>2710.19.92</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">94</td>
+<td>2710.91.13</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">95</td>
+<td>2710.91.17</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">96</td>
+<td>2710.91.18</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">97</td>
+<td>2710.91.21</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">98</td>
+<td>2710.91.29</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">99</td>
+<td>2710.91.33</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">100</td>
+<td>2710.91.34</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">101</td>
+<td>2710.91.37</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">102</td>
+<td>2710.91.38</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">103</td>
+<td>2710.91.40</td>
+<td>$0.03151/L</td>
+</tr>
+<tr>
+<td colspan="2">104</td>
+<td>2710.91.50</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">105</td>
+<td>2710.91.61</td>
+<td>$0.03114/L</td>
+</tr>
+<tr>
+<td colspan="2">106</td>
+<td>2710.91.62</td>
+<td>$0.40516/L</td>
+</tr>
+<tr>
+<td colspan="2">107</td>
+<td>2710.91.69</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">108</td>
+<td>2710.91.73</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">109</td>
+<td>2710.91.74</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">110</td>
+<td>2710.91.79</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">111</td>
+<td>2710.91.81</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.38143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">112</td>
+<td>2710.91.82</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.40143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">113</td>
+<td>2710.91.91</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">114</td>
+<td>2710.91.92</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">115</td>
+<td>2710.99.13</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">116</td>
+<td>2710.99.17</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">117</td>
+<td>2710.99.18</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">118</td>
+<td>2710.99.21</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">119</td>
+<td>2710.99.29</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">120</td>
+<td>2710.99.33</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">121</td>
+<td>2710.99.34</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">122</td>
+<td>2710.99.37</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">123</td>
+<td>2710.99.38</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">124</td>
+<td>2710.99.40</td>
+<td>$0.03151/L</td>
+</tr>
+<tr>
+<td colspan="2">125</td>
+<td>2710.99.50</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">126</td>
+<td>2710.99.61</td>
+<td>$0.03114/L</td>
+</tr>
+<tr>
+<td colspan="2">127</td>
+<td>2710.99.62</td>
+<td>$0.40516/L</td>
+</tr>
+<tr>
+<td colspan="2">128</td>
+<td>2710.99.69</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">129</td>
+<td>2710.99.73</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">130</td>
+<td>2710.99.74</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">131</td>
+<td>2710.99.79</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">132</td>
+<td>2710.99.81</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.38143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">133</td>
+<td>2710.99.82</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.40143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">134</td>
+<td>2710.99.91</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">135</td>
+<td>2710.99.92</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">136</td>
+<td>2902.20.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">137</td>
+<td>2902.30.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">138</td>
+<td>2902.41.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">139</td>
+<td>2902.42.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">140</td>
+<td>2902.43.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">141</td>
+<td>2902.44.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">142</td>
+<td>2902.50.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">143</td>
+<td>2907.11.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">144</td>
+<td>2909.41.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">145</td>
+<td>2909.42.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">146</td>
+<td>2909.43.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">147</td>
+<td>2909.44.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">148</td>
+<td>2909.49.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">149</td>
+<td>2909.50.10</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">150</td>
+<td>2909.60.10</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">151</td>
+<td>2914.11.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">152</td>
+<td>2922.13.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">153</td>
+<td>3402.11.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">154</td>
+<td>3402.12.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">155</td>
+<td>3402.13.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">156</td>
+<td>3402.19.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">157</td>
+<td>3402.20.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">158</td>
+<td>3402.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">159</td>
+<td>3403.11.10</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">160</td>
+<td>3403.11.90</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">161</td>
+<td>3403.19.10</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">162</td>
+<td>3403.19.90</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">163</td>
+<td>3403.91.10</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">164</td>
+<td>3403.91.90</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">165</td>
+<td>3403.99.10</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">166</td>
+<td>3403.99.90</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">167</td>
+<td>3811.21.10</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">168</td>
+<td>3811.21.90</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">169</td>
+<td>3817.00.19</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">170</td>
+<td>3819.00.00</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">171</td>
+<td>3824.90.21</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.38143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">172</td>
+<td>3824.90.22</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.40143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">173</td>
+<td>3825.30.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td colspan="2">174</td>
+<td>3901.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">175</td>
+<td>3901.20.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">176</td>
+<td>3901.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">177</td>
+<td>3901.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">178</td>
+<td>3902.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">179</td>
+<td>3902.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">180</td>
+<td>3902.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">181</td>
+<td>3903.11.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">182</td>
+<td>3903.19.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">183</td>
+<td>3903.20.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">184</td>
+<td>3903.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">185</td>
+<td>3903.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">186</td>
+<td>3904.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">187</td>
+<td>3904.21.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">188</td>
+<td>3904.22.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">189</td>
+<td>3904.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">190</td>
+<td>3904.40.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">191</td>
+<td>3904.50.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">192</td>
+<td>3904.61.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">193</td>
+<td>3904.69.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">194</td>
+<td>3904.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">195</td>
+<td>3905.12.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">196</td>
+<td>3905.19.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">197</td>
+<td>3905.21.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">198</td>
+<td>3905.29.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">199</td>
+<td>3905.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">200</td>
+<td>3905.91.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">201</td>
+<td>3905.99.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">202</td>
+<td>3906.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">203</td>
+<td>3906.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">204</td>
+<td>3907.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">205</td>
+<td>3907.20.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">206</td>
+<td>3907.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">207</td>
+<td>3907.40.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">208</td>
+<td>3907.50.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">209</td>
+<td>3907.60.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">210</td>
+<td>3907.91.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">211</td>
+<td>3907.99.10</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">212</td>
+<td>3907.99.90</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>213</td>
+<td colspan="2">3909.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>214</td>
+<td colspan="2">3909.20.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>215</td>
+<td colspan="2">3909.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>216</td>
+<td colspan="2">3909.40.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>217</td>
+<td colspan="2">3909.50.10</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>218</td>
+<td colspan="2">3909.50.90</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>219</td>
+<td colspan="2">3917.21.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>220</td>
+<td colspan="2">3917.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>221</td>
+<td colspan="2">3917.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>222</td>
+<td colspan="2">3917.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>223</td>
+<td colspan="2">3917.31.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>224</td>
+<td colspan="2">3917.32.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>225</td>
+<td colspan="2">3917.33.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>226</td>
+<td colspan="2">3917.39.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>227</td>
+<td colspan="2">3920.43.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>228</td>
+<td colspan="2">3923.21.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>229</td>
+<td colspan="2">3923.29.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>230</td>
+<td colspan="2">3923.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>231</td>
+<td colspan="2">3923.40.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>232</td>
+<td colspan="2">3923.50.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>233</td>
+<td colspan="2">3923.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>234</td>
+<td colspan="2">3925.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>235</td>
+<td colspan="2">3926.20.29</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>236</td>
+<td colspan="2">4002.11.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>237</td>
+<td colspan="2">4011.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>238</td>
+<td colspan="2">4011.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>239</td>
+<td colspan="2">4012.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>240</td>
+<td colspan="2">4012.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>241</td>
+<td colspan="2">4012.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>242</td>
+<td colspan="2">4012.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>243</td>
+<td colspan="2">4012.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>244</td>
+<td colspan="2">4015.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>245</td>
+<td colspan="2">4015.19.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>246</td>
+<td colspan="2">4015.19.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>247</td>
+<td colspan="2">4015.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>248</td>
+<td colspan="2">4015.90.21</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>249</td>
+<td colspan="2">4015.90.29</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>250</td>
+<td colspan="2">4016.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>251</td>
+<td colspan="2">4203.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>252</td>
+<td colspan="2">4203.21.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>253</td>
+<td colspan="2">4203.29.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>254</td>
+<td colspan="2">4203.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>255</td>
+<td colspan="2">4203.40.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>256</td>
+<td colspan="2">4203.40.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>257</td>
+<td colspan="2">4204.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>258</td>
+<td colspan="2">4205.00.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>259</td>
+<td colspan="2">4303.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>260</td>
+<td colspan="2">4303.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>261</td>
+<td colspan="2">4304.00.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>262</td>
+<td colspan="2">4304.00.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>263</td>
+<td colspan="2">5007.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>264</td>
+<td colspan="2">5106.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>265</td>
+<td colspan="2">5106.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>266</td>
+<td colspan="2">5107.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>267</td>
+<td colspan="2">5107.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>268</td>
+<td colspan="2">5108.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>269</td>
+<td colspan="2">5108.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>270</td>
+<td colspan="2">5109.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>271</td>
+<td colspan="2">5109.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>272</td>
+<td colspan="2">5110.00.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>273</td>
+<td colspan="2">5111.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>274</td>
+<td colspan="2">5111.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>275</td>
+<td colspan="2">5111.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>276</td>
+<td colspan="2">5111.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>277</td>
+<td colspan="2">5111.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>278</td>
+<td colspan="2">5112.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>279</td>
+<td colspan="2">5112.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>280</td>
+<td colspan="2">5112.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>281</td>
+<td colspan="2">5112.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>282</td>
+<td colspan="2">5112.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>283</td>
+<td colspan="2">5113.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>284</td>
+<td colspan="2">5204.11.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>285</td>
+<td colspan="2">5204.19.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>286</td>
+<td colspan="2">5204.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>287</td>
+<td colspan="2">5205.11.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>288</td>
+<td colspan="2">5205.11.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>289</td>
+<td colspan="2">5205.12.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>290</td>
+<td colspan="2">5205.13.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>291</td>
+<td colspan="2">5205.14.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>292</td>
+<td colspan="2">5205.15.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>293</td>
+<td colspan="2">5205.21.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>294</td>
+<td colspan="2">5205.21.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>295</td>
+<td colspan="2">5205.22.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>296</td>
+<td colspan="2">5205.23.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>297</td>
+<td colspan="2">5205.24.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>298</td>
+<td colspan="2">5205.26.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>299</td>
+<td colspan="2">5205.27.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>300</td>
+<td colspan="2">5205.28.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>301</td>
+<td colspan="2">5205.31.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>302</td>
+<td colspan="2">5205.31.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>303</td>
+<td colspan="2">5205.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>304</td>
+<td colspan="2">5205.33.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>305</td>
+<td colspan="2">5205.34.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>306</td>
+<td colspan="2">5205.35.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>307</td>
+<td colspan="2">5205.41.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>308</td>
+<td colspan="2">5205.41.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>309</td>
+<td colspan="2">5205.42.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>310</td>
+<td colspan="2">5205.43.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>311</td>
+<td colspan="2">5205.44.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>312</td>
+<td colspan="2">5205.46.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>313</td>
+<td colspan="2">5205.47.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>314</td>
+<td colspan="2">5205.48.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>315</td>
+<td colspan="2">5206.11.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>316</td>
+<td colspan="2">5206.11.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>317</td>
+<td colspan="2">5206.12.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>318</td>
+<td colspan="2">5206.13.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>319</td>
+<td colspan="2">5206.14.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>320</td>
+<td colspan="2">5206.15.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>321</td>
+<td colspan="2">5206.21.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>322</td>
+<td colspan="2">5206.21.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>323</td>
+<td colspan="2">5206.22.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>324</td>
+<td colspan="2">5206.23.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>325</td>
+<td colspan="2">5206.24.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>326</td>
+<td colspan="2">5206.25.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>327</td>
+<td colspan="2">5206.31.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>328</td>
+<td colspan="2">5206.31.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>329</td>
+<td colspan="2">5206.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>330</td>
+<td colspan="2">5206.33.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>331</td>
+<td colspan="2">5206.34.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>332</td>
+<td colspan="2">5206.35.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>333</td>
+<td colspan="2">5206.41.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>334</td>
+<td colspan="2">5206.41.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>335</td>
+<td colspan="2">5206.42.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>336</td>
+<td colspan="2">5206.43.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>337</td>
+<td colspan="2">5206.44.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>338</td>
+<td colspan="2">5206.45.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>339</td>
+<td colspan="2">5207.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>340</td>
+<td colspan="2">5207.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>341</td>
+<td colspan="2">5208.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>342</td>
+<td colspan="2">5208.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>343</td>
+<td colspan="2">5208.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>344</td>
+<td colspan="2">5208.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>345</td>
+<td colspan="2">5208.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>346</td>
+<td colspan="2">5208.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>347</td>
+<td colspan="2">5208.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>348</td>
+<td colspan="2">5208.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>349</td>
+<td colspan="2">5208.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>350</td>
+<td colspan="2">5208.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>351</td>
+<td colspan="2">5208.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>352</td>
+<td colspan="2">5208.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>353</td>
+<td colspan="2">5208.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>354</td>
+<td colspan="2">5208.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>355</td>
+<td colspan="2">5208.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>356</td>
+<td colspan="2">5208.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>357</td>
+<td colspan="2">5208.51.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>358</td>
+<td colspan="2">5208.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>359</td>
+<td colspan="2">5208.53.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>360</td>
+<td colspan="2">5208.59.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>361</td>
+<td colspan="2">5209.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>362</td>
+<td colspan="2">5209.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>363</td>
+<td colspan="2">5209.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>364</td>
+<td colspan="2">5209.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>365</td>
+<td colspan="2">5209.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>366</td>
+<td colspan="2">5209.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>367</td>
+<td colspan="2">5209.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>368</td>
+<td colspan="2">5209.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>369</td>
+<td colspan="2">5209.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>370</td>
+<td colspan="2">5209.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>371</td>
+<td colspan="2">5209.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>372</td>
+<td colspan="2">5209.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>373</td>
+<td colspan="2">5209.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>374</td>
+<td colspan="2">5209.51.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>375</td>
+<td colspan="2">5209.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>376</td>
+<td colspan="2">5209.59.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>377</td>
+<td colspan="2">5210.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>378</td>
+<td colspan="2">5210.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>379</td>
+<td colspan="2">5210.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>380</td>
+<td colspan="2">5210.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>381</td>
+<td colspan="2">5210.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>382</td>
+<td colspan="2">5210.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>383</td>
+<td colspan="2">5210.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>384</td>
+<td colspan="2">5210.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>385</td>
+<td colspan="2">5210.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>386</td>
+<td colspan="2">5210.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>387</td>
+<td colspan="2">5210.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>388</td>
+<td colspan="2">5210.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>389</td>
+<td colspan="2">5210.51.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>390</td>
+<td colspan="2">5210.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>391</td>
+<td colspan="2">5210.59.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>392</td>
+<td colspan="2">5211.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>393</td>
+<td colspan="2">5211.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>394</td>
+<td colspan="2">5211.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>395</td>
+<td colspan="2">5211.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>396</td>
+<td colspan="2">5211.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>397</td>
+<td colspan="2">5211.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>398</td>
+<td colspan="2">5211.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>399</td>
+<td colspan="2">5211.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>400</td>
+<td colspan="2">5211.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>401</td>
+<td colspan="2">5211.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>402</td>
+<td colspan="2">5211.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>403</td>
+<td colspan="2">5211.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>404</td>
+<td colspan="2">5211.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>405</td>
+<td colspan="2">5211.51.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>406</td>
+<td colspan="2">5211.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>407</td>
+<td colspan="2">5211.59.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>408</td>
+<td colspan="2">5212.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>409</td>
+<td colspan="2">5212.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>410</td>
+<td colspan="2">5212.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>411</td>
+<td colspan="2">5212.14.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>412</td>
+<td colspan="2">5212.15.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>413</td>
+<td colspan="2">5212.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>414</td>
+<td colspan="2">5212.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>415</td>
+<td colspan="2">5212.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>416</td>
+<td colspan="2">5212.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>417</td>
+<td colspan="2">5212.25.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>418</td>
+<td colspan="2">5306.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>419</td>
+<td colspan="2">5307.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>420</td>
+<td colspan="2">5307.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>421</td>
+<td colspan="2">5401.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>422</td>
+<td colspan="2">5401.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>423</td>
+<td colspan="2">5402.31.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>424</td>
+<td colspan="2">5402.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>425</td>
+<td colspan="2">5402.33.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>426</td>
+<td colspan="2">5402.39.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>427</td>
+<td colspan="2">5402.41.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>428</td>
+<td colspan="2">5402.42.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>429</td>
+<td colspan="2">5402.43.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>430</td>
+<td colspan="2">5402.49.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>431</td>
+<td colspan="2">5402.51.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>432</td>
+<td colspan="2">5402.52.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>433</td>
+<td colspan="2">5402.59.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>434</td>
+<td colspan="2">5402.61.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>435</td>
+<td colspan="2">5402.62.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>436</td>
+<td colspan="2">5402.69.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>437</td>
+<td colspan="2">5403.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>438</td>
+<td colspan="2">5403.31.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>439</td>
+<td colspan="2">5403.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>440</td>
+<td colspan="2">5403.33.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>441</td>
+<td colspan="2">5403.39.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>442</td>
+<td colspan="2">5403.41.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>443</td>
+<td colspan="2">5403.42.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>444</td>
+<td colspan="2">5403.49.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>445</td>
+<td colspan="2">5404.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>446</td>
+<td colspan="2">5404.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>447</td>
+<td colspan="2">5405.00.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>448</td>
+<td colspan="2">5406.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>449</td>
+<td colspan="2">5406.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>450</td>
+<td colspan="2">5407.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>451</td>
+<td colspan="2">5407.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>452</td>
+<td colspan="2">5407.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>453</td>
+<td colspan="2">5407.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>454</td>
+<td colspan="2">5407.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>455</td>
+<td colspan="2">5407.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>456</td>
+<td colspan="2">5407.44.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>457</td>
+<td colspan="2">5407.51.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>458</td>
+<td colspan="2">5407.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>459</td>
+<td colspan="2">5407.53.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>460</td>
+<td colspan="2">5407.54.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>461</td>
+<td colspan="2">5407.61.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>462</td>
+<td colspan="2">5407.69.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>463</td>
+<td colspan="2">5407.71.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>464</td>
+<td colspan="2">5407.72.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>465</td>
+<td colspan="2">5407.73.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>466</td>
+<td colspan="2">5407.74.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>467</td>
+<td colspan="2">5407.81.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>468</td>
+<td colspan="2">5407.82.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>469</td>
+<td colspan="2">5407.83.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>470</td>
+<td colspan="2">5407.84.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>471</td>
+<td colspan="2">5407.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>472</td>
+<td colspan="2">5407.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>473</td>
+<td colspan="2">5407.93.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>474</td>
+<td colspan="2">5407.94.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>475</td>
+<td colspan="2">5408.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>476</td>
+<td colspan="2">5408.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>477</td>
+<td colspan="2">5408.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>478</td>
+<td colspan="2">5408.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>479</td>
+<td colspan="2">5408.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>480</td>
+<td colspan="2">5408.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>481</td>
+<td colspan="2">5408.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>482</td>
+<td colspan="2">5408.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>483</td>
+<td colspan="2">5408.34.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>484</td>
+<td colspan="2">5501.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>485</td>
+<td colspan="2">5501.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>486</td>
+<td colspan="2">5501.30.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>487</td>
+<td colspan="2">5501.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>488</td>
+<td colspan="2">5508.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>489</td>
+<td colspan="2">5508.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>490</td>
+<td colspan="2">5509.11.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>491</td>
+<td colspan="2">5509.12.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>492</td>
+<td colspan="2">5509.21.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>493</td>
+<td colspan="2">5509.22.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>494</td>
+<td colspan="2">5509.31.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>495</td>
+<td colspan="2">5509.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>496</td>
+<td colspan="2">5509.41.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>497</td>
+<td colspan="2">5509.42.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>498</td>
+<td colspan="2">5509.51.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>499</td>
+<td colspan="2">5509.52.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>500</td>
+<td colspan="2">5509.53.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>501</td>
+<td colspan="2">5509.59.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>502</td>
+<td colspan="2">5509.61.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>503</td>
+<td colspan="2">5509.62.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>504</td>
+<td colspan="2">5509.69.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>505</td>
+<td colspan="2">5509.91.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>506</td>
+<td colspan="2">5509.92.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>507</td>
+<td colspan="2">5509.99.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>508</td>
+<td colspan="2">5510.11.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>509</td>
+<td colspan="2">5510.12.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>510</td>
+<td colspan="2">5510.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>511</td>
+<td colspan="2">5510.30.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>512</td>
+<td colspan="2">5510.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>513</td>
+<td colspan="2">5511.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>514</td>
+<td colspan="2">5511.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>515</td>
+<td colspan="2">5511.30.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>516</td>
+<td colspan="2">5512.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>517</td>
+<td colspan="2">5512.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>518</td>
+<td colspan="2">5512.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>519</td>
+<td colspan="2">5512.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>520</td>
+<td colspan="2">5512.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>521</td>
+<td colspan="2">5512.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>522</td>
+<td colspan="2">5513.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>523</td>
+<td colspan="2">5513.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>524</td>
+<td colspan="2">5513.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>525</td>
+<td colspan="2">5513.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>526</td>
+<td colspan="2">5513.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>527</td>
+<td colspan="2">5513.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>528</td>
+<td colspan="2">5513.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>529</td>
+<td colspan="2">5513.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>530</td>
+<td colspan="2">5513.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>531</td>
+<td colspan="2">5513.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>532</td>
+<td colspan="2">5513.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>533</td>
+<td colspan="2">5513.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>534</td>
+<td colspan="2">5513.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>535</td>
+<td colspan="2">5513.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>536</td>
+<td colspan="2">5513.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>537</td>
+<td colspan="2">5513.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>538</td>
+<td colspan="2">5514.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>539</td>
+<td colspan="2">5514.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>540</td>
+<td colspan="2">5514.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>541</td>
+<td colspan="2">5514.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>542</td>
+<td colspan="2">5514.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>543</td>
+<td colspan="2">5514.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>544</td>
+<td colspan="2">5514.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>545</td>
+<td colspan="2">5514.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>546</td>
+<td colspan="2">5514.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>547</td>
+<td colspan="2">5514.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>548</td>
+<td colspan="2">5514.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>549</td>
+<td colspan="2">5514.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>550</td>
+<td colspan="2">5514.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>551</td>
+<td colspan="2">5514.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>552</td>
+<td colspan="2">5514.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>553</td>
+<td colspan="2">5514.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>554</td>
+<td colspan="2">5515.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>555</td>
+<td colspan="2">5515.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>556</td>
+<td colspan="2">5515.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>557</td>
+<td colspan="2">5515.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>558</td>
+<td colspan="2">5515.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>559</td>
+<td colspan="2">5515.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>560</td>
+<td colspan="2">5515.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>561</td>
+<td colspan="2">5515.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>562</td>
+<td colspan="2">5515.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>563</td>
+<td colspan="2">5515.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>564</td>
+<td colspan="2">5516.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>565</td>
+<td colspan="2">5516.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>566</td>
+<td colspan="2">5516.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>567</td>
+<td colspan="2">5516.14.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>568</td>
+<td colspan="2">5516.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>569</td>
+<td colspan="2">5516.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>570</td>
+<td colspan="2">5516.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>571</td>
+<td colspan="2">5516.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>572</td>
+<td colspan="2">5516.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>573</td>
+<td colspan="2">5516.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>574</td>
+<td colspan="2">5516.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>575</td>
+<td colspan="2">5516.34.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>576</td>
+<td colspan="2">5516.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>577</td>
+<td colspan="2">5516.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>578</td>
+<td colspan="2">5516.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>579</td>
+<td colspan="2">5516.44.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>580</td>
+<td colspan="2">5516.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>581</td>
+<td colspan="2">5516.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>582</td>
+<td colspan="2">5516.93.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>583</td>
+<td colspan="2">5516.94.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>584</td>
+<td colspan="2">5601.10.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>585</td>
+<td colspan="2">5602.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>586</td>
+<td colspan="2">5602.21.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>587</td>
+<td colspan="2">5602.29.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>588</td>
+<td colspan="2">5602.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>589</td>
+<td colspan="2">5603.11.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>590</td>
+<td colspan="2">5603.12.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>591</td>
+<td colspan="2">5603.13.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>592</td>
+<td colspan="2">5603.14.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>593</td>
+<td colspan="2">5603.91.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>594</td>
+<td colspan="2">5603.92.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>595</td>
+<td colspan="2">5603.93.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>596</td>
+<td colspan="2">5603.94.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>597</td>
+<td colspan="2">5604.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>598</td>
+<td colspan="2">5604.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>599</td>
+<td colspan="2">5604.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>600</td>
+<td colspan="2">5606.00.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>601</td>
+<td colspan="2">5607.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>602</td>
+<td colspan="2">5607.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>603</td>
+<td colspan="2">5607.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>604</td>
+<td colspan="2">5607.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>605</td>
+<td colspan="2">5607.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>606</td>
+<td colspan="2">5607.50.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>607</td>
+<td colspan="2">5609.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>608</td>
+<td colspan="2">5702.31.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>609</td>
+<td colspan="2">5702.32.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>610</td>
+<td colspan="2">5702.39.10</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>611</td>
+<td colspan="2">5702.39.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>612</td>
+<td colspan="2">5702.41.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>613</td>
+<td colspan="2">5702.42.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>614</td>
+<td colspan="2">5702.49.10</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>615</td>
+<td colspan="2">5702.49.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>616</td>
+<td colspan="2">5702.51.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>617</td>
+<td colspan="2">5702.52.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>618</td>
+<td colspan="2">5702.59.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>619</td>
+<td colspan="2">5702.91.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>620</td>
+<td colspan="2">5702.92.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>621</td>
+<td colspan="2">5702.99.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>622</td>
+<td colspan="2">5703.10.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>623</td>
+<td colspan="2">5703.20.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>624</td>
+<td colspan="2">5703.30.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>625</td>
+<td colspan="2">5703.90.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>626</td>
+<td colspan="2">5704.10.10</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>627</td>
+<td colspan="2">5704.10.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>628</td>
+<td colspan="2">5704.90.10</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>629</td>
+<td colspan="2">5704.90.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>630</td>
+<td colspan="2">5705.00.10</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>631</td>
+<td colspan="2">5705.00.30</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>632</td>
+<td colspan="2">5705.00.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>633</td>
+<td colspan="2">5801.10.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>634</td>
+<td colspan="2">5801.10.99</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>635</td>
+<td colspan="2">5801.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>636</td>
+<td colspan="2">5801.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>637</td>
+<td colspan="2">5801.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>638</td>
+<td colspan="2">5801.25.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>639</td>
+<td colspan="2">5801.25.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>640</td>
+<td colspan="2">5801.26.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>641</td>
+<td colspan="2">5801.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>642</td>
+<td colspan="2">5801.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>643</td>
+<td colspan="2">5801.34.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>644</td>
+<td colspan="2">5801.35.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>645</td>
+<td colspan="2">5801.35.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>646</td>
+<td colspan="2">5801.36.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>647</td>
+<td colspan="2">5801.90.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>648</td>
+<td colspan="2">5801.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>649</td>
+<td colspan="2">5802.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>650</td>
+<td colspan="2">5802.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>651</td>
+<td colspan="2">5802.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>652</td>
+<td colspan="2">5802.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>653</td>
+<td colspan="2">5803.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>654</td>
+<td colspan="2">5806.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>655</td>
+<td colspan="2">5806.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>656</td>
+<td colspan="2">5806.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>657</td>
+<td colspan="2">5806.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>658</td>
+<td colspan="2">5806.39.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>659</td>
+<td colspan="2">5807.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>660</td>
+<td colspan="2">5807.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>661</td>
+<td colspan="2">5808.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>662</td>
+<td colspan="2">5808.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>663</td>
+<td colspan="2">5810.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>664</td>
+<td colspan="2">5810.91.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>665</td>
+<td colspan="2">5810.92.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>666</td>
+<td colspan="2">5810.99.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>667</td>
+<td colspan="2">5811.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>668</td>
+<td colspan="2">5902.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>669</td>
+<td colspan="2">5902.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008:<br>.Free</td>
+</tr>
+<tr>
+<td>670</td>
+<td colspan="2">5903.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>671</td>
+<td colspan="2">5903.10.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>672</td>
+<td colspan="2">5903.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>673</td>
+<td colspan="2">5903.20.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>674</td>
+<td colspan="2">5903.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>675</td>
+<td colspan="2">5903.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>676</td>
+<td colspan="2">5904.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>677</td>
+<td colspan="2">5904.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>678</td>
+<td colspan="2">5905.00.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>679</td>
+<td colspan="2">5905.00.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>680</td>
+<td colspan="2">5905.00.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>681</td>
+<td colspan="2">5906.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>682</td>
+<td colspan="2">5906.91.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>683</td>
+<td colspan="2">5906.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>684</td>
+<td colspan="2">5907.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>685</td>
+<td colspan="2">5908.00.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>686</td>
+<td colspan="2">5909.00.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>687</td>
+<td colspan="2">5910.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>688</td>
+<td colspan="2">5911.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>689</td>
+<td colspan="2">5911.31.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>690</td>
+<td colspan="2">5911.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>691</td>
+<td colspan="2">5911.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>692</td>
+<td colspan="2">5911.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>693</td>
+<td colspan="2">5911.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>694</td>
+<td colspan="2">6001.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>695</td>
+<td colspan="2">6001.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>696</td>
+<td colspan="2">6001.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>697</td>
+<td colspan="2">6001.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>698</td>
+<td colspan="2">6001.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>699</td>
+<td colspan="2">6001.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>700</td>
+<td colspan="2">6001.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>701</td>
+<td colspan="2">6002.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>702</td>
+<td colspan="2">6002.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>703</td>
+<td colspan="2">6003.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>704</td>
+<td colspan="2">6003.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>705</td>
+<td colspan="2">6003.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>706</td>
+<td colspan="2">6003.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>707</td>
+<td colspan="2">6003.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>708</td>
+<td colspan="2">6004.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>709</td>
+<td colspan="2">6004.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>710</td>
+<td colspan="2">6005.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>711</td>
+<td colspan="2">6005.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>712</td>
+<td colspan="2">6005.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>713</td>
+<td colspan="2">6005.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>714</td>
+<td colspan="2">6005.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>715</td>
+<td colspan="2">6005.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>716</td>
+<td colspan="2">6005.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>717</td>
+<td colspan="2">6005.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>718</td>
+<td colspan="2">6005.34.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>719</td>
+<td colspan="2">6005.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>720</td>
+<td colspan="2">6005.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>721</td>
+<td colspan="2">6005.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>722</td>
+<td colspan="2">6005.44.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>723</td>
+<td colspan="2">6005.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>724</td>
+<td colspan="2">6006.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>725</td>
+<td colspan="2">6006.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>726</td>
+<td colspan="2">6006.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>727</td>
+<td colspan="2">6006.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>728</td>
+<td colspan="2">6006.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>729</td>
+<td colspan="2">6006.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>730</td>
+<td colspan="2">6006.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>731</td>
+<td colspan="2">6006.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>732</td>
+<td colspan="2">6006.34.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>733</td>
+<td colspan="2">6006.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>734</td>
+<td colspan="2">6006.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>735</td>
+<td colspan="2">6006.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>736</td>
+<td colspan="2">6006.44.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>737</td>
+<td colspan="2">6006.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>738</td>
+<td colspan="2">6101.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>739</td>
+<td colspan="2">6101.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>740</td>
+<td colspan="2">6101.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>741</td>
+<td colspan="2">6101.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>742</td>
+<td colspan="2">6102.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>743</td>
+<td colspan="2">6102.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>744</td>
+<td colspan="2">6102.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>745</td>
+<td colspan="2">6102.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>746</td>
+<td colspan="2">6103.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>747</td>
+<td colspan="2">6103.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>748</td>
+<td colspan="2">6103.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>749</td>
+<td colspan="2">6103.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>750</td>
+<td colspan="2">6103.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>751</td>
+<td colspan="2">6103.23.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>752</td>
+<td colspan="2">6103.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>753</td>
+<td colspan="2">6103.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>754</td>
+<td colspan="2">6103.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>755</td>
+<td colspan="2">6103.33.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>756</td>
+<td colspan="2">6103.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>757</td>
+<td colspan="2">6103.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>758</td>
+<td colspan="2">6103.42.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>759</td>
+<td colspan="2">6103.43.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>760</td>
+<td colspan="2">6103.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>761</td>
+<td colspan="2">6104.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>762</td>
+<td colspan="2">6104.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>763</td>
+<td colspan="2">6104.13.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>764</td>
+<td colspan="2">6104.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>765</td>
+<td colspan="2">6104.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>766</td>
+<td colspan="2">6104.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>767</td>
+<td colspan="2">6104.23.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>768</td>
+<td colspan="2">6104.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>769</td>
+<td colspan="2">6104.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>770</td>
+<td colspan="2">6104.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>771</td>
+<td colspan="2">6104.33.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>772</td>
+<td colspan="2">6104.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>773</td>
+<td colspan="2">6104.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>774</td>
+<td colspan="2">6104.42.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>775</td>
+<td colspan="2">6104.43.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>776</td>
+<td colspan="2">6104.44.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>777</td>
+<td colspan="2">6104.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>778</td>
+<td colspan="2">6104.51.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>779</td>
+<td colspan="2">6104.52.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>780</td>
+<td colspan="2">6104.53.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>781</td>
+<td colspan="2">6104.59.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>782</td>
+<td colspan="2">6104.61.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>783</td>
+<td colspan="2">6104.62.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>784</td>
+<td colspan="2">6104.63.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>785</td>
+<td colspan="2">6104.69.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>786</td>
+<td colspan="2">6105.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>787</td>
+<td colspan="2">6105.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>788</td>
+<td colspan="2">6105.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>789</td>
+<td colspan="2">6106.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>790</td>
+<td colspan="2">6106.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>791</td>
+<td colspan="2">6106.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>792</td>
+<td colspan="2">6107.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>793</td>
+<td colspan="2">6107.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>794</td>
+<td colspan="2">6107.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>795</td>
+<td colspan="2">6107.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>796</td>
+<td colspan="2">6107.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>797</td>
+<td colspan="2">6107.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>798</td>
+<td colspan="2">6107.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>799</td>
+<td colspan="2">6107.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>800</td>
+<td colspan="2">6107.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>801</td>
+<td colspan="2">6108.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>802</td>
+<td colspan="2">6108.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>803</td>
+<td colspan="2">6108.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>804</td>
+<td colspan="2">6108.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>805</td>
+<td colspan="2">6108.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>806</td>
+<td colspan="2">6108.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>807</td>
+<td colspan="2">6108.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>808</td>
+<td colspan="2">6108.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>809</td>
+<td colspan="2">6108.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>810</td>
+<td colspan="2">6108.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>811</td>
+<td colspan="2">6108.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>812</td>
+<td colspan="2">6109.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>813</td>
+<td colspan="2">6109.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>814</td>
+<td colspan="2">6110.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>815</td>
+<td colspan="2">6110.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>816</td>
+<td colspan="2">6110.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>817</td>
+<td colspan="2">6110.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>818</td>
+<td colspan="2">6110.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>819</td>
+<td colspan="2">6110.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>820</td>
+<td colspan="2">6111.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>821</td>
+<td colspan="2">6111.10.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>822</td>
+<td colspan="2">6111.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>823</td>
+<td colspan="2">6111.20.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>824</td>
+<td colspan="2">6111.30.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>825</td>
+<td colspan="2">6111.30.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>826</td>
+<td colspan="2">6111.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>827</td>
+<td colspan="2">6111.90.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>828</td>
+<td colspan="2">6112.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>829</td>
+<td colspan="2">6112.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>830</td>
+<td colspan="2">6112.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>831</td>
+<td colspan="2">6112.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>832</td>
+<td colspan="2">6112.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>833</td>
+<td colspan="2">6112.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>834</td>
+<td colspan="2">6112.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>835</td>
+<td colspan="2">6112.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>836</td>
+<td colspan="2">6113.00.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>837</td>
+<td colspan="2">6113.00.19</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>838</td>
+<td colspan="2">6113.00.20</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>839</td>
+<td colspan="2">6113.00.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>840</td>
+<td colspan="2">6114.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>841</td>
+<td colspan="2">6114.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>842</td>
+<td colspan="2">6114.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>843</td>
+<td colspan="2">6114.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>844</td>
+<td colspan="2">6115.11.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>845</td>
+<td colspan="2">6115.11.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>846</td>
+<td colspan="2">6115.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>847</td>
+<td colspan="2">6115.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>848</td>
+<td colspan="2">6115.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>849</td>
+<td colspan="2">6115.91.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>850</td>
+<td colspan="2">6115.91.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>851</td>
+<td colspan="2">6115.92.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>852</td>
+<td colspan="2">6115.92.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>853</td>
+<td colspan="2">6115.93.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>854</td>
+<td colspan="2">6115.93.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>855</td>
+<td colspan="2">6115.99.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>856</td>
+<td colspan="2">6115.99.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>857</td>
+<td colspan="2">6117.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>858</td>
+<td colspan="2">6117.90.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>859</td>
+<td colspan="2">6117.90.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>860</td>
+<td colspan="2">6117.90.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>861</td>
+<td colspan="2">6201.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>862</td>
+<td colspan="2">6201.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>863</td>
+<td colspan="2">6201.13.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>864</td>
+<td colspan="2">6201.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>865</td>
+<td colspan="2">6201.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>866</td>
+<td colspan="2">6201.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>867</td>
+<td colspan="2">6201.93.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>868</td>
+<td colspan="2">6201.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>869</td>
+<td colspan="2">6202.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>870</td>
+<td colspan="2">6202.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>871</td>
+<td colspan="2">6202.13.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>872</td>
+<td colspan="2">6202.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>873</td>
+<td colspan="2">6202.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>874</td>
+<td colspan="2">6202.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>875</td>
+<td colspan="2">6202.93.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>876</td>
+<td colspan="2">6202.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>877</td>
+<td colspan="2">6203.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>878</td>
+<td colspan="2">6203.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>879</td>
+<td colspan="2">6203.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>880</td>
+<td colspan="2">6203.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>881</td>
+<td colspan="2">6203.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>882</td>
+<td colspan="2">6203.23.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>883</td>
+<td colspan="2">6203.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>884</td>
+<td colspan="2">6203.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>885</td>
+<td colspan="2">6203.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>886</td>
+<td colspan="2">6203.33.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>887</td>
+<td colspan="2">6203.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>888</td>
+<td colspan="2">6203.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>889</td>
+<td colspan="2">6203.42.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>890</td>
+<td colspan="2">6203.43.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>891</td>
+<td colspan="2">6203.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>892</td>
+<td colspan="2">6204.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>893</td>
+<td colspan="2">6204.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>894</td>
+<td colspan="2">6204.13.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>895</td>
+<td colspan="2">6204.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>896</td>
+<td colspan="2">6204.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>897</td>
+<td colspan="2">6204.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>898</td>
+<td colspan="2">6204.23.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>899</td>
+<td colspan="2">6204.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>900</td>
+<td colspan="2">6204.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>901</td>
+<td colspan="2">6204.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>902</td>
+<td colspan="2">6204.33.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>903</td>
+<td colspan="2">6204.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>904</td>
+<td colspan="2">6204.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>905</td>
+<td colspan="2">6204.42.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>906</td>
+<td colspan="2">6204.43.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>907</td>
+<td colspan="2">6204.44.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>908</td>
+<td colspan="2">6204.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>909</td>
+<td colspan="2">6204.51.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>910</td>
+<td colspan="2">6204.52.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>911</td>
+<td colspan="2">6204.53.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>912</td>
+<td colspan="2">6204.59.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>913</td>
+<td colspan="2">6204.61.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>914</td>
+<td colspan="2">6204.62.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>915</td>
+<td colspan="2">6204.63.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>916</td>
+<td colspan="2">6204.69.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>917</td>
+<td colspan="2">6205.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>918</td>
+<td colspan="2">6205.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>919</td>
+<td colspan="2">6205.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>920</td>
+<td colspan="2">6205.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>921</td>
+<td colspan="2">6206.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>922</td>
+<td colspan="2">6206.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>923</td>
+<td colspan="2">6206.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>924</td>
+<td colspan="2">6206.40.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>925</td>
+<td colspan="2">6206.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>926</td>
+<td colspan="2">6207.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>927</td>
+<td colspan="2">6207.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>928</td>
+<td colspan="2">6207.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>929</td>
+<td colspan="2">6207.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>930</td>
+<td colspan="2">6207.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>931</td>
+<td colspan="2">6207.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>932</td>
+<td colspan="2">6207.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>933</td>
+<td colspan="2">6207.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>934</td>
+<td colspan="2">6208.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>935</td>
+<td colspan="2">6208.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>936</td>
+<td colspan="2">6208.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>937</td>
+<td colspan="2">6208.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>938</td>
+<td colspan="2">6208.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>939</td>
+<td colspan="2">6208.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>940</td>
+<td colspan="2">6208.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>941</td>
+<td colspan="2">6208.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>942</td>
+<td colspan="2">6209.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>943</td>
+<td colspan="2">6209.10.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>944</td>
+<td colspan="2">6209.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>945</td>
+<td colspan="2">6209.20.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>946</td>
+<td colspan="2">6209.30.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>947</td>
+<td colspan="2">6209.30.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>948</td>
+<td colspan="2">6209.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>949</td>
+<td colspan="2">6209.90.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>950</td>
+<td colspan="2">6210.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>951</td>
+<td colspan="2">6210.10.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>952</td>
+<td colspan="2">6210.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>953</td>
+<td colspan="2">6210.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>954</td>
+<td colspan="2">6210.40.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>955</td>
+<td colspan="2">6210.40.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>956</td>
+<td colspan="2">6210.40.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>957</td>
+<td colspan="2">6210.50.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>958</td>
+<td colspan="2">6210.50.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>959</td>
+<td colspan="2">6210.50.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>960</td>
+<td colspan="2">6211.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>961</td>
+<td colspan="2">6211.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>962</td>
+<td colspan="2">6211.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>963</td>
+<td colspan="2">6211.31.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>964</td>
+<td colspan="2">6211.32.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>965</td>
+<td colspan="2">6211.33.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>966</td>
+<td colspan="2">6211.39.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>967</td>
+<td colspan="2">6211.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>968</td>
+<td colspan="2">6211.42.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>969</td>
+<td colspan="2">6211.43.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>970</td>
+<td colspan="2">6211.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>971</td>
+<td colspan="2">6212.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>972</td>
+<td colspan="2">6212.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>973</td>
+<td colspan="2">6212.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>974</td>
+<td colspan="2">6212.90.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>975</td>
+<td colspan="2">6212.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>976</td>
+<td colspan="2">6213.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>977</td>
+<td colspan="2">6213.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>978</td>
+<td colspan="2">6213.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>979</td>
+<td colspan="2">6215.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>980</td>
+<td colspan="2">6215.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>981</td>
+<td colspan="2">6215.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>982</td>
+<td colspan="2">6217.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>983</td>
+<td colspan="2">6217.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>984</td>
+<td colspan="2">6217.90.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>985</td>
+<td colspan="2">6301.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>986</td>
+<td colspan="2">6301.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>987</td>
+<td colspan="2">6301.30.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>988</td>
+<td colspan="2">6301.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>989</td>
+<td colspan="2">6301.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>990</td>
+<td colspan="2">6302.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>991</td>
+<td colspan="2">6302.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>992</td>
+<td colspan="2">6302.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>993</td>
+<td colspan="2">6302.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>994</td>
+<td colspan="2">6302.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>995</td>
+<td colspan="2">6302.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>996</td>
+<td colspan="2">6302.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>997</td>
+<td colspan="2">6302.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>998</td>
+<td colspan="2">6302.51.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>999</td>
+<td colspan="2">6302.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1000</td>
+<td colspan="2">6302.53.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1001</td>
+<td colspan="2">6302.59.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1002</td>
+<td colspan="2">6302.60.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1003</td>
+<td colspan="2">6302.91.20</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1004</td>
+<td colspan="2">6302.91.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1005</td>
+<td colspan="2">6302.92.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1006</td>
+<td colspan="2">6302.93.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1007</td>
+<td colspan="2">6302.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1008</td>
+<td colspan="2">6303.11.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1009</td>
+<td colspan="2">6303.11.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1010</td>
+<td colspan="2">6303.12.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1011</td>
+<td colspan="2">6303.12.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1012</td>
+<td colspan="2">6303.19.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1013</td>
+<td colspan="2">6303.19.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1014</td>
+<td colspan="2">6303.91.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1015</td>
+<td colspan="2">6303.91.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1016</td>
+<td colspan="2">6303.92.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1017</td>
+<td colspan="2">6303.92.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1018</td>
+<td colspan="2">6303.99.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1019</td>
+<td colspan="2">6303.99.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1020</td>
+<td colspan="2">6304.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1021</td>
+<td colspan="2">6304.19.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1022</td>
+<td colspan="2">6304.19.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1023</td>
+<td colspan="2">6304.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1024</td>
+<td colspan="2">6304.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1025</td>
+<td colspan="2">6304.93.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1026</td>
+<td colspan="2">6304.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1027</td>
+<td colspan="2">6305.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1028</td>
+<td colspan="2">6305.33.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1029</td>
+<td colspan="2">6305.39.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1030</td>
+<td colspan="2">6306.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1031</td>
+<td colspan="2">6306.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1032</td>
+<td colspan="2">6306.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1033</td>
+<td colspan="2">6306.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1034</td>
+<td colspan="2">6306.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1035</td>
+<td colspan="2">6306.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1036</td>
+<td colspan="2">6306.31.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1037</td>
+<td colspan="2">6306.39.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1038</td>
+<td colspan="2">6306.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1039</td>
+<td colspan="2">6306.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1040</td>
+<td colspan="2">6306.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1041</td>
+<td colspan="2">6306.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1042</td>
+<td colspan="2">6307.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1043</td>
+<td colspan="2">6307.10.20</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1044</td>
+<td colspan="2">6307.10.30</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1045</td>
+<td colspan="2">6307.10.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1046</td>
+<td colspan="2">6307.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1047</td>
+<td colspan="2">6307.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1048</td>
+<td colspan="2">6307.90.21</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1049</td>
+<td colspan="2">6307.90.29</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1050</td>
+<td colspan="2">6307.90.30</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1051</td>
+<td colspan="2">6307.90.40</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1052</td>
+<td colspan="2">6307.90.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1053</td>
+<td colspan="2">6307.90.99</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1054</td>
+<td colspan="2">6401.10.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1055</td>
+<td colspan="2">6401.91.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1056</td>
+<td colspan="2">6401.92.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1057</td>
+<td colspan="2">6401.99.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1058</td>
+<td colspan="2">6402.19.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1059</td>
+<td colspan="2">6402.20.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1060</td>
+<td colspan="2">6402.30.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1061</td>
+<td colspan="2">6402.91.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1062</td>
+<td colspan="2">6402.99.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1063</td>
+<td colspan="2">6403.19.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1064</td>
+<td colspan="2">6403.30.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1065</td>
+<td colspan="2">6403.40.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1066</td>
+<td colspan="2">6403.51.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1067</td>
+<td colspan="2">6403.59.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1068</td>
+<td colspan="2">6403.91.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1069</td>
+<td colspan="2">6403.99.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1070</td>
+<td colspan="2">6404.11.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1071</td>
+<td colspan="2">6404.19.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1072</td>
+<td colspan="2">6404.20.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1073</td>
+<td colspan="2">6405.10.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1074</td>
+<td colspan="2">6405.20.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1075</td>
+<td colspan="2">6405.90.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1076</td>
+<td colspan="2">6406.20.00</td>
+<td>4%<br>From 1 January 2009: Free</td>
+</tr>
+<tr>
+<td>1077</td>
+<td colspan="2">6406.99.99</td>
+<td>4%<br>From 1 January 2009: Free</td>
+</tr>
+<tr>
+<td>1078</td>
+<td colspan="2">6501.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1079</td>
+<td colspan="2">6503.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1080</td>
+<td colspan="2">6505.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1081</td>
+<td colspan="2">6506.91.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1082</td>
+<td colspan="2">6506.99.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1083</td>
+<td colspan="2">7007.11.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1084</td>
+<td colspan="2">7007.21.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1085</td>
+<td colspan="2">7009.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1086</td>
+<td colspan="2">7217.10.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1087</td>
+<td colspan="2">7217.20.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1088</td>
+<td colspan="2">7217.30.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1089</td>
+<td colspan="2">7217.90.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1090</td>
+<td colspan="2">7301.20.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1091</td>
+<td colspan="2">7306.30.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1092</td>
+<td colspan="2">7306.40.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1093</td>
+<td colspan="2">7306.60.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1094</td>
+<td colspan="2">7318.15.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1095</td>
+<td colspan="2">7320.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1096</td>
+<td colspan="2">7320.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1097</td>
+<td colspan="2">7320.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1098</td>
+<td colspan="2">7322.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1099</td>
+<td colspan="2">8301.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1100</td>
+<td colspan="2">8302.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1101</td>
+<td colspan="2">8302.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1102</td>
+<td colspan="2">8407.33.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1103</td>
+<td colspan="2">8407.34.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1104</td>
+<td colspan="2">8407.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1105</td>
+<td colspan="2">8408.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1106</td>
+<td colspan="2">8409.91.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1107</td>
+<td colspan="2">8409.99.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1108</td>
+<td colspan="2">8413.30.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1109</td>
+<td colspan="2">8415.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1110</td>
+<td colspan="2">8415.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1111</td>
+<td colspan="2">8424.89.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1112</td>
+<td colspan="2">8424.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1113</td>
+<td colspan="2">8425.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1114</td>
+<td colspan="2">8425.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1115</td>
+<td colspan="2">8481.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1116</td>
+<td colspan="2">8482.99.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1117</td>
+<td colspan="2">8483.10.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1118</td>
+<td colspan="2">8483.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1119</td>
+<td colspan="2">8483.30.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1120</td>
+<td colspan="2">8483.40.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1121</td>
+<td colspan="2">8483.40.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1122</td>
+<td colspan="2">8483.50.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1123</td>
+<td colspan="2">8483.50.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1124</td>
+<td colspan="2">8483.60.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1125</td>
+<td colspan="2">8483.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1126</td>
+<td colspan="2">8484.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1127</td>
+<td colspan="2">8484.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1128</td>
+<td colspan="2">8507.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1129</td>
+<td colspan="2">8511.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1130</td>
+<td colspan="2">8511.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1131</td>
+<td colspan="2">8511.40.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1132</td>
+<td colspan="2">8511.50.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1133</td>
+<td colspan="2">8511.80.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1134</td>
+<td colspan="2">8511.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1135</td>
+<td colspan="2">8512.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1136</td>
+<td colspan="2">8512.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1137</td>
+<td colspan="2">8512.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1138</td>
+<td colspan="2">8512.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1139</td>
+<td colspan="2">8519.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1140</td>
+<td colspan="2">8519.93.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1141</td>
+<td colspan="2">8519.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1142</td>
+<td colspan="2">8527.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1143</td>
+<td colspan="2">8527.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1144</td>
+<td colspan="2">8531.10.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1145</td>
+<td colspan="2">8536.50.93</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1146</td>
+<td colspan="2">8539.10.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1147</td>
+<td colspan="2">8544.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1148</td>
+<td colspan="2">8707.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1149</td>
+<td colspan="2">8708.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1150</td>
+<td colspan="2">8708.21.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1151</td>
+<td colspan="2">8708.29.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1152</td>
+<td colspan="2">8708.31.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1153</td>
+<td colspan="2">8708.39.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1154</td>
+<td colspan="2">8708.40.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1155</td>
+<td colspan="2">8708.40.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1156</td>
+<td colspan="2">8708.50.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1157</td>
+<td colspan="2">8708.50.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1158</td>
+<td colspan="2">8708.60.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1159</td>
+<td colspan="2">8708.70.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1160</td>
+<td colspan="2">8708.80.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1161</td>
+<td colspan="2">8708.91.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1162</td>
+<td colspan="2">8708.92.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1163</td>
+<td colspan="2">8708.93.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1164</td>
+<td colspan="2">8708.93.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1165</td>
+<td colspan="2">8708.94.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1166</td>
+<td colspan="2">8708.99.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1167</td>
+<td colspan="2">8708.99.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1168</td>
+<td colspan="2">9021.10.20</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1169</td>
+<td colspan="2">9021.10.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1170</td>
+<td colspan="2">9021.10.41</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1171</td>
+<td colspan="2">9021.10.49</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1172</td>
+<td colspan="2">9029.10.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1173</td>
+<td colspan="2">9029.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1174</td>
+<td colspan="2">9029.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1175</td>
+<td colspan="2">9032.89.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1176</td>
+<td colspan="2">9113.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1177</td>
+<td colspan="2">9401.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1178</td>
+<td colspan="2">9404.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1179</td>
+<td colspan="2">9404.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+**40 User’s Guide**
+
+Repeal the User’s Guide, substitute:
+
+USER’S GUIDE
+
+This Guide aims to give a general overview of the operation and organisation of this Act.
+
+The operation of the Act
+
+The Act imposes Customs duty on goods imported into Australia.
+
+To work out the duty payable on particular goods reference must be made to a Principal Tariff that is set out in Schedule 3. This tariff classifies goods in accordance with Australia’s international obligations as a party to the World Trade Organization Agreement.
+
+Note: The text of the Agreement is set out in Australian Treaty Series 1995 No. 8. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible on the Internet through that Department’s world‑wide web site.
+
+The rate of duty applicable to particular goods is determined by the classification to which those goods belong and, in most cases, by reference to Schedule 3. However, the rate of duty for US originating goods is determined under Schedule 5 and the rate of duty for Thai originating goods is determined under Schedule 6.
+
+Under Schedule 4, goods imported into Australia in specified circumstances, including goods imported for use by particular persons or bodies or in particular industries, may be subject to a lesser rate of duty than the nominal rate applying under Schedule 3, 5 or 6.
+
+Rates of duty under Schedules 3, 5 and 6, and concessional rates of duty under Schedule 4, may vary according to the date of importation of the goods concerned, the country or place from which the goods are imported, or both of these circumstances.
+
+The organisation of the Act
+
+The Act consists of 3 Parts and 6 Schedules.
+
+Part 1 deals with key concepts required for an understanding of the organisation and operation of the Customs Tariff.
+
+Part 2 imposes Customs duty and sets out the method for working out the duty that is payable in respect of particular goods.
+
+Part 3 includes a regulation making power, repeals the *Customs Tariff Act 1987* with effect from 1 July 1996 and provides details of its final operation.
+
+Schedule 1 sets out the countries and places to which special rates of duty apply under the Australian system of tariff preferences.
+
+Schedule 2 sets out the general rules of interpretation for deciding the tariff classification within the Principal Tariff to which goods belong.
+
+Schedule 3 sets out the Principal Tariff.
+
+Schedule 4 identifies classes of goods to which concessional rates may apply and specifies the concessional rates of duty potentially applicable to such classes.
+
+Schedule 5 sets out the rate of duty for US originating goods.
+
+Schedule 6 sets out the rate of duty for Thai originating goods.
+
+## Schedule 2—Amendments commencing before the US Free Trade Agreement legislation commences
+
+### Part 1—Customs Tariff amendments
+
+##### Customs Tariff Act 1995
+
+**1 Subsection 3(1) (at the end of the definition of rate column)**
+
+Add:
+
+; or (d) the third column of the table in Schedule 6.
+
+**2 Subsection 9(1)**
+
+Omit “Schedule 3 or 4”, substitute “Schedule 3, 4 or 6”.
+
+**3 After paragraph 11(1)(b)**
+
+Insert:
+
+or (bb) the third column of an item in the table in Schedule 6 that applies to goods;
+
+**4 After paragraph 11(1)(d)**
+
+Insert:
+
+or (f) the third column of that item in the table in Schedule 6;
+
+**5 After paragraph 11(2)(b)**
+
+Insert:
+
+or (bb) the third column of an item in the table in Schedule 6 that applies to goods;
+
+**6 After section 13**
+
+Insert:
+
+###### 13B When goods are Thai originating goods
+
+For the purposes of this Act, goods are Thai originating goods if, and only if, they are Thai originating goods under Division 1D of Part VIII of the *Customs Act 1901*.
+
+**7 Paragraph 16(a)**
+
+Repeal the paragraph, substitute:
+
+(a) if the goods:
+
+(i) are not the produce or manufacture of a Preference Country; and
+
+(iii) are not Thai originating goods;
+
+by reference to the general rate set out in the third column of the tariff classification under which the goods are classified;
+
+**8 At the end of paragraph 16(g)**
+
+Add:
+
+Note: See also subsection (3).
+
+**9 At the end of section 16**
+
+Add:
+
+; (l) subject to section 16A, if the goods are Thai originating goods:
+
+(i) if the goods are classified to a heading or subheading in Schedule 3 that is specified in column 2 of an item in the table in Schedule 6—by reference to the rate of duty set out in column 3 of that item; or
+
+(ii) otherwise—Free.
+
+Goods from Thailand
+
+(3) Subject to section 16A, if the goods:
+
+(a) are the produce or manufacture of Thailand under Division 1A of Part VIII of the *Customs Act 1901*; and
+
+(b) are Thai originating goods under Division 1D of that Part;
+
+the duty in respect of the goods must be worked out under paragraph (1)(l) (and not under paragraph (1)(g)).
+
+**10 After section 16**
+
+Insert:
+
+###### 16A Special safeguards for Thai originating goods
+
+(1) If the Agricultural Minister is satisfied that the quantity of safeguard goods imported into Australia during a calendar year specified in column 3 of an item of the following table exceeds:
+
+(a) the quantity specified in that column for that year in relation to the goods; or
+
+(b) if the regulations specify another quantity for that year in relation to the goods—the other quantity;
+
+the Agricultural Minister may, by legislative instrument, make a notice in relation to the goods. The Agricultural Minister must publish the notice in the *Gazette*.
+
+<table>
+<tr>
+<td colspan="3"><b>Safeguard goods</b></td>
+</tr>
+<tr>
+<td><b>Column 1</b><br><b>Item</b></td>
+<td><b>Column 2</b><br><b>Subheading in Schedule 3</b></td>
+<td><b>Column 3</b><br><b>Quantity</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td>1604.14.00</td>
+<td>2005: 21,366,277 kilograms<br>2006: 22,434,591 kilograms<br>2007: 23,556,320 kilograms<br>2008: 24,734,136 kilograms</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2008.20.00</td>
+<td>2005: 6,083,197 litres for goods that are canned 2,137,189 kilograms for goods that are not canned<br>2006: 6,387,357 litres for goods that are canned 2,244,048 kilograms for goods that are not canned<br>2007: 6,706,725 litres for goods that are canned 2,356,251 kilograms for goods that are not canned<br>2008: 7,042,061 litres for goods that are canned 2,474,063 kilograms for goods that are not canned</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2009.41.00 or 2009.49.00</td>
+<td>2005: 2,080,116 litres<br>2006: 2,184,122 litres<br>2007: 2,293,328 litres<br>008: 2,407,994 litres</td>
+</tr>
+</table>
+
+(2) In applying subsection (1) to item 3 of the table, the quantity applicable for a calendar year applies to the sum of the quantities of the following goods imported in that year:
+
+(a) Thai originating goods classified to subheading 2009.41.00;
+
+(b) Thai originating goods classified to subheading 2009.49.00.
+
+Example: In 2005 the quantity applicable under item 3 of the table is 2,080,116 litres.
+
+On 1 August 2005, 1,500,000 litres of Thai originating goods classified to subheading 2009.41.00 have been imported into Australia and 580,117 litres of Thai originating goods classified to subheading 2009.49.00 have been imported into Australia.
+
+On 1 August 2005 the quantity is exceeded and the Agricultural Minister may publish a notice covering both kinds of goods.
+
+Content of notice
+
+(3) The notice must specify:
+
+(a) the safeguard goods; and
+
+(b) that the quantity of the goods imported into Australia during the applicable calendar year exceeds the quantity applicable for that year.
+
+The notice may contain any other information that the Agricultural Minister considers appropriate.
+
+(4) A notice under this section may specify one or more safeguard goods.
+
+Duty rates
+
+(5) Despite subsection 12(2) of the *Legislative Instruments Act 2003*, if:
+
+(a) the Agricultural Minister publishes a notice under this section; and
+
+(b) any safeguard goods specified in the notice are imported into Australia during the period beginning on the day after the publication day and ending on 31 December of the calendar year concerned;
+
+then the duty in respect of the goods must be worked out by reference to the general rate set out in the third column of the tariff classification under which the goods are classified (and not under paragraph 16(1)(l) of this Act).
+
+(6) Subsection (5) does not apply to goods exported from Thailand on or before the publication day under a contract entered into on or before the publication day. However, the quantity of those goods must be counted towards the quantity applicable for the next calendar year in relation to goods of that kind.
+
+Definitions
+
+(7) In this section:
+
+***Agricultural Minister*** means the Minister administering the *Primary Industries (Excise) Levies Act 1999*.
+
+***safeguard goods*** means Thai originating goods that:
+
+(a) are classified to a subheading in Schedule 3 that is specified in column 2 of item 1 or 3 of the table in this section; or
+
+(b) are classified to a subheading in Schedule 3 that is specified in column 2 of item 2 of the table in this section and are canned; or
+
+(c) are classified to a subheading in Schedule 3 that is specified in column 2 of item 2 of the table in this section and are not canned.
+
+**11 Subsection 18(1)**
+
+Repeal the subsection, substitute:
+
+(1) Subject to sections 20 and 22, if an item in Schedule 4 prima facie applies to goods, that item only applies to those goods if the duty payable in respect of those goods under that item is less than the duty that, apart from this section, would be payable:
+
+(a) under the tariff classification in Schedule 3 that applies to the goods; or
+
+(c) under an item in the table in Schedule 6 that applies to the goods.
+
+**12 Paragraph 18(2)(a)**
+
+Repeal the paragraph, substitute:
+
+(a) if the goods:
+
+(i) are not the produce or manufacture of a Preference Country; and
+
+(iii) are not Thai originating goods;
+
+by reference to the general rate set out in the third column of that item;
+
+**13 At the end of paragraph 18(2)(g)**
+
+Add:
+
+Note: See also subsections (3) and (4).
+
+**14 At the end of subsection 18(2)**
+
+Add:
+
+; (l) if the goods are Thai originating goods:
+
+(i) if a rate of duty that applies in relation to Thailand is set out in the third column of that item—by reference to that rate of duty; or
+
+(ii) otherwise—Free.
+
+**15 At the end of section 18**
+
+Add:
+
+Goods from Thailand
+
+(3) If the goods:
+
+(a) are the produce or manufacture of Thailand under Division 1A of Part VIII of the *Customs Act 1901*; and
+
+(b) are Thai originating goods under Division 1D of that Part;
+
+the amount of duty payable in respect of the goods under the item in Schedule 4 must be worked out under paragraph (2)(l) (and not under paragraph (2)(g)).
+
+(4) If:
+
+(a) the goods are the produce or manufacture of Thailand under Division 1A of Part VIII of the *Customs Act 1901*; and
+
+(b) the amount of duty payable in respect of the goods under the item in Schedule 4 must be worked out under paragraph (2)(g); and
+
+(c) “DCS” and “TH” are specified in relation to a rate of duty set out in the third column of that item;
+
+then, despite subsection 14(2), the amount of duty payable in respect of the goods under that item must be worked out by reference to that rate of duty.
+
+**16 Subsection 19(1)**
+
+Omit “set out in the rate column of the subheading in Schedule 3 appearing in column 1 opposite that excise item are increased by the same amount on and from that day.”, substitute:
+
+set out in:
+
+(a) the rate column of the subheading in Schedule 3 appearing in column 1 of the Table below, opposite that excise item; and
+
+(c) the rate column of an item in the table in Schedule 6 that relates to a subheading in Schedule 3:
+
+(i) that is specified in column 2 of that item in the table in Schedule 6; and
+
+(ii) that appears in column 1 of the Table below, opposite that excise item;
+
+are increased by the same amount on and from that day.
+
+**17 Before section 21**
+
+Insert:
+
+###### 20A Regulations
+
+The Governor‑General may make regulations prescribing matters:
+
+(a) required or permitted by this Act to be prescribed; or
+
+(b) necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+**18 Schedule 4 (item 17A, column 3)**
+
+After “SG”, insert “/TH”.
+
+**19 Schedule 4 (item 19, column 3)**
+
+After “DC”, insert “/TH”.
+
+**20 Schedule 4 (item 20A, column 2)**
+
+After “Schedule 3”, insert “or 6”.
+
+**21 Schedule 4 (item 20A, column 3)**
+
+After “SG”, insert “/TH”.
+
+**22 Schedule 4 (item 20B, column 2)**
+
+After “Schedule 3”, insert “or 6”.
+
+**23 Schedule 4 (item 20B, column 3)**
+
+After “SG”, insert “/TH”.
+
+**24 Schedule 4 (item 34, column 3)**
+
+After “SG”, insert “/TH”.
+
+**25 Schedule 4 (item 41E, column 3)**
+
+After “SG”, insert “/TH”.
+
+**26 At the end of the last rate of duty in column 3 of item 44 in Schedule 4**
+
+Add:
+
+|  |  | TH:<br>The difference between the rate of duty set out in the third column of an item in the table in Schedule 6 that relates to the subheading so specified and the rate of duty for the excise item specified in column 2 of the Table below opposite to that subheading, set out in the third column of that excise item in the Schedule to the *Excise Tariff Act 1921* |
+|---|---|---|
+
+**27 At the end of the last rate of duty in column 3 of item 47 in Schedule 4**
+
+Add:
+
+|  |  | TH:3% |
+|---|---|---|
+
+**28 At the end of the last rate of duty in column 3 of item 50(1)(a) in Schedule 4**
+
+Add:
+
+|  |  | TH:3% |
+|---|---|---|
+
+**29 At the end of the last rate of duty in column 3 of item 50(1)(b) in Schedule 4**
+
+Add:
+
+|  |  | TH:3%, and $0.05449/L |
+|---|---|---|
+
+**30 At the end of the last rate of duty in column 3 of item 50(2) in Schedule 4**
+
+Add:
+
+|  |  | TH:3% |
+|---|---|---|
+
+**31 At the end of the last rate of duty in column 3 of item 53C in Schedule 4**
+
+Add:
+
+|  |  | TH:5% |
+|---|---|---|
+
+**32 The rates of duty in column 3 of item 59 in Schedule 4**
+
+Repeal the rates of duty, substitute:
+
+|  |  | 15%<br>FI:10%<br>DC:10%<br>CA:7.5% |
+|---|---|---|
+|  | From 1 January 2005 | 10%<br>TH:10%<br>FI:5%<br>DC:5%<br>CA:2.5% |
+|  | From 1 January 2010 | 5%<br>TH:5%<br>CA:Free |
+
+**33 Schedule 4 (item 61, column 3)**
+
+After “SG”, insert “/TH”.
+
+**34 Schedule 4 (item 70, column 3)**
+
+After “SG”, insert “/TH”.
+
+**35 At the end of the last rate of duty in column 3 of item 72B in Schedule 4**
+
+Add:
+
+|  |  | TH:5% |
+|---|---|---|
+
+**36 Schedule 4 (item 73, column 3)**
+
+Before “: An”, insert “/TH”.
+
+**37 At the end of the Act**
+
+Add:
+
+## Schedule 6—Thai originating goods
+
+Note: See sections 15 and 16.
+
+<table>
+<tr>
+<td colspan="4"><b>Thai originating goods</b></td>
+</tr>
+<tr>
+<td colspan="2"><b>Column 1</b><br><b>Item</b></td>
+<td><b>Column 2</b><br><b>Heading or subheading in Schedule 3</b></td>
+<td><b>Column 3</b><br><b>Rate</b></td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>1516.10.10</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td>1516.20.10</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">3</td>
+<td>1604.14.00</td>
+<td>2.5%<br>From 1 January 2007: Free</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td>2203.00.31</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">5</td>
+<td>2203.00.39</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">6</td>
+<td>2203.00.61</td>
+<td>$30.49/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">7</td>
+<td>2203.00.62</td>
+<td>$35.53/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td>2203.00.69</td>
+<td>$35.53/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">9</td>
+<td>2203.00.71</td>
+<td>$6.09/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">10</td>
+<td>2203.00.72</td>
+<td>$19.12/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">11</td>
+<td>2203.00.79</td>
+<td>$25.02/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">12</td>
+<td>2204.10.23</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">13</td>
+<td>2204.10.29</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">14</td>
+<td>2204.10.83</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">15</td>
+<td>2204.10.89</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">16</td>
+<td>2204.21.30</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">17</td>
+<td>2204.21.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">18</td>
+<td>2204.29.30</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">19</td>
+<td>2204.29.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">20</td>
+<td>2205.10.30</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">21</td>
+<td>2205.10.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">22</td>
+<td>2205.90.30</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">23</td>
+<td>2205.90.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">24</td>
+<td>2206.00.52</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">25</td>
+<td>2206.00.59</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">26</td>
+<td>2206.00.62</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">27</td>
+<td>2206.00.69</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">28</td>
+<td>2206.00.74</td>
+<td>$30.49/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">29</td>
+<td>2206.00.75</td>
+<td>$35.53/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">30</td>
+<td>2206.00.78</td>
+<td>$35.53/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">31</td>
+<td>2206.00.82</td>
+<td>$6.09/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">32</td>
+<td>2206.00.83</td>
+<td>$19.12/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">33</td>
+<td>2206.00.89</td>
+<td>$25.02/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td colspan="2">34</td>
+<td>2206.00.92</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">35</td>
+<td>2206.00.99</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">36</td>
+<td>2207.10.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">37</td>
+<td>2207.20.10</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">38</td>
+<td>2208.20.10</td>
+<td>$56.21/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">39</td>
+<td>2208.20.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">40</td>
+<td>2208.30.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">41</td>
+<td>2208.40.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">42</td>
+<td>2208.50.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">43</td>
+<td>2208.60.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">44</td>
+<td>2208.70.00</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">45</td>
+<td>2208.90.20</td>
+<td>$35.53/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">46</td>
+<td>2208.90.90</td>
+<td>$60.20/L of alcohol</td>
+</tr>
+<tr>
+<td colspan="2">47</td>
+<td>2401.20.00</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">48</td>
+<td>2401.30.00</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">49</td>
+<td>2402.10.20</td>
+<td>$0.22353/stick</td>
+</tr>
+<tr>
+<td colspan="2">50</td>
+<td>2402.10.80</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">51</td>
+<td>2402.20.20</td>
+<td>$0.22353/stick</td>
+</tr>
+<tr>
+<td colspan="2">52</td>
+<td>2402.20.80</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">53</td>
+<td>2403.10.30</td>
+<td>$0.22353/stick</td>
+</tr>
+<tr>
+<td colspan="2">54</td>
+<td>2403.10.70</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">55</td>
+<td>2403.91.00</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">56</td>
+<td>2403.99.20</td>
+<td>$2.27/kg</td>
+</tr>
+<tr>
+<td colspan="2">57</td>
+<td>2403.99.80</td>
+<td>$279.41/kg of tobacco content</td>
+</tr>
+<tr>
+<td colspan="2">58</td>
+<td>2707.10.00</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">59</td>
+<td>2707.20.29</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">60</td>
+<td>2707.20.89</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">61</td>
+<td>2707.30.29</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">62</td>
+<td>2707.30.89</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">63</td>
+<td>2707.50.39</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">64</td>
+<td>2707.50.89</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">65</td>
+<td>2709.00.81</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">66</td>
+<td>2709.00.87</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">67</td>
+<td>2709.00.88</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">68</td>
+<td>2710.11.61</td>
+<td>$0.03114/L</td>
+</tr>
+<tr>
+<td colspan="2">69</td>
+<td>2710.11.62</td>
+<td>$0.40516/L</td>
+</tr>
+<tr>
+<td colspan="2">70</td>
+<td>2710.11.69</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">71</td>
+<td>2710.11.73</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">72</td>
+<td>2710.11.74</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">73</td>
+<td>2710.11.79</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">74</td>
+<td>2710.11.81</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.38143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">75</td>
+<td>2710.11.82</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.40143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">76</td>
+<td>2710.19.13</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">77</td>
+<td>2710.19.17</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">78</td>
+<td>2710.19.18</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">79</td>
+<td>2710.19.21</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">80</td>
+<td>2710.19.29</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">81</td>
+<td>2710.19.33</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">82</td>
+<td>2710.19.34</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">83</td>
+<td>2710.19.37</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">84</td>
+<td>2710.19.38</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">85</td>
+<td>2710.19.40</td>
+<td>$0.03151/L</td>
+</tr>
+<tr>
+<td colspan="2">86</td>
+<td>2710.19.50</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">87</td>
+<td>2710.19.73</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">88</td>
+<td>2710.19.74</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">89</td>
+<td>2710.19.79</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">90</td>
+<td>2710.19.81</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.38143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">91</td>
+<td>2710.19.82</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.40143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">92</td>
+<td>2710.19.91</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">93</td>
+<td>2710.19.92</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">94</td>
+<td>2710.91.13</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">95</td>
+<td>2710.91.17</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">96</td>
+<td>2710.91.18</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">97</td>
+<td>2710.91.21</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">98</td>
+<td>2710.91.29</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">99</td>
+<td>2710.91.33</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">100</td>
+<td>2710.91.34</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">101</td>
+<td>2710.91.37</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">102</td>
+<td>2710.91.38</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">103</td>
+<td>2710.91.40</td>
+<td>$0.03151/L</td>
+</tr>
+<tr>
+<td colspan="2">104</td>
+<td>2710.91.50</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">105</td>
+<td>2710.91.61</td>
+<td>$0.03114/L</td>
+</tr>
+<tr>
+<td colspan="2">106</td>
+<td>2710.91.62</td>
+<td>$0.40516/L</td>
+</tr>
+<tr>
+<td colspan="2">107</td>
+<td>2710.91.69</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">108</td>
+<td>2710.91.73</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">109</td>
+<td>2710.91.74</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">110</td>
+<td>2710.91.79</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">111</td>
+<td>2710.91.81</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.38143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">112</td>
+<td>2710.91.82</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.40143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">113</td>
+<td>2710.91.91</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">114</td>
+<td>2710.91.92</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">115</td>
+<td>2710.99.13</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">116</td>
+<td>2710.99.17</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">117</td>
+<td>2710.99.18</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">118</td>
+<td>2710.99.21</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">119</td>
+<td>2710.99.29</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">120</td>
+<td>2710.99.33</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">121</td>
+<td>2710.99.34</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">122</td>
+<td>2710.99.37</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">123</td>
+<td>2710.99.38</td>
+<td>$0.40143/L</td>
+</tr>
+<tr>
+<td colspan="2">124</td>
+<td>2710.99.40</td>
+<td>$0.03151/L</td>
+</tr>
+<tr>
+<td colspan="2">125</td>
+<td>2710.99.50</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">126</td>
+<td>2710.99.61</td>
+<td>$0.03114/L</td>
+</tr>
+<tr>
+<td colspan="2">127</td>
+<td>2710.99.62</td>
+<td>$0.40516/L</td>
+</tr>
+<tr>
+<td colspan="2">128</td>
+<td>2710.99.69</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">129</td>
+<td>2710.99.73</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">130</td>
+<td>2710.99.74</td>
+<td>$0.07557/L</td>
+</tr>
+<tr>
+<td colspan="2">131</td>
+<td>2710.99.79</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">132</td>
+<td>2710.99.81</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.38143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">133</td>
+<td>2710.99.82</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.40143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">134</td>
+<td>2710.99.91</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">135</td>
+<td>2710.99.92</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">136</td>
+<td>2902.20.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">137</td>
+<td>2902.30.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">138</td>
+<td>2902.41.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">139</td>
+<td>2902.42.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">140</td>
+<td>2902.43.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">141</td>
+<td>2902.44.90</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">142</td>
+<td>2902.50.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">143</td>
+<td>2907.11.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">144</td>
+<td>2909.41.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">145</td>
+<td>2909.42.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">146</td>
+<td>2909.43.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">147</td>
+<td>2909.44.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">148</td>
+<td>2909.49.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">149</td>
+<td>2909.50.10</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">150</td>
+<td>2909.60.10</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">151</td>
+<td>2914.11.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">152</td>
+<td>2922.13.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">153</td>
+<td>3402.11.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">154</td>
+<td>3402.12.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">155</td>
+<td>3402.13.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">156</td>
+<td>3402.19.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">157</td>
+<td>3402.20.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">158</td>
+<td>3402.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">159</td>
+<td>3403.11.10</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">160</td>
+<td>3403.11.90</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">161</td>
+<td>3403.19.10</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">162</td>
+<td>3403.19.90</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">163</td>
+<td>3403.91.10</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">164</td>
+<td>3403.91.90</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">165</td>
+<td>3403.99.10</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">166</td>
+<td>3403.99.90</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">167</td>
+<td>3811.21.10</td>
+<td>$0.05449/kg</td>
+</tr>
+<tr>
+<td colspan="2">168</td>
+<td>3811.21.90</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">169</td>
+<td>3817.00.19</td>
+<td>$0.38143/L</td>
+</tr>
+<tr>
+<td colspan="2">170</td>
+<td>3819.00.00</td>
+<td>$0.05449/L</td>
+</tr>
+<tr>
+<td colspan="2">171</td>
+<td>3824.90.21</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.38143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">172</td>
+<td>3824.90.22</td>
+<td>$0.38143/L of biodiesel<br>plus<br>$0.38143/L of ethanol (if any)<br>plus<br>$0.40143/L of other substances<br>in the blend</td>
+</tr>
+<tr>
+<td colspan="2">173</td>
+<td>3825.30.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td colspan="2">174</td>
+<td>3901.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">175</td>
+<td>3901.20.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">176</td>
+<td>3901.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">177</td>
+<td>3901.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">178</td>
+<td>3902.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">179</td>
+<td>3902.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">180</td>
+<td>3902.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">181</td>
+<td>3903.11.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">182</td>
+<td>3903.19.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">183</td>
+<td>3903.20.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">184</td>
+<td>3903.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">185</td>
+<td>3903.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">186</td>
+<td>3904.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">187</td>
+<td>3904.21.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">188</td>
+<td>3904.22.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">189</td>
+<td>3904.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">190</td>
+<td>3904.40.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">191</td>
+<td>3904.50.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">192</td>
+<td>3904.61.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">193</td>
+<td>3904.69.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">194</td>
+<td>3904.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">195</td>
+<td>3905.12.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">196</td>
+<td>3905.19.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">197</td>
+<td>3905.21.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">198</td>
+<td>3905.29.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">199</td>
+<td>3905.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">200</td>
+<td>3905.91.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">201</td>
+<td>3905.99.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">202</td>
+<td>3906.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">203</td>
+<td>3906.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">204</td>
+<td>3907.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">205</td>
+<td>3907.20.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">206</td>
+<td>3907.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">207</td>
+<td>3907.40.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">208</td>
+<td>3907.50.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">209</td>
+<td>3907.60.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">210</td>
+<td>3907.91.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">211</td>
+<td>3907.99.10</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td colspan="2">212</td>
+<td>3907.99.90</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>213</td>
+<td colspan="2">3909.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>214</td>
+<td colspan="2">3909.20.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>215</td>
+<td colspan="2">3909.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>216</td>
+<td colspan="2">3909.40.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>217</td>
+<td colspan="2">3909.50.10</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>218</td>
+<td colspan="2">3909.50.90</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>219</td>
+<td colspan="2">3917.21.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>220</td>
+<td colspan="2">3917.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>221</td>
+<td colspan="2">3917.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>222</td>
+<td colspan="2">3917.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>223</td>
+<td colspan="2">3917.31.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>224</td>
+<td colspan="2">3917.32.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>225</td>
+<td colspan="2">3917.33.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>226</td>
+<td colspan="2">3917.39.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>227</td>
+<td colspan="2">3920.43.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>228</td>
+<td colspan="2">3923.21.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>229</td>
+<td colspan="2">3923.29.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>230</td>
+<td colspan="2">3923.30.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>231</td>
+<td colspan="2">3923.40.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>232</td>
+<td colspan="2">3923.50.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>233</td>
+<td colspan="2">3923.90.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>234</td>
+<td colspan="2">3925.10.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>235</td>
+<td colspan="2">3926.20.29</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>236</td>
+<td colspan="2">4002.11.00</td>
+<td>5%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>237</td>
+<td colspan="2">4011.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>238</td>
+<td colspan="2">4011.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>239</td>
+<td colspan="2">4012.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>240</td>
+<td colspan="2">4012.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>241</td>
+<td colspan="2">4012.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>242</td>
+<td colspan="2">4012.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>243</td>
+<td colspan="2">4012.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>244</td>
+<td colspan="2">4015.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>245</td>
+<td colspan="2">4015.19.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>246</td>
+<td colspan="2">4015.19.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>247</td>
+<td colspan="2">4015.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>248</td>
+<td colspan="2">4015.90.21</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>249</td>
+<td colspan="2">4015.90.29</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>250</td>
+<td colspan="2">4016.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>251</td>
+<td colspan="2">4203.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>252</td>
+<td colspan="2">4203.21.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>253</td>
+<td colspan="2">4203.29.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>254</td>
+<td colspan="2">4203.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>255</td>
+<td colspan="2">4203.40.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>256</td>
+<td colspan="2">4203.40.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>257</td>
+<td colspan="2">4204.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>258</td>
+<td colspan="2">4205.00.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>259</td>
+<td colspan="2">4303.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>260</td>
+<td colspan="2">4303.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>261</td>
+<td colspan="2">4304.00.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>262</td>
+<td colspan="2">4304.00.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>263</td>
+<td colspan="2">5007.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>264</td>
+<td colspan="2">5106.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>265</td>
+<td colspan="2">5106.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>266</td>
+<td colspan="2">5107.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>267</td>
+<td colspan="2">5107.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>268</td>
+<td colspan="2">5108.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>269</td>
+<td colspan="2">5108.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>270</td>
+<td colspan="2">5109.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>271</td>
+<td colspan="2">5109.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>272</td>
+<td colspan="2">5110.00.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>273</td>
+<td colspan="2">5111.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>274</td>
+<td colspan="2">5111.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>275</td>
+<td colspan="2">5111.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>276</td>
+<td colspan="2">5111.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>277</td>
+<td colspan="2">5111.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>278</td>
+<td colspan="2">5112.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>279</td>
+<td colspan="2">5112.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>280</td>
+<td colspan="2">5112.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>281</td>
+<td colspan="2">5112.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>282</td>
+<td colspan="2">5112.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>283</td>
+<td colspan="2">5113.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>284</td>
+<td colspan="2">5204.11.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>285</td>
+<td colspan="2">5204.19.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>286</td>
+<td colspan="2">5204.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>287</td>
+<td colspan="2">5205.11.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>288</td>
+<td colspan="2">5205.11.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>289</td>
+<td colspan="2">5205.12.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>290</td>
+<td colspan="2">5205.13.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>291</td>
+<td colspan="2">5205.14.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>292</td>
+<td colspan="2">5205.15.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>293</td>
+<td colspan="2">5205.21.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>294</td>
+<td colspan="2">5205.21.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>295</td>
+<td colspan="2">5205.22.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>296</td>
+<td colspan="2">5205.23.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>297</td>
+<td colspan="2">5205.24.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>298</td>
+<td colspan="2">5205.26.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>299</td>
+<td colspan="2">5205.27.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>300</td>
+<td colspan="2">5205.28.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>301</td>
+<td colspan="2">5205.31.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>302</td>
+<td colspan="2">5205.31.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>303</td>
+<td colspan="2">5205.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>304</td>
+<td colspan="2">5205.33.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>305</td>
+<td colspan="2">5205.34.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>306</td>
+<td colspan="2">5205.35.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>307</td>
+<td colspan="2">5205.41.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>308</td>
+<td colspan="2">5205.41.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>309</td>
+<td colspan="2">5205.42.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>310</td>
+<td colspan="2">5205.43.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>311</td>
+<td colspan="2">5205.44.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>312</td>
+<td colspan="2">5205.46.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>313</td>
+<td colspan="2">5205.47.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>314</td>
+<td colspan="2">5205.48.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>315</td>
+<td colspan="2">5206.11.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>316</td>
+<td colspan="2">5206.11.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>317</td>
+<td colspan="2">5206.12.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>318</td>
+<td colspan="2">5206.13.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>319</td>
+<td colspan="2">5206.14.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>320</td>
+<td colspan="2">5206.15.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>321</td>
+<td colspan="2">5206.21.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>322</td>
+<td colspan="2">5206.21.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>323</td>
+<td colspan="2">5206.22.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>324</td>
+<td colspan="2">5206.23.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>325</td>
+<td colspan="2">5206.24.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>326</td>
+<td colspan="2">5206.25.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>327</td>
+<td colspan="2">5206.31.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>328</td>
+<td colspan="2">5206.31.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>329</td>
+<td colspan="2">5206.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>330</td>
+<td colspan="2">5206.33.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>331</td>
+<td colspan="2">5206.34.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>332</td>
+<td colspan="2">5206.35.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>333</td>
+<td colspan="2">5206.41.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>334</td>
+<td colspan="2">5206.41.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>335</td>
+<td colspan="2">5206.42.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>336</td>
+<td colspan="2">5206.43.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>337</td>
+<td colspan="2">5206.44.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>338</td>
+<td colspan="2">5206.45.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>339</td>
+<td colspan="2">5207.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>340</td>
+<td colspan="2">5207.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>341</td>
+<td colspan="2">5208.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>342</td>
+<td colspan="2">5208.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>343</td>
+<td colspan="2">5208.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>344</td>
+<td colspan="2">5208.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>345</td>
+<td colspan="2">5208.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>346</td>
+<td colspan="2">5208.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>347</td>
+<td colspan="2">5208.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>348</td>
+<td colspan="2">5208.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>349</td>
+<td colspan="2">5208.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>350</td>
+<td colspan="2">5208.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>351</td>
+<td colspan="2">5208.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>352</td>
+<td colspan="2">5208.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>353</td>
+<td colspan="2">5208.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>354</td>
+<td colspan="2">5208.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>355</td>
+<td colspan="2">5208.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>356</td>
+<td colspan="2">5208.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>357</td>
+<td colspan="2">5208.51.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>358</td>
+<td colspan="2">5208.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>359</td>
+<td colspan="2">5208.53.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>360</td>
+<td colspan="2">5208.59.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>361</td>
+<td colspan="2">5209.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>362</td>
+<td colspan="2">5209.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>363</td>
+<td colspan="2">5209.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>364</td>
+<td colspan="2">5209.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>365</td>
+<td colspan="2">5209.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>366</td>
+<td colspan="2">5209.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>367</td>
+<td colspan="2">5209.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>368</td>
+<td colspan="2">5209.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>369</td>
+<td colspan="2">5209.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>370</td>
+<td colspan="2">5209.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>371</td>
+<td colspan="2">5209.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>372</td>
+<td colspan="2">5209.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>373</td>
+<td colspan="2">5209.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>374</td>
+<td colspan="2">5209.51.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>375</td>
+<td colspan="2">5209.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>376</td>
+<td colspan="2">5209.59.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>377</td>
+<td colspan="2">5210.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>378</td>
+<td colspan="2">5210.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>379</td>
+<td colspan="2">5210.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>380</td>
+<td colspan="2">5210.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>381</td>
+<td colspan="2">5210.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>382</td>
+<td colspan="2">5210.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>383</td>
+<td colspan="2">5210.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>384</td>
+<td colspan="2">5210.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>385</td>
+<td colspan="2">5210.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>386</td>
+<td colspan="2">5210.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>387</td>
+<td colspan="2">5210.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>388</td>
+<td colspan="2">5210.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>389</td>
+<td colspan="2">5210.51.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>390</td>
+<td colspan="2">5210.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>391</td>
+<td colspan="2">5210.59.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>392</td>
+<td colspan="2">5211.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>393</td>
+<td colspan="2">5211.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>394</td>
+<td colspan="2">5211.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>395</td>
+<td colspan="2">5211.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>396</td>
+<td colspan="2">5211.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>397</td>
+<td colspan="2">5211.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>398</td>
+<td colspan="2">5211.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>399</td>
+<td colspan="2">5211.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>400</td>
+<td colspan="2">5211.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>401</td>
+<td colspan="2">5211.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>402</td>
+<td colspan="2">5211.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>403</td>
+<td colspan="2">5211.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>404</td>
+<td colspan="2">5211.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>405</td>
+<td colspan="2">5211.51.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>406</td>
+<td colspan="2">5211.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>407</td>
+<td colspan="2">5211.59.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>408</td>
+<td colspan="2">5212.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>409</td>
+<td colspan="2">5212.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>410</td>
+<td colspan="2">5212.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>411</td>
+<td colspan="2">5212.14.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>412</td>
+<td colspan="2">5212.15.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>413</td>
+<td colspan="2">5212.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>414</td>
+<td colspan="2">5212.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>415</td>
+<td colspan="2">5212.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>416</td>
+<td colspan="2">5212.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>417</td>
+<td colspan="2">5212.25.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>418</td>
+<td colspan="2">5306.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>419</td>
+<td colspan="2">5307.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>420</td>
+<td colspan="2">5307.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>421</td>
+<td colspan="2">5401.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>422</td>
+<td colspan="2">5401.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>423</td>
+<td colspan="2">5402.31.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>424</td>
+<td colspan="2">5402.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>425</td>
+<td colspan="2">5402.33.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>426</td>
+<td colspan="2">5402.39.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>427</td>
+<td colspan="2">5402.41.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>428</td>
+<td colspan="2">5402.42.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>429</td>
+<td colspan="2">5402.43.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>430</td>
+<td colspan="2">5402.49.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>431</td>
+<td colspan="2">5402.51.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>432</td>
+<td colspan="2">5402.52.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>433</td>
+<td colspan="2">5402.59.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>434</td>
+<td colspan="2">5402.61.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>435</td>
+<td colspan="2">5402.62.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>436</td>
+<td colspan="2">5402.69.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>437</td>
+<td colspan="2">5403.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>438</td>
+<td colspan="2">5403.31.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>439</td>
+<td colspan="2">5403.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>440</td>
+<td colspan="2">5403.33.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>441</td>
+<td colspan="2">5403.39.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>442</td>
+<td colspan="2">5403.41.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>443</td>
+<td colspan="2">5403.42.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>444</td>
+<td colspan="2">5403.49.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>445</td>
+<td colspan="2">5404.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>446</td>
+<td colspan="2">5404.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>447</td>
+<td colspan="2">5405.00.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>448</td>
+<td colspan="2">5406.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>449</td>
+<td colspan="2">5406.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>450</td>
+<td colspan="2">5407.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>451</td>
+<td colspan="2">5407.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>452</td>
+<td colspan="2">5407.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>453</td>
+<td colspan="2">5407.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>454</td>
+<td colspan="2">5407.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>455</td>
+<td colspan="2">5407.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>456</td>
+<td colspan="2">5407.44.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>457</td>
+<td colspan="2">5407.51.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>458</td>
+<td colspan="2">5407.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>459</td>
+<td colspan="2">5407.53.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>460</td>
+<td colspan="2">5407.54.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>461</td>
+<td colspan="2">5407.61.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>462</td>
+<td colspan="2">5407.69.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>463</td>
+<td colspan="2">5407.71.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>464</td>
+<td colspan="2">5407.72.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>465</td>
+<td colspan="2">5407.73.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>466</td>
+<td colspan="2">5407.74.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>467</td>
+<td colspan="2">5407.81.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>468</td>
+<td colspan="2">5407.82.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>469</td>
+<td colspan="2">5407.83.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>470</td>
+<td colspan="2">5407.84.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>471</td>
+<td colspan="2">5407.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>472</td>
+<td colspan="2">5407.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>473</td>
+<td colspan="2">5407.93.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>474</td>
+<td colspan="2">5407.94.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>475</td>
+<td colspan="2">5408.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>476</td>
+<td colspan="2">5408.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>477</td>
+<td colspan="2">5408.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>478</td>
+<td colspan="2">5408.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>479</td>
+<td colspan="2">5408.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>480</td>
+<td colspan="2">5408.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>481</td>
+<td colspan="2">5408.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>482</td>
+<td colspan="2">5408.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>483</td>
+<td colspan="2">5408.34.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>484</td>
+<td colspan="2">5501.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>485</td>
+<td colspan="2">5501.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>486</td>
+<td colspan="2">5501.30.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>487</td>
+<td colspan="2">5501.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>488</td>
+<td colspan="2">5508.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>489</td>
+<td colspan="2">5508.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>490</td>
+<td colspan="2">5509.11.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>491</td>
+<td colspan="2">5509.12.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>492</td>
+<td colspan="2">5509.21.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>493</td>
+<td colspan="2">5509.22.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>494</td>
+<td colspan="2">5509.31.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>495</td>
+<td colspan="2">5509.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>496</td>
+<td colspan="2">5509.41.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>497</td>
+<td colspan="2">5509.42.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>498</td>
+<td colspan="2">5509.51.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>499</td>
+<td colspan="2">5509.52.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>500</td>
+<td colspan="2">5509.53.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>501</td>
+<td colspan="2">5509.59.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>502</td>
+<td colspan="2">5509.61.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>503</td>
+<td colspan="2">5509.62.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>504</td>
+<td colspan="2">5509.69.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>505</td>
+<td colspan="2">5509.91.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>506</td>
+<td colspan="2">5509.92.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>507</td>
+<td colspan="2">5509.99.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>508</td>
+<td colspan="2">5510.11.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>509</td>
+<td colspan="2">5510.12.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>510</td>
+<td colspan="2">5510.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>511</td>
+<td colspan="2">5510.30.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>512</td>
+<td colspan="2">5510.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>513</td>
+<td colspan="2">5511.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>514</td>
+<td colspan="2">5511.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>515</td>
+<td colspan="2">5511.30.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>516</td>
+<td colspan="2">5512.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>517</td>
+<td colspan="2">5512.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>518</td>
+<td colspan="2">5512.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>519</td>
+<td colspan="2">5512.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>520</td>
+<td colspan="2">5512.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>521</td>
+<td colspan="2">5512.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>522</td>
+<td colspan="2">5513.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>523</td>
+<td colspan="2">5513.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>524</td>
+<td colspan="2">5513.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>525</td>
+<td colspan="2">5513.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>526</td>
+<td colspan="2">5513.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>527</td>
+<td colspan="2">5513.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>528</td>
+<td colspan="2">5513.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>529</td>
+<td colspan="2">5513.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>530</td>
+<td colspan="2">5513.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>531</td>
+<td colspan="2">5513.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>532</td>
+<td colspan="2">5513.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>533</td>
+<td colspan="2">5513.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>534</td>
+<td colspan="2">5513.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>535</td>
+<td colspan="2">5513.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>536</td>
+<td colspan="2">5513.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>537</td>
+<td colspan="2">5513.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>538</td>
+<td colspan="2">5514.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>539</td>
+<td colspan="2">5514.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>540</td>
+<td colspan="2">5514.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>541</td>
+<td colspan="2">5514.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>542</td>
+<td colspan="2">5514.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>543</td>
+<td colspan="2">5514.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>544</td>
+<td colspan="2">5514.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>545</td>
+<td colspan="2">5514.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>546</td>
+<td colspan="2">5514.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>547</td>
+<td colspan="2">5514.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>548</td>
+<td colspan="2">5514.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>549</td>
+<td colspan="2">5514.39.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>550</td>
+<td colspan="2">5514.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>551</td>
+<td colspan="2">5514.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>552</td>
+<td colspan="2">5514.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>553</td>
+<td colspan="2">5514.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>554</td>
+<td colspan="2">5515.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>555</td>
+<td colspan="2">5515.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>556</td>
+<td colspan="2">5515.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>557</td>
+<td colspan="2">5515.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>558</td>
+<td colspan="2">5515.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>559</td>
+<td colspan="2">5515.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>560</td>
+<td colspan="2">5515.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>561</td>
+<td colspan="2">5515.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>562</td>
+<td colspan="2">5515.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>563</td>
+<td colspan="2">5515.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>564</td>
+<td colspan="2">5516.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>565</td>
+<td colspan="2">5516.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>566</td>
+<td colspan="2">5516.13.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>567</td>
+<td colspan="2">5516.14.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>568</td>
+<td colspan="2">5516.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>569</td>
+<td colspan="2">5516.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>570</td>
+<td colspan="2">5516.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>571</td>
+<td colspan="2">5516.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>572</td>
+<td colspan="2">5516.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>573</td>
+<td colspan="2">5516.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>574</td>
+<td colspan="2">5516.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>575</td>
+<td colspan="2">5516.34.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>576</td>
+<td colspan="2">5516.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>577</td>
+<td colspan="2">5516.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>578</td>
+<td colspan="2">5516.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>579</td>
+<td colspan="2">5516.44.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>580</td>
+<td colspan="2">5516.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>581</td>
+<td colspan="2">5516.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>582</td>
+<td colspan="2">5516.93.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>583</td>
+<td colspan="2">5516.94.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>584</td>
+<td colspan="2">5601.10.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>585</td>
+<td colspan="2">5602.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>586</td>
+<td colspan="2">5602.21.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>587</td>
+<td colspan="2">5602.29.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>588</td>
+<td colspan="2">5602.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>589</td>
+<td colspan="2">5603.11.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>590</td>
+<td colspan="2">5603.12.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>591</td>
+<td colspan="2">5603.13.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>592</td>
+<td colspan="2">5603.14.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>593</td>
+<td colspan="2">5603.91.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>594</td>
+<td colspan="2">5603.92.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>595</td>
+<td colspan="2">5603.93.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>596</td>
+<td colspan="2">5603.94.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>597</td>
+<td colspan="2">5604.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>598</td>
+<td colspan="2">5604.20.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>599</td>
+<td colspan="2">5604.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>600</td>
+<td colspan="2">5606.00.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>601</td>
+<td colspan="2">5607.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>602</td>
+<td colspan="2">5607.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>603</td>
+<td colspan="2">5607.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>604</td>
+<td colspan="2">5607.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>605</td>
+<td colspan="2">5607.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>606</td>
+<td colspan="2">5607.50.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>607</td>
+<td colspan="2">5609.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>608</td>
+<td colspan="2">5702.31.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>609</td>
+<td colspan="2">5702.32.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>610</td>
+<td colspan="2">5702.39.10</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>611</td>
+<td colspan="2">5702.39.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>612</td>
+<td colspan="2">5702.41.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>613</td>
+<td colspan="2">5702.42.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>614</td>
+<td colspan="2">5702.49.10</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>615</td>
+<td colspan="2">5702.49.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>616</td>
+<td colspan="2">5702.51.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>617</td>
+<td colspan="2">5702.52.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>618</td>
+<td colspan="2">5702.59.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>619</td>
+<td colspan="2">5702.91.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>620</td>
+<td colspan="2">5702.92.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>621</td>
+<td colspan="2">5702.99.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>622</td>
+<td colspan="2">5703.10.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>623</td>
+<td colspan="2">5703.20.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>624</td>
+<td colspan="2">5703.30.00</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>625</td>
+<td colspan="2">5703.90.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>626</td>
+<td colspan="2">5704.10.10</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>627</td>
+<td colspan="2">5704.10.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>628</td>
+<td colspan="2">5704.90.10</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>629</td>
+<td colspan="2">5704.90.90</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>630</td>
+<td colspan="2">5705.00.10</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>631</td>
+<td colspan="2">5705.00.30</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>632</td>
+<td colspan="2">5705.00.90</td>
+<td>10%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>633</td>
+<td colspan="2">5801.10.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>634</td>
+<td colspan="2">5801.10.99</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>635</td>
+<td colspan="2">5801.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>636</td>
+<td colspan="2">5801.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>637</td>
+<td colspan="2">5801.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>638</td>
+<td colspan="2">5801.25.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>639</td>
+<td colspan="2">5801.25.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>640</td>
+<td colspan="2">5801.26.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>641</td>
+<td colspan="2">5801.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>642</td>
+<td colspan="2">5801.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>643</td>
+<td colspan="2">5801.34.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>644</td>
+<td colspan="2">5801.35.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>645</td>
+<td colspan="2">5801.35.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>646</td>
+<td colspan="2">5801.36.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>647</td>
+<td colspan="2">5801.90.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>648</td>
+<td colspan="2">5801.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>649</td>
+<td colspan="2">5802.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>650</td>
+<td colspan="2">5802.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>651</td>
+<td colspan="2">5802.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>652</td>
+<td colspan="2">5802.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>653</td>
+<td colspan="2">5803.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>654</td>
+<td colspan="2">5806.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>655</td>
+<td colspan="2">5806.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>656</td>
+<td colspan="2">5806.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>657</td>
+<td colspan="2">5806.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>658</td>
+<td colspan="2">5806.39.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>659</td>
+<td colspan="2">5807.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>660</td>
+<td colspan="2">5807.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>661</td>
+<td colspan="2">5808.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>662</td>
+<td colspan="2">5808.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>663</td>
+<td colspan="2">5810.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>664</td>
+<td colspan="2">5810.91.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>665</td>
+<td colspan="2">5810.92.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>666</td>
+<td colspan="2">5810.99.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>667</td>
+<td colspan="2">5811.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>668</td>
+<td colspan="2">5902.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>669</td>
+<td colspan="2">5902.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>670</td>
+<td colspan="2">5903.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>671</td>
+<td colspan="2">5903.10.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>672</td>
+<td colspan="2">5903.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>673</td>
+<td colspan="2">5903.20.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>674</td>
+<td colspan="2">5903.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>675</td>
+<td colspan="2">5903.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>676</td>
+<td colspan="2">5904.10.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>677</td>
+<td colspan="2">5904.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>678</td>
+<td colspan="2">5905.00.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>679</td>
+<td colspan="2">5905.00.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>680</td>
+<td colspan="2">5905.00.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>681</td>
+<td colspan="2">5906.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>682</td>
+<td colspan="2">5906.91.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>683</td>
+<td colspan="2">5906.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>684</td>
+<td colspan="2">5907.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>685</td>
+<td colspan="2">5908.00.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>686</td>
+<td colspan="2">5909.00.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>687</td>
+<td colspan="2">5910.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>688</td>
+<td colspan="2">5911.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>689</td>
+<td colspan="2">5911.31.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>690</td>
+<td colspan="2">5911.32.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>691</td>
+<td colspan="2">5911.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>692</td>
+<td colspan="2">5911.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>693</td>
+<td colspan="2">5911.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>694</td>
+<td colspan="2">6001.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>695</td>
+<td colspan="2">6001.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>696</td>
+<td colspan="2">6001.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>697</td>
+<td colspan="2">6001.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>698</td>
+<td colspan="2">6001.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>699</td>
+<td colspan="2">6001.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>700</td>
+<td colspan="2">6001.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>701</td>
+<td colspan="2">6002.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>702</td>
+<td colspan="2">6002.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>703</td>
+<td colspan="2">6003.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>704</td>
+<td colspan="2">6003.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>705</td>
+<td colspan="2">6003.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>706</td>
+<td colspan="2">6003.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>707</td>
+<td colspan="2">6003.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>708</td>
+<td colspan="2">6004.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>709</td>
+<td colspan="2">6004.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>710</td>
+<td colspan="2">6005.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>711</td>
+<td colspan="2">6005.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>712</td>
+<td colspan="2">6005.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>713</td>
+<td colspan="2">6005.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>714</td>
+<td colspan="2">6005.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>715</td>
+<td colspan="2">6005.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>716</td>
+<td colspan="2">6005.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>717</td>
+<td colspan="2">6005.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>718</td>
+<td colspan="2">6005.34.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>719</td>
+<td colspan="2">6005.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>720</td>
+<td colspan="2">6005.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>721</td>
+<td colspan="2">6005.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>722</td>
+<td colspan="2">6005.44.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>723</td>
+<td colspan="2">6005.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>724</td>
+<td colspan="2">6006.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>725</td>
+<td colspan="2">6006.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>726</td>
+<td colspan="2">6006.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>727</td>
+<td colspan="2">6006.23.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>728</td>
+<td colspan="2">6006.24.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>729</td>
+<td colspan="2">6006.31.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>730</td>
+<td colspan="2">6006.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>731</td>
+<td colspan="2">6006.33.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>732</td>
+<td colspan="2">6006.34.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>733</td>
+<td colspan="2">6006.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>734</td>
+<td colspan="2">6006.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>735</td>
+<td colspan="2">6006.43.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>736</td>
+<td colspan="2">6006.44.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>737</td>
+<td colspan="2">6006.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>738</td>
+<td colspan="2">6101.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>739</td>
+<td colspan="2">6101.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>740</td>
+<td colspan="2">6101.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>741</td>
+<td colspan="2">6101.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>742</td>
+<td colspan="2">6102.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>743</td>
+<td colspan="2">6102.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>744</td>
+<td colspan="2">6102.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>745</td>
+<td colspan="2">6102.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>746</td>
+<td colspan="2">6103.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>747</td>
+<td colspan="2">6103.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>748</td>
+<td colspan="2">6103.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>749</td>
+<td colspan="2">6103.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>750</td>
+<td colspan="2">6103.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>751</td>
+<td colspan="2">6103.23.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>752</td>
+<td colspan="2">6103.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>753</td>
+<td colspan="2">6103.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>754</td>
+<td colspan="2">6103.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>755</td>
+<td colspan="2">6103.33.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>756</td>
+<td colspan="2">6103.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>757</td>
+<td colspan="2">6103.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>758</td>
+<td colspan="2">6103.42.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>759</td>
+<td colspan="2">6103.43.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>760</td>
+<td colspan="2">6103.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>761</td>
+<td colspan="2">6104.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>762</td>
+<td colspan="2">6104.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>763</td>
+<td colspan="2">6104.13.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>764</td>
+<td colspan="2">6104.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>765</td>
+<td colspan="2">6104.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>766</td>
+<td colspan="2">6104.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>767</td>
+<td colspan="2">6104.23.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>768</td>
+<td colspan="2">6104.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>769</td>
+<td colspan="2">6104.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>770</td>
+<td colspan="2">6104.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>771</td>
+<td colspan="2">6104.33.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>772</td>
+<td colspan="2">6104.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>773</td>
+<td colspan="2">6104.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>774</td>
+<td colspan="2">6104.42.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>775</td>
+<td colspan="2">6104.43.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>776</td>
+<td colspan="2">6104.44.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>777</td>
+<td colspan="2">6104.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>778</td>
+<td colspan="2">6104.51.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>779</td>
+<td colspan="2">6104.52.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>780</td>
+<td colspan="2">6104.53.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>781</td>
+<td colspan="2">6104.59.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>782</td>
+<td colspan="2">6104.61.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>783</td>
+<td colspan="2">6104.62.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>784</td>
+<td colspan="2">6104.63.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>785</td>
+<td colspan="2">6104.69.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>786</td>
+<td colspan="2">6105.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>787</td>
+<td colspan="2">6105.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>788</td>
+<td colspan="2">6105.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>789</td>
+<td colspan="2">6106.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>790</td>
+<td colspan="2">6106.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>791</td>
+<td colspan="2">6106.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>792</td>
+<td colspan="2">6107.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>793</td>
+<td colspan="2">6107.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>794</td>
+<td colspan="2">6107.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>795</td>
+<td colspan="2">6107.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>796</td>
+<td colspan="2">6107.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>797</td>
+<td colspan="2">6107.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>798</td>
+<td colspan="2">6107.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>799</td>
+<td colspan="2">6107.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>800</td>
+<td colspan="2">6107.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>801</td>
+<td colspan="2">6108.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>802</td>
+<td colspan="2">6108.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>803</td>
+<td colspan="2">6108.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>804</td>
+<td colspan="2">6108.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>805</td>
+<td colspan="2">6108.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>806</td>
+<td colspan="2">6108.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>807</td>
+<td colspan="2">6108.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>808</td>
+<td colspan="2">6108.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>809</td>
+<td colspan="2">6108.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>810</td>
+<td colspan="2">6108.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>811</td>
+<td colspan="2">6108.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>812</td>
+<td colspan="2">6109.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>813</td>
+<td colspan="2">6109.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>814</td>
+<td colspan="2">6110.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>815</td>
+<td colspan="2">6110.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>816</td>
+<td colspan="2">6110.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>817</td>
+<td colspan="2">6110.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>818</td>
+<td colspan="2">6110.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>819</td>
+<td colspan="2">6110.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>820</td>
+<td colspan="2">6111.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>821</td>
+<td colspan="2">6111.10.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>822</td>
+<td colspan="2">6111.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>823</td>
+<td colspan="2">6111.20.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>824</td>
+<td colspan="2">6111.30.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>825</td>
+<td colspan="2">6111.30.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>826</td>
+<td colspan="2">6111.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>827</td>
+<td colspan="2">6111.90.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>828</td>
+<td colspan="2">6112.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>829</td>
+<td colspan="2">6112.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>830</td>
+<td colspan="2">6112.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>831</td>
+<td colspan="2">6112.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>832</td>
+<td colspan="2">6112.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>833</td>
+<td colspan="2">6112.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>834</td>
+<td colspan="2">6112.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>835</td>
+<td colspan="2">6112.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>836</td>
+<td colspan="2">6113.00.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>837</td>
+<td colspan="2">6113.00.19</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>838</td>
+<td colspan="2">6113.00.20</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>839</td>
+<td colspan="2">6113.00.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>840</td>
+<td colspan="2">6114.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>841</td>
+<td colspan="2">6114.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>842</td>
+<td colspan="2">6114.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>843</td>
+<td colspan="2">6114.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>844</td>
+<td colspan="2">6115.11.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>845</td>
+<td colspan="2">6115.11.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>846</td>
+<td colspan="2">6115.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>847</td>
+<td colspan="2">6115.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>848</td>
+<td colspan="2">6115.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>849</td>
+<td colspan="2">6115.91.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>850</td>
+<td colspan="2">6115.91.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>851</td>
+<td colspan="2">6115.92.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>852</td>
+<td colspan="2">6115.92.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>853</td>
+<td colspan="2">6115.93.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>854</td>
+<td colspan="2">6115.93.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>855</td>
+<td colspan="2">6115.99.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>856</td>
+<td colspan="2">6115.99.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>857</td>
+<td colspan="2">6117.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>858</td>
+<td colspan="2">6117.90.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>859</td>
+<td colspan="2">6117.90.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>860</td>
+<td colspan="2">6117.90.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>861</td>
+<td colspan="2">6201.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>862</td>
+<td colspan="2">6201.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>863</td>
+<td colspan="2">6201.13.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>864</td>
+<td colspan="2">6201.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>865</td>
+<td colspan="2">6201.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>866</td>
+<td colspan="2">6201.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>867</td>
+<td colspan="2">6201.93.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>868</td>
+<td colspan="2">6201.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>869</td>
+<td colspan="2">6202.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>870</td>
+<td colspan="2">6202.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>871</td>
+<td colspan="2">6202.13.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>872</td>
+<td colspan="2">6202.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>873</td>
+<td colspan="2">6202.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>874</td>
+<td colspan="2">6202.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>875</td>
+<td colspan="2">6202.93.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>876</td>
+<td colspan="2">6202.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>877</td>
+<td colspan="2">6203.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>878</td>
+<td colspan="2">6203.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>879</td>
+<td colspan="2">6203.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>880</td>
+<td colspan="2">6203.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>881</td>
+<td colspan="2">6203.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>882</td>
+<td colspan="2">6203.23.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>883</td>
+<td colspan="2">6203.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>884</td>
+<td colspan="2">6203.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>885</td>
+<td colspan="2">6203.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>886</td>
+<td colspan="2">6203.33.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>887</td>
+<td colspan="2">6203.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>888</td>
+<td colspan="2">6203.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>889</td>
+<td colspan="2">6203.42.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>890</td>
+<td colspan="2">6203.43.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>891</td>
+<td colspan="2">6203.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>892</td>
+<td colspan="2">6204.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>893</td>
+<td colspan="2">6204.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>894</td>
+<td colspan="2">6204.13.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>895</td>
+<td colspan="2">6204.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>896</td>
+<td colspan="2">6204.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>897</td>
+<td colspan="2">6204.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>898</td>
+<td colspan="2">6204.23.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>899</td>
+<td colspan="2">6204.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>900</td>
+<td colspan="2">6204.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>901</td>
+<td colspan="2">6204.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>902</td>
+<td colspan="2">6204.33.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>903</td>
+<td colspan="2">6204.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>904</td>
+<td colspan="2">6204.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>905</td>
+<td colspan="2">6204.42.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>906</td>
+<td colspan="2">6204.43.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>907</td>
+<td colspan="2">6204.44.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>908</td>
+<td colspan="2">6204.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>909</td>
+<td colspan="2">6204.51.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>910</td>
+<td colspan="2">6204.52.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>911</td>
+<td colspan="2">6204.53.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>912</td>
+<td colspan="2">6204.59.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>913</td>
+<td colspan="2">6204.61.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>914</td>
+<td colspan="2">6204.62.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>915</td>
+<td colspan="2">6204.63.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>916</td>
+<td colspan="2">6204.69.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>917</td>
+<td colspan="2">6205.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>918</td>
+<td colspan="2">6205.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>919</td>
+<td colspan="2">6205.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>920</td>
+<td colspan="2">6205.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>921</td>
+<td colspan="2">6206.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>922</td>
+<td colspan="2">6206.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>923</td>
+<td colspan="2">6206.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>924</td>
+<td colspan="2">6206.40.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>925</td>
+<td colspan="2">6206.90.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>926</td>
+<td colspan="2">6207.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>927</td>
+<td colspan="2">6207.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>928</td>
+<td colspan="2">6207.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>929</td>
+<td colspan="2">6207.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>930</td>
+<td colspan="2">6207.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>931</td>
+<td colspan="2">6207.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>932</td>
+<td colspan="2">6207.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>933</td>
+<td colspan="2">6207.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>934</td>
+<td colspan="2">6208.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>935</td>
+<td colspan="2">6208.19.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>936</td>
+<td colspan="2">6208.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>937</td>
+<td colspan="2">6208.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>938</td>
+<td colspan="2">6208.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>939</td>
+<td colspan="2">6208.91.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>940</td>
+<td colspan="2">6208.92.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>941</td>
+<td colspan="2">6208.99.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>942</td>
+<td colspan="2">6209.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>943</td>
+<td colspan="2">6209.10.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>944</td>
+<td colspan="2">6209.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>945</td>
+<td colspan="2">6209.20.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>946</td>
+<td colspan="2">6209.30.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>947</td>
+<td colspan="2">6209.30.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>948</td>
+<td colspan="2">6209.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>949</td>
+<td colspan="2">6209.90.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>950</td>
+<td colspan="2">6210.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>951</td>
+<td colspan="2">6210.10.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>952</td>
+<td colspan="2">6210.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>953</td>
+<td colspan="2">6210.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>954</td>
+<td colspan="2">6210.40.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>955</td>
+<td colspan="2">6210.40.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>956</td>
+<td colspan="2">6210.40.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>957</td>
+<td colspan="2">6210.50.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>958</td>
+<td colspan="2">6210.50.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>959</td>
+<td colspan="2">6210.50.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>960</td>
+<td colspan="2">6211.11.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>961</td>
+<td colspan="2">6211.12.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>962</td>
+<td colspan="2">6211.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>963</td>
+<td colspan="2">6211.31.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>964</td>
+<td colspan="2">6211.32.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>965</td>
+<td colspan="2">6211.33.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>966</td>
+<td colspan="2">6211.39.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>967</td>
+<td colspan="2">6211.41.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>968</td>
+<td colspan="2">6211.42.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>969</td>
+<td colspan="2">6211.43.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>970</td>
+<td colspan="2">6211.49.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>971</td>
+<td colspan="2">6212.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>972</td>
+<td colspan="2">6212.20.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>973</td>
+<td colspan="2">6212.30.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>974</td>
+<td colspan="2">6212.90.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>975</td>
+<td colspan="2">6212.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>976</td>
+<td colspan="2">6213.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>977</td>
+<td colspan="2">6213.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>978</td>
+<td colspan="2">6213.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>979</td>
+<td colspan="2">6215.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>980</td>
+<td colspan="2">6215.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>981</td>
+<td colspan="2">6215.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>982</td>
+<td colspan="2">6217.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>983</td>
+<td colspan="2">6217.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>984</td>
+<td colspan="2">6217.90.90</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>985</td>
+<td colspan="2">6301.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>986</td>
+<td colspan="2">6301.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>987</td>
+<td colspan="2">6301.30.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>988</td>
+<td colspan="2">6301.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>989</td>
+<td colspan="2">6301.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>990</td>
+<td colspan="2">6302.10.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>991</td>
+<td colspan="2">6302.21.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>992</td>
+<td colspan="2">6302.22.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>993</td>
+<td colspan="2">6302.29.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>994</td>
+<td colspan="2">6302.31.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>995</td>
+<td colspan="2">6302.32.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>996</td>
+<td colspan="2">6302.39.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>997</td>
+<td colspan="2">6302.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>998</td>
+<td colspan="2">6302.51.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>999</td>
+<td colspan="2">6302.52.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1000</td>
+<td colspan="2">6302.53.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1001</td>
+<td colspan="2">6302.59.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1002</td>
+<td colspan="2">6302.60.00</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1003</td>
+<td colspan="2">6302.91.20</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1004</td>
+<td colspan="2">6302.91.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1005</td>
+<td colspan="2">6302.92.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1006</td>
+<td colspan="2">6302.93.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1007</td>
+<td colspan="2">6302.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1008</td>
+<td colspan="2">6303.11.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1009</td>
+<td colspan="2">6303.11.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1010</td>
+<td colspan="2">6303.12.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1011</td>
+<td colspan="2">6303.12.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1012</td>
+<td colspan="2">6303.19.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1013</td>
+<td colspan="2">6303.19.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1014</td>
+<td colspan="2">6303.91.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1015</td>
+<td colspan="2">6303.91.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1016</td>
+<td colspan="2">6303.92.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1017</td>
+<td colspan="2">6303.92.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1018</td>
+<td colspan="2">6303.99.10</td>
+<td>12.5%<br>From 1 January 2010: 5%<br>From 1 January 2015: Free</td>
+</tr>
+<tr>
+<td>1019</td>
+<td colspan="2">6303.99.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1020</td>
+<td colspan="2">6304.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1021</td>
+<td colspan="2">6304.19.10</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1022</td>
+<td colspan="2">6304.19.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1023</td>
+<td colspan="2">6304.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1024</td>
+<td colspan="2">6304.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1025</td>
+<td colspan="2">6304.93.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1026</td>
+<td colspan="2">6304.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1027</td>
+<td colspan="2">6305.32.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1028</td>
+<td colspan="2">6305.33.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1029</td>
+<td colspan="2">6305.39.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1030</td>
+<td colspan="2">6306.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1031</td>
+<td colspan="2">6306.12.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1032</td>
+<td colspan="2">6306.19.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1033</td>
+<td colspan="2">6306.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1034</td>
+<td colspan="2">6306.22.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1035</td>
+<td colspan="2">6306.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1036</td>
+<td colspan="2">6306.31.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1037</td>
+<td colspan="2">6306.39.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1038</td>
+<td colspan="2">6306.41.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1039</td>
+<td colspan="2">6306.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1040</td>
+<td colspan="2">6306.91.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1041</td>
+<td colspan="2">6306.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1042</td>
+<td colspan="2">6307.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1043</td>
+<td colspan="2">6307.10.20</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1044</td>
+<td colspan="2">6307.10.30</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1045</td>
+<td colspan="2">6307.10.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1046</td>
+<td colspan="2">6307.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1047</td>
+<td colspan="2">6307.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1048</td>
+<td colspan="2">6307.90.21</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1049</td>
+<td colspan="2">6307.90.29</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1050</td>
+<td colspan="2">6307.90.30</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1051</td>
+<td colspan="2">6307.90.40</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1052</td>
+<td colspan="2">6307.90.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1053</td>
+<td colspan="2">6307.90.99</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1054</td>
+<td colspan="2">6401.10.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1055</td>
+<td colspan="2">6401.91.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1056</td>
+<td colspan="2">6401.92.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1057</td>
+<td colspan="2">6401.99.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1058</td>
+<td colspan="2">6402.19.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1059</td>
+<td colspan="2">6402.20.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1060</td>
+<td colspan="2">6402.30.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1061</td>
+<td colspan="2">6402.91.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1062</td>
+<td colspan="2">6402.99.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1063</td>
+<td colspan="2">6403.19.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1064</td>
+<td colspan="2">6403.30.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1065</td>
+<td colspan="2">6403.40.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1066</td>
+<td colspan="2">6403.51.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1067</td>
+<td colspan="2">6403.59.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1068</td>
+<td colspan="2">6403.91.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1069</td>
+<td colspan="2">6403.99.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1070</td>
+<td colspan="2">6404.11.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1071</td>
+<td colspan="2">6404.19.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1072</td>
+<td colspan="2">6404.20.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1073</td>
+<td colspan="2">6405.10.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1074</td>
+<td colspan="2">6405.20.00</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1075</td>
+<td colspan="2">6405.90.90</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1076</td>
+<td colspan="2">6406.20.00</td>
+<td>4%<br>From 1 January 2009: Free</td>
+</tr>
+<tr>
+<td>1077</td>
+<td colspan="2">6406.99.99</td>
+<td>4%<br>From 1 January 2009: Free</td>
+</tr>
+<tr>
+<td>1078</td>
+<td colspan="2">6501.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1079</td>
+<td colspan="2">6503.00.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1080</td>
+<td colspan="2">6505.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1081</td>
+<td colspan="2">6506.91.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1082</td>
+<td colspan="2">6506.99.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1083</td>
+<td colspan="2">7007.11.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1084</td>
+<td colspan="2">7007.21.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1085</td>
+<td colspan="2">7009.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1086</td>
+<td colspan="2">7217.10.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1087</td>
+<td colspan="2">7217.20.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1088</td>
+<td colspan="2">7217.30.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1089</td>
+<td colspan="2">7217.90.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1090</td>
+<td colspan="2">7301.20.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1091</td>
+<td colspan="2">7306.30.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1092</td>
+<td colspan="2">7306.40.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1093</td>
+<td colspan="2">7306.60.00</td>
+<td>4%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1094</td>
+<td colspan="2">7318.15.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1095</td>
+<td colspan="2">7320.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1096</td>
+<td colspan="2">7320.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1097</td>
+<td colspan="2">7320.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1098</td>
+<td colspan="2">7322.11.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1099</td>
+<td colspan="2">8301.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1100</td>
+<td colspan="2">8302.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1101</td>
+<td colspan="2">8302.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1102</td>
+<td colspan="2">8407.33.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1103</td>
+<td colspan="2">8407.34.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1104</td>
+<td colspan="2">8407.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1105</td>
+<td colspan="2">8408.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1106</td>
+<td colspan="2">8409.91.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1107</td>
+<td colspan="2">8409.99.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1108</td>
+<td colspan="2">8413.30.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1109</td>
+<td colspan="2">8415.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1110</td>
+<td colspan="2">8415.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1111</td>
+<td colspan="2">8424.89.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1112</td>
+<td colspan="2">8424.90.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1113</td>
+<td colspan="2">8425.42.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1114</td>
+<td colspan="2">8425.49.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1115</td>
+<td colspan="2">8481.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1116</td>
+<td colspan="2">8482.99.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1117</td>
+<td colspan="2">8483.10.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1118</td>
+<td colspan="2">8483.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1119</td>
+<td colspan="2">8483.30.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1120</td>
+<td colspan="2">8483.40.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1121</td>
+<td colspan="2">8483.40.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1122</td>
+<td colspan="2">8483.50.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1123</td>
+<td colspan="2">8483.50.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1124</td>
+<td colspan="2">8483.60.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1125</td>
+<td colspan="2">8483.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1126</td>
+<td colspan="2">8484.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1127</td>
+<td colspan="2">8484.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1128</td>
+<td colspan="2">8507.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1129</td>
+<td colspan="2">8511.10.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1130</td>
+<td colspan="2">8511.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1131</td>
+<td colspan="2">8511.40.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1132</td>
+<td colspan="2">8511.50.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1133</td>
+<td colspan="2">8511.80.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1134</td>
+<td colspan="2">8511.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1135</td>
+<td colspan="2">8512.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1136</td>
+<td colspan="2">8512.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1137</td>
+<td colspan="2">8512.40.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1138</td>
+<td colspan="2">8512.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1139</td>
+<td colspan="2">8519.92.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1140</td>
+<td colspan="2">8519.93.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1141</td>
+<td colspan="2">8519.99.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1142</td>
+<td colspan="2">8527.21.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1143</td>
+<td colspan="2">8527.29.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1144</td>
+<td colspan="2">8531.10.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1145</td>
+<td colspan="2">8536.50.93</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1146</td>
+<td colspan="2">8539.10.90</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1147</td>
+<td colspan="2">8544.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1148</td>
+<td colspan="2">8707.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1149</td>
+<td colspan="2">8708.10.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1150</td>
+<td colspan="2">8708.21.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1151</td>
+<td colspan="2">8708.29.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1152</td>
+<td colspan="2">8708.31.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1153</td>
+<td colspan="2">8708.39.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1154</td>
+<td colspan="2">8708.40.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1155</td>
+<td colspan="2">8708.40.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1156</td>
+<td colspan="2">8708.50.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1157</td>
+<td colspan="2">8708.50.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1158</td>
+<td colspan="2">8708.60.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1159</td>
+<td colspan="2">8708.70.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1160</td>
+<td colspan="2">8708.80.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1161</td>
+<td colspan="2">8708.91.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1162</td>
+<td colspan="2">8708.92.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1163</td>
+<td colspan="2">8708.93.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1164</td>
+<td colspan="2">8708.93.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1165</td>
+<td colspan="2">8708.94.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1166</td>
+<td colspan="2">8708.99.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1167</td>
+<td colspan="2">8708.99.91</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1168</td>
+<td colspan="2">9021.10.20</td>
+<td>9%<br>From 1 January 2008: 8%<br>From 1 January 2009: 5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1169</td>
+<td colspan="2">9021.10.30</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1170</td>
+<td colspan="2">9021.10.41</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1171</td>
+<td colspan="2">9021.10.49</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1172</td>
+<td colspan="2">9029.10.20</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1173</td>
+<td colspan="2">9029.20.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1174</td>
+<td colspan="2">9029.90.10</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1175</td>
+<td colspan="2">9032.89.11</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1176</td>
+<td colspan="2">9113.90.00</td>
+<td>3%<br>From 1 January 2006: 2%<br>From 1 January 2007: 1%<br>From 1 January 2008: Free</td>
+</tr>
+<tr>
+<td>1177</td>
+<td colspan="2">9401.20.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1178</td>
+<td colspan="2">9404.30.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td>1179</td>
+<td colspan="2">9404.90.00</td>
+<td>5%<br>From 1 January 2010: Free</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+**38 User’s Guide**
+
+Repeal the User’s Guide, substitute:
+
+USER’S GUIDE
+
+This Guide aims to give a general overview of the operation and organisation of this Act.
+
+The operation of the Act
+
+The Act imposes Customs duty on goods imported into Australia.
+
+To work out the duty payable on particular goods reference must be made to a Principal Tariff that is set out in Schedule 3. This tariff classifies goods in accordance with Australia’s international obligations as a party to the World Trade Organization Agreement.
+
+Note: The text of the Agreement is set out in Australian Treaty Series 1995 No. 8. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible on the Internet through that Department’s world‑wide web site.
+
+The rate of duty applicable to particular goods is determined by the classification to which those goods belong and, in most cases, by reference to Schedule 3. However, the rate of duty for Thai originating goods is determined under Schedule 6.
+
+Under Schedule 4, goods imported into Australia in specified circumstances, including goods imported for use by particular persons or bodies or in particular industries, may be subject to a lesser rate of duty than the nominal rate applying under Schedule 3 or 6.
+
+Rates of duty under Schedules 3 and 6, and concessional rates of duty under Schedule 4, may vary according to the date of importation of the goods concerned, the country or place from which the goods are imported, or both of these circumstances.
+
+The organisation of the Act
+
+The Act consists of 3 Parts and 5 Schedules.
+
+Part 1 deals with key concepts required for an understanding of the organisation and operation of the Customs Tariff.
+
+Part 2 imposes Customs duty and sets out the method for working out the duty that is payable in respect of particular goods.
+
+Part 3 includes a regulation making power, repeals the *Customs Tariff Act 1987* with effect from 1 July 1996 and provides details of its final operation.
+
+Schedule 1 sets out the countries and places to which special rates of duty apply under the Australian system of tariff preferences.
+
+Schedule 2 sets out the general rules of interpretation for deciding the tariff classification within the Principal Tariff to which goods belong.
+
+Schedule 3 sets out the Principal Tariff.
+
+Schedule 4 identifies classes of goods to which concessional rates may apply and specifies the concessional rates of duty potentially applicable to such classes.
+
+Schedule 6 sets out the rate of duty for Thai originating goods.
+
+### Part 2—US Free Trade Agreement legislation amendments
+
+##### US Free Trade Agreement Implementation (Customs Tariff) Act 2004
+
+**39 Items 1 to 5 of Schedule 1**
+
+Repeal the items, substitute:
+
+1 Subsection 3(1) (after paragraph (b) of the definition of *rate column*)
+
+Insert:
+
+(c) the third column of the table in Schedule 5; or
+
+2 Subsection 9(1)
+
+After “Schedule 3, 4”, insert “, 5”.
+
+3 After paragraph 11(1)(b)
+
+Insert:
+
+(ba) the third column of an item in the table in Schedule 5 that applies to goods; or
+
+4 After paragraph 11(1)(d)
+
+Insert:
+
+(e) the third column of that item in the table in Schedule 5; or
+
+5 After paragraph 11(2)(b)
+
+Insert:
+
+(ba) the third column of an item in the table in Schedule 5 that applies to goods; or
+
+**40 Items 8 to 14 of Schedule 1**
+
+Repeal the items, substitute:
+
+8 After subparagraph 16(1)(a)(i)
+
+Insert:
+
+(ii) are not US originating goods; and
+
+9 After paragraph 16(1)(j)
+
+Insert:
+
+(k) if the goods are US originating goods:
+
+(i) if the goods are classified to a heading or subheading in Schedule 3 that is specified in column 2 of an item in the table in Schedule 5—by reference to the rate of duty set out in column 3 of that item; or
+
+(ii) otherwise—Free;
+
+Note: See also subsection (2).
+
+10 After subsection 16(1)
+
+Insert:
+
+US originating goods
+
+(2) If column 2 of an item in the table in Schedule 5 includes “(prescribed goods only)”, subparagraph (1)(k)(i) does not apply to the goods unless the goods are also prescribed for the purposes of that item.
+
+Note: If column 2 of an item in the table in Schedule 5 includes “(prescribed goods only)” and the goods are not prescribed for the purposes of that item, the rate of duty in respect of the goods is Free.
+
+11 After paragraph 18(1)(a)
+
+Insert:
+
+(b) under an item in the table in Schedule 5 that applies to the goods; or
+
+12 After subparagraph 18(2)(a)(i)
+
+Insert:
+
+(ii) are not US originating goods; and
+
+13 After paragraph 18(2)(j)
+
+Insert:
+
+(k) if the goods are US originating goods:
+
+(i) if a rate of duty that applies in relation to the United States of America is set out in the third column of that item—by reference to that rate of duty; or
+
+(ii) otherwise—Free;
+
+14 After paragraph 19(1)(a)
+
+Insert:
+
+(b) the rate column of an item in the table in Schedule 5 that relates to a subheading in Schedule 3:
+
+(i) that is specified in column 2 of that item in the table in Schedule 5; and
+
+(ii) that appears in column 1 of the Table below, opposite that excise item; and
+
+**41 Item 17 of Schedule 1**
+
+Repeal the item, substitute:
+
+17 Schedule 4 (item 20A, column 2)
+
+After “Schedule 3”, insert “, 5”.
+
+**42 Item 19 of Schedule 1**
+
+Repeal the item, substitute:
+
+19 Schedule 4 (item 20B, column 2)
+
+After “Schedule 3”, insert “, 5”.
+
+**43 Item 29 of Schedule 1**
+
+Repeal the item, substitute:
+
+29 The rates of duty in column 3 of item 59 in Schedule 4
+
+Repeal the rates of duty, substitute:
+
+|  |  | 15%<br>FI:10%<br>DC:10%<br>CA:7.5% |
+|---|---|---|
+|  | From 1 January 2005 | 10%<br>US:10%<br>TH:10%<br>FI:5%<br>DC:5%<br>CA:2.5% |
+|  | From 1 January 2010 | 5%<br>US:5%<br>TH:5%<br>CA:Free |
+
+**44 Item 34 of Schedule 1 (heading)**
+
+Omit “**At the end of the Act**”, substitute “**After Schedule 4**”.
+
+**45 Item 34 of Schedule 1**
+
+Omit “Add:”, substitute “Insert:”.
+
+**46 Item 57 of Schedule 1**
+
+Repeal the item, substitute:
+
+57 User’s Guide
+
+Repeal the User’s Guide, substitute:
+
+USER’S GUIDE
+
+This Guide aims to give a general overview of the operation and organisation of this Act.
+
+The operation of the Act
+
+The Act imposes Customs duty on goods imported into Australia.
+
+To work out the duty payable on particular goods reference must be made to a Principal Tariff that is set out in Schedule 3. This tariff classifies goods in accordance with Australia’s international obligations as a party to the World Trade Organization Agreement.
+
+Note: The text of the Agreement is set out in Australian Treaty Series 1995 No. 8. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible on the Internet through that Department’s world‑wide web site.
+
+The rate of duty applicable to particular goods is determined by the classification to which those goods belong and, in most cases, by reference to Schedule 3. However, the rate of duty for US originating goods is determined under Schedule 5 and the rate of duty for Thai originating goods is determined under Schedule 6.
+
+Under Schedule 4, goods imported into Australia in specified circumstances, including goods imported for use by particular persons or bodies or in particular industries, may be subject to a lesser rate of duty than the nominal rate applying under Schedule 3, 5 or 6.
+
+Rates of duty under Schedules 3, 5 and 6, and concessional rates of duty under Schedule 4, may vary according to the date of importation of the goods concerned, the country or place from which the goods are imported, or both of these circumstances.
+
+The organisation of the Act
+
+The Act consists of 3 Parts and 6 Schedules.
+
+Part 1 deals with key concepts required for an understanding of the organisation and operation of the Customs Tariff.
+
+Part 2 imposes Customs duty and sets out the method for working out the duty that is payable in respect of particular goods.
+
+Part 3 includes a regulation making power, repeals the *Customs Tariff Act 1987* with effect from 1 July 1996 and provides details of its final operation.
+
+Schedule 1 sets out the countries and places to which special rates of duty apply under the Australian system of tariff preferences.
+
+Schedule 2 sets out the general rules of interpretation for deciding the tariff classification within the Principal Tariff to which goods belong.
+
+Schedule 3 sets out the Principal Tariff.
+
+Schedule 4 identifies classes of goods to which concessional rates may apply and specifies the concessional rates of duty potentially applicable to such classes.
+
+Schedule 5 sets out the rate of duty for US originating goods.
+
+Schedule 6 sets out the rate of duty for Thai originating goods.
+
+[*Minister’s second reading speech made in—*
+
+*House of Representatives on 17 November 2004*
+
+*Senate on 17 November 2004*]
+
+(186/04)

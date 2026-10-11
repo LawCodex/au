@@ -97,7 +97,8 @@ def fetch_docs(tid, meta):
                        f"rectificationversionnumber={d['rectificationVersionNumber']})")
                 r = get(url)
             if r is None:
-                print(f"  ! 404 {tid} {d['format']} vol {d['volumeNumber']}", file=sys.stderr)
+                if not d.get("synthetic"):
+                    print(f"  ! 404 {tid} {d['format']} vol {d['volumeNumber']}", file=sys.stderr)
                 continue
             os.makedirs(os.path.dirname(path), exist_ok=True)
             with open(path + ".tmp", "wb") as f:
@@ -107,8 +108,49 @@ def fetch_docs(tid, meta):
     return paths
 
 
+def bulk_versions(prefix, refresh=False):
+    """Latest version of every title whose id starts with `prefix` (one request per 500 titles)."""
+    path = os.path.join(RAW, "lists", f"versions-{prefix}.json")
+    if os.path.exists(path) and not refresh:
+        return read_json(path)
+    out, skip = {}, 0
+    while True:
+        r = get(f"{API}/versions", params={
+            "$filter": f"isLatest eq true and startswith(titleId,'{prefix}')",
+            "$orderby": "titleId", "$top": "500", "$skip": str(skip), "$count": "true"})
+        d = r.json()
+        for v in d["value"]:
+            out[v["titleId"]] = v
+        skip += 500
+        print(f"  versions {prefix}: {skip}/{d['@odata.count']}", file=sys.stderr)
+        if skip >= d["@odata.count"] or not d["value"]:
+            break
+    write_json(path, out)
+    return out
+
+
+BULK = {}
+
+
+def synthetic_meta(tid):
+    """Meta from the bulk version list, assuming a single-volume EPUB (always the case so far)."""
+    v = BULK.get(tid)
+    if not v:
+        return None
+    m = dict(v)
+    m["documents"] = [{"titleId": tid, "registerId": v["registerId"], "type": "Primary", "format": "Epub",
+                       "volumeNumber": 0, "uniqueTypeNumber": 0, "rectificationVersionNumber": 0,
+                       "extension": ".epub", "synthetic": True}]
+    return m
+
+
 def work(t):
     tid = t["id"]
+    if not os.path.exists(meta_path(tid)) and tid in BULK:
+        m = synthetic_meta(tid)
+        if fetch_docs(tid, m):
+            write_json(meta_path(tid), m)
+            return tid, "ok"
     meta = fetch_meta(tid)
     if meta is None:
         return tid, "no-version"
@@ -122,7 +164,10 @@ def main():
     ap.add_argument("--refresh-lists", action="store_true")
     ap.add_argument("--workers", type=int, default=4)
     ap.add_argument("--limit", type=int, default=0)
+    ap.add_argument("--bulk", default="", help="id prefix: use bulk version list instead of per-title meta")
     a = ap.parse_args()
+    if a.bulk:
+        BULK.update(bulk_versions(a.bulk, a.refresh_lists))
     for coll in a.collections:
         titles = list_titles(coll, a.refresh_lists)
         if a.limit:

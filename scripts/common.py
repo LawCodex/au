@@ -23,7 +23,7 @@ COLLECTIONS = {
 }
 
 # Minimum seconds between the start of two requests (global, across threads).
-MIN_INTERVAL = float(os.environ.get("LAWCODEX_MIN_INTERVAL", "0.25"))
+MIN_INTERVAL = float(os.environ.get("LAWCODEX_MIN_INTERVAL", "0.5"))
 
 _lock = threading.Lock()
 _last = [0.0]
@@ -48,7 +48,7 @@ def _throttle():
         _last[0] = time.monotonic()
 
 
-def get(url, params=None, timeout=300, tries=6):
+def get(url, params=None, timeout=120, tries=10):
     """GET with global rate limiting and exponential backoff. Returns Response, or None for 404."""
     delay = 5
     err = None

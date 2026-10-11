@@ -1,0 +1,67 @@
+---
+title: New Business Tax System (Over-franking Tax) Act 2002
+identifier: C2004A00981
+register_id: C2004A00981
+type: act
+principal: true
+number: Act No. 49, 2002
+jurisdiction: au
+language: en
+date: "2002-06-29"
+version_start: "2002-06-29"
+status: in_force
+source: "https://www.legislation.gov.au/C2004A00981/latest/text"
+retrieved: "2026-10-11"
+---
+
+# New Business Tax System (Over-franking Tax) Act 2002
+
+New Business Tax System (Over‑franking Tax) Act 2002
+
+No. 49, 2002
+
+An Act to impose over‑franking tax, and for related purposes
+
+Contents
+
+[image]
+
+New Business Tax System (Over‑franking Tax) Act 2002
+
+No. 49, 2002
+
+An Act to impose over‑franking tax, and for related purposes
+
+[*Assented to 29 June 2002*]
+
+The Parliament of Australia enacts:
+
+###### 1 Short title
+
+This Act may be cited as the *New Business Tax System (Over‑franking Tax) Act 2002*.
+
+###### 2 Commencement
+
+This Act commences on the day on which it receives the Royal Assent.
+
+###### 3 Definition
+
+In this Act:
+
+***over‑franking tax*** means over‑franking tax payable under paragraph 203‑50(1)(a) of the *Income Tax Assessment Act 1997*.
+
+###### 4 Imposition
+
+Over‑franking tax is imposed.
+
+###### 5 Amount of over‑franking tax
+
+The amount of the tax imposed by this Act is equal to the amount worked out under paragraph 203‑50(2)(a) of the *Income Tax Assessment Act 1997*.
+
+[*Minister’s second reading speech made in—*
+
+*House of Representatives on 30 May 2002*
+
+*Senate on 19 June 2002*]
+
+(121/02)

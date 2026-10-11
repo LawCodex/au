@@ -1,0 +1,59 @@
+---
+title: Nauru Independence Act 1967
+identifier: C1967A00103
+register_id: C1967A00103
+type: act
+principal: true
+number: Act No. 103, 1967
+jurisdiction: au
+language: en
+date: "1967-11-10"
+version_start: "1967-11-10"
+status: in_force
+source: "https://www.legislation.gov.au/C1967A00103/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Nauru Independence Act 1967
+
+No. 103 of 1967
+
+An Act relating to Nauru
+
+Contents
+
+[image]
+
+Nauru Independence Act 1967
+
+No. 103 of 1967
+
+An Act relating to Nauru
+
+[*Assented to 10 November 1967*]
+
+The Parliament of Australia enacts:
+
+###### 1 Short title
+
+This Act may be cited as the *Nauru Independence Act 1967*.
+
+###### 2 Commencement
+
+(1) Sections 1, 2 and 3 of this Act shall come into operation on the day on which this Act receives the Royal Assent.
+
+(2) Section 4 of this Act shall come into operation on a date to be fixed by Proclamation, in this Act referred to as “Nauru Independence Day”.
+
+###### 3 Power of the Legislative Council for Nauru to provide for the establishment of a constitutional convention
+
+The power of the Legislative Council for the Territory of Nauru conferred by section 26 of the *Nauru Act 1965* to make Ordinances for the peace, order and good government of that Territory extends to the making of an Ordinance establishing a convention for the purpose of establishing a constitution for Nauru.
+
+###### 4 Australia to cease to be responsible for government of Nauru
+
+(1) On the expiration of the day preceding Nauru Independence Day:
+
+(a) the *Nauru Act 1965* is repealed; and
+
+(b) all acts that extend to Nauru as a Territory of the Commonwealth cease so to extend.
+
+(2) On and after Nauru Independence Day, Australia shall not exercise any powers of legislation, administration or jurisdiction in and over Nauru.

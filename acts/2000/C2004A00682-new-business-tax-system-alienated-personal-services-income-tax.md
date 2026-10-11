@@ -1,0 +1,61 @@
+---
+title: New Business Tax System (Alienated Personal Services Income) Tax Imposition Act (No. 2) 2000
+identifier: C2004A00682
+register_id: C2004A00682
+type: act
+principal: true
+number: Act No. 88, 2000
+jurisdiction: au
+language: en
+date: "2000-06-30"
+version_start: "2000-06-30"
+status: in_force
+source: "https://www.legislation.gov.au/C2004A00682/latest/text"
+retrieved: "2026-10-11"
+---
+
+# New Business Tax System (Alienated Personal Services Income) Tax Imposition Act (No. 2) 2000
+
+No. 88, 2000
+
+[image]
+
+New Business Tax System (Alienated Personal Services Income) Tax Imposition Act (No. 2) 2000
+
+No. 88, 2000
+
+An Act to implement the New Business Tax System by imposing tax on certain alienated personal services payments, and for related purposes
+
+Contents
+
+[image]
+
+**New Business Tax System (Alienated Personal Services Income) Tax Imposition Act (No. 2) 2000**
+
+**No. 88, 2000**
+
+An Act to implement the New Business Tax System by imposing tax on certain alienated personal services payments, and for related purposes
+
+[*Assented to 30 June 2000*]
+
+The Parliament of Australia enacts:
+
+###### 1 Short title
+
+This Act may be cited as the *New Business Tax System (Alienated Personal Services Income) Tax Imposition Act (No. 2) 2000*.
+
+###### 2 Commencement
+
+This Act commences on the day on which it receives the Royal Assent.
+
+###### 3 Imposition
+
+Tax payable in accordance with section 13‑5 in Schedule 1 to the *Taxation Administration Act 1953* is imposed by this Act.
+
+[*Minister’s second reading speech made in—*
+
+*House of Representatives on 13 April 2000*
+
+*Senate on 5 June 2000*]
+
+(64/00)
