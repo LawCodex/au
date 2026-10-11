@@ -1,0 +1,35 @@
+---
+title: AD/TB20/5 - Battery Tray Installation
+identifier: F2006B07351
+register_id: F2006B07351
+type: legislative_instrument
+number: AD/TB20/5
+jurisdiction: au
+language: en
+date: "2004-12-20"
+version_start: "2004-12-20"
+status: in_force
+source: "https://www.legislation.gov.au/F2006B07351/latest/text"
+retrieved: "2026-10-11"
+---
+
+# AD/TB20/5 - Battery Tray Installation
+
+**COMMONWEALTH OF AUSTRALIA** ***(Civil Aviation Regulations 1998)*****, PART 39 - 105 CIVIL AVIATION SAFETY AUTHORITY**
+
+**SCHEDULE OF AIRWORTHINESS DIRECTIVES**
+
+[image]\
+Aerospatiale (Socata) TB20 (Trinidad) Series Aeroplanes
+
+AD/TB20/5 Battery Tray Installation 10/85
+
+Applicability: All models TB20 series with S/Nos up to 441 but excluding S/Nos 343, 382, 414, 423, 425 to 429 and 434 to 438.
+
+Requirement: Inspect and modify the battery tray installation in accordance with the requirements detailed in Socata Service Letter No. 18 under description paragraph 1. Pay particular attention to surrounding fuselage structure for signs of electrolyte spillage and subsequent damage.
+
+*Note: French AD 85-130-(A) refers.*
+
+Compliance: Within 50 hours time in service after 31 October 1985.
+
+Background: The battery tray installation may be such that electrolyte spillage from the battery could cause fuselage structural damage due to corrosion.

@@ -1,0 +1,37 @@
+---
+title: AD/B727/31 Amdt 2 - Stabilizer Upper Rear Spar Chord - Inspection and Modification
+identifier: F2006B02732
+register_id: F2006B02732
+type: legislative_instrument
+number: AD/B727/31 Amdt 2
+jurisdiction: au
+language: en
+date: "2004-12-20"
+version_start: "2004-12-20"
+status: in_force
+source: "https://www.legislation.gov.au/F2006B02732/latest/text"
+retrieved: "2026-10-11"
+---
+
+# AD/B727/31 Amdt 2 - Stabilizer Upper Rear Spar Chord - Inspection and Modification
+
+**COMMONWEALTH OF AUSTRALIA** ***(Civil Aviation Regulations 1998)*****, PART 39 - 105 CIVIL AVIATION SAFETY AUTHORITY**
+
+**SCHEDULE OF AIRWORTHINESS DIRECTIVES**
+
+[image]\
+Boeing 727 Series Aeroplanes
+
+**AD/B727/31**
+
+**Amdt 2**
+
+**Stabilizer Upper Rear Spar Chord - Inspection and Modification**
+
+**4/67**
+
+Applicability: All models.
+
+Document: Boeing SB No. 55-17, Rev. 2.
+
+Compliance: As detailed in inspection schedules Section II of SB No. 55-17, Rev. 2.

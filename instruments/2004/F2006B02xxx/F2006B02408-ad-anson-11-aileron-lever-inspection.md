@@ -1,0 +1,29 @@
+---
+title: AD/ANSON/11 - Aileron Lever - Inspection
+identifier: F2006B02408
+register_id: F2006B02408
+type: legislative_instrument
+number: AD/ANSON/11
+jurisdiction: au
+language: en
+date: "2004-12-20"
+version_start: "2004-12-20"
+status: in_force
+source: "https://www.legislation.gov.au/F2006B02408/latest/text"
+retrieved: "2026-10-11"
+---
+
+# AD/ANSON/11 - Aileron Lever - Inspection
+
+**COMMONWEALTH OF AUSTRALIA** ***(Civil Aviation Regulations 1998)*****, PART 39 - 105 CIVIL AVIATION SAFETY AUTHORITY**
+
+**SCHEDULE OF AIRWORTHINESS DIRECTIVES**
+
+[image]\
+Avro Anson and Avro 19 Series Aeroplanes
+
+AD/ANSON/11 Aileron Lever - Inspection 10/62
+
+Applicability: Anson and Avro 19. Document: Avro TSB No. 87.
+
+Compliance: At intervals not exceeding 12 months.
