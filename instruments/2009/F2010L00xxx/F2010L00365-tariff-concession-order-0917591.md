@@ -1,0 +1,31 @@
+---
+title: Tariff Concession Order 0917591
+identifier: F2010L00365
+register_id: F2010L00365
+type: legislative_instrument
+number: TC 0917591
+jurisdiction: au
+language: en
+date: "2009-09-25"
+version_start: "2009-05-25"
+status: in_force
+source: "https://www.legislation.gov.au/F2010L00365/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Tariff Concession Order 0917591
+
+**TARIFF CONCESSION ORDER**\
+Under Section 269P of the Customs Act 1901, I, David Mulcair, a delegate of the Chief Executive Officer declare that the goods specified in Column 1 of THE TABLE are goods to which the item in Part III of Schedule 4 to the Customs Tariff Act 1995 specified in Column 2 of THE TABLE applies. This Order shall have effect from 25.05.09 and continue in force until revoked under sections 269SC or 269SD of the Act, or the date, if any, specified in Column 2.
+
+THE TABLE
+
+| COLUMN 1<br>Description of Goods including the<br>Customs Tariff Classification | COLUMN 2<br>Schedule 4 Item Number<br>Last date of effect |
+|---|---|
+
+| 8483.90.00 | PARTS, GEARBOX, SINTER PLANT, being unassembled tension bars<br>comprising ALL of the following:<br>(a) protection caps;<br>(b) packing rings;<br>(c) distance rings;<br>(d) castell nuts;<br>(e) hinge bearings;<br>(f) cup springs;<br>(g) cotter pins;<br>(h) nuts;<br>(i) lubrication nipples;<br>(j) sealing discs;<br>(k) tension bars<br>Op. 25.05.09 - TC 0917591 | 50 |
+|---|---|---|
+
+This is page 1 of 1 Page of the above Table.\
+..........David Mulcair........................\
+Dated 25 September 2009 Delegate of the Chief Executive Officer

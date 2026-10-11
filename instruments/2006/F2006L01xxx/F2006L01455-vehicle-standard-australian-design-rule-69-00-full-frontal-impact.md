@@ -1,0 +1,545 @@
+---
+title: Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006
+identifier: F2006L01455
+register_id: F2012C00138
+type: legislative_instrument
+number: ADR 69/00
+jurisdiction: au
+language: en
+date: "2006-04-26"
+version_start: "2012-03-03"
+status: in_force
+source: "https://www.legislation.gov.au/F2006L01455/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006
+
+Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006 Compilation 2
+
+Compilation: 2 (up to and including Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006 Amendment 2)
+
+Compilation Date: 02 March 2012
+
+Compiled by: Vehicle Safety Standards, Department of Transport and Regional Services
+
+Enabling Legislation: Section 7
+
+Motor Vehicle Standards Act 1989
+
+**CONTENTS**
+
+1\. legislative provisions
+
+1.1 NAME OF STANDARD
+
+1.1.1 This Standard is the Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006.
+
+1.1.2 This Standard may also be cited as Australian Design Rule 69/00 — Full Frontal Impact Occupant Protection.
+
+1.2 COMMENCEMENT
+
+1.2.1 This Standard commences on the day after it is registered.
+
+1.3 REPEAL
+
+1.3.1 This Standard repeals each vehicle standard with the name Australian Design Rule 69/00 — Full Frontal Impact Occupant Protection that is:
+
+(a) made under section 7 of the Motor Vehicles Standard Act 1989; and
+
+(b) in force at the commencement of this Standard.
+
+1.3.2 This Standard also repeals each instrument made under section 7 of the Motor Vehicles Standard Act 1989 that creates a vehicle standard with the name Australian Design Rule 69/00 — Full Frontal Impact Occupant Protection, if there are no other vehicle standards created by that instrument, or amendments to vehicle standards made by that instrument, that are still in force at the commencement of this Standard.
+
+2\. SCOPE
+
+The function of this vehicle standard is to specify vehicle crashworthiness requirements in terms of forces and accelerations measured on anthropomorphic dummies in outboard front seating positions in full frontal test crashes so as to minimise the likelihood of injury to occupants of those seating positions.
+
+3\. APPLICABILITY AND IMPLIMENTATION
+
+3.1. Applicability Summary
+
+3.1.1. This ADR applies to the design and construction of vehicles as required by clauses 3.1.2 and 3.1.3 and as set out in clause 3.2.
+
+3.1.2. This rule is binding:
+
+3.1.2.1. from 1 July 1995 on all new model MA vehicles; and
+
+3.1.2.2. from 1 January 1996 on all MA vehicles: and
+
+3.1.2.3. from 1 January 1998 on all new model MB and MC vehicles; and
+
+3.1.2.4. from 1 July 1998 for new model NA1 vehicles; and
+
+3.1.2.5. from 1 January 2000 on all MB and MC vehicles; and
+
+3.1.2.6. from 1 July 2000 on all NA1 vehicles.
+
+3.1.3. For the purposes of clause 3.1.2, a "new model" is a vehicle model first produced with a *'Date of manufacture'* on or after 1 July 1995 for MA vehicles, 1 January 1998 for MB & MC vehicles and 1 July 1998 for NA1 vehicles
+
+3.2. Applicability Table
+
+<table>
+<tr>
+<td colspan="2"><b>Vehicle Category</b></td>
+<td><b>ADR Category Code</b></td>
+<td><b>UNECE Category Code</b></td>
+<td><b>Manufactured on or After</b></td>
+<td><b>Acceptable Prior Rules</b></td>
+</tr>
+<tr>
+<td colspan="2">Moped 2 wheels</td>
+<td>LA</td>
+<td>L1</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Moped 3 wheels</td>
+<td>LB</td>
+<td>L2</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Motor cycle</td>
+<td>LC</td>
+<td>L3</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Motor cycle and sidecar</td>
+<td>LD</td>
+<td>L4</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Motor tricycle</td>
+<td>LE</td>
+<td>L5</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Passenger car</td>
+<td>MA</td>
+<td>M1</td>
+<td>1 July 1995*</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td colspan="2">Forward-control passenger vehicle</td>
+<td>MB</td>
+<td>M1</td>
+<td>1 Jan 1998*</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td colspan="2">Off-road passenger vehicle</td>
+<td>MC</td>
+<td>M1</td>
+<td>1 Jan 1998*</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td colspan="2">Light omnibus</td>
+<td>MD</td>
+<td>M2</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Heavy omnibus</td>
+<td>ME</td>
+<td>M3</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Light goods vehicle</td>
+<td>NA</td>
+<td>N1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Up to 2.7 tonnes ‘GVM’</td>
+<td></td>
+<td></td>
+<td>1 July 1998*</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td colspan="2">Medium goods vehicle</td>
+<td>NB</td>
+<td>N2</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Heavy goods vehicle</td>
+<td>NC</td>
+<td>N3</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Very light trailer</td>
+<td>TA</td>
+<td>O1</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Light trailer</td>
+<td>TB</td>
+<td>O2</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Medium trailer</td>
+<td>TC</td>
+<td>O3</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Heavy trailer</td>
+<td>TD</td>
+<td>O4</td>
+<td>N/A</td>
+<td></td>
+</tr>
+</table>
+
+\* See clauses 3.1.2 & 3.1.3.
+
+4\. DEFINITIONS
+
+4.1. Refer to Vehicle Standard (Australian Design Rule Definitions and Vehicle Categories) 2005.
+
+5\. REQUIREMENTS
+
+5.1. Impact Velocity
+
+The vehicle must be impacted at 48 km/h, into a fixed collision barrier that is perpendicular to the line of travel of the vehicle.
+
+5.1.1. If a vehicle is impacted at a higher velocity and conforms with the injury criteria of the ADR, then the test is be deemed to meet the requirements of this rule.
+
+5.2. Test Dummy
+
+A *‘Test Dummy’* in accordance with the following schedule must be placed at each designated front outboard seating position.
+
+*5.2.1.* Until 1 January 1998, demonstration of compliance may be done with either *‘Hybrid II’* or *‘Hybrid III’ ‘Test Dummies’.*
+
+*5.2.2.* From 1 January 1998 all vehicle models are be required to demonstrate compliance using *‘Hybrid III’ ‘Test Dummies’.*
+
+*5.2.3.* Until 3 months after the changeover date for compulsory use of *‘Hybrid III’* ‘*Test Dummies’* in the corresponding Japanese regulations for MB, MC and NA1 vehicle models, demonstration of compliance to this rule for these vehicle models may be done with either ‘*Hybrid II’* or ‘*Hybrid III’ ‘Test Dummies’.*
+
+5.3. Injury Criteria
+
+The *‘Test Dummies’* must meet the following injury criteria:
+
+5.3.1. The resultant acceleration at the centre of gravity of the head must be such that the maximum value of the expression:
+
+[image]
+
+must not exceed 1,000 where *a* is the resultant acceleration expressed as a multiple of the acceleration due to gravity, and t1 and t2 are any two points in time during the crash of the vehicle which are separated by not more than a 36 millisecond time interval.
+
+5.3.2. The resultant acceleration calculated from the output of the thoracic instrumentation must not exceed 60 times the acceleration due to gravity, except for intervals whose cumulative duration is not more than 3 milliseconds.
+
+5.3.3. Compression deflection of the sternum relative to the spine must not exceed 76.2 mm. This requirement only applies when a *‘Hybrid III’ ‘Test Dummy’* is used.
+
+5.3.4. The force transmitted axially through each upper leg (femur) must not exceed 10 kN.
+
+5.3.5. When there is no evidence of head contact with any part of the vehicle in front of the original *‘Test Dummy’* head position, other than with the seatbelt system or of head contact with the *‘Test Dummy’s’* femur and/or knee, as determined in accordance with Clause 11, then the requirements of Clause 5.3.1 may be met by any of the following:
+
+5.3.5.1. If a *‘Hybrid II’ ‘Test Dummy’* is used, the resultant acceleration measured at the centre of gravity of the head shall not exceed 75 g, except for intervals whose cumulative duration is not more than 3 milliseconds, when measured by the accelerometer whose sensitive axis is oriented to record inferior-superior accelerations.
+
+5.3.5.2. If a *‘Hybrid III’ ‘Test Dummy’* is used, the neck injury measurements shall not exceed 3300 N of tension force in the inferior-superior direction.
+
+5.3.5.3. If either *‘Hybrid II’* or *‘Hybrid III’ ‘Test Dummies’* are used, the maximum value of the expression in Clause 5.3.1 shall not exceed 700 when calculated between two points in time not separated by more than 15 milliseconds.
+
+5.4. Crash Barrier
+
+The crash barrier used in the test must conform to that specified in SAE document J850, “Barrier Collision Test”, February 1963.
+
+5.5. Seatbelt Warning System
+
+5.5.1. The vehicle must be fitted with a seatbelt warning system which activates a continuous or flashing ‘Visual Indicator’ for a period of not less than 4 seconds when at least one of the following occurs:
+
+The vehicle’s ignition switch is moved to the “on” position or to the “start” position, or
+
+Before the engine has been running for 60 seconds, or
+
+Before the vehicle has been in Forward motion for 500 metres, or
+
+Before the vehicle has reached a forward speed of 25 km/h
+
+The seatbelt warning system need not operate if the driver’s seatbelt is fastened or is withdrawn more than 10 cm from the retractor. An audible signal in addition to the ‘Visual Indicator’ is permissible.
+
+5.5.2. The *‘Visual Indicator’* must display the seatbelt telltale below or the words “Fasten Seatbelts” or “Fasten Belts”.
+
+[image]
+
+5.5.3. [This clause has been deleted]
+
+5.5.4. A seatbelt warning system which complies with the requirements of clause S7.3 of US Federal Motor Vehicle Safety Standard 208 Occupant Crash Protection, is deemed to comply with the clauses 5.5.1 to 5.5.2.
+
+5.5.5. Any category of vehicle which complies with the requirements of ADR 4/... for seatbelt reminder systems of M1 category vehicles is deemed to comply with the clauses 5.5.1 to 5.5.2.
+
+6\. TEST VEHICLE CONDITION
+
+6.1. Test Vehicle Mass
+
+6.1.1. MA vehicles. The test vehicle including test devices and instrumentation, shall be loaded to its *‘Unladen Mass’* plus ‘*Luggage Mass’* plus the mass of the necessary *‘Test Dummies’*.
+
+6.1.2. MB, MC and NA1 vehicles. The test vehicle including test devices and instrumentation, shall be loaded to its *‘Unladen Mass’* plus 136.2 kg plus the mass of the *‘Test Dummies’*, or to its *‘Gross Vehicle Mass’*, whichever is less.
+
+6.1.3. the load placed in the cargo area shall be nominally centered on the vehicle.
+
+6.2. Vehicle Test Attitude
+
+The test vehicle attitude must be such that the front and rear *‘Suspension Heights’* must be at or between the design value in the unladen and fully laden condition as specified by the *‘Manufacturer’.*
+
+6.3. Adjustable *‘Seats’* must be in the adjustment position midway between the foremost and rearmost positions, and if separately adjustable in a vertical direction, must be at the lowest position. If an adjustment position does not exist midway between the foremost and rearmost positions, the closest adjustment position to the rear of the midpoint must be used.
+
+*6.4. ’Seat’* backs must be positioned at the design *‘Seat Back Angle’.*
+
+*6.5.* Any adjustable *‘Seatbelt Anchorages’* must be placed at the *‘Manufacturer’s’* nominal design position for the *‘Test Dummy’.*
+
+6.6. Each adjustable *‘Head Restraint’* must be placed in its highest adjustment position.
+
+6.7. Adjustable lumbar supports must be positioned so that the minimum lumbar support is provided.
+
+6.8. Adjustable steering controls must be adjusted so that the steering wheel hub is at the geometric centre of the locus it describes when it is moved through its full range of driving positions.
+
+6.9. Movable vehicle windows and vents can be in any position at the *‘Manufacturer’s’* option.
+
+6.10. Convertibles and open-body type vehicles must have the top, if any, in place in the closed passenger compartment configuration.
+
+6.11. Doors must be fully closed and latched but not locked.
+
+7\. SET UP REQUIREMENTS FOR HYBRID III TEST DUMMY
+
+7.1. Each *‘Hybrid III’ ‘Test Dummy’* must be set up according to the following:
+
+7.2. The *‘Test Dummy’* must be clothed in formfitting cotton stretch garments with short sleeves and midcalf length pants (specified in drawings 78051-292 and -293 or their equivalent).
+
+7.3. A size 11EE shoe specified in drawings 78051-294 (left) and 78051-295 (right) or their equivalents must be placed on each foot.
+
+7.4. Limb joints must be set at l times the acceleration due to gravity, barely restraining the mass of the limb when extended horizontally.
+
+7.5. Leg joints must be adjusted with the torso in the supine position.
+
+7.6. Instrumentation must not affect the motion of dummies during impact.
+
+7.7. The stabilised temperature of the *‘Hybrid III’ ’Test Dummy’* specified must be at any level between 20.5 degrees C and 22.2 degrees C.
+
+8\. POSITIONING PROCEDURES FOR HYBRID III TEST DUMMY
+
+8.0. A *‘Hybrid III’ ‘Test Dummy’* must be positioned in each front outboard seating position of a vehicle as specified in the following clauses:
+
+8.1. Head
+
+The transverse instrumentation platform of the head must be horizontal within 0.5 degrees. To level the head of the *‘Test Dummy’,* the following sequences must be followed. First, adjust the position of the *‘H point’* within the limits set forth in clause 8.5.1 to level the transverse instrumentation platform of the head. If still not level, then adjust the pelvic angle of the *‘Test Dummy’* within the limits specified in clause 8.5.2 of this rule. If the transverse instrumentation platform of the head is still not level, then adjust the neck bracket of the *‘Test Dummy’* the minimum amount necessary from the non-adjusted zero setting to ensure that the transverse instrumentation platform of the head is horizontal within 0.5 degrees. The *‘Test Dummy’* must remain within the limits specified in clause 8.5.1 and clause 8.5.2 after any adjustment of the neck bracket.
+
+8.2. Arms
+
+The arms of the *‘Hybrid III’ ‘Test Dummies’* must be positioned as follows:
+
+8.2.1. The driver’s upper arms must be adjacent to the torso with the centrelines as close to a vertical longitudinal plane as possible.
+
+8.2.2. The passenger’s upper arms must be in contact with the *‘Seat’* back and the sides of the torso.
+
+8.3. Hands
+
+The hands of the *‘Hybrid III’ ‘Test Dummies’* must be placed as follows:
+
+8.3.1. The palms of the driver *‘‘Test Dummy’* must be in contact with the outer part of the steering wheel rim at the rim’s horizontal centreline.
+
+8.3.2. The thumbs of the driver *‘Test Dummy’* must be over the steering wheel rim and must be lightly taped to the steering wheel rim so that if the hand of the *‘Test Dummy’* is pushed upward by a force of not less than 9 N and not more than 22 N, the tape must release the hand from the steering wheel rim.
+
+8.3.3. Each palm of the passenger *‘Test Dummy’* must be in contact with outside of the thigh.
+
+8.3.4. Each little finger must be in contact with the *‘Seat’* cushion.
+
+8.4. Upper Torso
+
+The upper torso of the *‘Hybrid III’ ‘Test Dummies’* must be placed as follows:
+
+8.4.1. In vehicles equipped with bench *‘Seats’*, the upper torso of the driver and passenger dummies must rest against the *‘Seat’* back. The midsagittal plane of the driver *‘Test Dummy’* must be vertical and parallel to the vehicle’s longitudinal centreline, and pass through the centre of the steering wheel rim or the design *‘Seating Position’* at the *‘Manufacturer’s’* option. The midsagittal plane of the passenger *‘Test Dummy’* must be vertical and parallel to the vehicle’s longitudinal centreline and the same distance from the vehicle’s longitudinal centreline as the midsagittal plane of the driver *‘Test Dummy’* or the design *‘Seating Position’* at the *‘Manufacturer’s’* option.
+
+*8.4.2.* In vehicles equipped with bucket *‘Seats’* , the upper torso of the driver and passenger dummies must rest against the *‘Seat’* back. The midsagittal plane of the driver and the passenger *‘Test Dummy’* must be vertical and must coincide with the longitudinal centreline of the bucket *‘Seat’.*
+
+8.5. Lower Torso
+
+The lower torso of the *‘Hybrid III’ ‘Test Dummies’* must be placed as follows:
+
+8.5.1. *’Test Dummy’ ‘H-point’* - The *‘H-point’* of the driver and passenger dummies must each coincide within 12.7 mm in the vertical dimension and 12.7 mm in the horizontal dimension of a point 6.3 mm below the position of the *‘H point’* determined by using the equipment and procedures specified in SAE J826 (Apr 80) - Devices for Use in Defining and Measuring Vehicle Seating Accommodation except that the length of the lower leg and thigh segments of the *‘H point’* machine must be adjusted to 414 mm and 401 mm, respectively, instead of the 50 th percentile values specified in Table 1 of SAE J826.
+
+8.5.2. Pelvic angle - As determined using the pelvic angle gauge (drawing 78051-532) which is inserted into the *‘H point’* gauging hole of the *‘Test Dummy’, the angle measured from* the horizontal on the 76.2 mm flat surface of the gauge must be 22.5 degrees plus or minus 2.5 degrees.
+
+8.5.3. Legs - The upper legs of the driver and passenger *‘Hybrid III’ ‘Test Dummies’* must rest against the *‘Seat’* cushion to the extent permitted by placement of the feet. The initial distance between the outer knee clevis flange surfaces must nominally be 269 mm. To the extent practicable, the left leg of the driver *‘Test Dummy’* and both legs of the passenger *‘Test Dummy’* must be in vertical longitudinal planes. To the extent practicable, the right leg of the driver *‘Test Dummy’* must be in a vertical plane. Final adjustment to accommodate placement of feet in accordance with clause 8.5.4 for various passenger compartment configurations is permitted.
+
+8.5.4. Feet - The feet of the *‘Hybrid III’ ‘Test Dummies’* must be positioned as follows:
+
+8.5.4.1. - Driver’s right foot. The right foot of the driver must rest on the undepressed accelerator pedal with the rearmost point of the heel on the floor surface in the plane of the pedal. If the foot cannot be placed on the accelerator pedal, it must be set initially perpendicular to the lower leg and placed as far forward as possible in the direction of the pedal centreline with the rearmost point of the heel resting on the floor pan. Except as prevented by contact with a vehicle surface, place the right leg so that the upper and lower leg centrelines fall, as close as possible, in a vertical plane without inducing torso movement.
+
+8.5.4.2. - Driver’s left foot. The left foot must be placed on the toeboard with the rearmost point of the heel resting on the floor pan as close as possible to the point of intersection of the planes described by the toeboard and the floor pan. If the foot cannot be positioned on the toeboard, it shall be set initially perpendicular to the lower leg and placed as far forward as possible with the heel resting on the floor pan. If necessary to avoid contact with the vehicle’s brake or clutch pedal, rotate the *‘Test Dummy’s’* left foot about the lower leg. If there is still pedal interference, rotate the left leg inboard about the hip the minimum distance necessary to avoid pedal interference. Except as prevented by contact with a vehicle surface, place the left leg so that the upper and lower leg centrelines fall, as close as possible, in a vertical plane. For vehicles with a foot rest that does not elevate the left foot above the level of the right foot, place the left foot on the foot rest so that the upper and lower leg centrelines fall in a vertical plane.
+
+8.5.4.3. - Passenger’s feet on vehicles with flat floor pan/toeboard. The right and left feet must be placed on the vehicle’s toeboard with the heels resting on the floor pan as close as possible to the intersection point with the toeboard. If the feet cannot be placed flat on the toeboard, set them perpendicularly to the lower leg centreline and place them as far forward as possible with the heels resting on the floor pan. The right and left legs must be placed so that the upper and lower leg centrelines fall in vertical longitudinal planes.
+
+8.5.4.4. - Passenger’s feet on vehicles with wheelhouse projections in passenger compartment. The right and left feet must be placed in the well of the floorpan/toeboard and not on the wheelhouse projection. If the feet cannot be placed flat on the toeboard, initially set them perpendicularly to the lower leg centreline and place them as far forward as possible with the heels resting on the floor pan. If it is not possible to maintain vertical longitudinal planes through the upper and lower leg centrelines for each leg, then place the right leg so that its upper and lower centrelines fall, as closely as possible, in a vertical longitudinal plane and place the left leg so that its upper and lower leg centrelines fall, as closely as possible, in a vertical plane.
+
+8.6. Each *‘Hybrid III’ ‘Test Dummy’* must be *‘Correctly Fitted’* with the specified restraint system provided in the vehicle.
+
+8.6.1. After final positioning of the *‘Hybrid III’ ‘Test Dummy’,* pull the upper torso webbing out of the retractor and allow it to retract; repeat this operation four times. Apply a 9 to 18 N tension load to the lap belt by pulling the upper torso belt adjacent to the latchplate. Measure the tension load as close as possible to the same location where the force was applied. After the tension load has been applied, ensure that the upper torso belt lies flat on the *‘Test Dummy’s’* shoulder. Allow the excess webbing in the shoulder belt to be retracted by the retractive force of the retractor.
+
+9\. SET UP REQUIREMENTS FOR HYBRID II TEST DUMMY
+
+9.1. Each *‘Hybrid II’ ‘Test Dummy’* must be set up according to the following:
+
+9.2. The *‘Test Dummy’* must be clothed in formfitting cotton stretch garments with short sleeves and midcalf length pants.
+
+9.3. A size 11EE shoe which meets the configuration, size, sole, and heel thickness specifications of MIL-S 131192 and weighs 0.57 + 0.1 kg must be placed on each foot.
+
+9.4. Limb joints must be set at l times the acceleration due to gravity, barely restraining the mass of the limb when extended horizontally.
+
+9.5. Leg joints must be adjusted with the torso in the supine position.
+
+9.6. Instrumentation must not affect the motion of dummies during impact.
+
+9.7. The stabilised temperature of the *‘Hybrid II’ ‘Test Dummy’* specified must be at any level between 18.9 degrees C and 25.6 degrees C.
+
+10\. POSITIONING PROCEDURES FOR HYBRID II TEST DUMMY
+
+10.0. A *‘Hybrid II’ ‘Test Dummy’ must* be positioned in each front outboard seating position of a vehicle as specified in the following clauses:
+
+10.1. Vehicle Equipped with Front Bucket *‘Seats’*
+
+Place the torso of the *‘Hybrid II’ ‘Test Dummy’* against the *‘Seat’* back and its upper legs against the *‘Seat’* cushion to the extent permitted by placement of the *‘Test Dummy’s’* feet in accordance with the appropriate clause of 10. Centre the *‘Test Dummy’* on the *‘Seat’* cushion of the bucket *‘Seat’* and set its midsagittal plane so that it is vertical and parallel to the centreline of the *‘Seat’* cushion.
+
+10.1.1. Driver position placement
+
+*10.1.1.1.* Initially set the knees to be nominally 368 mm apart, measured between the outer surfaces of the knee pivot bolt heads, with the left outer surface 150 mm from the midsagittal plane of the *‘Hybrid II’ ‘Test Dummy’.*
+
+10.1.1.2. Rest the right foot on the undepressed accelerator pedal with the rearmost point of the heel on the floor pan in the plane of the pedal. If the foot cannot be placed on the accelerator pedal, set it initially perpendicular to the lower leg and place it as far forward as possible in the direction of the pedal centreline with the rearmost point of the heel resting on the floor pan. Except as prevented by contact with a vehicle surface, place the right leg so that the upper and lower leg centrelines fall, as close as possible, in a vertical plane without inducing torso movement.
+
+10.1.1.3. Place the left foot on the toeboard with the rearmost point of the heel resting on the floor pan as close as possible to the point of intersection of the planes described by the toeboard and the floor pan and not on the wheelwell projection. If the foot cannot be positioned on the toeboard, set it initially perpendicular to the lower leg and place it as far forward as possible with the heel resting on the floor pan. If necessary to avoid contact with the vehicle’s brake or clutch pedal, rotate the *‘Test Dummy’s’* left foot about the lower leg. If there is still pedal interference, rotate the left leg inboard about the hip the minimum distance necessary to avoid the pedal interference. Except as prevented by contact with a vehicle surface, place the left leg so that the upper and lower leg centrelines fall, as close as possible, in a vertical plane. For vehicles with a foot rest that does not elevate the left foot above the level of the right foot, place the left foot on the foot rest so that the upper and lower leg centrelines fall in a vertical plane.
+
+10.1.2. Passenger position placement.
+
+10.1.2.1. Vehicles with a flat floor pan/toeboard. Initially set the knees to be nominally 299 mm apart, measured between the outer surfaces of the knee pivot bolt heads. Place the right and left feet on the vehicle’s toeboard with the heels resting on the floor pan as close as possible to the intersection point with the toeboard. If the feet cannot be placed flat on the toeboard, set them perpendicular to the lower leg centrelines and place them as far forward as possible with the heels resting on the floor pan. Place the right and left legs so that the upper and lower leg centrelines fall in vertical longitudinal planes.
+
+10.1.2.2. Vehicles with wheelhouse projections in passenger compartment.
+
+Initially set the knees to be nominally 299 mm, measured between the outer surfaces of the knee pivot bolt heads. Place the right and left feet in the well of the floor pan/toeboard and not on the wheelhouse projection. If the feet cannot be placed flat on the toeboard, initially set them perpendicular to the lower leg centrelines and then place them as far forward as possible with the heels resting on the floor pan. If it is not possible to maintain vertical and longitudinal planes through the upper and lower leg centrelines for each leg, then place the left leg so that its upper and lower centrelines fall as closely as possible in a vertical longitudinal plane and place the right leg so that its upper and lower leg centrelines fall, as closely as possible, in a vertical plane.
+
+10.2. Vehicle Equipped with Bench ‘Seats’
+
+Place the *‘Hybrid II’ ‘Test Dummy’s’* torso against the *‘Seat’* back and its upper legs against the *‘Seat’* cushion, to the extent permitted by placement of the *‘Test Dummy’s’* feet in accordance with the appropriate clause of 10.1.
+
+10.2.1. Driver position placement.
+
+Place the *‘Test Dummy’* at the right front outboard designated seating position so that its midsagittal plane is vertical and parallel to the centreline of the vehicle and so that the midsagittal plane of the *‘Test Dummy’* passes through the centre of the steering wheel rim or the design ‘Seating Position’ at the manufacturer’s option. Place the legs, knees and feet of the *‘Test Dummy’* as specified in clause 10.1.1.
+
+10.2.2. Passenger position placement.
+
+Place the *’Test Dummy’* at the left front outboard designated seating position so that the midsagittal plane of the *‘Test Dummy’* is vertical and longitudinal, and the same distance from the vehicle’s longitudinal centreline as the midsagittal plane of the *‘Test Dummy’* at the driver’s position or the design ‘Seating Position’ at the manufacturer’s option. Place the legs, knees, and feet of the *‘Test Dummy’* as specified in clause 10.1.2.
+
+10.3. Initial Hybrid II Test Dummy Hand and Arm Placement
+
+With the *‘Test Dummy’* at its designated seating position as specified by the appropriate requirements of clause10.1 or 10.2, place the upper arms against the *‘Seat’* back and tangent to the side of the upper torso. Place the lower arms and palms against the outside of the upper legs.
+
+10.4. Hybrid II Test Dummy Settling
+
+10.4.1. *‘Test Dummy’* vertical upward displacement. Slowly lift the *‘Test Dummy’* parallel to the *‘Seat’* back plane until the *‘Test Dummy’*s’ buttocks no longer contact the *‘Seat’* cushion or until there is *‘Test Dummy’* head contact with the vehicle’s headlining.
+
+10.4.2. Lower torso force application.
+
+Apply a rearward force of 223 N against the centre of the *‘Test Dummy’s’* lower torso in a horizontal direction. The line of force application shall be 165 mm above the bottom surface of the *‘Test Dummy’s’* buttocks.
+
+10.4.3. *‘Test Dummy’* vertical downward displacement. Remove as much of the 223 N force as necessary to allow the *‘Test Dummy’* to return downward to the *‘Seat’* cushion by its own weight.
+
+10.4.4. *‘Test Dummy’* upper torso rocking.
+
+Apply a 44.5 N to 66.8 N horizontal rearward force to the *‘Test Dummy’* lower torso. Then apply a horizontal forward force to the *‘Test Dummy’s’* shoulders sufficient to flex the upper torso forward until its back no longer contacts the *‘Seat’* back. Rock the *‘Test Dummy’* from side to side 3 or 4 times so that the *‘Test Dummy’s’* spine is at any angle from the vertical in the 14 to 16 degree range at the extremes of each rocking movement.
+
+10.4.5. *‘Test Dummy’* upper torso force application. While maintaining the 44.5 N to 66.8 N horizontal rearward force applied in clause 10.4.4 and with the *’Test Dummy’s’* midsagittal plane vertical, push the upper torso back against the *‘Seat’* back with a force of 223 N applied in a horizontal rearward direction along a line that is coincident with the *‘Test Dummy’s’* midsagittal plane and 457 mm above the bottom surface of the *‘Test Dummy’s’* buttocks.
+
+10.5. Seatbelt Adjustment for Dynamic Testing
+
+With the *‘Hybrid II’ ‘Test Dummies’* at their designated seating positions as specified by the appropriate requirements of clauses 10.1 through 10.4, place and adjust the seat belts as specified below.
+
+10.5.1. Place the seatbelt around the *‘Test Dummy’* and fasten the latch. The seatbelt must be *‘Correctly Fitted’* to each *‘Hybrid II’ ‘Test Dummy’*. Pull the upper torso webbing out of the retractor and allow it to retract; repeat this operation four times so that the excess webbing in the shoulder belt is removed by the retractive force of the retractor. Apply a 9 to 18 N tension load to the lap belt by pulling the upper torso belt adjacent to the latchplate. Measure the tension load as close as possible to the same location where the force was applied. After the tension load has been applied, ensure that the upper torso belt lies flat on the *‘Test Dummy’s’* shoulder. Allow the excess webbing in the shoulder belt to be retracted by the retractive force of the retractor.
+
+10.6. Placement of *‘Hybrid II’ ‘Test Dummy’* Arms and Hands
+
+With the *‘Test Dummy’* positioned as specified by clause10.4 and without inducing torso movement, place the arms, elbows, and hands of the *‘Test Dummy’,* as appropriate for each designated seating position in accordance with clauses 10.1 or 10.2. Following placement of the arms, elbows and hands, remove the force applied against the lower half of the torso.
+
+10.6.1. Driver’s position.
+
+Move the upper and the lower arms of the *‘Test Dummy’* at the driver’s position to their fully outstretched position in the lowest possible orientation. Push each arm rearward permitting bending at the elbow, until the palm of each hand contacts the outer part of the rim of the steering wheel at its horizontal centreline. Place the *‘Test Dummy’s’* thumbs over the steering wheel rim and position the upper and lower arm centrelines as close as possible in a vertical plane without inducing torso movement. The thumbs must be over the steering wheel rim and are lightly taped to the steering wheel rim so that if the hand of the *‘Test Dummy’* is pushed upward by a force of not less than 9 N and not more than 22 N, the tape must release the hand from the steering wheel rim.
+
+10.6.2. Passenger position.
+
+Move the upper and the lower arms of the *‘Test Dummy’* at the passenger position to the fully outstretched position in the lowest possible orientation. Push each arm rearward, permitting bending at the elbow, until the upper arm contracts the *‘Seat’* back and is tangent to the upper part of the side of the torso, the palm contacts the outside of the thigh, and the little finger is barely in contact with the *‘Seat’* cushion.
+
+10.7. Repositioning of Feet and Legs
+
+After the *‘Test Dummy’* has been settled in accordance with clause 10.4, the safety belt system has been positioned, if necessary, in accordance with clause 10.5, and the arms and hands of the *‘Test Dummy’* have been positioned in accordance with clause 10.6, reposition the feet and legs of the *‘Test Dummy’,* if necessary, so that the feet and legs meet the applicable requirements of clauses 10.1 or 10.2.
+
+11\. Chalk Transfer Method For Determining Head Contact.
+
+11.1. After making the vehicle adjustments specified in Clause 6 and positioning the test dummies in accordance with Clause 7 and 8 or Clause 9 and 10 of this rule, each *‘Test Dummy’s’* head shall be painted with a chalk-water slurry or equivalent of adequate density to assure visible transfer of colour upon impact with the vehicle’s interior surfaces.
+
+11.1.1. The paint shall be applied to the top part of the *‘Test Dummy’s’* head above the horizontal plane that passes through the centre of gravity of the *‘Test Dummy’s’* head and to the front part of the *‘Test Dummy’s’* head in front of the vertical transverse lateral plane that passes through the centre of gravity of the *‘Test Dummy’s’* head.
+
+11.1.2. For identification purposes, the head of the *‘Test Dummy’* at the driver’s position shall be painted with a colour that is readily distinguishable from the colour used on the head of the *‘Test Dummy’* at the passenger’s position.
+
+11.1.3. The painted surfaces shall be permitted to dry for at least five minutes after application of the chalk-water slurry before the start of the crash test.
+
+11.2. The determination of whether there was a head contact with any vehicle interior surface or with the *‘Test Dummy’s’* femurs and/or knee shall be made as follows:
+
+*11.2.1.* Following the crash, examine each *‘Test Dummy’s’* head to see if there has been some removal or disturbance, such as smudging or smearing, of the dried chalk. If there is no such removal or disturbance of the dried chalk, the crash shall be treated as one that did not involve any head contact by that *‘Test Dummy’.*
+
+11.2.2. If there is evidence of removal or disturbance of the dried chalk on a *‘Test Dummy’s’* head, examine all vehicle interior surfaces forward of the *‘Test Dummy’s’* original head position and the *‘Test Dummy’s’* femurs and knees to see if chalk of the same colour that was removed or disturbed on the *‘Test Dummy’s’* head has been transferred to any vehicle interior surface or the *‘Test Dummy’s’* femur or knee. When there is a transfer of chalk onto a vehicle interior surface or a *‘Test Dummy’s’* femur or knee and the transferred chalk is the same colour as was removed or disturbed on a *‘Test Dummy’s’* head, the crash shall be treated as one that involved head contact by that *‘Test Dummy’.* If there is no chalk transfer onto a vehicle interior surface or *‘Test Dummy’s’* femur or knee of the same colour chalk as was removed or disturbed on the *‘Test Dummy’s’* head, the crash shall be treated as one that did not involve head contact by that *‘Test Dummy’*.
+
+12\. ALTERNATIVE STANDARDS
+
+Vehicles demonstrating compliance with ADR 73/00 – Offset Frontal Impact Occupant Protection using dual frontal airbags will be deemed to comply with the technical requirements of this national standard provided that the manufacturer can demonstrate at a Conformity of Production assessment that the vehicle complies with the requirements of this national standard.
+
+Compilation NOTES
+
+This compilation of Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006 (in force under section 7 of the *Motor Vehicle Standards Act 1989*) includes all the instruments set out in the Table of Instruments. The Table of Amendments provides a history of clauses that have been amended, inserted or deleted.
+
+**Table of Instruments**
+
+| **Name of Instrument** | **FRLI Registration Date** | **Commencement Date** |
+|---|---|---|
+| Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006 | 09/05/2006 (*see* F2006L01455) | 10/05/2006 |
+| Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006 Amendment 1 | 12/10/2007 (*see* F2007L04079 | 13/10/2007 |
+| Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006 Amendment 2 | 02/03/2012 (*see* F2012L00465) | 03/03/2012 |
+
+**Table of Amendments**
+
+| **Clause affected** | **How affected** | **Amending instrument** |
+|---|---|---|
+| 5.5.1 | rr | Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006 Amendment 1 |
+| 5.5.3 | del | Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006 Amendment 1 |
+| 5.5.5 | ad | Vehicle Standard (Australian Design Rule 69/00 – Full Frontal Impact Occupant Protection) 2006 Amendment 2 |
+
+ad = added or inserted
+
+am = amended
+
+del = deleted or removed
+
+rr = removed and replaced
+
+ = clause renumbered. This takes the format of old no.  new no.

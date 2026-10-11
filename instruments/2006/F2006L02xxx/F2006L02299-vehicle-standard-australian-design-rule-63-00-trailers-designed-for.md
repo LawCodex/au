@@ -1,0 +1,122 @@
+---
+title: Vehicle Standard (Australian Design Rule 63/00 – Trailers Designed for Use in Road Trains) 2006
+identifier: F2006L02299
+register_id: F2006L02299
+type: legislative_instrument
+number: ADR 63/00
+jurisdiction: au
+language: en
+date: "2006-07-05"
+version_start: "2006-07-21"
+status: in_force
+source: "https://www.legislation.gov.au/F2006L02299/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Vehicle Standard (Australian Design Rule 63/00 – Trailers Designed for Use in Road Trains) 2006
+
+Vehicle Standard (Australian Design Rule 63/0063/00 – Trailers Designed for Use in Road TrainsTrailers Designed for Use in Road Trains) 20062006
+
+I, JAMES ERIC LLOYD, Minister for Local Government, Territories and Roads, determine this vehicle standard under subsection 7 (1) of the *Motor Vehicle Standards Act 1989*.
+
+Dated 5 July 2022
+
+[Signed]
+
+James Eric Lloyd
+
+Minister for Local Government, Territories and Roads
+
+**CONTENTS**
+
+legislative provisions NAME OF STANDARD This Standard is the Vehicle Standard (Australian Design Rule 63/00 – Trailers Designed for Use in Road Trains) 2006. This Standard may also be cited as Australian Design Rule 63/00 — Trailers Designed for Use in Road Trains. COMMENCEMENT This Standard commences on the day after it is registered. REPEAL This Standard repeals each vehicle standard with the name Australian Design Rule 63/00 — Trailers Designed for Use in Road Trains that is:
+
+(a) made under section 7 of the Motor Vehicle Standards Act 1989; and
+
+(b) in force at the commencement of this Standard.
+
+A.3.2. This Standard also repeals each instrument made under section 7 of the Motor Vehicle Standards Act 1989 that creates a vehicle standard with the name Australian Design Rule 63/00 — Trailers Designed for Use in Road Trains, if there are no other vehicle standards created by that instrument, or amendments to vehicle standards made by that instrument, that are still in force at the commencement of this Standard.
+
+B. function and SCOPE
+
+B.1. The function of this Australian Design Rule is to specify additional requirements for trailers designed for use in *‘Road Trains*’ having a ‘*Gross Combination Mass*’ not exceeding 125 tonnes.
+
+C. APPLICABILITY AND IMPLEMENTATION
+
+C.1. This ADR applies to the design and construction of vehicles as set out in the table below.
+
+C.2. A ‘*Pig Trailer*’ other than a *‘Converter Dolly’* must not be *‘Approved’* to this rule.
+
+D. Applicability Table
+
+| **Vehicle Category** | **ADR Category Code [\*]** | **UNECE Category Code \*** | **Manufactured on or After** | **Acceptable Prior Rules** |
+|---|---|---|---|---|
+| Moped 2 wheels | LA | L1 | Not Applicable |  |
+| Moped 3 wheels | LB | L2 | Not Applicable |  |
+| Motor cycle | LC | L3 | Not Applicable |  |
+| Motor cycle and sidecar | LD | L4 | Not Applicable |  |
+| Motor tricycle | LE | L5 | Not Applicable |  |
+| Passenger car | MA | M1 | Not Applicable |  |
+| Forward-control passenger vehicle | MB | M1 | Not Applicable |  |
+| Off-road passenger vehicle | MC | M1 | Not Applicable |  |
+| Light omnibus | MD | M2 | Not Applicable |  |
+| Heavy omnibus | ME | M3 | Not Applicable |  |
+| Light goods vehicle | NA | N1 | Not Applicable |  |
+| Medium goods vehicle | NB | N2 | Not Applicable |  |
+| Heavy goods vehicle | NC | N3 | Not Applicable |  |
+| Very light trailer | TA | O1 | Not Applicable |  |
+| Light trailer | TB | O2 | Not Applicable |  |
+| Medium trailer | TC | O3 | 1 July 1991 | Nil |
+| Heavy trailer | TD | O4 | 1 July 1991 | Nil |
+
+63.1. DEFINITIONS
+
+63.1.1. Refer to Vehicle Standard (Australian Design Rule Definitions and Vehicle Categories) 2005.
+
+63.2. Refer to C.2.
+
+63.3. Not used.
+
+63.4. ELECTRICAL REQUIREMENTS
+
+63.4.1. Electrical connectors having a minimum rated capacity for the lighting circuit of 30 amps at nominal 12V or 15 amps at 24V for connection of lighting and signalling systems must be fitted.
+
+63.4.2. Main line supply cables, other than feeder wires to lamps, must have a DC resistance of not more than 4 m/metre or in the case of copper cables must have a cross–sectional area not less than 5 mm2.
+
+63.4.3. Every trailer must be equipped with an electrical conductor having a minimum cross–sectional area of 5 mm2, independent of the trailer *‘Coupling’*, or *‘Fifth Wheel’* assembly in the case of a *‘Semi-trailer’* providing a return path between the electrical circuits of the trailer and that of the drawing vehicle.
+
+63.5. MECHANICAL REQUIREMENTS
+
+Every trailer must be fitted with connection devices which meet the following additional requirements:
+
+63.5.1. Location requirements
+
+63.5.1.1. The ‘*Tow Coupling Overhang*’ must not exceed:
+
+63.5.1.1.1. in the case of a trailer other than a ‘*Semi-trailer’,* 30 percent of the distance from the centre of the front *‘Axle Group’* to the centre of the rear *‘Axle Group*’;
+
+63.5.1.1.2. in the case of a *‘Semi-trailer’* 30 per cent of the distance from the *‘Point of Articulation’* to the centre of the rear *‘Axle Group*’.
+
+63.5.1.2. The height of the towing attachment and the ‘*Drawbar*’ pivots determined in the unladen condition must be 875 ± 75 mm.
+
+63.5.1.3. The vertical axis of the *‘Coupling*’ pivot must be not more than 300 mm forward from the rear–most projection of the trailer.
+
+63.5.1.4. The ‘*Drawbar Length’* must exceed 3.0 m but must not exceed 5.0 m.
+
+63.5.2. Marking and strength requirements
+
+Unless otherwise *‘Approved’* all connection devices must conform with the marking and strength requirements as specified below:
+
+63.5.2.1. ‘*Fifth Wheel’* assemblies must comply with the requirements of Australian Standard 1773-1990 "Articulated Vehicles - Fifth Wheel Assemblies" and have a ‘*D-value*’ of not less than 162 kN (16.5 t).
+
+63.5.2.2. ’*Fifth Wheel Kingpins’* must comply with the requirements of Australian Standard 2175-1990 "Articulated Vehicles - Kingpins" and have a *‘D-value*’ of not less than 162 kN (16.5 t).
+
+63.5.2.3. Tow *‘Coupling’* assemblies must comply with Australian Standard 2213-1984 "50 mm Pin-type Couplings and Drawbar Eyes for Trailers" and must have a ‘*D-value’* of not less than 186 kN (19.0t).
+
+63.5.2.4. The *‘Drawbar*’ and *‘Towbar’* must withstand the following forces without incurring any residual deformation that would interfere with or degrade the function of the assembly, nor must there be any breaks, cracks, or separation of components:
+
+63.5.2.4.1. Longitudinal tension and compression of 300 kN; or
+
+63.5.2.4.2. A dynamic force of ± 112 kN for 2 million cycles. The frequency not to exceed 10 Hz but must be chosen not to coincide with the natural frequency of the system.
+
+**[\*]** The category code may also be in the format L1, LA etc.

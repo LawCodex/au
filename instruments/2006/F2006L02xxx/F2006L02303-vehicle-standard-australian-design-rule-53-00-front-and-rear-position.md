@@ -1,0 +1,695 @@
+---
+title: Vehicle Standard (Australian Design Rule 53/00 – Front and Rear Position Lamps, Stop Lamps, Direction Indicators and Rear Registration Plate Lamps for L-Group Vehicles) 2006
+identifier: F2006L02303
+register_id: F2023C00155
+type: legislative_instrument
+number: ADR 53/00
+jurisdiction: au
+language: en
+date: "2006-07-05"
+compilation_number: 1
+last_amended: "2023-01-20"
+version_start: "2023-01-20"
+status: in_force
+source: "https://www.legislation.gov.au/F2006L02303/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Vehicle Standard (Australian Design Rule 53/00 – Front and Rear Position Lamps, Stop Lamps, Direction Indicators and Rear Registration Plate Lamps for L-Group Vehicles) 2006
+
+Vehicle Standard (Australian Design Rule 53/00 – Front and Rear Position Lamps, Stop Lamps, Direction Indicators and Rear Registration Plate Lamps for L-Group Vehicles) 2006
+
+Made under section 12 of the *Road Vehicle Standards Act 2018*
+
+Compilation: 1 (up to and including Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1)
+
+Compilation Date: 20 January 2023
+
+Compiled by: Vehicle Safety Policy and Partnerships, Department of Infrastructure, Transport, Regional Development, Communications and the Arts
+
+**CONTENTS**
+
+legislative provisions NAME OF STANDARD This Standard is the Vehicle Standard (Australian Design Rule 53/00 – Front and Rear Position Lamps, Stop Lamps, Direction Indicators and Rear Registration Plate Lamps for L-Group Vehicles) 2006. This Standard may also be cited as Australian Design Rule 53/00 — Front and Rear Position Lamps, Stop Lamps, Direction Indicators and Rear Registration Plate Lamps for L-Group Vehicles.
+
+SCOPE
+
+This Australian Design Rule (ADR) prescribes the photometric requirements for front position lamps, rear position lamps, stop lamps, direction indicators and rear registration plate illuminating devices intended to be fitted to mopeds, motor cycles and vehicles treated as such.
+
+APPLICABILITY AND IMPLEMENTATION The circumstances under which front and rear lamps, stop lamps, direction indicators and rear registration lamps and mandatory, optional or prohibited are set out in either ADRs 19/… or 67/…
+
+DEFINITIONS Refer to paragraph 2 of Appendix A.
+
+REQUIREMENTS Front and rear lamps, stop lamps, direction indicators and rear registration plate lamps fitted to vehicles in accordance with ADRs 19/... or 67/… and required to comply with this ADR must comply with either:
+
+The technical requirements of Appendix A as varied by part 5. Exemptions and Alternative Procedures and part 6. Supplementary General Requirements or
+
+The alternative standards set out in part 7. Alternative Standards.
+
+EXEMPTIONS AND ALTERNATIVE PROCEDURES The following provisions of appendix A do not apply Section 3 Application for approval
+
+Section 4 Markings
+
+Section 5 Approval
+
+Section 11 Penalties for non conformity of production
+
+Section 12 Production definitely discontinued
+
+Section 13 Names and addresses of technical services responsible for conducting approval tests, and of administrative departments
+
+Annexes
+
+Annex 2 Communication concerning the approval (or refusal or withdrawal of approval or production definitely discontinued) of a type of device pursuant to Regulation No. 50
+
+Annex 3 Arrangements of approval marks
+
+SUPPLEMENTARY GENERAL REQUIREMENTS
+
+The following general requirements are supplementary to the requirements of Appendix A:
+
+The requirements and procedures set out in paragraphs 5, 6 and 8 of Appendix A of ADR 6 and 49 are acceptable for the purposes of demonstrating compliance with the requirements of paragraphs 6, 7 and 9 of Appendix A.
+
+ALTERNATIVE STANDARDS The technical requirements of any of the editions of United Nations Regulation No. 50 - UNIFORM PROVISIONS CONCERNING THE APPROVAL OF FRONT POSITION LAMPS, REAR POSITION LAMPS, STOP LAMPS, DIRECTION INDICATORS AND REAR REGISTRATION PLATE ILLUMINATING DEVICES FOR MOPEDS, MOTOR CYCLES AND VEHICLES TREATED AS SUCH.
+
+NOTES In place of Regulation No 48 where referenced in Appendix A, read ADR 13/00. In place of Regulation No 37 where referenced in Appendix A, read ADR 51/00.
+
+APPENDIX A
+
+**UN REGULATION No. 50/00**
+
+**UNIFORM PROVISIONS CONCERNING THE APPROVAL OF FRONT POSITION LAMPS, REAR POSITION LAMPS, STOP LAMPS, DIRECTION INDICATORS AND REAR-REGISTRATION PLATE ILLUMINATING DEVICES OF CATEGORY L**
+
+**Regulation No. 50**
+
+**UNIFORM PROVISIONS CONCERNING THE APPROVAL OF FRONT POSITION LAMPS, REAR POSITION LAMPS, STOP LAMPS, DIRECTION INDICATORS AND REAR-REGISTRATION-PLATE ILLUMINATING DEVICES FOR MOPEDS, MOTOR CYCLES AND VEHICLES TREATED AS SUCH**
+
+**CONTENTS**
+
+REGULATION
+
+1\. Scope
+
+2\. Definitions
+
+3\. Application for approval
+
+4\. Markings
+
+5\. Approval
+
+6\. General specifications
+
+7\. Intensity of light emitted
+
+8\. Test procedure
+
+9\. Colour of light emitted
+
+10\. Conformity of production
+
+11\. Penalties for non-conformity of production
+
+12\. Production definitely discontinued
+
+13\. Names and addresses of technical services responsible for conducting approval tests, and of administrative departments
+
+ANNEXES
+
+Annex 1 - Minimum horizontal (H) and minimum vertical (V) angles for spatial lamp distribution
+
+Annex 2 - Communication concerning the approval (or refusal or withdrawal of approval or production definitely discontinued) of a type of device pursuant to Regulation No. 50
+
+Annex 3 - Arrangement of the approval mark
+
+Annex 4 - Photometric measurements
+
+Annex 5 - Colours of lamps trichromatic co-ordinates
+
+Annex 6 - Photometric measurements for the rear-registration-plate illuminating device
+
+Annex 7 - Definition of the terms of paragraphs 2.7. to 2.11. of this Regulation
+
+**Regulation No. 50**
+
+**UNIFORM PROVISIONS CONCERNING THE APPROVAL OF FRONT POSITION LAMPS, REAR POSITION LAMPS, STOP LAMPS, DIRECTION INDICATORS AND REAR-**
+
+**REGISTRATION-PLATE ILLUMINATING DEVICES FOR MOPEDS, MOTOR CYCLES AND VEHICLES TREATED AS SUCH**
+
+**1. SCOPE**
+
+This Regulation applies to the approval of front position lamps, rear position lamps, stop lamps, direction indicators, and rear-registration-plate illuminating devices intended to be fitted to mopeds, motor cycles and vehicles treated as such.
+
+**2. DEFINITIONS**
+
+For the purpose of this Regulation,
+
+2.1. "lamp" means a device designed to illuminate the road or to emit a luminous signal; rear- registration-plate illuminating devices and reflex reflectors shall likewise be regarded as lamps;
+
+2.1.1. "independent lamps" means lamps having separate lenses, separate light sources and separate lamp bodies;
+
+2.1.2. "grouped lamps" means devices having separate lenses and separate light sources, but a common lamp body;
+
+2.1.3. "combined" means devices having separate lenses but a common light source and a common lamp body;
+
+2.1.4. "reciprocally incorporated" means devices having separate lights sources (or a single light source operating in different ways), totally or partial common lenses and a common lamp body;
+
+2.2. "front position lamp" means the lamp used to indicate the presence of the vehicle when viewed from the front;
+
+2.3. "rear position lamp" means the lamp used to indicate the presence of the vehicle when viewed from the rear;
+
+2.4. "stop lamp" means the lamp used to indicate to other road users to the rear of the vehicle that the driver is applying the service brake;
+
+2.5. "direction indicator lamp" means the lamp used to indicate to other road users that the driver intends to change direction to the right or to the left: (see also Annex 1);
+
+2.5.1. "direction indicator lamp of the category 11" means a direction indicator lamp intended to be fitted to the front of the vehicle;
+
+2.5.2. "direction indicator lamp of the category 12" means a direction indicator lamp intended to be fitted to the rear of the vehicle;
+
+2.5.3. "direction indicator lamp of the category 31" means a direction indicator lamp intended to be fitted on the side of the vehicle, [1/]
+
+2.6. "rear-registration-plate illuminating device" means the device used to illuminate the space reserved for the rear registration plate; such device may consist of various optical components (see also Annex 6);
+
+2.7. "illuminating surface" (see Annex 7);
+
+2.7.1. "light-emitting surface" means all or part of the surface of the transparent material that encloses the lighting device and allows compliance with photometric and colorimetric characteristic standards;
+
+2.7.2. "illuminating surface of a light-signalling device" means the orthogonal projection of the lamp on a plane perpendicular to its axis of reference and in contact with the transparent outer surface of the lamp such projection being bounded by the covering of the screen edges situated in that plane and each allowing only 98% of the total intensity of the lamp to subsist in the direction of the axis of reference; for the purposes of determining the lower, upper and lateral edges of the lamp, only screens having a horizontal or a vertical edge shall be considered;
+
+2.8. "apparent surface" for a specific direction, means the orthogonal projection of the surface of the light-emitting surface on a plan perpendicular to the direction of observation;
+
+2.9. "axis of reference" (or "reference axis") means the characteristic axis of the lamp signal determined by the manufacturer of the lamp for use as the direction of reference (H = 0, V = 0 degrees) for angles of field for photometric measurements and for installing the lamp on the vehicle;
+
+2.10. "centre of reference" means the intersection of the axis of reference with the light emitting surface; it is specified by the manufacturer of the lamp;
+
+2.11. "angles of geometric visibility" means the angles which determine the minimum solid- angle zone in which the apparent surface of the lamp must be visible; this solid-angle zone is defined by the segments of a sphere whose centre coincides with the centre of reference of the lamp and whose equator is parallel to the carriageway; the segments are determined from the axis of reference; the horizontal angles beta correspond to longitude, the vertical angles alpha to latitude; within the angles of geometric visibility there must obstacle to the propagation of light from any part of the apparent surface of the lamp; no account is taken of obstacles existing at the time of approval where required, of the lamp.
+
+**3. APPLICATION FOR APPROVAL**
+
+3.1. The application for approval shall be submitted by the holder of the trade name or mark or by his duly accredited representative. It shall specify:
+
+3.1.1. the purpose or purposes for which the device submitted for approval is intended;
+
+3.1.2. in the case of a front position lamp, whether it is intended to emit white or selective- yellow light;
+
+3.1.3. in the case of a direction indicator: the category.
+
+3.2. For each type of device, the application shall be accompanied by:
+
+3.2.1. drawings, in triplicate, in sufficient detail to permit identification of the type of the device and showing in what geometrical position the device is to be mounted on the vehicle; the direction of observation to be taken as the axis of reference in the tests (horizontal angle H = 0, vertical angle V = 0); and the point to be taken as the centre of reference in the said tests; the drawings shall show the position intended for the approval mark and eventually the additional symbols in relation to the circle of the approval mark;
+
+3.2.2. A brief technical description stating, in particular, with the exception of lamps with non- replaceable light sources, the category or categories of filament lamps prescribed; this filament lamp category shall be one of those contained in Regulation No. 37.
+
+3.2.3. two devices.
+
+**4. MARKINGS**
+
+4.1. Devices submitted for approval shall in a clearly legible and indelible way bear the following markings:
+
+4.1.1. the trade name or mark of the applicant,
+
+4.1.2. The indication of the filament lamp category or categories provided; this is not valid for lamps with non-replaceable light sources.
+
+4.2. They shall comprise furthermore a space of sufficient size for the approval mark. (See paragraph 3.2.1.).
+
+4.3. In the case of lamps with non-replaceable light sources the rated voltage and rated wattage.
+
+**5. APPROVAL**
+
+5.1. If the two devices of a type of device which are submitted in pursuance of paragraph 3 above, meet the requirements of this Regulation, approval shall be granted.
+
+5.2. When two or more lamps are part of the same device, approval is only granted, if each of these lamps satisfies the provisions of this Regulation or of another Regulation. Lamps not satisfying any one of those Regulations, shall not be part of such device.
+
+5.3. An approval number shall be assigned to each type approved. Its first two digits (at present 00 for the Regulation in its original form) shall indicate the series of amendments incorporating the most recent major technical amendments to the Regulation at the time of issue of the approval. The same contracting Party may not assign the same number to another type of device covered by this Regulation.
+
+5.4. Notice of approval or of refusal of approval of a type of device pursuant to this Regulation shall be communicated to the Parties to the Agreement applying this Regulation, by means of a form conforming to the model shown in Annex 2 to this Regulation and of an attached drawing supplied by the applicant for approval, in a format not exceeding A4 (210 x 297 mm) and, possible, on a scale of 1:1.
+
+5.5. Each device conforming to a type approved under this Regulation shall bear, in the space referred to in paragraph 4.2. above, in addition to the markings referred to in paragraphs 4.1. and 4.3. an international approval mark consisting of:
+
+5.5.1. a circle enclosing the letter "E" followed by the distinguishing number of the country which has granted the approval, [2/] and
+
+5.5.2. the number of this Regulation, followed by the letter "R", a dash and the approval number;
+
+5.5.3. in the general case of a direction indicator: a number indicating the category 11, 12 or 31 close to the circle according to paragraph 5.5.1. and on the opposite side to the approval number;
+
+5.5.4. in the case of a direction indicator, which does on one side not attain the minimum luminous intensity prescribed up to an angle of H = 80 degrees according to paragraph 7.7.1.: a horizontal arrow, the tip of which is oriented to the side where the minimum luminous intensity according to paragraph 7.7.1. is complied with up to an angle of at least 80 degrees.
+
+5.6. Where a device has been found to comply with the requirements of several Regulations, a single approval mark may be applied comprising a circle according to paragraph 5.5.1., the approval numbers, and the additional symbols appropriate to each Regulation under which approval has been granted. The size of the components of this single approval mark shall not be less than the minimum size required for the smallest of the individual marks under a Regulation, under which approval has been granted.
+
+5.7. The marks referred to in paragraph 5.5. above shall be indelible and clearly legible; furthermore, the trade name or mark and the approval mark(s) shall be clearly legible, even when the device is fitted to the vehicle.
+
+5.8. Annex 3 gives an example of arrangement of the approval mark.
+
+**6. GENERAL SPECIFICATIONS**
+
+6.1. Each device shall conform to the specifications of this Regulation.
+
+6.2. The devices must be so designed and constructed that in normal use, and despite the vibrations to which they may be subjected, their satisfactory operation continues to be assured and they retain the characteristics prescribed by this Regulation.
+
+**7. INTENSITY OF LIGHT EMITTED**
+
+In the reference axis, the intensity of the emitted light of each of the two devices shall be at least equal to the minimum values and not exceed the maximum values of the following table. In no direction, the maximum values indicated shall be exceeded.
+
+7.1. Rear position lamp
+
+min. (cd) 4 [4/]
+
+max. (cd) 12
+
+7.2. Front position lamp
+
+min. (cd) 4
+
+max. (cd) 60
+
+7.3. Stop lamp
+
+min. (cd) 40
+
+max. (cd) 100
+
+7.4. Direction indicators
+
+7.4.1. of the category 11 (see Annex 1)
+
+min. (cd) 90
+
+max. (cd) 700 3/
+
+7.4.2. of the category 12 (see Annex 1)
+
+min. (cd) 50
+
+max. (cd) 200
+
+7.4.3. of the category 31 (see Annex 1) to the front
+
+min. (cd) 90
+
+max. (cd) 700 [3/] to the rear
+
+min. (cd) 50
+
+max. (cd) 200
+
+7.5. Outside of the reference axis and within the angle fields defined in the diagrams in Annex 1 to this Regulation, the intensity of the light emitted shall, in each direction corresponding to the points in the light distribution table reproduced in Annex 4 to this Regulation, be not less than the product of the minima specified in paragraph 7.1. to 7.4. above and of the percentage specified in the said table for the direction in question.
+
+7.6. As an exception to paragraph 7.1. above, a luminous intensity of 60 cd maximum shall be permitted for rear position lamps reciprocally incorporated with stop lamps, below a plane forming an angle of 5 degrees with and downward from a horizontal plane.
+
+7.7. Moreover,
+
+7.7.1. throughout the fields defined in Annex 1, the intensity of the light emitted shall be not less than 0.05 cd for position lamps and not less than 0.3 cd for stop lamps and direction indicators;
+
+7.7.2. if a position lamp is grouped or reciprocally incorporated with a stop lamp, the ratio between the luminous intensities actually measured of the two lamps when turned on simultaneously and the intensity of the rear position lamp when turned on alone shall be at least 5:1 to the eleven measuring points defined in Annex 4 and situated in the field delimited by straight vertical lines passing through 0 degrees V/+/- 10 degrees H and the straight horizontal lines passing through +/- 5 degrees V/0 degrees H of the light distribution table;
+
+7.7.3. the provisions of paragraph 2.2. of Annex 4 to this Regulation on local variations of intensity shall be observed.
+
+7.8. The luminous intensities shall be measured with the filament lamp continuously alight. In the case of lamps working intermittently, precaution shall be taken to avoid overheating of the device.
+
+7.9. Annex 4, to which reference is made in paragraph 7.5. above, gives particulars of the methods of measurement to be used.
+
+7.10. The rear-registration-plate illuminating device shall comply with the specifications indicated in Annex 6 to this Regulation.
+
+7.11. The photometric performance lamps equipped with several light sources shall be checked in accordance with the provisions of Annex 4.
+
+**8. TEST PROCEDURE**
+
+8.1. All measurements shall be carried out with an uncoloured standard filament lamp of the category prescribed for the advice, adjusted to produce the reference luminous flux prescribed for the filament lamp involved (see Regulation No. 37).
+
+"All measurements on lamp with non-replaceable light sources shall be made at 6.75 V and 13.5 V respectively."
+
+8.2. The vertical and horizontal outlines of the illuminating surface of a light-signalling device (paragraph 2.7.2.) shall be determined and measured in relation to the centre of reference (paragraph 2.10).
+
+**9. COLOUR OF LIGHT EMITTED**
+
+Stop lamps and rear position lamps shall emit red light, front position lamps may emit white or selective-yellow light, direction indicators shall emit amber light.
+
+The colour of the light emitted, measured using a light source having a colour temperature of 2856 K, [5/] shall be within the limits of the co-ordinates prescribed for the colour in question in Annex 5 to this Regulation.
+
+However, for lamps equipped with non-replaceable light sources, the colorimetric characteristics should be verified with the light sources present in the lamps at a voltage of 6.75 V, 13.5 V or 28.0 V.
+
+**10. CONFORMITY OF PRODUCTION**
+
+Every device bearing an approval mark as prescribed under this Regulation shall conform to the type approved and shall comply with the requirements of this Regulation. However, in the case of a device picked at random from series production, the requirements as to the respectively minimum and maximum intensities of the light emitted (measured with a standard filament lamp as referred to in paragraph 8 above) shall be at least 80% of the minimum values specified and not exceed 120% of the maximum values allowed.
+
+**11. PENALTIES FOR NON-CONFORMITY OF PRODUCTION**
+
+11.1 The approval granted in respect of a device pursuant to this Regulation may be withdrawn if the foregoing conditions are not observed.
+
+11.2 If a Contracting Party to the Agreement, applying this Regulation, withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a copy of the approval form bearing at the end, in large letters, the signed and dated annotation "APPROVAL WITHDRAWN".
+
+**12. PRODUCTION DEFINITELY DISCONTINUED**
+
+If the holder of the approval completely ceases to manufacture a device approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Parties to the Agreement which apply this Regulation by means of a copy of the approval form bearing at the end, in large letters, the signed and date annotation "PRODUCTION DISCONTINUED".
+
+**13. NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS, AND OF ADMINISTRATIVE DEPARTMENTS**
+
+The Parties to the Agreement which apply this Regulation shall communicate to the United Nations Secretariat the names and addresses of the technical services responsible for conducting approval tests and of the administrative departments which grant approval and to which forms certifying approval or refusal or withdrawal of approval issued in other countries, are to be sent.
+
+**Annex 1**
+
+**MINIMUM HORIZONTAL (H) AND MINIMUM VERTICAL (V) ANGLES FOR SPATIAL LIGHT DISTRIBUTION**
+
+**1. Front position lamps**
+
+V = + 15 degrees / - 10 degrees
+
+[image: Diagram showing minimum horizontal and vertical angles for spatial light distribution of a front position lamp]
+
+**2. Rear position lamps**
+
+V = + 15 degrees / - 10 degrees
+
+[image: Diagram showing minimum horizontal and vertical angles for spatial light distribution of a Rear position lamp]
+
+**3. Direction indicators of categories 11 and 12**
+
+V = +/- 15 degrees
+
+[image: Diagram showing minimum horizontal and vertical angles for spatial light distribution of direction indicators of categories 11 an 12.]
+
+**4. Direction indicators of category 31**
+
+V = +/- 15 degrees
+
+[image: Diagram showing minimum horizontal and vertical angles for spatial light distribution of direction indicators of categories 31.]
+
+**5. Stop lamps**
+
+V = + 15 degrees / - 10 degrees
+
+[image: Diagram showing minimum horizontal and vertical angles for spatial light distribution of stop lamps.]
+
+**Annex 2**
+
+**COMMUNICATION**
+
+(maximum format: A4 (210 x 297 mm)
+
+issued by: Name of administration:
+
+[image: Diagram of an approval mark, consisting of a circle with the letter E on the left, the number 1 in the upper right corner and ellipses in the bottom right corner]
+
+concerning: [2/] APPROVAL GRANTED
+
+APPROVAL EXTENDED
+
+APPROVAL REFUSED
+
+APPROVAL WITHDRAWN
+
+PRODUCTION DEFINITELY DISCONTINUED
+
+of a type of: pursuant to Regulation No.50
+
+Approval No. Extension No.
+
+1\. Trade name or mark of the devices:
+
+2\. Manufacturer's name for the type of device:
+
+3\. Manufacturer's name and address:
+
+4\. If applicable, name and address of the manufacturer's representative:
+
+5\. Submitted for approval on:
+
+6\. Technical service responsible for conducting approval tests
+
+7\. Date of report issued by that service:
+
+8\. Number of report issued by that service:
+
+9\. Concise description: [3/] [4/]
+
+By category of lamp:
+
+Colour of light emitted: red/selective yellow/white/amber 2/
+
+Number and category of filament lamp(s): (2 x P21W).
+
+10\. Position of the approval mark:
+
+11\. Reason(s) for extension (if applicable):
+
+12\. Approval granted/refused/extended/withdrawn: 2/
+
+13\. Place:
+
+14\. Date:
+
+15\. Signature:
+
+16\. The list of documents deposited with the Administrative Service which has granted approval is annexed to this communication and may be obtained on request.
+
+**Annex 3**
+
+**ARRANGEMENT OF THE APPROVAL MARK**
+
+(see paragraph 5.3 of this Regulation)
+
+[image: Diagram showing the arrangement of the approval mark of direction indicator approved in the Netherlands under the number 00243 in accordance with the requirements of regulation No 50 in its original form]
+
+a &gt; 5 mm
+
+A device bearing the approval mark shown above is a direction indicator of the category 11 approved in the Netherlands (E4) under the number 00243. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of Regulation No. 50 in its original form.
+
+For a direction indicator, the arrow indicates that the luminous distribution is asymmetrical in a horizontal plane and that the photometric values required are satisfied up to an angle of 80 degrees to the right, the device seen in the opposite sense of the light emitted.
+
+Note
+
+1\. The approval number must be placed close to the circle and either above or below the letter "E" or to the left or right of that letter. The digits of the approval number must be on the same side of the "E" and face in the same direction. The use of Roman numerals as approval numbers should be avoided so as to prevent any confusion with other symbols.
+
+2\. In the case of the filament lamps mentioned in foot-note 4 of paragraph 7.1 of this Regulation, the filament lamp shall be marked with the letter "M".
+
+**Annex 4**
+
+**PHOTOMETRIC MEASUREMENTS**
+
+**1. MEASUREMENT METHODS**
+
+1.1. During photometric measurements, stray reflections shall be prevented by appropriate masking.
+
+1.2. Should the results of measurements be challenged, measurements shall be carried out in such a way as to meet the following requirements:
+
+1.2.1. the distance of measurements shall be such that the law of the inverse of the square of the distance is applicable;
+
+1.2.2. the measuring equipment shall be such that the angular aperture of the receiver viewed from the reference centre of the lamp is between 10' and 1 degrees;
+
+1.2.3. the intensity requirement for a particular direction of observation shall be deemed to be satisfied if that requirement is met in a direction deviating by not more than 15' from the direction of observation.
+
+**2. STANDARD LUMINOUS INTENSITY DISTRIBUTION TABLE**
+
+[image: Diagram showing the standard illuminous intensity distribution]
+
+2.1. The direction H = O degrees and V = O degrees corresponds to the reference axis. (On t' vehicle it is horizontal, parallel to the median longitudinal plane of the vehicle and oriented in the required direction of visibility). It passes through the centre of reference. The values shown in the table give, for the various directions of measurements, the minimum intensities as a percentage of the minimum required in the axis for each lamp (in the direction H = O degrees and V = O degrees).
+
+2.2. Within the field of light distribution of paragraph 2, schematically shown as a grid, the light pattern should be substantially uniform so that the light intensity in each direction of a part of the field formed by the grid lines meets at least the lowest minimum percentage value being shown on the grid lines surrounding the questioned direction.
+
+**3. Photometric measurement of lamps equipped with several light sources**
+
+The photometric performance shall be checked:
+
+3.1. For non-replaceable (fixed) filament lamps or other light sources:
+
+at the voltage prescribed by the manufacturer; the test laboratory may require from the manufacturer the special power supply needed to supply such lamps;
+
+3.2. For replaceable filament lamps:
+
+when equipped with mass production filament lamps at 6.75 V, 13.5 V or 28.0 V the luminous intensity values produced shall lie between the maximum limit given in this Regulation and the minimum limit of this Regulation increased according to the permissible deviation of the luminous flux permitted for the type of filament lamp chosen, as stated in Regulation No. 37 for production filament lamps; alternatively a standard filament lamp may be used in turn, in each of the individual positions, operated at its reference flux, the individual measurements in each position being added together.
+
+**Annex 5**
+
+**COLOURS OF LAMPS TRICHROMATIC CO-ORDINATES**
+
+<table>
+<tr>
+<td rowspan="2">Red:</td>
+<td>limit towards yellow</td>
+<td>y &lt;</td>
+<td>0.335</td>
+</tr>
+<tr>
+<td>limit towards purple</td>
+<td>z &lt;</td>
+<td>0.008</td>
+</tr>
+<tr>
+<td rowspan="6">White:</td>
+<td>limit towards blue</td>
+<td>x &gt;</td>
+<td>0.310</td>
+</tr>
+<tr>
+<td>limit towards yellow</td>
+<td>x &lt;</td>
+<td>0.500</td>
+</tr>
+<tr>
+<td>limit towards green</td>
+<td>y &lt;</td>
+<td>0.150 + 0.640x</td>
+</tr>
+<tr>
+<td>limit towards green</td>
+<td>y &lt;</td>
+<td>0.440</td>
+</tr>
+<tr>
+<td>limit towards purple</td>
+<td>y &gt;</td>
+<td>0.050 + 0.750x</td>
+</tr>
+<tr>
+<td>limit towards red</td>
+<td>y &gt;</td>
+<td>0.382</td>
+</tr>
+<tr>
+<td rowspan="3">Amber:</td>
+<td>limit towards yellow</td>
+<td>y &lt;</td>
+<td>0.429</td>
+</tr>
+<tr>
+<td>limit towards red</td>
+<td>y &gt;</td>
+<td>0.398</td>
+</tr>
+<tr>
+<td>limit towards white</td>
+<td>z &lt;</td>
+<td>0.007</td>
+</tr>
+<tr>
+<td rowspan="4">Selective yellow[*/]</td>
+<td>limit towards red</td>
+<td>y &gt;</td>
+<td>0.138 + 0.580x</td>
+</tr>
+<tr>
+<td>limit towards green</td>
+<td>y &lt;</td>
+<td>1.29x – 0.100</td>
+</tr>
+<tr>
+<td>limit towards white</td>
+<td>y &gt;</td>
+<td>-x + 0.966</td>
+</tr>
+<tr>
+<td>limit towards the spectral value</td>
+<td>y &lt;</td>
+<td>-x + 0.992</td>
+</tr>
+</table>
+
+For verifying the limits above, a source of light at a colour temperature of 2856 K (illuminant A of the International Commission on Illumination (CIE)), in combination with appropriate filters, may be used. However, for lamps equipped with non-replaceable light sources, the colorimetric characteristics should be verified with the light sources present in the lamps at a voltage of 6.75 V, 13.5 V or 28.0 V.
+
+**Annex 6**
+
+**PHOTOMETRIC MEASUREMENTS FOR THE REAR-REGISTRATION-PLATE ILLUMINATING DEVICE**
+
+**1. Space to be illuminated**
+
+The devices can be of category 1 or 2. The devices of category 1 shall be designed to illuminate a space of at least 130 x 240 mm, the devices of category 2 a space of at least 200 x 280 mm.
+
+**2. Colour of the Light**
+
+The light of the illuminating device shall be sufficiently colourless in order not to modify noticeably the colour of the rear-registration-plate.
+
+**3. Angle of Incidence**
+
+The manufacturer of the illuminating device shall specify the position in which the device is to be fitted in relation to the space for the registration plate, the device shall be so placed that the angle of incidence of the light on the surface of the plate does not exceed 82 degrees at any point of the surface to be illuminated, this angle being measured from the extremity of the illuminating area of the device which is furthest from the surface of the plate. If there is more than one illuminating optical element, the foregoing requirement shall apply only to that part of the plate intended to be illuminated by the element concerned.
+
+The device shall be so designed that no light is emitted directly towards the rear with the exception of red light if the device is combined or grouped with a rear lamp.
+
+**4. Measuring Procedure**
+
+Luminance measurements shall be made on a piece of clean white blotting paper with a minimum diffuse reflection factor of 70%, having the same dimensions as the registration plate, placed in the position normally occupied by it and 2 mm in front of its holder.
+
+Luminance measurements shall be made perpendicularly to the surface of the paper at the points shown in paragraph 5 of this annex, each point representing a circular area of 25 mm in diameter.
+
+**5. Photometric Characteristics**
+
+At each of the points of measurement shown below, the luminance B shall be not less than 2 cd/m2.
+
+[image: Diagram showing the points of measurements for category 1 lamp]
+
+**Fig. 1**
+
+Points of measurement for category 1
+
+[image: Diagram showing the points of measurements for category 2 lamp]
+
+**Fig. 2**
+
+Points of measurement for category 2
+
+The gradient of the luminance between the values Bl and B2, measured at any two points l and 2 selected from among those mentioned above, shall not exceed 2 x Bo/cm, Bo being the minimum luminance measured at the various points, that is to say
+
+[image: start formula start fraction B subscript 2 minus B subscript 1 over distance 1 minus 2 in cm end fraction Less than or equal to 2 times B subscript degrees per cm end formula]
+
+**Annex 7**
+
+**DEFINITION OF THE TERMS OF PARAGRAPHS 2.7. TO 2.11. OF THIS REGULATION**
+
+[image: Diagram showing the illuminations surface, axis and centre of reference, light emitting and apparent surface]
+
+Note:
+
+The object being to check that a minimum distance is respected and, in order to avoid the determination of the exact limit of the illuminating surface, simplified methods may be used providing that they do not lead to interpretations which would not correspond to the provisions of minimum distance required by the Regulations.
+
+COMPILATION NOTES
+
+This compilation of Vehicle Standard (Australian Design Rule 53/00 – Front and Rear Position Lamps, Stop Lamps, Direction Indicators and Rear Registration Plate Lamps for L-Group Vehicles) 2006 includes all the instruments set out in the Table of Instruments. This vehicle standard is determined under section 12 of the *Road Vehicle Standards Act 2018*.
+
+The Table of Amendments provides a history of clauses that have been amended, inserted or deleted.
+
+**Table of Instruments**
+
+| **Name of Instrument** | **Registration Date** | **Commencement Date** |
+|---|---|---|
+| Vehicle Standard (Australian Design Rule 53/00 – Front and Rear Position Lamps, Stop Lamps, Direction Indicators and Rear Registration Plate Lamps for L-Group Vehicles) 2006 (F2006L02303) | 21/07/2006 | 22/07/2006 |
+| Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) (F2023L00042) | 19/01/2023 | 20/01/2023 |
+
+**Table of Amendments**
+
+| **Clause affected** | **How affected** | **Amending instrument** |
+|---|---|---|
+| 0.2. | del | *Legislation Act 2003* – section 48D |
+| 0.3. | del | *Legislation Act 2003* – section 48C |
+| 2.1. | am | Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) |
+| 4.1. | am | Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) |
+| 6.1 | am | Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) |
+| 7.1 | am | Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) |
+| Appendix A - title | am | Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) |
+
+ad = added or inserted
+
+am = amended
+
+del = deleted or removed
+
+rr = removed and replaced
+
+ = clause renumbered. This takes the format of old no.  new no.
+
+[1/] This category will be accepted until 31 December 1984.
+
+[2/] 1 for the Federal Republic of Germany, 2 for France, 3 for Italy, 4 for the Netherlands, 5 for Sweden, 6 for Belgium, 7 for Hungary, 8 for Czechoslovakia, 9 for Spain, 10 for Yugoslavia, 11 for the United Kingdom, 12 for Austria, 13 for Luxembourg, 14 for Switzerland, 15 for the German Democratic Republic, 16 for Norway, 17 for Finland, 18 for Denmark, 19 for Romania, 20 for Poland and 21 for Portugal. Subsequent numbers shall be assigned to other countries in the chronological order in which they ratify the Agreement concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicle Equipment and Parts, or in which they accede to that Agreement, and the numbers thus assigned shall be communicated by the Secretary-General of the United Nations to the Contracting Parties to the Agreement.
+
+[4/] Minimum value of 2 cd for mopeds will be accepted until 31 December 1984. This filament lamp will be marked with the letter "M".
+
+[3/] Applies only to the zone between two vertical lines through V = 0 degrees /H = +/- 5 degrees and two horizontal lines through V = +/- 10 degrees /H = 0 degrees . For all other directions, a maximum of 400 cd is applicable.
+
+[5/] Corresponding to illuminant A of the "Commission international de l'eclairage" (CIE).
+
+[2/]1/ Distinguishing number of the country which has granted/extended/ refused/withdrawn approval (see approval provisions in the Regulation)
+
+2/ Strike out what does not apply
+
+[3/] With regard to lighting and light-signalling lamps, when an assembly comprising several lamps designated by a single number has been approved, a single form may be prepared. It is sufficient to indicate: In the heading, the names of the lamps in question; The numbers of the various relevant regulations. In this case, the item "CONCISE DESCRIPTION" is to be prepared as an annex containing the following information for each lamp, where applicable: Number and category of filament lamp(s),Rated voltage, Category of the device, Colour of light emitted."
+
+[4/] "For lamps with non-replaceable light sources indicate the number and the total wattage of the light sources."
+
+[\*/] Applies only to front position lamps reciprocally incorporated with a headlamp which can only emit selective-yellow light.

@@ -1,0 +1,34 @@
+---
+title: Veterans' Entitlements (Continuous Full-time Service - Operation Anode) Determination (No. R22 of 2005)
+identifier: F2005L02682
+register_id: F2005L02682
+type: legislative_instrument
+number: No. R22 of 2005
+jurisdiction: au
+language: en
+date: "2005-09-07"
+version_start: "2003-10-21"
+status: in_force
+source: "https://www.legislation.gov.au/F2005L02682/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Veterans' Entitlements (Continuous Full-time Service - Operation Anode) Determination (No. R22 of 2005)
+
+**Veterans' Entitlements Act 1986**
+
+**Veterans' Entitlements (Continuous Full-time Service -Operation Anode) Determination**
+
+Instrument 2005 No. R22
+
+I, DE-ANNE KELLY, Minister for Veterans' Affairs, pursuant to subsection 33(3) of the *Acts Interpretation Act 1901* and paragraph 5R(1)( a) of the *Veterans' Entitlements Act 1986* (the Act):
+
+(a) revoke the instrument entitled "Continuous full-time service determination under paragraph 5R(1)(a)" and in respect of official war photographers on Operation Anode, made by Danna Vale (former Minister for Veterans' Affairs) on 20 October 2003; and
+
+(b) determine that the Act applies to, and in relation to, a person included in the class of persons who are appointed as official war photographers and who provide services as war photographers in support of Operation Anode on or after 21 October 2003, as if that person was, while rendering such service, a member of the Defence Force who was rendering continuous full-time service.
+
+Dated this 7th day of Sept 2005
+
+**DE-ANNE KELLY**
+
+**MINISTER FOR VETERANS' AFFAIRS**

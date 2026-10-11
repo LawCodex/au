@@ -1,0 +1,430 @@
+---
+title: Vehicle Standard (Australian Design Rule 44/02 – Specific Purpose Vehicle Requirements) 2006
+identifier: F2006L01431
+register_id: F2025C01185
+type: legislative_instrument
+number: ADR 44/02
+jurisdiction: au
+language: en
+date: "2006-04-26"
+compilation_number: 2
+last_amended: "2025-12-06"
+version_start: "2025-12-06"
+status: in_force
+source: "https://www.legislation.gov.au/F2006L01431/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Vehicle Standard (Australian Design Rule 44/02 – Specific Purpose Vehicle Requirements) 2006
+
+Vehicle Standard (Australian Design Rule 44/02 – Specific Purpose Vehicle Requirements) 2006
+
+Originally made under the *Motor Vehicle Standards Act 1989* and continued in force under the *Road Vehicle Standards Act 2018*
+
+**Compilation No. 2**
+
+**Compilation date:** 06/12/2025
+
+**Includes amendments:** Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2025
+
+**Prepared by:** Vehicle Safety Policy and Partnerships, Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+
+**CONTENTS**
+
+**About this compilation**
+
+**This compilation**
+
+This is a compilation of the Vehicle Standard (Australian Design Rule 44/02 – Specific Purpose Vehicle Requirements) 2006 that shows the text of the law as amended and in force on 06/12/2025 (the ***compilation date***).
+
+The notes at the end of this compilation (the ***endnotes***) include information about amending laws and the amendment history of provisions of the compiled law.
+
+**Uncommenced amendments**
+
+The effect of uncommenced amendments is not shown in the text of the compiled law. The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au).
+
+**Application, saving and transitional provisions**
+
+If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
+
+**Modifications**
+
+If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. Any modifications affecting the law are accessible on the Register.
+
+**Self‑repealing provisions**
+
+If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
+
+0\. legislative provisions
+
+0.1. NAME OF STANDARD
+
+0.1.1. This Standard is the Vehicle Standard (Australian Design Rule 44/02 –Specific Purpose Vehicle Requirements) 2006.
+
+0.1.2. This Standard may also be cited as Australian Design Rule 44/02 — Specific Purpose Vehicle Requirements.
+
+SCOPE
+
+The function of this Australian Design Rule is to specify requirements for the construction of the following vehicles:
+
+*‘Tow Trucks’*; *‘Pole-type Trailers’*; LPG-fuelled Vehicles; Emergency Vehicles; Motorhomes/*‘Caravans’*; and Omnibuses.
+
+APPLICABILITY AND IMPLEMENTATION
+
+This ADR applies to the design and construction of vehicles as set out in the table below.
+
+Applicability Table
+
+| **Vehicle Category** | **ADR Category Code** | **UNECE Category Code** | **Manufactured on or After** | **Acceptable Prior Rules** |
+|---|---|---|---|---|
+| Moped 2 wheels | LA | L1 | 1 March 1993 | /00 /01 |
+| Moped 3 wheels | LB | L2 | 1 March 1993 | /00 /01 |
+| Motor cycle | LC | L3 | 1 March 1993 | /00 /01 |
+| Motor cycle and sidecar | LD | L4 | 1 March 1993 | /00 /01 |
+| Motor tricycle | LE | L5 | 1 March 1993 | /00 /01 |
+|  | LEM |  | 1 March 1993 | /00 /01 |
+|  | LEP |  | 1 March 1993 | /00 /01 |
+|  | LEG |  | 1 March 1993 | /00 /01 |
+| Passenger car | MA | M1 | 1 Jan 1993 | /00 /01 |
+| Forward-control passenger vehicle | MB | M1 | 1 Jan 1993 | /00 /01 |
+| Off-road passenger vehicle | MC | M1 | 1 Jan 1993 | /00 /01 |
+| Light omnibus | MD | M2 |  |  |
+| up to 3.5 tonnes ‘*GVM’* and up to 12 seats | MD1 |  | 1 July 1993 | /00 /01 |
+| up to 3.5 tonnes *‘GVM’* and more than 12 seats | MD2 |  | 1 July 1993 | /00 /01 |
+| over 3.5 tonnes and up to 4.5 tonnes *‘GVM’* | MD3 |  | 1 July 1993 | nil |
+| over 4.5 tonnes and up to 5 tonnes *‘GVM’* | MD4 |  | 1 July 1993 | nil |
+| Heavy omnibus | ME | M3 | 1 July 1993 | nil |
+| Light goods vehicle | NA | N1 | 1 July 1993 | /00 /01 |
+| Medium goods vehicle | NB | N2 |  |  |
+| over 3.5 tonnes up to 4.5 tonnes *‘GVM’* | NB1 |  | 1 July 1993 | /00 /01 |
+| over 4.5 tonnes up to 12 tonnes *‘GVM’* | NB2 |  | 1 July 1993 | /00 /01 |
+| Heavy goods vehicle | NC | N3 | 1 July 1993 | /00 /01 |
+| Very light trailer | TA | O1 | 1 July 1993 | /00 /01 |
+| Light trailer | TB | O2 | 1 July 1993 | /00 /01 |
+| Medium trailer | TC | O3 | 1 July 1993 | /00 /01 |
+| Heavy trailer | TD | O4 | 1 July 1993 | /00 /01 |
+
+**DEFINITIONS** Refer to Vehicle Standard (Australian Design Rule Definitions and Vehicle Categories) 2005 and clauses 44.1.2. to 44.1.6.
+
+**REQUIREMENTS**
+
+44.2 This Rule covers additional design and construction requirements for vehicles as specific purpose vehicles. Where they fall within a vehicle category, e.g. ‘*Tow Trucks*’ into NA, NB or NC, they must also comply with all requirements of those vehicles as set out in individual Australian Design Rules.
+
+Clause not used.
+
+***‘TOW TRUCKS’*** **Classification**
+
+Every ‘*Tow Truck*’ shall have a ‘*Load Capacity*’ appropriate to the gross mass of any vehicle it is required to tow in accordance with one of the following classes:
+
+**Class 1**
+
+A ‘*Tow Truck*’ of this class shall have a ‘*Load Capacity*’ of not less than 1.2 tonnes and shall be equipped with a ‘*Crane*’ with a safe working load of not less than one tonne. A Class 1 ‘*Tow Truck*’ shall be limited to the lifting and carrying or towing of vehicles with a gross mass not exceeding 2 tonnes.
+
+**Class 2**
+
+A ‘*Tow Truck*’ of this class shall have a ‘*Load Capacity*’ of not less than 3 tonnes and shall be equipped with a ‘*Crane*’ with a safe working load of not less than 2.5 tonnes. A Class 2 ‘*Tow Truck*’ shall be limited to the lifting and carrying or towing of vehicles with a gross mass up to 5 tonnes.
+
+**Class 3**
+
+A ‘*Tow Truck*’ of this class shall have a minimum ‘*Gross Combination Mass*’ rating of 18 tonnes and shall be equipped with a ‘*Crane*’ with a safe working load of not less than 5 tonnes. A Class 3 ‘*Tow Truck*’ shall be limited to the lifting and carrying or towing of motor vehicles with a gross mass not exceeding 12 tonnes.
+
+**Class 4**
+
+A ‘*Tow Truck*’ of this class shall have a minimum ‘*Gross Combination Mass*’ rating of 25 tonnes and shall be equipped with at least the following:
+
+tandem rear *‘Axle Group’*;
+
+a *‘Crane’* of safe working load not less than 5 tonnes;
+
+a power operated winch; and
+
+air brake facilities for connecting to towed vehicles.
+
+***‘Crane’*** The design, construction and marking of the ‘*Crane’*, its attachments and supporting structure shall be in accordance with the requirements of Australian Standard 1418 “Rules for Cranes”, Part 1 (1977-"General Requirements") and Part 5 (1980-"Mobile Cranes") and be approved by the relevant authority supervising lifting appliances. The ‘*Crane*’ shall be located and mounted on the vehicle in the manner directed by the said authority. Every ‘*Tow Truck*’ shall be provided with means for supporting the load in its raised position whilst under tow.
+
+**General Requirements** Every ‘*Tow Truck*’ shall be fitted with dual tyres on the wheels of the rear ‘*Axle Group*’. Every ‘*Tow Truck*’ shall be equipped with suitable spacer bars and safety chains to enable the driver thereof to exercise efficient control over the towed vehicle whilst being towed. Spacer bars shall be of such design as to minimise any damage to the towed vehicle which could be caused by the ‘*Tow Truck*’ or its equipment. Every ‘*Tow Truck*’ shall have its class as determined by application of clause 44.4.1 clearly marked on some conspicuous part of its right-hand side. The letters shall be at least 50 mm high and 25 mm wide.
+
+**Additional Lamps and Warning Signs** Every ‘*Tow Truck*’ shall be equipped with: a flashing amber light which shall comply with the provisions of clause 44.7; and an adjustable white lamp so mounted that during the hours of darkness it will illuminate the area in which the coupling of ‘*Tow Truck*’ to any vehicle to be lifted, carried or towed is to be effected. Every ‘*Tow Truck*’ shall have equipment which can be placed on the towed vehicle and connected electrically to the ‘*Tow Truck*’ so as to enable the requirements of ADR 13/... to be complied with. Every ‘*Tow Truck*’ shall be equipped with not less than 3 portable warning devices complying with the Standard Specification for warning signs set out in AS E38-1962 “ Portable Warning Signs for Motor Vehicles”, including Amendment 1.
+
+**Fire Extinguisher**
+
+Every ‘*Tow Truck*’ shall be equipped with a fire extinguisher of not less than 4.5 litres capacity, selected in accordance with AS 2444 - 1985 “Portable Fire Extinguishers - Selection and Location”.
+
+**‘*****POLE-TYPE TRAILERS*****’ AND THEIR DRAWING VEHICLES - SPECIAL LIGHTING REQUIREMENTS** On every ‘*Pole-type Trailer*’ there shall be the following: on each side of the rearmost bolster, one ‘*Side Marker Lamp*’; and one front reflex reflector, non-triangular on each side of the front facing section of the foremost bolster. **Drawing Vehicles for** ***‘Pole-type Trailers’*** On every motor vehicle fitted with one or more bolster, i.e. a motor vehicle designed to draw a ‘*Pole-type Trailer*’, there shall be the following: on each side of the rearmost bolster, one ‘*Side Marker Lamp*’; and one front reflex reflector, non-triangular on each side of the front facing section of the foremost bolster.
+
+**LIQUEFIED PETROLEUM GAS (LPG) FUELLED VEHICLES**
+
+44.6.0. All motor vehicles manufactured to use LPG as a fuel shall meet the following requirements.
+
+The LPG fuel system shall at least meet the Australian Standard 1425-1989 “SAA Automotive LP Gas Code”. The LPG fuel system may meet “Australian Standard AS 1425 LP Gas for Fuel Systems for Vehicle Engines” published jointly by, or on behalf of, Standards Australia and Standards New Zealand, as in force from time to time in lieu of clause 44.6.1.
+
+The LPG storage cylinder(s) comply with AS 3509-1988 “LP Gas Fuel Vessels for Automotive Use”.
+
+The vehicle shall be clearly and permanently marked in a conspicuous position within the engine bay with the following: a statement that the LPG fuel system has been installed in accordance with the document referred to in clause 44.6.1. the identification of the licensed or approved person or organisation which installed the LPG fuel system; and the date of installation.
+
+The vehicle, to indicate that it is equipped to use LPG as a fuel, shall carry affixed to the front and rear registration plates, an external label of durable material conforming with at least the following specifications: size, not less than 25 mm square; and colour, reflective red conforming to Australian Standard 1742-1975 “Manual of Uniform Traffic Control Devices” Appendix C, Class 2.
+
+**EMERGENCY COMMUNITY SERVICE VEHICLES - LAMPS** Any motor vehicle used as an ambulance may be equipped with a lamp or lamps which when lighted show the word “AMBULANCE” or illuminate a sign recognized as that of an ambulance service. **Flashing warning lamps**
+
+Vehicles operated by ambulance, fire fighting and police authorities or organisations providing emergency community services which may require priority travel when engaged on emergency work may be equipped with a flashing lamp or lamps. Such lamps shall meet the following provisions:
+
+At least one lamp shall be mounted on top of the vehicle and when lighted, shall be visible in normal daylight up to a distance of not less than 200 metres to vehicles approaching from any direction.
+
+The colour shall be: blue in the case of police vehicles; red in the case of ambulance, or fire fighting vehicles; or amber in the case of other emergency community service vehicles.
+
+In the case of vehicles permitted to display flashing warning lamps, additional lamps may be mounted in any position on the vehicle provided that no part of the lens of the lamps is visible either directly or indirectly to the driver when seated in the normal driving position.
+
+All flashing warning lamps fitted to a motor vehicle and under the provisions of this clause shall be of the same colour.
+
+**MOTORHOMES AND ‘*****CARAVANS*****’ Doors**
+
+Every motor vehicle (motorhome) or trailer (‘*Caravan*’) equipped with fuel burning (cooking) facilities or living or sleeping accommodation shall have only outward-opening or sliding doors. At least one such door shall be located on the left-hand side or at the rear.
+
+**Liquefied Petroleum Gas Equipment**
+
+Unless otherwise ‘*Approved*’, liquefied petroleum gas installations in motorhomes and ‘*Caravans*’ shall comply with the requirements of “Code Governing the Installation in Caravans of Liquefied Petroleum Gas Equipment and Appliances”, issued by the Australian Liquefied Petroleum Gas Association.
+
+**Fire Extinguisher**
+
+Motorhomes and ‘*Caravans*’ shall be provided with a fire extinguisher(s) selected and located in accordance with the Australian Standard referred to in clause 44.4.5.
+
+**EMERGENCY EXITS FOR OMNIBUSES**
+
+Required for MD3, MD4 and ME vehicles designed for more than 16 passengers in addition to the driver and crew.
+
+44.9.0 **Types of Emergency Exit:**
+
+Emergency Door; Emergency Window; and Escape Hatch.
+
+**Number** Every vehicle shall have at least either, one *‘Service Door’* and one emergency door, or two separate *‘Service Doors’.*\
+The minimum number of emergency exits for each deck or section of a vehicle, or each separate passenger compartment of a rigid vehicle (other than toilet, service areas, etc.) shall be such that the total number in each compartment, deck or section is as follows:
+
+| Number of occupants, including the driver & standees for each component deck or section | Number of emergency exits |
+|---|---|
+| less than 26 | 4 |
+| 26–36 | 5 |
+| greater than 36 | 6 |
+
+Each rigid section of an articulated bus shall be treated as a separate section for the purpose of calculating the minimum number of emergency exits to be provided.
+
+In the case of a multi-deck vehicle, an articulated or a multi-section vehicle, access between decks or sections may be considered as an emergency exit for each deck or section.
+
+Each escape hatch may count only as one of the above mentioned number of emergency exits.
+
+If the driver’s compartment is not accessible from the inside of vehicle it shall have two emergency exits, both of which shall not be in the same surface; where one of the exits is a window it shall comply with the requirements set out in clause 44.9.4.2 for emergency windows.
+
+A *‘Service Door’* with an aperture width of at least 600 mm may count as two emergency exits and a emergency window of at least 0.8 m2 area and with an aperture width of at least 1,000 mm wide may count as two emergency windows.
+
+A window may serve as an emergency exit provided that it meets the emergency exit requirements.
+
+Every *‘Service Door’* shall be capable of being easily opened from inside and from outside the vehicle when the vehicle is stationary (but not necessarily when the vehicle is moving). However, this requirement shall not be construed as precluding the possibility of locking the door from outside, provided that the door can always be opened from the inside.
+
+**Minimum dimensions**
+
+The three types of emergency exit set out in clause 44.9.0 shall have the following minimum dimensions:
+
+| Aperture of emergency door | Height | 1,250 mm |
+|---|---|---|
+|  | Width | 550 mm |
+| Aperture of emergency window |  |  |
+|  | Area | 0.4 m2 |
+|  | Height | 500 mm |
+|  | Width | 600 mm |
+| Aperture of escape hatch |  |  |
+|  | Area | 0.4 m2 |
+|  | Width | 500 mm |
+|  | Length | 600 mm |
+
+**Siting of Emergency Exits** Each passenger compartment, deck or section shall have an emergency exit placed in three out of the following surfaces - roof, front face, rear face, *‘Right‑hand Side’* and *‘Left‑hand Side’* and, in the case of the top deck of a double deck vehicle, the floor. In the case of a double deck vehicle there shall be an emergency exit in either the front face or rear face of each deck. Where access between decks or sections is used as an emergency exit for each deck or section that access can be considered as one of the required surfaces.
+
+**Technical Conditions Emergency doors** Emergency doors shall be capable of being easily opened manually from inside and from outside. However, this requirement shall not be construed as precluding the possibility of locking the door from the outside for the purpose of securing the vehicle when unattended, provided that the door can always be opened from the inside by the use of the normal opening mechanism. Emergency doors shall not be of the slide-in-cavity type. Emergency doors shall not be equipped with a power-operated control system unless they can be readily opened manually. The outside handles of emergency doors shall be not more than 1,800 mm above the ground when the vehicle is standing unladen on level ground. Emergency doors shall open outwards. Check straps, chains or other restraining devices are permitted, provided that they do not prevent the door from opening to and remaining open at an angle of at least 100 degrees. The requirement in clause 44.9.4.1.5 is not intended to preclude the use of power operated doors which do not normally open to 100 degrees but which can be made to open to at least 100 degrees by the operation of a device by one single movement The internal opening operation of emergency doors which are not also *‘Service Door’s’* shall include sequential movement of 2 separate devices, with the primary opening device being designed to prevent inadvertent operation. If the emergency door is fitted with latches, they shall be of the two-stage type, i.e. they shall have a fully-latched and a secondary position. Each emergency door with a bottom edge between 1,000 mm and 2,000 mm above the ground shall have a means to assist the occupants in descending to the ground, such as footrests, with no more than 500 mm between successive footrests with the bottom tread not more than 1,000 mm above the ground. A footrest may be a vehicle component. Each emergency door with a bottom edge over 2,000 mm above the ground shall be equipped with self-supporting steps or equivalent to provide safe evacuation of occupants to the ground. The bottom step of the evacuation device shall be no more than 1000 mm above the around. **Emergency windows** Each emergency window (which may include the windscreen) shall be capable of operation from both inside and from outside the vehicle and shall: be equipped with a window-ejecting device and/or be capable of being easily and instantaneously operated by one adult by means of a device which can be non-destructively tested in-service; and/or be made of readily-breakable safety glass. In this case, a securely-attached means of breaking the glass shall be provided in close proximity to the emergency window on the inside of the vehicle. Emergency windows which can be locked from the outside for the purpose of securing the vehicle when unattended shall be constructed in such a way that they can always be opened from the inside of the vehicle. If the emergency window is of a type horizontally hinged at the top edge, an appropriate device shall be provided to hold it open. Emergency windows which open or eject shall do so towards the exterior. The height of the lower edge of an emergency window from the level of the floor immediately below it shall be not more than 1,000 mm. Each emergency window with a bottom edge between 1,000 mm and 2,000 mm above the ground shall have a means to assist the occupants in descending to the ground, such as footrests, with no more than 500 mm between successive footrests and the bottom tread not more than 1000 mm above the ground. A footrest may be a vehicle component. Each emergency window with a bottom edge over 2,000 mm above the ground shall be equipped with self-supporting steps or equivalent to provide safe evacuation of occupants to the ground. The bottom step of the evacuation device shall not be more than 1,000 mm above the ground. **Escape hatches** Escape hatches shall be of the sliding or erectable type. A sliding panel shall be acceptable provided that the force required to open it does not exceed 500 N. Hinged hatches allowed if hinged on the leading edge. Every escape hatch shall operate so as not to obstruct clear access from inside and outside the vehicle. Escape hatches shall be capable of being easily opened from the inside and from the outside. However, this requirement shall not be construed as precluding the possibility of locking the escape hatch for the purpose of securing the vehicle when unattended, provided that the escape hatch can always be opened from the inside by the use of the normal opening mechanism. Escape hatches shall be located along the longitudinal centre line of the vehicle.
+
+**Marking of Emergency Exits** Each emergency door (other than a *‘Service Door’)* and each emergency window shall be conspicuously marked in a colour which contrasts with the background by an inscription reading "EMERGENCY EXIT" inside the vehicle in letters at least 25 mm high and outside the vehicle in letters at least 50 mm high.
+
+The marking on the outside of the vehicle shall be on retroreflective material.
+
+Each escape hatch shall be likewise marked inside the vehicle.
+
+**Internal signs**
+
+Conspicuous signs indicating the location of all emergency exits shall be visible from the *‘Aisle’.* The signs shall:
+
+include the word “EXIT” in letters at least 25 mm high;
+
+be red on a white background or vice versa; and
+
+be permanently illuminated whilst the vehicle is in operation. It shall be either illuminated or *‘Self-illuminating’* for at least 15 minutes after the vehicle ceases operation or 15 minutes after loss of battery power.
+
+**Marking of controls**
+
+The emergency controls of *‘Service Doors’* and of all emergency exits shall be marked in a colour which contrasts with the background and at least 10 mm in size on *‘Self-illuminating’* material on the inside and on retroreflective material on the outside of the vehicle either by a representative symbol or by a clearly-worded inscription.
+
+**Instructions for operation**
+
+Clear instructions concerning the method of operation shall be placed on *‘Self-illuminating’* material inside and on retroreflective material outside the vehicle, on or close to every control of an emergency exit.
+
+**Interior Arrangements** Interior access to emergency doors (see Figure 1) The free space between the *‘Aisle’* and the emergency door aperture shall permit the free passage to and through the aperture of a vertical cylinder 300 mm in diameter and 700 mm high and supporting a second vertical cylinder 550 mm in diameter, the aggregate height of the assembly being 1,250 mm.
+
+It is permissible for this access to cross a *‘Seat’,* wheel arch or similar fixture and also for the cylinders to be tilted up to 25 degrees from the vertical in order to gain access to the aperture.
+
+The base of the first cylinder shall be within the projection of the second cylinder.
+
+Where hinged *‘Seats’* are installed alongside this passage, the free space for the cylinder shall be required to be determined when the *‘Seat’* is in the position in which it can be used as a *‘Seat’.*
+
+Interior access to emergency windows and hatches. It shall be possible to move a test gauge from the *‘Aisle’* to the exterior of the vehicle through every emergency window and hatch The direction of motion of the test gauge shall be in the direction in which a passenger evacuating the vehicle would be expected to move.
+
+The test gauge shall be kept perpendicular to that direction of motion.
+
+The test gauge shall be in the form of a thin plate having a size of 600 mm x 400 mm with corners radiused by 300 mm. However, in the case of an emergency window in the rear face of the vehicle, the test gauge may alternatively have a size of 1,400 mm x 350 mm with the corners radiused by 175 mm.
+
+If the driver’s access door is to be counted as an emergency window, the aperture shall have the minimum dimensions of an emergency window extending from the passenger compartment past the driver’s *‘Seat’* and the steering assembly to the aperture.
+
+**Construction of Emergency Exits**
+
+All emergency exits shall be so constructed to minimise the probability of their jamming even if the body of the vehicle is distorted by impact.
+
+**Provision of Warning Devices for Emergency Exits other than** ***‘Service Door(s)’*** **which are also emergency doors or emergency windows.** When the engine is started and/or the vehicle is in motion then a warning is given if: activation of the primary opening device of an emergency door or the opening/ejection device of an emergency window has occurred; an emergency door, emergency window or emergency hatch is locked from the outside; or an emergency door or emergency window is not securely closed. The warning device shall give a visible and audible warning at the driver’s position. The warning device of an emergency door or emergency window shall be operated by the movement of the door or window catch or other device and not only by the movement of the door or window itself.
+
+[image: Figure 1 Access to Emergency Doors Figure shows the emergency door access measurements]Figure 1
+
+Access to Emergency Doors
+
+Endnotes
+
+### Endnote 1—About the endnotes
+
+The endnotes provide information about this compilation and the compiled law.
+
+The following endnotes are included in every compilation:
+
+Endnote 1—About the endnotes
+
+Endnote 2—Abbreviation key
+
+Endnote 3—Legislation history
+
+Endnote 4—Amendment history
+
+**Abbreviation key—Endnote 2**
+
+The abbreviation key sets out abbreviations that may be used in the endnotes.
+
+**Legislation history and amendment history—Endnotes 3 and 4**
+
+Amending laws are annotated in the legislation history and amendment history.
+
+The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation.
+
+The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law.
+
+**Misdescribed amendments**
+
+A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section 15V of the *Legislation Act 2003*.
+
+If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and “(md not incorp)” is added to the amendment history.
+
+### Endnote 2—Abbreviation key
+
+| ad = added or inserted | orig = original |
+|---|---|
+| am = amended | p = page(s) |
+| amdt = amendment | para = paragraph(s)/subparagraph(s)/sub-subparagraph(s) |
+| C[x] = Compilation No. x | pres = present |
+| ch = Chapter(s) | prev = previous |
+| cl = clause(s) | (prev…) = previously |
+| cont. = continued | pt = Part(s) |
+| def = definition(s) | r = regulation(s)/Court rule(s) |
+| Dict = Dictionary | reloc = relocated |
+| disallowed = disallowed by Parliament | renum = renumbered |
+| div = Division(s) | rep = repealed |
+| exp = expires/expired or ceases/ceased to have effect | rs = repealed and substituted |
+| gaz = gazette | s = section(s)/subsection(s) /rule(s)/subrule(s)/order(s)/suborder(s) |
+| LA = *Legislation Act 2003* | sch = Schedule(s) |
+| LIA = *Legislative Instruments Act 2003* | SLI = Select Legislative Instrument |
+| (md not incorp) = misdescribed amendment cannot be given effect | SR = Statutory Rules |
+| mod = modified/modification | sub ch = Sub‑Chapter(s) |
+| No. = Number(s) | sub div = Subdivision(s) |
+|  | sub pt = Subpart(s) |
+|  | underlining = whole or part not commenced or to be commenced |
+
+### Endnote 3—Legislation history
+
+| Name | Registration | Commencement | Application, saving and transitional provisions |
+|---|---|---|---|
+| Vehicle Standard (Australian Design 44/02 – Specific Purpose Vehicle Requirements) 2006 | 26/04/2006 | 27/04/2006 |  |
+| Vehicle Standard (Australian Design Rule) Amendment Instrument 2021 (No.1) | 13/05/21 | 14/05/21 |  |
+| Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2025 | 05/12/2025 | 06/12/2025 |  |
+
+### Endnote 4—Amendment history
+
+<table>
+<tr>
+<td><b>Provision affected</b></td>
+<td colspan="3"><b>How affected</b></td>
+<td><b>Amending legislation/instrument</b></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">0.2.</td>
+<td>rep</td>
+<td colspan="3"><i>Legislation Act 2003</i> – section 48D</td>
+</tr>
+<tr>
+<td colspan="2">0.3.</td>
+<td>rep</td>
+<td colspan="3"><i>Legislation Act 2003</i> – section 48C</td>
+</tr>
+<tr>
+<td colspan="2">A</td>
+<td>am</td>
+<td colspan="3">Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2025</td>
+</tr>
+<tr>
+<td colspan="2">44.2</td>
+<td>am</td>
+<td colspan="3">Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2025</td>
+</tr>
+<tr>
+<td colspan="2">44.3</td>
+<td>rs</td>
+<td colspan="3">Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2025</td>
+</tr>
+<tr>
+<td colspan="2">44.4.1.4.1.</td>
+<td>am</td>
+<td colspan="3">Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2025</td>
+</tr>
+<tr>
+<td colspan="2">44.4.1.4.2.</td>
+<td>am</td>
+<td colspan="3">Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2025</td>
+</tr>
+<tr>
+<td colspan="2">44.6.1.1.</td>
+<td>ad</td>
+<td colspan="3">Vehicle Standard (Australian Design Rule) Amendment Instrument 2021 (No.1)</td>
+</tr>
+<tr>
+<td colspan="2">44.8.3.</td>
+<td>rs</td>
+<td colspan="3">Vehicle Standard (Australian Design Rule) Amendment Instrument 2021 (No.1)</td>
+</tr>
+<tr>
+<td colspan="2">44.9.8.</td>
+<td>rs</td>
+<td colspan="3">Vehicle Standard (Australian Design Rule) Amendment Instrument 2021 (No.1)</td>
+</tr>
+<tr>
+<td colspan="2">44.9.8</td>
+<td>am</td>
+<td colspan="3">Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2025</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>

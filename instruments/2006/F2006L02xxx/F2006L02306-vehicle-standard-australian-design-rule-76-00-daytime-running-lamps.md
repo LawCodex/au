@@ -1,0 +1,789 @@
+---
+title: Vehicle Standard (Australian Design Rule 76/00 – Daytime Running Lamps) 2006
+identifier: F2006L02306
+register_id: F2023C00140
+type: legislative_instrument
+number: ADR 76/00
+jurisdiction: au
+language: en
+date: "2006-07-05"
+compilation_number: 2
+last_amended: "2023-01-20"
+version_start: "2023-01-20"
+status: in_force
+source: "https://www.legislation.gov.au/F2006L02306/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Vehicle Standard (Australian Design Rule 76/00 – Daytime Running Lamps) 2006
+
+Vehicle Standard (Australian Design Rule 76/00 – Daytime Running Lamps) 2006
+
+Made under section 12 of the *Road Vehicle Standards Act 2018*
+
+Compilation: 2 (up to and including Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1))
+
+Compilation Date: 20 January 2023
+
+Compiled by: Vehicle Safety Policy and Partnerships, Department of Infrastructure, Transport, Regional Development, Communications and the Arts
+
+**CONTENTS**
+
+legislative provisions NAME OF STANDARD This Standard is the Vehicle Standard (Australian Design Rule 76/00 – Daytime Running Lamps) 2006. This Standard may also be cited as Australian Design Rule 76/00 – Daytime Running Lamps.
+
+SCOPE
+
+This Australian Design Rule (ADR) prescribes the photometric requirements for daytime running lamps which when provided is intended to increase the conspicuity of a vehicle in daylight.
+
+APPLICABILITY AND IMPLEMENTATION The circumstances under which daytime running lamps are mandatory, optional, or prohibited are set out in either ADRs 13/…, 19/… or 67/….
+
+DEFINITIONS Refer to paragraph 2 of Appendix A.
+
+REQUIREMENTS Daytime running lamps fitted to vehicles in accordance with ADRs 13/..., 19/... or 67/... and required to comply with this ADR, must comply with either:
+
+The technical requirements of Appendix A as varied by part 5 Exemptions and Alternative Procedures and Part 6 Supplementary General Requirements; or
+
+The alternative standards set out in part 7 Alternative Standards.
+
+EXEMPTIONS AND ALTERNATIVE PROCEDURES The following provisions of appendix A do not apply. Section 3 Application for approval
+
+Section 4 Markings
+
+Section 5 Approval
+
+Section 12 Modification of a type of daytime running lamp and extension of approval
+
+Section 14 Penalties for non-conformity of production
+
+Section 15 Production definitely discontinued
+
+Section 16 Names and addresses of technical services responsible for conducting approval tests, and of administrative departments
+
+Annexes
+
+Annex 1 Communication
+
+Annex 2 Examples of arrangements of approval marks
+
+Paragraphs 2.3 and 3.3 in Annex 5.
+
+SUPPLEMENTARY GENERAL REQUIREMENTS
+
+The following general requirements are supplementary to the requirements of Appendix A.
+
+The requirements and procedures set out in Annexes 4 and 5 of Appendix A are acceptable for the purposes of demonstrating compliance with the technical requirements of this rule.
+
+ALTERNATIVE STANDARDS The technical requirements of the United Nations Regulation No. 87 - UNIFORM PROVISIONS CONCERNING THE APPROVAL OF DAYTIME RUNNING LAMPS FOR POWER-DRIVEN VEHICLES.
+
+NOTES Read Appendix A paragraph 1. Scope as “This Regulation applies to daytime running lamps for vehicles of category L, M and N.” In place of Regulation No 48 where referenced in Appendix A, read ADR 13/00. In place of Regulation No 37 where referenced in Appendix A, read ADR 51/00.
+
+APPENDIX A
+
+**UN REGULATION NO. 87**
+
+**UNIFORM PROVISIONS CONCERNING THE APPROVAL OF DAYTIME RUNNING LAMPS FOR POWER-DRIVEN VEHICLES**
+
+[image: Header for the document - UN REGULATION NO. 87. UNIFORM PROVISIONS CONCERNING THE APPROVAL OF DAYTIME RUNNING LAMPS FOR POWER DRIVEN VEHICLES. Document reference is - E/ECE/324/Rev.1/Add.86/Rev.3/Amend.1−E/ECE/TRANS/505/Rev.1/Add.86/Rev.3/Amend.1. Document date is 20 August 2013]
+
+**Agreement**
+
+**Concerning the Adoption of Uniform Technical Prescriptions for Wheeled Vehicles, Equipment and Parts which can be Fitted and/or be Used on Wheeled Vehicles and the Conditions for Reciprocal Recognition of Approvals Granted on the Basis of these Prescriptions**
+
+(Revision 2, including the amendments which entered into force on 16 October 1995)
+
+**Addendum 86: Regulation No. 87**
+
+Revision 3
+
+Incorporating all valid text up to:
+
+Supplement 13 to the original version of the Regulation - Date of entry into force: 15 October 2008
+
+Supplement 14 to the original version of the Regulation - Date of entry into force: 24 October 2009
+
+Corrigendum 1 to Revision 2 of the original version of the Regulation - Date of entry into force: 11 November 2009
+
+Erratum to Revision 2 of the original version of the Regulation
+
+Supplement 15 to the original version of the Regulation - Date of entry into force: 9 December 2010
+
+Corrigendum 2 to Revision 2 of the original version of the Regulation - Date of entry into force: 9 March 2011
+
+Supplement 16 to the original version of the Regulation - Date of entry into force: 15 July 2013
+
+Supplement 17 to the original version of the Regulation – Date of entry into force: 3 November 2013
+
+**Uniform provisions concerning the approval of daytime running lamps for power-driven vehicles**
+
+[image: United Nations logo. A world globe, surrounded by a thin wreath of leaves]
+
+**UNITED NATIONS**
+
+**Regulation No. 87**
+
+**UNIFORM PROVISIONS CONCERNING THE APPROVAL OF DAYTIME RUNNING LAMPS FOR POWER DRIVEN VEHICLES**
+
+**CONTENTS**
+
+Regulation
+
+1\. Scope
+
+2\. Definitions
+
+3\. Applications for approval
+
+4\. Markings
+
+5\. Approval
+
+6\. General specifications
+
+7\. Intensity of light
+
+8\. Apparent surface
+
+9\. Colour of light
+
+10\. Test procedure
+
+11\. Heat resistance test
+
+12\. Modifications of a type of daytime running lamp and extension of approval
+
+13\. Conformity of production
+
+14\. Penalties for non-conformity of production
+
+15\. Production definitely discontinued
+
+16\. Names and addresses of technical services responsible for conducting approval tests, and of administrative departments
+
+ANNEXES
+
+Annex 1: Communication
+
+Annex 2: Example of arrangement of the approval mark
+
+Annex 3: Photometric measurements
+
+Annex 4: Minimum requirements for conformity of production control procedures
+
+Annex 5: Minimum requirements for sampling by an inspector
+
+Annex 6: Minimum angles required for light distribution in space
+
+**Scope**
+
+This Regulation applies to daytime running lamps for vehicles of category L, M, N and T[1].
+
+Definitions
+
+For the purposes of this Regulation:
+
+"*Daytime running lamp*" means a lamp or an interdependent lamp system facing in a forward direction used to make the vehicle more easily visible when driving during daytime;
+
+The definitions given in Regulation No. 48 and its series of amendments in force at the time of application for type approval shall apply to this Regulation;
+
+"*Daytime running lamps of different types*" means lamps or interdependent lamp systems which differ in such essential respects as:
+
+The trade name or mark;
+
+The characteristics of the optical system, (levels of intensity, light distribution angles, category of light source, light source module, etc.);
+
+A change of the colour of the light source or the colour of any filter does not constitute a change of type.
+
+References made in this Regulation to standard (étalon) filament lamp(s) and to Regulation No. 37 shall refer to Regulation No. 37 and its series of amendments in force at the time of application for type approval.
+
+References made in this Regulation to standard (étalon) LED light source(s) and to Regulation No. 128 shall refer to Regulation No. 128 and its series of amendments in force at the time of application for type approval.
+
+Application for approval The application for approval shall be transmitted by the holder of the trade name or mark or his duly accredited representative.
+
+At the choice of the applicant, it will specify that the daytime running lamp may be installed on the vehicle with different inclinations of the reference axis in respect to the vehicle reference planes and to the ground or rotate around its reference axis; these different conditions of installation shall be indicated in the communication form.
+
+All the interdependent lamps of an interdependent lamp system shall be submitted for type approval by the same applicant.
+
+For each type of daytime running lamp, the application shall be accompanied by: Drawings (three copies) in sufficient detail to permit identification of the type of the daytime running lamp and showing geometrically the position(s) in which the daytime running lamp may be mounted on the vehicle, the axis of observation to be taken as the axis of reference in the tests (horizontal angle H = 0°, vertical angle V = 0°) and the point to be taken as the centre of reference in the said tests; and the illuminating surface, A brief technical description stating, in particular, with the exception of lamps with non-replaceable light sources:
+
+The category or categories of filament lamp(s) prescribed; this filament lamp category shall be one of those contained in Regulation No. 37 and its series of amendments in force at the time of application for type approval, and/or;
+
+The category or categories of LED light source(s) prescribed; this LED light source category shall be one of those contained in Regulation No. 128 and its series of amendments in force at the time of application for type approval; and/or;
+
+The light source module specific identification code. Two daytime running lamps.
+
+Markings
+
+Daytime running lamps submitted for approval shall:
+
+Bear the trade name or mark of the applicant; this marking must be clearly legible and be indelible;
+
+With the exception of daytime running lamps with non-replaceable light sources, bear a clearly legible and indelible marking indicating:
+
+The category or categories of light source(s) prescribed; and/or
+
+The light source module specific identification code. In the case of daytime running lamps with an electronic light source control gear and/or non-replaceable light sources and/or light source module(s), bear the marking of the rated voltage or range of voltage and rated maximum wattage. Provide adequate space for the approval mark and for the additional symbols prescribed in paragraph 5.2. below; the said space shall be shown in the drawings referred to in paragraph 3.2.1. above. In the case of daytime running lamps with light source module(s), the light source module(s) shall bear: The trade name or mark of the applicant; this marking must be clearly legible and indelible; The specific identification code of the module; this marking must be clearly legible and indelible. This specific identification code shall comprise the starting letters "MD" for "MODULE" followed by the approval marking without the circle as prescribed in paragraph 5.2.1.1. below and, in the case several non-identical light source modules are used, followed by additional symbols or characters; this specific identification code shall be shown in the drawings mentioned in paragraph 3.2.1. above.
+
+The approval marking does not have to be the same as the one on the lamp in which the module is used, but both markings shall be from the same applicant.
+
+The marking of the rated voltage and rated wattage.
+
+Lamps operating at voltages other than the nominal rated voltages of 6 V, 12 V or 24 V respectively, by the application of an electronic light source control gear being not part of the lamp, must also bear a marking denoting the rated secondary design voltage.
+
+An electronic light source control gear being part of the lamp but not included into the lamp body shall bear the name of the manufacturer and its identification number.
+
+Approval General If the two daytime running lamps which are submitted in pursuance of paragraph 3.2.3. above satisfy the requirements to this Regulation, approval shall be granted. Where grouped, combined or reciprocally incorporated lamps have been found to comply with the requirements of several Regulations annexed to the 1958 Agreement, a single international approval mark may be applied provided that such lamps are not grouped, combined or reciprocally incorporated with a lamp or lamps not satisfying any one of these Regulations. An approval number shall be assigned to each type approved. Its first two digits (at present 00 for the Regulation in its original form) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party shall not assign this number to another type of daytime running lamp covered by this Regulation. Notice of approval or of extension or refusal or withdrawal of approval or production definitively discontinued of a type of daytime running lamp pursuant to this Regulation shall be communicated to the Parties to the Agreement which apply this Regulation, by means of a form conforming to the model in Annex 1 to this Regulation. Every daytime running lamp conforming to a type approved under this Regulation shall bear, in the space referred to in paragraph 4.4. above, an approval mark as described in paragraphs 5.2. and 5.3. below. The mark and symbols mentioned in paragraph 5.2. below shall be indelible and clearly legible even when the daytime running lamp is mounted on the vehicle. Composition of the approval mark
+
+The approval mark shall consist of:
+
+An international approval marking, comprising: A circle surrounding the letter "E" followed by the distinguishing number of the country which has granted the approval;[2] An approval number;
+
+The additional symbol "RL" and An additional letter "Y" to the right on each interdependent lamp which may be used as part of an interdependent lamp system.
+
+The two digits of the approval number which indicate the series of amendments in force at the time of issue of the approval, may be marked close to the above additional symbols.
+
+Arrangement of the approval mark Independent lamps
+
+Annex 2, Figure 1, to this Regulation gives an example of arrangement of the approval mark with the above-mentioned additional symbols.
+
+Grouped, combined or reciprocally incorporated lamps Where grouped, combined or reciprocally incorporated lamps have been found to comply with the requirements of several Regulations, a single international approval mark may be affixed, consisting of a circle surrounding the letter "E" followed by the distinguishing number of the country which has granted the approval, and an approval number. This approval mark may be located anywhere on the grouped, combined or reciprocally incorporated lamps, provided that: It is visible after their installation. No part of the grouped, combined or reciprocally incorporated lamps that transmits light can be removed without at the same time removing the approval mark. The identification symbol for each lamp appropriate to each Regulation under which approval has been granted, together with the corresponding series of amendments incorporating the most recent major technical amendments to the Regulation at the time of issue of the approval and, if necessary, the required arrow shall be marked: Either on the appropriate illuminating surface, Or in a group, in such a way that each of the grouped, combined or reciprocally incorporated lamps may be clearly identified. The size of the components of a single approval mark shall not be less than the minimum size required for the smallest of the individual marks by the Regulation under which approval has been granted. An approval number shall be assigned to each type approved. The same Contracting Party may not assign the same number to another type of grouped, combined or reciprocally incorporated daytime running lamps covered by this Regulation. Annex 2, Figure 2, to this Regulation gives examples of arrangements of approval marks for grouped, combined or reciprocally incorporated lamps with all the above-mentioned additional symbols.
+
+Lamps reciprocally incorporated with other lamps, of which the lens may also be used for other types of lamps.
+
+The provisions laid down in paragraph 5.3.2. above are applicable.
+
+In addition, where the same lens is used, the latter may bear the different approval marks relating to the different types of headlamps or units of lamps, provided that the main body of the lamps, even if it cannot be separated from the lens, also comprises the space described in paragraph 4.4. above and bears the approval marks of the actual functions.
+
+If different types of lamps comprise the same main body, the latter may bear the different approval marks.
+
+Annex 2, Figure 3, to this Regulation gives examples of arrangements of approval marks relating to the above case.
+
+Interdependent lamps as part of an interdependent lamps system
+
+Annex 2, Figure 1a, to this Regulation gives an example of the arrangement of approval marks relating to the above case.
+
+General specifications Each daytime running lamp shall conform to the specifications set forth in the paragraphs below. An interdependent lamp system shall meet the requirements when all its interdependent lamps are operated together. Daytime running lamps shall be so designed and constructed that in normal use, despite the vibration to which they may then be subjected, they continue to function satisfactorily and retain the characteristics prescribed by this Regulation. In the case of light source modules, it shall be checked that: The design of the light source module(s) shall be such as:
+
+That each light source module can only be fitted in no other position than the designated and correct one and can only be removed with the use of tool(s);
+
+If there are more than one light source module used in the housing for a device, light source modules having different characteristics cannot be interchanged within the same lamp housing. The light source module(s) shall be tamperproof. A light source module shall be so designed that regardless of the use of tool(s), it shall not be mechanically interchangeable with any replaceable approved light source.
+
+Daytime running lamps, which are reciprocally incorporated with another function, using a common light source, and designed to operate permanently with an electronic light source control gear to regulate the intensity of the light emitted, are permitted.
+
+In the case of replaceable light source(s): Any category or categories of filament lamp(s) approved according to Regulation No. 37 and/or Regulation No. 128 may be used, provided that no restriction on the use is made in Regulation No. 37 and its series of amendments in force at the time of application for type approval or in Regulation No. 128 and its series of amendments in force at the time of application for type approval. The design of the daytime running lamp shall be such that the light sources can be fixed in no other position but the correct one. The light source holder shall conform to the characteristics given in IEC Publication 60061. The holder data sheet relevant to the category of light source used, applies.
+
+Intensity of light The luminous intensity of the light emitted by each daytime running lamp shall not be less than 400 cd in the axis of reference. Outside the reference axis and within the angular fields defined in the arrangement diagram in Annex 6 to this Regulation, the intensity of the light emitted by each daytime running lamp shall: In each direction corresponding to the points in the table of standard light distribution reproduced in Annex 3 to this Regulation, be not less than the minimum specified in paragraph 7.1. above, multiplied by the percentage specified in the said table of the direction in question, and Not exceed 1,200 cd in any direction the daytime running lamp is visible. Moreover, throughout the field defined in the diagram in Annex 6, the intensity of the light emitted shall not be less than 1.0 cd. Light source failure In the case of a daytime running lamp containing more than one light source, the daytime running lamp shall comply with the minimum intensity required and the maximum intensity shall not be exceeded. In case of failure of any one light source in a single lamp containing more than one light source, one of the following provisions shall apply:
+
+The light intensity at the points of standard light distribution defined in Annex 3 to this Regulation shall be at least 80 per cent of the minimum intensity required, or
+
+The light intensity in the axis of reference shall be at least 50 per cent of the minimum intensity required, provided that a note in the communication form states that the lamp is only for use on a vehicle fitted with an operating tell-tale. **A group of light sources, wired so that the failure of any one of them causes all of them to stop emitting light, shall be considered to be one light source.**
+
+Apparent surface
+
+The area of the apparent surface in the direction of the axis of reference of the daytime running lamp shall be not less than 25 cm² and not more than 200 cm².
+
+Colour of light
+
+The colour of the light shall be white. It shall be measured under the conditions as prescribed in paragraph 10. below.
+
+Test procedure All measurements, photometric and colorimetric, when not supplied by an electronic light source control gear, shall be carried out with an uncoloured or coloured standard light source of the category prescribed for the daytime running lamp, supplied with the voltage:
+
+In the case of filament lamps, that is necessary to produce the reference luminous flux required for that category of filament lamp;
+
+In the case of LED light sources of 6.75 V, 13.5 V or 28.0 V; the luminous flux value produced shall be corrected. The correction factor is the ratio between the objective luminous flux and the mean value of the luminous flux found at the voltage applied. In the case of a system that uses an electronic light source control gear being part of the daytime running lamp[3], all measurements, photometric and colorimetric, shall be made applying at the input terminals of the lamp a voltage of 6.75 V, 13.5 V or 28.0 V respectively. In the case of a system that uses an electronic light source control gear not being part of the daytime running lamp the voltage declared by the manufacturer shall be applied to the input terminals of the daytime running lamp. The test laboratory shall require from the manufacturer the light source control gear needed to supply the light source and the applicable functions.
+
+The voltage to be applied to the daytime running lamp shall be noted in the communication form in Annex 1 to this Regulation.
+
+For any daytime running lamp except those equipped with filament lamps, the luminous intensities, measured after one minute and after 30 minutes of operation, shall comply with the minimum and maximum requirements. The luminous intensity distribution after one minute of operation can be calculated from the luminous intensity distribution after 30 minutes of operation by applying at each test point the ratio of luminous intensities measured at HV after one minute and after 30 minutes of operation.
+
+The limits of the apparent surface in the direction of the reference axis of a light-signalling device shall be determined.
+
+Heat resistance test The daytime running lamp shall be subjected to a one-hour test of continuous operation following a warm-up period of 20 minutes. The ambient temperature shall be 23°C ± 5°. The light source used shall be a light source of the category specified for the daytime running lamp, and shall be supplied with a current at a voltage such that it gives the specified average power at the corresponding test voltage. However, for daytime running lamps equipped with non-replaceable light sources (filament lamps and other), the test shall be made with the light sources present in the daytime running lamp, in accordance with paragraph 10.2. of this Regulation. Where only the maximum power is specified, the test shall be carried out by regulating the voltage to obtain a power equal to 90 per cent of the specified power. The specified average or maximum power referred to above shall in all cases be chosen from the voltage range of 6, 12 or 24 V at which it reaches the highest value; for daytime running lamps equipped with non-replaceable light sources (filament lamps and other) the test conditions set in paragraph 10.2. of this Regulation shall be applied. After the daytime running lamp has been stabilized at the ambient temperature, no distortion, deformation, cracking or colour modification shall be perceptible. In case of doubt the intensity of light according to paragraph 7. above shall be measured. At that measurement the values shall reach at least 90 per cent of the values obtained before the heat resistance test on the same device.
+
+Modifications of a type of daytime running lamp and extension of approval Every modification of the type of daytime running lamp shall be notified to the Administrative Departments which approved the type of daytime running lamp. The department may then either: Consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case the daytime running lamp still complies with the requirements; or Require a further test report from the Technical Service responsible for conducting the tests. Confirmation or refusal of approval, specifying the alterations shall be communicated by the procedure specified in paragraph 5.1.4. above to the Parties to the Agreement applying this Regulation. The Type Approval Authority issuing the extension of approval shall assign a series number for such an extension and inform thereof the other Parties to the Agreement applying this Regulation by means of a communication form conforming to the model in Annex 1 to this Regulation.
+
+Conformity of production
+
+The conformity of production procedures shall comply with those set out in the Agreement, Appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2), with the following requirements:
+
+Daytime running lamps approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraphs 6., 7., 8. and 9. above.
+
+The minimum requirements for conformity of production control procedures set forth in Annex 4 to this Regulation shall be complied with.
+
+The minimum requirements for sampling by an inspector set forth in Annex 5 to this Regulation shall be complied with.
+
+The Type Approval Authority which has granted type approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be once every two years.
+
+Penalties for non-conformity of production The approval granted in respect of a type of daytime running lamp pursuant to this Regulation may be withdrawn if the requirements are not complied with or if a daytime running lamp bearing the approval mark does not conform to the type approved. If a Party to the Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation by means of a communication form conforming to the model in Annex 1 to this Regulation.
+
+Production definitely discontinued
+
+If the holder of the approval completely ceases to manufacture a type of daytime running lamp approved in accordance with this Regulation, he shall so inform the Type Approval Authority which granted the approval. Upon receiving the relevant communication, that Authority shall inform thereof the other Parties to the Agreement applying this Regulation by means of a communication form conforming to the model in Annex 1 to this Regulation.
+
+Names and addresses of technical services responsible for conducting approval tests and of type approval authorities
+
+The Parties to the Agreement applying this Regulation shall communicate to the United Nations Secretariat the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, or production definitively discontinued, issued in other countries, are to be sent.
+
+**Annex 1**
+
+**Communication**
+
+(maximum format: A4 (210 x 297 mm))
+
+issued by: Name of administration:
+
+[image: Diagram of an approval mark for a daytime running lamp]
+
+concerning: [2] Approval granted
+
+Approval extended
+
+Approval refused
+
+Approval withdrawn
+
+Production definitely discontinued
+
+of a type of daytime running lamp pursuant to Regulation No. 87
+
+Approval No. Extension No.
+
+1\. Trade name or mark of daytime running lamp:
+
+2\. Manufacturer's name for the type of daytime running lamp:
+
+3\. Manufacturer's name and address:
+
+4\. If applicable, name and address of manufacturer's representative:
+
+5\. Submitted for approval on:
+
+6\. Technical Service responsible for conducting approval tests:
+
+7\. Date of report issued by that service:
+
+8\. Number of report issue by that service:
+
+9\. Concise description:
+
+By category of lamp:
+
+Number, category and kind of light source(s):3
+
+Voltage and wattage:
+
+Application of an electronic light source control gear:
+
+(a) Being part of the lamp: Yes/No2
+
+(b) Being not part of the lamp: Yes/No2
+
+Input voltage supplied by an electronic light source control gear:
+
+Electronic light source control gear manufacturer and identification number (when the light source control gear is part of the lamp but is not included into the lamp body):
+
+10\. The daytime running lamp is designed as an interdependent lamp system
+
+yes/no2
+
+The interdependent lamp system consists of 2/32 interdependent lamps.
+
+11\. Position of the approval mark:
+
+12\. Reason(s) for extension (if applicable):
+
+13\. Approval granted/refused, extended/withdrawn: 2
+
+14\. Place:
+
+15\. Date:
+
+16\. Signature:
+
+17\. The following documents, bearing the approval number shown above, are available on request:
+
+**Annex 2**
+
+**Example of arrangement of the approval mark**
+
+Figure 1
+
+[image: Example of an approval mark for daytime running lamps approved in the Netherlands under number 0011015]
+
+The daytime running lamp bearing the approval mark shown above has been approved in the Netherlands (E4) under number 001015. The approval number indicates that the approval was granted according to the requirements of this Regulation in its original (unamended) form.
+
+Figure 1a
+
+[image: Example of an approval mark for a lamp approved in the Netherlands under number 001015 as part of an interdependent lamp system composing a daytime running lamp]
+
+The lamp bearing the approval mark shown above has been approved in the Netherlands (E 4) under number 001015 as a part of an interdependent lamp system composing a daytime running lamp. The approval number indicates that the approval was granted according to the requirements of this Regulation in its original (un-amended) form.
+
+*Note*: The approval number and the additional symbol must be placed close to the circle and either above or below the "E" or to the left or right of that letter. The digits of the approval number must be on the same side of the "E" and face the same direction. The use of roman numerals as approval numbers should be avoided so as to prevent any confusion with other symbols.
+
+Figure 2
+
+**Examples of possible markings for grouped lamps situated at the front of the vehicle**
+
+The vertical and horizontal lines schematize the shape of the lighting device. These are not part of the approval mark.
+
+[image: Three examples, progressing down the page, of possible markings for grouped lamps situated on the front of a vehicle]
+
+*Note*: The three examples shown above correspond to a lighting device bearing an approval mark relating to:
+
+A front position lamp approved in accordance with the 01 series of amendments to Regulation No. 7;
+
+A headlamp with a passing beam designed for right-hand and left-hand traffic and a driving beam with a maximum intensity comprised between 86,250 and 101,250 candelas, approved in accordance with the 02 series of amendments to Regulation No. 8;
+
+A daytime running lamp approved in accordance with Regulation No. 87 in its original form;
+
+A front direction indicator lamp of category 1a approved in accordance with the 02 series of amendments to Regulation No. 6.
+
+Figure 3
+
+**Lamp reciprocally incorporated with a headlamp**
+
+[image: Example of an approval marking of a lens intended to be used in different types of headlamps]
+
+The above example corresponds to the marking of a lens intended to be used in different types of headlamps, namely:
+
+either:
+
+a headlamp with a passing beam designed for right-hand and left-hand traffic and a driving beam with a maximum intensity comprised between 86,250 and 101,250 candelas, approved in Germany (E 1) in accordance with the requirements of Regulation No. 8 as amended by the 02 series of amendments,
+
+which is reciprocally incorporated with
+
+a daytime running lamp approved in accordance with Regulation No. 87 in its original form;
+
+or:
+
+a headlamp with a passing beam designed for right-hand and left-hand traffic and a driving beam, approved in Germany (E 1) in accordance with the requirements of Regulation No. 1 as amended by the 01 series of amendments,
+
+which is reciprocally incorporated with
+
+the same daytime running lamp as above;
+
+or even: either of the above-mentioned headlamps approved as a single lamp.
+
+The main body of the headlamp shall bear the only valid approval number, for instance:
+
+[image: Four examples, arranged horizontally across the page, of approval markings for main bodies of headlamps]
+
+**Annex 3**
+
+**Photometric measurements**
+
+1\. When photometric measurements are taken, stray reflections shall be avoided by appropriate masking.
+
+2\. In the event that the results of measurements are challenged, measurements shall be taken in such way as to meet the following requirements:
+
+2.1. The distance of measurement shall be such that the law of the inverse of the square of the distance is applicable:
+
+2.2. The measuring equipment shall be such that the angle subtended by the receiver from the reference centre of the light is between 10' and 1°:
+
+2.3. The intensity requirement for a particular direction of observation shall be satisfied if the required intensity is obtained in a direction deviating by not more than one-quarter of a degree from the direction of observation.
+
+3\. In the case where the daytime running lamp may be installed on the vehicle in more than one or in a field of different positions the photometric measurements shall be repeated for each position or for the extreme positions in the field of the reference axis specified by the manufacturer.
+
+4\. Photometric measurement of daytime running lamps
+
+The photometric performance shall be checked:
+
+4.1. For non-replaceable light sources (filament lamps or other):
+
+With the light sources present in the daytime running lamp, in accordance with paragraph 10. of this Regulation.
+
+4.2. For replaceable filament lamps:
+
+When equipped with filament lamps at 6.75 V, 13.5 V or 28.0 V the luminous intensity values produced shall be corrected. The correction factor is the ratio between the reference luminous flux and the mean value of the luminous flux found at the voltage applied (6.75 V, 13.5 V or 28.0 V). The actual luminous fluxes of each filament lamp used shall not deviate more than ±5 per cent from the mean value. Alternatively standard filament lamp(s) may be used in turn, in each of the individual positions, operated at its reference flux, the individual measurements in each position being added together.
+
+4.3. For any daytime running lamp except those equipped with filament lamp(s), the luminous intensities, measured after one minute and after 30 minutes of operation, shall comply with the minimum and maximum requirements. The luminous intensity distribution after one minute of operation can be calculated from the luminous intensity distribution after 30 minutes of operation by applying at each test point the ratio of luminous intensities measured at HV after one minute and after 30 minutes of operation.
+
+5\. Table of standard light distribution
+
+[image: Figure showing graphically the standard light distribution for a daytime running lamp]
+
+3.1. The direction H = 0° and V = 0° corresponds to the reference axis. (On the vehicle, it is horizontal, parallel to the median longitudinal plane of the vehicle and oriented in the required direction of visibility). It passes through the centre of reference. The values shown in the table give, for the various directions of measurement, the minimum intensities as a percentage of the minimum required in the axis for each daytime running lamp (in the direction H = 0° and V = 0°).
+
+3.2. Within the field of light distribution of paragraph 3 above schematically shown as a grid, the light pattern should be substantially uniform, i.e. in so far as the light intensity in each direction of a part of the field formed by the grid lines shall meet at least the lowest minimum value being shown on the grid lines surrounding the questioned direction as a percentage.
+
+Figure 4
+
+**Light source modules**
+
+[image: Figure shows the identification code - MD E3 17325 - born by a light source module, that have been approved togther in Itally under approval number 17325]
+
+The light source module bearing the identification code shown above has been approved together with a lamp approved in Italy (E 3) under approval number 17325.
+
+**Annex 4**
+
+**Minimum requirements for conformity of production control procedures**
+
+1\. General
+
+1.1. The conformity requirements shall be considered satisfied from a mechanical and geometric standpoint, if the differences do not exceed inevitable manufacturing deviations within the requirements of this Regulation.
+
+1.2. With respect to photometric performances, the conformity of mass-produced lamps shall not be contested if, when testing photometric performances of any lamp chosen at random and equipped with a standard light source or when the lamps are equipped with non-replaceable light sources (filament lamps or other), and when all measurements are made at 6.75 V, 13.5 V or 28.0 V respectively:
+
+1.2.1. No measured value deviates unfavourably by more than 20 per cent from the values prescribed in this Regulation.
+
+1.2.2. If, in the case of a lamp equipped with replaceable light sources and if results of the test described above do not meet the requirements, tests on lamps shall be repeated using another standard light source.
+
+1.3. The chromaticity coordinates shall be complied with when the lamp is equipped with a standard filament lamp(s), or for lamps equipped with non-replaceable light sources (filament lamps or other), when the colorimetric characteristics are verified with the light source present in the lamp.
+
+2\. Minimum requirements for verification of conformity by the manufacturer
+
+For each type of lamp the holder of the approval mark shall carry out at least the following tests, at appropriate intervals. The tests shall be carried out in accordance with the provisions of this Regulation.
+
+If any sampling shows non-conformity with regard to the type of test concerned, further samples shall be taken and tested. The manufacturer shall take steps to ensure the conformity of the production concerned.
+
+2.1. Nature of tests
+
+Tests of conformity in this Regulation shall cover the photometric and colorimetric characteristics.
+
+2.2. Methods used in tests
+
+2.2.1. Tests shall generally be carried out in accordance with the methods set out in this Regulation.
+
+2.2.2. In any test of conformity carried out by the manufacturer, equivalent methods may be used with the consent of the Type Approval Authority responsible for approval tests. The manufacturer is responsible for proving that the applied methods are equivalent to those laid down in this Regulation.
+
+2.2.3. The application of paragraphs 2.2.1. and 2.2.2. above requires regular calibration of test apparatus and its correlation with measurements made by a Type Approval Authority.
+
+2.2.4. In all cases the reference methods shall be those of this Regulation, particularly for the purpose of administrative verification and sampling.
+
+2.3. Nature of sampling
+
+Samples of lamps shall be selected at random from the production of a uniform batch. A uniform batch means a set of lamps of the same type, defined according to the production methods of the manufacturer.
+
+The assessment shall in general cover series production from individual factories. However, a manufacturer may group together records concerning the same type from several factories, provided these operate under the same quality system and quality management.
+
+2.4. Measured and recorded photometric characteristics
+
+The sampled lamp shall be subjected to photometric measurements for the minimum values at the points listed in Annex 3 to this Regulation and the required chromaticity coordinates.
+
+2.5. Criteria governing acceptability
+
+The manufacturer is responsible for carrying out a statistical study of the test results and for defining, in agreement with the Type Approval Authority, criteria governing the acceptability of his products in order to meet the specifications laid down for verification of conformity of products in paragraph 13.1. of this Regulation.
+
+The criteria governing the acceptability shall be such that, with a confidence level of 95 per cent, the minimum probability of passing a spot check in accordance with Annex 5 (first sampling) would be 0.95.
+
+**Annex 5**
+
+**Minimum requirements for sampling by an inspector**
+
+1\. General
+
+1.1. The conformity requirements shall be considered satisfied from a mechanical and a geometric standpoint, in accordance with the requirements of this Regulation, if any, if the differences do not exceed inevitable manufacturing deviations.
+
+1.2. With respect to photometric performance, the conformity of mass-produced lamps shall not be contested if, when testing photometric performances of any lamp chosen at random and equipped with a standard light source, or when the lamps are equipped with non-replaceable light sources (filament lamps or other), and when all measurements are made at 6.75 V, 13.5 V or 28.0 V respectively:
+
+1.2.1. No measured value deviates unfavourably by more than 20 per cent from the values prescribed in this Regulation.
+
+1.2.2. If, in the case of a lamp equipped with a replaceable light source(s) and if results of the test described above do not meet the requirements, tests on lamps shall be repeated using another standard light source.
+
+1.2.3. Lamps with apparent defects are disregarded.
+
+1.3. The chromaticity coordinates shall be complied with when the lamp is equipped with a standard light source, or for lamps equipped with non-replaceable light sources (filament lamps or other), when the colorimetric characteristics are verified with the light source present in the lamp.
+
+2\. First sampling
+
+In the first sampling four lamps are selected at random. The first sample of two is marked A, the second sample of two is marked B.
+
+2.1. The conformity is not contested
+
+2.1.1. Following the sampling procedure shown in Figure 1 of this annex the conformity of mass-produced lamps shall not be contested if the deviation of the measured values of the lamps in the unfavourable directions are:
+
+2.1.1.1. Sample A
+
+| A1: | one lamp | 0 per cent |
+|---|---|---|
+|  | one lamp not more than | 20 per cent |
+| A2: | both lamps more than | 0 per cent |
+|  | but not more than | 20 per cent |
+|  | go to sample B |  |
+
+2.1.1.2. Sample B
+
+| B1: | both lamps | 0 per cent |
+|---|---|---|
+
+2.1.2. Or, if the conditions of paragraph 1.2.2. above for sample A are fulfilled.
+
+2.2. The conformity is contested
+
+2.2.1. Following the sampling procedure shown in Figure 1 of this annex the conformity of mass-produced lamps shall be contested and the manufacturer requested to make his production meet the requirements (alignment) if the deviations of the measured values of the lamps are:
+
+2.2.1.1. Sample A
+
+| A3: | one lamp not more than | 20 per cent |
+|---|---|---|
+|  | one lamp more than | 20 per cent |
+|  | but not more than | 30 per cent |
+
+2.2.1.2. Sample B
+
+| B2: | in the case of A2 |  |
+|---|---|---|
+|  | one lamp more than | 0 per cent |
+|  | but not more than | 20 per cent |
+|  | one lamp not more than | 20 per cent |
+| B3: | in the case of A2 |  |
+|  | one lamp | 0 per cent |
+|  | one lamp more than | 20 per cent |
+|  | but not more than | 30 per cent |
+
+2.2.2. Or, if the conditions of paragraph 1.2.2. above for sample A are not fulfilled.
+
+2.3. Approval withdrawn
+
+Conformity shall be contested and paragraph 14. of this Regulation applied if, following the sampling procedure in Figure 1 of this annex, the deviations of the measured values of the lamps are:
+
+2.3.1. Sample A
+
+| A4: | one lamp not more than | 20 per cent |
+|---|---|---|
+|  | one lamp more than | 30 per cent |
+| A5: | both lamps more than | 20 per cent |
+
+2.3.2. Sample B
+
+| B2: | in the case of A2 |  |
+|---|---|---|
+|  | one lamp more than | 0 per cent |
+|  | but not more than | 20 per cent |
+|  | one lamp more than | 20 per cent |
+| B5: | in the case of A2 |  |
+|  | both lamps more than | 20 per cent |
+| B6: | in the case of A2 |  |
+|  | one lamp | 0 per cent |
+|  | one lamp more than | 30 per cent |
+
+2.3.3. Or, if the conditions of paragraph 1.2.2. above for samples A and B are not fulfilled.
+
+3\. Repeated sampling
+
+In the cases of A3, B2, B3 a repeated sampling, third sample C of two lamps and fourth sample D of two lamps, selected from stock manufactured after alignment, is necessary within two months' time after the notification.
+
+3.1. The conformity is not contested
+
+3.1.1. Following the sampling procedure shown in Figure 1 of this annex the conformity of mass-produced lamps shall not be contested if the deviations of the measured values of the lamps are:
+
+3.1.1.1. Sample C
+
+| C1: | one lamp | 0 per cent |
+|---|---|---|
+|  | one lamp not more than | 20 per cent |
+| C2: | both lamps more than | 0 per cent |
+|  | one lamp more than | 20 per cent |
+|  | go to sample D |  |
+
+go to sample D
+
+3.1.1.2. Sample D
+
+| D1: | in the case of C2 |  |
+|---|---|---|
+|  | both lamps | 0 per cent |
+
+3.1.2. Or, if the conditions of paragraph 1.2.2. above for sample C are fulfilled.
+
+3.2. The conformity is contested
+
+3.2.1. Following the sampling procedure shown in Figure 1 of this annex the conformity of mass-produced lamps shall be contested and the manufacturer requested to make his production meet the requirements (alignment) if the deviations of the measured values of the lamps are:
+
+3.2.1.1. Sample D
+
+| D2: | in the case of C2 |  |
+|---|---|---|
+|  | one lamp more than | 0 per cent |
+|  | but not more than | 20 per cent |
+|  | one lamp not more than | 20 per cent |
+
+3.2.1.2. Or, if the conditions of paragraph 1.2.2. above for sample C are not fulfilled.
+
+3.3. Approval withdrawn
+
+Conformity shall be contested and paragraph 14. of this Regulation applied if, following the sampling procedure in Figure 1 of this annex, the deviations of the measured values of the lamps are:
+
+3.3.1. Sample C
+
+| C3: | one lamp not more than | 20 per cent |
+|---|---|---|
+|  | one lamp more than | 20 per cent |
+| C4: | both lamps more than | 20 per cent |
+
+3.3.2. Sample D
+
+| D3: | in the case of C2 |  |
+|---|---|---|
+|  | one lamp 0 or more than | 0 per cent |
+|  | one lamp more than | 20 per cent |
+
+3.3.3. Or, if the conditions of paragraph 1.2.2. above for samples C and D are not fulfilled.\
+Figure 1
+
+[image: Figure shows a flowchart of the sampling procedure for the conformity of mass-produced lamps]
+
+**Annex 6**
+
+**Minimum angles required for light distribution in space**
+
+In all cases, the minimum vertical angles of light distribution in space are 10° above and 5° below the horizontal for the daytime running lamp included in the Regulation.
+
+Minimum horizontal angles of light distribution in space:
+
+[image: Figure shows graphically the minimum horizontal angles of light distribution in space]
+
+COMPILATION NOTES
+
+This compilation of Vehicle Standard (Australian Design Rule 76/00 – Daytime Running Lamps) 2006 includes all the instruments set out in the Table of Instruments.
+
+This vehicle standard is determined undersection 12 of the *Road Vehicle Standards Act 2018*.
+
+The Table of Amendments provides a history of clauses that have been amended, inserted or deleted.
+
+**Table of Instruments**
+
+| **Name of Instrument** | **Registration Date** | **Commencement Date** |
+|---|---|---|
+| Vehicle Standard (Australian Design Rule 76/00 – Daytime Running Lamps) 2006 (F2006L02306) | 21/06/2006 | 22/06/2006 |
+| Vehicle Standard (Australian Design Rule 76/00 – Daytime Running Lamps) 2006 Amendment 1 (F2016L01315) | 23/08/2016 | 24/08/2016 |
+| Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) (F2023L00042) | 19/01/2023 | 20/01/2023 |
+
+**Table of Amendments**
+
+| **Clause affected** | **How affected** | **Amending instrument** |
+|---|---|---|
+| 0.2. | del | *Legislation Act 2003* – section 48D |
+| 0.3. | del | *Legislation Act 2003* – section 48C |
+| 4.1. | am | Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) |
+| 6.1. | am | Amendment 1 |
+| 7.1. | am | Amendment 1 |
+| 7.1 | am | Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) |
+| 8.1. | 8.1.  8.2. | Amendment 1 |
+| 8.2. | 8.2.  8.3. | Amendment 1 |
+| 8.1. | ad | Amendment 1 |
+| Appendix A | am | Amendment 1 |
+| Appendix A - title | am | Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) |
+
+ad = added or inserted
+
+am = amended
+
+del = deleted or removed
+
+rr = removed and replaced
+
+ = clause renumbered. This takes the format of old no.  new no
+
+**** Former title of the Agreement: Agreement Concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicle Equipment and Parts, done at Geneva on 20 March 1958.
+
+[1] As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.2, para. 2. - www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html
+
+[2] The distinguishing numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.2/Amend.3 - www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html
+
+[3] For the purpose of this Regulation, "being part of the lamp" means to be physically included in the lamp body or to be external, separated or not, from the lamp body but supplied by the lamp manufacturer as part of the lamp system
+
+[2]1 Distinguishing number of the country which has granted/extended/refused/withdrawn approval (see approval provisions in the Regulation).
+
+2 Strike out what does not apply.
+
+3 For daytime running lamps with non-replaceable light sources indicate the number and total wattage of the light sources used.

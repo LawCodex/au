@@ -1,0 +1,164 @@
+---
+title: Vehicle Standard (Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations) 2006
+identifier: F2006L01433
+register_id: F2017C01079
+type: legislative_instrument
+number: ADR 45/01
+jurisdiction: au
+language: en
+date: "2006-04-26"
+compilation_number: 1
+last_amended: "2017-11-18"
+version_start: "2017-11-18"
+status: in_force
+source: "https://www.legislation.gov.au/F2006L01433/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Vehicle Standard (Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations) 2006
+
+Vehicle Standard (Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations) 2006
+
+made under the
+
+*Motor Vehicle Standards Act 1989*
+
+Compilation: 1 (up to and including Vehicle Standard (Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations) 2006 Amendment 1)
+
+Compilation Date: 18 November 2017
+
+Compiled by: Vehicle Safety Standards, Department of Infrastructure and Regional Development
+
+**CONTENTS**
+
+### 1. LEGISLATIVE PROVISIONS
+
+#### 1.1. NAME OF STANDARD
+
+1.1.1. This Standard is the Vehicle Standard (Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations) 2006.
+
+1.1.2. This Standard may also be cited as Australian Design Rule 45/01 — Lighting and Light Signalling Devices not Covered by ECE Regulations.
+
+#### 1.2. COMMENCEMENT
+
+1.2.1. This Standard commences on the day after it is registered.
+
+#### 1.3. REPEAL
+
+1.3.1. This Standard repeals each vehicle standard with the name Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations that is:
+
+(a) made under section 7 of the *Motor Vehicles Standard Act 1989*; and
+
+(b) in force at the commencement of this Standard.
+
+1.3.2. This Standard also repeals each instrument made under section 7 of the *Motor Vehicles Standard Act 1989* that creates a vehicle standard with the name Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations, if there are no other vehicle standards created by that instrument, or amendments to vehicle standards made by that instrument, that are still in force at the commencement of this Standard.
+
+### 2. FUNCTION
+
+2.1. The function of this Australian Design Rule (ADR) is to specify the photometric requirements for lighting and light-signalling devices which will ensure adequate illumination for the driver of the vehicle and signal to other road users the position, orientation, intention and movement of the vehicle, without producing undue glare for other road users.
+
+### 3. APPLICABILITY AND IMPLEMENTATION
+
+3.1. This ADR applies to the design and construction of vehicles as set out in the table below.
+
+3.2. ‘*External Cabin Lamps*’ shall comply with the relevant requirements of this ADR.
+
+3.3. The circumstances under which such lamps are mandatory, optional, alternative or prohibited are set out in ADR 13/...
+
+### 4. DEFINITIONS
+
+4.1. Refer to Vehicle Standard (Australian Design Rule – Definitions and Vehicle Categories) 2005.
+
+### 5. GENERAL SPECIFICATIONS
+
+5.1. Lamps shall be so designed and constructed that in normal use, despite the vibrations to which they may then be subjected, they continue to function satisfactorily and retain the characteristics prescribed by this Rule.
+
+5.2. The colour of the light emitted shall be in accordance with the chromaticity requirements within Appendix A of Vehicle Standard (Australian Design Rule 13/00 – Installation of Lighting and Light Signalling Devices on other than L-Group Vehicles) 2005.
+
+### 6. INDIVIDUAL SPECIFICATIONS
+
+6.1. ‘*EXTERNAL CABIN LAMP*’
+
+6.1.1. Colour of light emitted: White or Amber.
+
+6.1.2. Intensity of light emitted:
+
+6.1.2.1. Minimum: 0.3 cd within the angles of light distribution of clause 6.1.3.
+
+6.1.2.2. Maximum: 12 cd in any direction.
+
+6.1.3. Angles of light distribution:
+
+6.1.3.1. Vertical: from 5° above to 15° below the horizontal.
+
+6.1.3.2. Horizontal: forward from 45° to the left to 45° to the right.
+
+6.1.4. Other requirements: None.
+
+### 7. TEST PROCEDURES
+
+7.1. All measurements shall be made with a standard filament globe of the category prescribed for the device, or LED light source as specified by the manufacturer, the supply voltage being so regulated as to produce the normal luminous flux prescribed. In the case that the LED light source is fitted to the unit and not removable, the unit shall be tested as supplied at the voltage specified by the manufacturer.
+
+7.2. Photometric measurements
+
+7.2.1. Measurement methods
+
+7.2.1.1. During photometric measurements, stray reflections shall be avoided by appropriate masking.
+
+7.2.1.2. Measurements shall be carried out in such a way as to meet the following requirements:
+
+7.2.1.2.1. The distance of measurement shall be such that the law of the inverse of the square of the distance is applicable;
+
+7.2.1.2.2. The measuring equipment shall be such that the angular aperture of the receiver viewed from the reference centre of the light is comprised between 10’ and one degree;
+
+7.2.1.2.3. The intensity requirement for a particular direction of observation shall be deemed to be satisfied if that requirement is met in a direction deviating by not more than one-quarter of a degree from the direction of observation.
+
+### COMPILATION NOTES
+
+This compilation of Vehicle Standard (Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations) 2006 includes all the instruments set out in the Table of Instruments. The Table of Amendments provides a history of clauses that have been amended, inserted or deleted.
+
+**Table of Instruments**
+
+| **Name of Instrument** | **Registration Date** | **Commencement Date** |
+|---|---|---|
+| Vehicle Standard (Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations) 2006 (F2006L01433) | 10/05/2006 | 11/05/2006 |
+| Vehicle Standard (Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations) 2006 Amendment 1 (F2017L01492) | 17/11/2017 | 18/11/2017 |
+
+**Table of Amendments**
+
+| **Clause affected** | **How affected** | **Amending instrument** |
+|---|---|---|
+| 0.1. |  1.1. | Amendment 1 |
+| 0.1.1. | 1.1.1. | Amendment 1 |
+| 0.1.2. |  1.1.2. | Amendment 1 |
+| 0.2. |  1.2. | Amendment 1 |
+| 0.2.1. |  1.2.1. | Amendment 1 |
+| 0.3. |  1.3. | Amendment 1 |
+| 0.3.1. |  1.3.1. | Amendment 1 |
+| 0.3.2. |  1.3.2. | Amendment 1 |
+| Purpose & Scope | am | Amendment 1 |
+| Application and Implementation | am | Amendment 1 |
+| Subclauses | am | Amendment 1 |
+| Applicability Table | del | Amendment 1 |
+| 45.1. |  4. | Amendment 1 |
+| 45.1.1. |  4.1. | Amendment 1 |
+| 45.2. |  5. | Amendment 1 |
+| 45.2.1. |  5.1. | Amendment 1 |
+| 5.2 | ad | Amendment 1 |
+| 45.2.2. (and subclauses) | del | Amendment 1 |
+| 45.3. |  6. | Amendment 1 |
+| 45.3.1. (and subclauses) | del | Amendment 1 |
+| 45.3.2. (and subclauses) |  6.1. | Amendment 1 |
+| 45.3.3. to 45.3.9.4. | del | Amendment 1 |
+| 45.4. |  7. | Amendment 1 |
+| 45.4.1. | am | Amendment 1 |
+
+ad = added or inserted
+
+am = amended
+
+del = deleted or removed
+
+rr = removed and replaced
+
+ = clause renumbered. This takes the format of old no.  new no.

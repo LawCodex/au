@@ -1,0 +1,46 @@
+---
+title: Tariff Concession Revocation Order 86/2007 - Tariff Concession Order 0705890/0705891
+identifier: F2007L01512
+register_id: F2007L01512
+type: legislative_instrument
+number: 86/2007
+jurisdiction: au
+language: en
+date: "2007-05-08"
+version_start: "2007-01-01"
+status: in_force
+source: "https://www.legislation.gov.au/F2007L01512/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Tariff Concession Revocation Order 86/2007 - Tariff Concession Order 0705890/0705891
+
+**TARIFF CONCESSION REVOCATION ORDER**\
+Under Section 269SD(2) of the Customs Act 1901, I Robert Crawford a delegate of the Chief Executive Officer\
+(a) revoke Tariff Concession Order Number 0614220 made on 09.11.06, in respect of the goods described in TABLE A below. This Revocation has effect from 01.01.07; and\
+(b) make in its place the Tariff Concession Orders described in TABLE B. The goods specified in Column 1 of TABLE B are goods to which the item in Part III of Schedule 4 to the Customs Tariff Act 1995 specified in Column 2 of TABLE B applies. The Order shall have effect from the date notified in paragraph (a) above as the date of effect for the Revocation.
+
+TABLE A
+
+| COLUMN 1<br>Description of Goods including the<br>Customs Tariff Classification | COLUMN 2<br>Schedule 4 Item Number Last date of effect |
+|---|---|
+
+| 7306.61.00 | TUBES, cold drawn, carbon steel, hollow frame profile, having<br>ANY of the following sectional dimensions:<br>Length Width Wall Thickness<br>(a) 90 mm 41 mm 2.0 mm;<br>(b) 104 mm 43 mm 2.5 mm;<br>(c) 104 mm 43 mm 3.0 mm<br><br>Op. 01.01.07 - TC 0614220 | 50<br>N/A |
+|---|---|---|
+
+This is page 1 of 2 Pages of the instrument.\
+..Robert Crawford......................\
+Dated 08 May 2007 Delegate of the Chief Executive Officer
+
+TABLE B
+
+| COLUMN 1<br>Description of Goods including the<br>Customs Tariff Classification | COLUMN 2<br>Schedule 4 Item Number Last date of effect |
+|---|---|
+
+| 7306.61.00 | TUBES, cold drawn, carbon steel, hollow frame profile, having<br>ANY of the following sectional dimensions:<br>Length Width Wall Thickness<br>(a) 90 mm 41 mm 2.0 mm;<br>(b) 104 mm 43 mm 2.5 mm;<br>(c) 104 mm 43 mm 3.0 mm<br><br>Op. 01.01.07 - TC 0705890 | 50 |
+|---|---|---|
+| 7306.69.00 | TUBES, cold drawn, carbon steel, hollow frame profile, having<br>ANY of the following sectional dimensions:<br>Length Width Wall Thickness<br>(a) 90 mm 41 mm 2.0 mm;<br>(b) 104 mm 43 mm 2.5 mm;<br>(c) 104 mm 43 mm 3.0 mm<br><br>Op. 01.01.07 - TC 0705891 | 50 |
+
+This is page 2 of 2 Pages of the instrument.\
+..Robert Crawford......................\
+Dated 08 May 2007 Delegate of the Chief Executive Officer
