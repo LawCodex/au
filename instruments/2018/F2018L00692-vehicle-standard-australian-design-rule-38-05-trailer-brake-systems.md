@@ -1,0 +1,824 @@
+---
+title: Vehicle Standard (Australian Design Rule 38/05 – Trailer Brake Systems) 2018
+identifier: F2018L00692
+register_id: F2025C00113
+type: legislative_instrument
+jurisdiction: au
+language: en
+date: "2018-05-21"
+compilation_number: 1
+last_amended: "2025-01-30"
+version_start: "2025-01-30"
+status: in_force
+source: "https://www.legislation.gov.au/F2018L00692/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Vehicle Standard (Australian Design Rule 38/05 – Trailer Brake Systems) 2018
+
+Vehicle Standard (Australian Design Rule 38/05 – Trailer Brake Systems) 2018
+
+originally made under the *Motor Vehicle Standards Act 1989* and continued in force under the *Road Vehicle Standards Act 2018*
+
+**Compilation No. 1**
+
+**Compilation date:** 30/01/2025
+
+**Includes amendments:** Vehicle Standard (Australian Design Rule) Mobile Crane and Other Amendments 2025
+
+**Prepared by:** Vehicle Safety Policy and Partnerships, Department of Infrastructure, Transport, Regional Development, Communications and the Arts
+
+**About this compilation**
+
+**This compilation**
+
+This is a compilation of the Vehicle Standard (Australian Design Rule 38/05 – Trailer Brake Systems) 2018 that shows the text of the law as amended and in force on 30/01/2025 (the ***compilation date***).
+
+The notes at the end of this compilation (the ***endnotes***) include information about amending laws and the amendment history of provisions of the compiled law.
+
+**Uncommenced amendments**
+
+The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the Register for the compiled law.
+
+**Application, saving and transitional provisions for provisions and amendments**
+
+If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
+
+**Modifications**
+
+If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the Register for the compiled law.
+
+**Self‑repealing provisions**
+
+If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
+
+### CONTENTS
+
+LEGISLATIVE PROVISIONS Name of Standard This Standard is the Vehicle Standard (Australian Design Rule 38/05 – Trailer Brake Systems) 2018. This Standard may also be cited as Australian Design Rule 38/05 – Trailer Brake Systems.
+
+FUNCTION The function of this vehicle standard is to specify requirements for braking of trailers under both normal operating and emergency conditions. Compliance can be demonstrated by road testing and/or calculations based on data for *‘Approved’* components.
+
+APPLICABILITY This standard applies to category T vehicles with a *‘Gross Trailer Mass’* exceeding 750 kg from the dates set out in clauses 3.1.1 to 3.1.2 and the table under clause 3.3 below (except those trailers designed for use behind a drawing vehicle with a maximum speed less than 50 km/h). 1 July 2019 for all new model vehicles. 1 November 2019 for all vehicles. For the purposes of clause 3.1 a "new model" is a vehicle model first produced with a *'Date of manufacture'* on or after the agreed date in clause 3.1.1.
+
+Applicability Table
+
+| Vehicle Category | ADR Category Code | UN Category Code\* | Manufactured on or After | Acceptable Prior Rules |
+|---|---|---|---|---|
+| Moped 2 wheels | LA | L1 | not applicable |  |
+| Moped 3 wheels | LB | L2 | not applicable |  |
+| Motor cycle | LC | L3 | not applicable |  |
+| Motor cycle and sidecar | LD | L4 | not applicable |  |
+| Motor tricycle | LE | L5 | not applicable |  |
+| Passenger car | MA | M1 | not applicable |  |
+| Forward-control passenger vehicle | MB | M1 | not applicable |  |
+| Off-road passenger vehicle | MC | M1 | not applicable |  |
+| Light omnibus | MD | M2 | not applicable |  |
+| Heavy omnibus | ME | M3 | not applicable |  |
+| Light goods vehicle | NA | N1 | not applicable |  |
+| Medium goods vehicle | NB | N2 | not applicable |  |
+| Heavy goods vehicle | NC | N3 | not applicable |  |
+| Very light trailer | TA | O1 | not applicable |  |
+| Light trailer | TB | O2 | 1 July 2019\*\* | /03, /04 |
+| Medium trailer | TC | O3 | 1 July 2019\*\* | nil |
+| Heavy trailer | TD | O4 | 1 July 2019\*\* | nil |
+
+\* The category code may also be in the format L1, L2, L3 etc.
+
+\*\* See clause 3.1.
+
+DEFINITIONS For vehicle categories, definitions and meanings used in this standard, refer to: Vehicle Standard (Australian Design Rule Definitions and Vehicle Categories) 2005; and Definitions in clause 1 of APPENDIX 3 of this standard.
+
+DESIGN REQUIREMENTS FOR TRAILERS UP TO 4.5 TONNES *‘ATM’* Every trailer must be equipped with an efficient *‘Service Brake System’* which, with the exception of trailers equipped with an *‘Over-run Braking System’*, must be designed so that the braking force can be progressively increased and decreased by means of the *‘Control Signal’* from the towing vehicle. In the case of trailers with a *‘Gross Trailer Mass’* of greater than 2 tonne, the *‘Brake System’* must operate on all wheels. The *‘Brake System’* on trailers with a *‘Gross Trailer Mass’* up to 2 tonnes may be actuated for both *‘Service Brake System’* and *‘Secondary Brake System’* by the over-run of the trailer. Every trailer having a *‘Gross Trailer Mass’* over 2 tonnes must be equipped with an efficient *‘Emergency Brake System’* which will cause immediate automatic application of its *‘Brakes’* in the event of the trailer accidentally becoming disconnected from the towing vehicle. *‘Brakes’* so applied must remain applied for at least 15 minutes. Trailers up to 4.5 tonnes *‘ATM’* are not required to comply with subsequent sections of this standard.
+
+GENERAL DESIGN REQUIREMENTS FOR TRAILERS OVER 4.5 TONNES *‘ATM’* A *‘Service Brake System’* must be fitted to all trailer wheels and be in accordance with the requirements of clause 7. The trailer *‘Brake System’* must be capable of being actuated from the towing vehicle by means of a connection between the trailer and towing vehicle with a performance not less than that specified for the *‘Emergency Brake System’* in clause 8 after any one failure in a *‘Brake Device’* in the trailer *‘Brake System’*. A *‘Parking Brake System 38/...’* must be fitted and must meet the requirements of clause 9. The trailer *‘Brake System’* must restrain the trailer automatically in the event of a trailer break-away with a performance not less than that specified for the *‘Emergency Brake System’* in clause 8. A *‘Brake System’* which utilises *‘Stored Energy’* to actuate the *‘Service Brake System’* must be designed so that when the *‘Supply Line’* energy level is reduced at a rate of not less than 0.15E/sec (100 kPa/sec) the following conditions are met:
+
+the *‘Brake System’* must not start to automatically apply the *‘Brakes’* at a *‘Supply Line’* energy level of more than 0.65 *‘E’* (420 kPa); and
+
+the *‘Brake System’* must start to automatically apply the *‘Brakes’* at a *‘Supply Line’* energy level not less than:
+
+0.31 *‘E’* (200 kPa) where the maximum braking effectiveness of the *‘Brakes’* so applied is dependent on *‘Stored Fluid Energy’*; or
+
+0.24 *‘E’* (155 kPa) where the maximum braking effectiveness of the *‘Brakes’* so applied is not dependent on *‘Stored Fluid Energy’*. With the *‘Supply Line’* energy level at 0.0 *‘E’* the braking effectiveness must be at least that specified for the *‘Emergency Brake System’* in clause 8.1.
+
+The *‘Brake System’* must be designed so that no single failure in a *‘Brake Device’* in the *‘Service Brake System’*, except of a *‘Supply Line’* or *‘Control Line’*, shall cause the *‘Brakes’* to apply without a *‘Control Signal’* provided by the towing vehicle.
+
+Manual devices for the isolation of faulty devices or brake circuits may be included in the *‘Brake System’* but automatic devices of the type that normally remain passive and whose function cannot readily be checked during normal operation of the trailer are not permitted. For the purposes of this clause normal operation also includes the activity of coupling and uncoupling the trailer connections.
+
+Where a trailer is fitted with an auxiliary park brake release device, enabling stored energy actuation or release of any part of the *‘Brake System’* to be cut out, the device must be such that the *‘Brake System’* is restored to normal no later than on the resumption of the supply of *‘Stored Energy’* to the trailer from the towing vehicle.
+
+All components and devices in the *‘Brake System’* must meet or exceed at least one appropriate and recognised international, national or association standard, where such standards exist, or the relevant parts thereof. ‘Recognised’ can be taken to include SA, SAE, BS, JIS, DIN, performance and design related ISO standards and UN regulations.
+
+Brake line couplings must not be interchangeable and must be polarised. Couplings must comply with the requirements of AS 4945-2000 (Commercial road vehicle – Interchangeable quick release couplings for use with air-pressure braking systems) where applicable, or the requirements of ISO 1728:2006 (Road vehicles – Pneumatic braking connections between motor vehicles and towed vehicles – Interchangeability) for compatible couplings.
+
+Each air reservoir in a compressed air *‘Brake System’* must be fitted with a manual condensate drain valve at the lowest point. An automatic condensate valve may be fitted provided it also drains the lowest point. The manual drain valve may be incorporated in the automatic valve.
+
+Each *‘Brake System’* must incorporate devices which compensate for any increased movement of its components arising from wear. Such devices must themselves contain provision for securing them throughout their working range in any position to which they may be adjusted or to which they may themselves automatically adjust.
+
+Except for braking systems capable of producing asymmetric braking in response to prevailing tractive conditions, or as required by the *‘Braking Systems’* of clause 7.2, each *‘Brake System’* must, when applied, produce a resultant braking force acting along the longitudinal centre line of the trailer.
+
+Where the *‘Supply Line’* supplies energy to devices other than the *‘Brake Power Unit 35/...’* including spring brakes*,* the design must be such that:
+
+all the *‘Brake Power Unit 35/...’* are preferentially charged until the *‘Supply Line’* reaches an energy level of not less than 0.69 *‘E’* (450 kPa); or
+
+the spring brakes must not release before there is sufficient pressure in the service air tank to allow application of a service brake to at least the emergency ERC as required by clause 8.1. Systems that utilize spring brakes for emergency and parking brakes are deemed to comply with this clause 6.14, if the parking/emergency brakes do not release until a service tank pressure of 0.435 *‘E’* (283 kPa) is reached. Spring brake release is deemed to occur when the brake friction materials cease to contact.
+
+The first call on the *‘Stored Energy’* must be that of the *‘Brake System’*. Any other demand for *‘Stored Energy’* must be disconnected automatically if the *‘Stored Energy’* level falls below 0.69 *‘E’* (450 kPa).
+
+Where separate methods of actuation are provided for any of the functions of the *‘Brake System’*, the actuation of one function must not cause the operation of another function. In the case of a trailer equipped with both a pneumatic *‘Control Line’* and an electric *‘Control Line’*, when *‘Control Signals’* for both *‘Control Lines’* are provided through the coupling head of a towing vehicle, the trailer must use the electric *‘Control Signal’* unless this signal is deemed to have failed. In this case the trailer must automatically switch to the pneumatic *‘Control Line’*.
+
+*‘Stored Energy’* devices must be safeguarded to prevent depletion of the *‘Stored Fluid Energy’* through failure of any part of the supplying system.
+
+In the case of a compressed air *‘Brake system’,* a pressure test connection complying with clause 4 of ISO 3583:1984 must be fitted at either the inlet to, or in the body of, the brake chamber with the slowest reaction time in each *‘Axle Group’* (in respect of brake timing as specified in clause 16).
+
+Where a *‘Retractable Axle’* is fitted, a trailer has a number of *‘Configurations’.* Except as per clause 6.19.1, it must be demonstrated by physical testing or by calculation as described in the appropriate sections of this rule that in each *‘Configuration’,* the trailer complies with the laden condition requirements of this rule for that *‘Configuration’.* The requirements of this clause 6.19 do not apply to the Service Brake Actuation Time Tests as described in clause 16.1. The laden condition for *‘Configurations’* with the *‘Axle’* retracted must be considered to be when the *‘Axle Group’* is laden to the *‘Prescribed Transition Mass’* for the *‘Configuration’* being considered. As according to ADR 43/…, the trailer must automatically change its *‘Configuration’* at the *‘Prescribed Transition Mass’* by lowering an *‘Axle’*, the automatic system for lowering the axle may be rendered inoperative, for the purpose of demonstrating compliance with the requirements of this clause. When determining the Park Brake Effectiveness either by test as in clause 15 or by calculation as in clause 20, the *‘Aggregate Trailer Mass’* is to be multiplied by the ratio of the *‘Prescribed Transition Mass’* for each *‘Configuration’* divided by the *‘Group Gross Axle Load Rating’.* When determining the Emergency Brake Effectiveness either by test as in clause 14 or by calculation as in clause 19, the *‘Gross Trailer Mass’ is* to be multiplied by the ratio of the *‘Prescribed Transition Mass’* for each *‘Configuration’* divided by the *‘Group Gross Axle Load Rating’.*
+
+SERVICE BRAKE SYSTEM **General Requirements** The *‘Service Brake System’* must be designed so that the braking force can be progressively increased and decreased by means of the *‘Control Signal’* from the towing vehicle. The *‘Service Brake System’* must incorporate devices which automatically compensate for any increased movement of its components arising from wear. Such devices must themselves contain provision for securing them throughout their working range in any position to which they adjust. The combined total energy capacity of energy storage devices incorporated into the *‘Service Brake System’* must be not less than 8 times the combined maximum energy capacity of the service brakes actuating devices. In the case of compressed air *‘Braking Systems’*, the ratio of air reservoir volume to actuator volume will be taken as being the ratio of energy capacity. The volume of an actuator (brake chamber) of a type specified in Table 2 is taken as being either the rated volume listed in this table or the actual volume of the actuator at the maximum travel of the actuator piston/pushrod, whichever is lower. The volume of an actuator not listed in Table 2 is the actual volume of the actuator at the maximum travel of the actuator piston/pushrod. The response time, as measured in accordance with clause 16, and when rounded to the nearest tenth of a second, must not exceed 0.4 seconds, at:
+
+any brake actuator of any *‘Axle Group’* on the trailer; and
+
+any rear pneumatic *‘Control Line’* coupling for towed trailers.
+
+If the figure representing the hundredth is five or more, the response time shall be rounded up to the next higher tenth.
+
+In the case of a trailer designed for use in *‘Road Train’* combinations and equipped to tow another trailer, including any such *‘Converter Dolly’*, the release time, as measured in accordance with clause 16, must not exceed 0.65 seconds, at any rear pneumatic *‘Control Line’* coupling for towed trailers.
+
+At least one *‘Axle’* in each *‘Axle Group’* of each *‘Unique’* trailer *‘Service Brake System’* must be shown to commence to develop a braking force, at a *‘Control Signal’* (measured at each *‘Control Line’* coupling) not exceeding 0.154 *‘E’* (100 kPa for a pneumatic *‘Control Line’* and the equivalent digital demand value in the case of any electric *‘Control Line’*), when at *‘UTM’* with the energy storage devices charged to the *‘Nominal Minimum Energy Level’*. For the purpose of this clause, an *‘Axle’* is deemed to have commenced to develop a braking force, when the total static brake torque for the axle concerned reaches the lesser of:
+
+100 N.m; or
+
+1 per cent of the product of the static vertical load (N) on the *‘Axle’* concerned and the rolling radius of the tyres (m) fitted to the wheels, at *‘UTM’*. Compliance with this clause may be shown by:
+
+Lifting the wheels of the *‘Axles’* of each *‘Axle Group’* above the ground, so they can be freely rotated by hand when the pressure in the *‘Control Line’* is 0 kPa;
+
+Setting any *‘Variable Proportioning Brake System’* (including an electronic load proportioning system) to the *‘UTM’* operating condition, without increasing the torque required to rotate the wheels; and
+
+Gradually increasing the *‘Control Signal’* (measured at the *‘Control Line’* coupling) until the total torque required to begin to rotate the wheels/hubs of at least one *‘Axle’* in each *‘Axle Group’*, reaches the lesser of:
+
+100 N.m; or
+
+1 per cent of the product of the static vertical load (N) on the *‘Axle’* concerned and the rolling radius of the tyres (m) fitted to the wheels, at *‘UTM’*. Each *‘Unique’* trailer *‘Service Brake System’* must be shown by either testing in accordance with clauses 10 and 11, or by calculation based on data for *‘Approved’* components in accordance with clause 17, to have *‘Established Retardation Coefficients’* between the ‘Upper Boundary’ and the ‘Lower Boundary’ of:
+
+Figure 1 when fully laden; and
+
+For trailers not equipped with an *‘Antilock System’* (only where permitted by clause 7.2.1.1), but fitted with a *‘Variable Proportioning Brake System’*, Figure 2 when at *‘UTM’*, and progressively between Figure 2 and Figure 1 for intermediate states of load. The requirements specified in this clause are applicable for trailers equipped with a pneumatic *‘Control Line’*, as well as for trailers with an additional electric *‘Control Line’*. In both cases, the reference value (horizontal coordinate of the figure) will be the value of the transmitted pressure in the *‘Control Line’*:
+
+For a pneumatic *‘Control Line’*, this will be the actual pneumatic pressure in the *‘Control Line’*;
+
+In the case of an additional electric *‘Control Line’*, this will be the pressure corresponding to the transmitted digital demand value in the electric *‘Control Line’*, according to ISO 11992:2003 including ISO 11992‑2:2003 and its Amd.1:2007.
+
+Trailers equipped with both pneumatic and electric *‘Control Lines’* must satisfy the requirements of this clause for each *‘Control Line’*. However, identical braking characteristic curves are not required for each of these *‘Control Lines’*.
+
+*‘Established Retardation Coefficients’* may be determined by calculation for intermediate states of load between *‘UTM’* and fully laden. These calculations must include not less than 5 points and include any critical point.
+
+The ‘Upper Boundary’ of Figure 2 may be increased by up to 40 per cent in the case of a trailer with a *‘Variable Proportioning Brake System’*, which can be set to achieve a retardation response between the conventional ‘Upper Boundary’ and the ‘Lower Boundary’ of Figure 2, but is adjusted to allow for the braking responses of particular towing vehicles not equipped with a *‘Variable Proportioning Brake System’*.
+
+Each *‘Unique’* trailer *‘Service Brake System’* must be shown by either testing in accordance with clauses 10 and 13 or by the calculation based on data for *‘Approved’* components in accordance with clause 18, to meet the requirements of clause 13.1.
+
+Trailers fitted with a *‘Variable Proportioning Brake System’,* including an electronically controlled brake force distribution system (including for example as part of a ‘Vehicle Stability Function’), must meet the requirements of APPENDIX 1.
+
+**Electrical connector, electric** ***‘Control Line’****,* ***‘Antilock System’*** **and ‘Vehicle Stability Function’ requirements** Except as set out in clause 7.2.1.1 below, trailers must be equipped on each *‘Axle Group’* with an *‘Antilock System’* which meets the requirements of APPENDIX 2. A *‘Converter Dolly’* and any trailer fitted with an *‘Axle Group’* arrangement consisting of more than four tyres in a row of *‘Axles’* or more than four *‘Axles’* in an *‘Axle Group’*, need not be equipped with an *‘Antilock System’*. Where a trailer is not equipped with an *‘Antilock System’* (only if permitted by clause 7.2.1.1 above) or a *‘Variable Proportioning Brake System’*, the information on the Vehicle Plate referred to in ADR 61/... must include the words ― “THIS VEHICLE IS NOT FITTED WITH ANTILOCK BRAKES OR VARIABLE PROPORTIONING BRAKES”. Where a trailer is not equipped with an *‘Antilock System’* (only if permitted by clause 7.2.1.1 above), but is fitted with a *‘Variable Proportioning Brake System’*, the information on the Vehicle Plate referred to in ADR 61/... must include the words ― “THIS VEHICLE IS NOT FITTED WITH ANTILOCK BRAKES”. Notwithstanding clause 7.2.1.1 above, the requirements of APPENDIX 2 must also be met if an *‘Antilock System’* is fitted to a *‘Converter Dolly’* or any trailer fitted with an *‘Axle Group’* arrangement consisting of more than four tyres in a row of *‘Axles’* or more than four *‘Axles’* in an *‘Axle Group’*. Except as set out in clause 7.2.2.1 below, category TD trailers must be equipped with a ‘Vehicle Stability Function’ which includes at least ‘Roll-over Control’ and meets the requirements of APPENDIX 3. A *‘Converter Dolly’* and any trailer fitted with an *‘Axle Group’* arrangement consisting of more than four tyres in a row of *‘Axles’* or more than four *‘Axles’* in an *‘Axle Group’*, need not be equipped with a ‘Vehicle Stability Function’. If a ‘Vehicle Stability Function’ is fitted to such a trailer, this function may be manually disabled, provided this does not adversely affect the performance of any *‘Antilock System’*, the power supply to any towed trailer(s) and/or the transmission of any electric *‘Control Signal’*. Trailers equipped with an electric *‘Control Line’*, an *‘Antilock System’,* or a ‘Vehicle Stability Function’, must meet the requirements of APPENDIX 4. Notwithstanding clause 7.2.3 above, any *‘Converter Dolly’* not equipped with an *‘Antilock System’* or a ‘Vehicle Stability Function’, must at least:
+
+be fitted with an electrical connector suitable for connecting to a socket type connector conforming to ISO 7638‑1:2003 at the rear of a towing vehicle/trailer; and
+
+be fitted with an electrical connector suitable for connecting to a socket type connector conforming to ISO 7638‑1:2003 at the front of a towed trailer; and
+
+be fitted with through wiring between the electrical connectors provided according to (a) and (b) above, meeting the requirements of clause 3.2 of APPENDIX 4. This clause may be met by electrical cabling that directly connects a towing vehicle/trailer to a towed trailer, with the *‘Converter Dolly’* configured to provide for a safe connection that minimises any possibility of disconnection or other hazard.
+
+EMERGENCY BRAKE SYSTEM Each *‘Unique’* trailer *‘Emergency Brake System’* must be shown by either test in accordance with clause 10 and clause 14.1 or by the calculation based on data for *‘Approved’* components in clause 19, to have an *‘Established Retardation Co-efficient’* of not less than 0.18 and to be able to sustain a *‘Brake’* force required to obtain an *‘ERC’* of 0.18 for a period not less than 15 minutes. The *‘Emergency Brake System’* may utilise parts of the *‘Service Brake System’* on the condition that any one failure of a *‘Brake Device’* in the *‘Service Brake System’* does not prevent the *‘Emergency Brake System’* from achieving its performance requirement. For the purpose of this clause, the *‘Brakes’* and any mechanical linkage connected directly thereto, must be considered as not subject to failure. In the case of *‘Semi-Trailers’,* when disconnected from the *‘Prime-Mover’,* the failure of any structure designed to support the front of the trailer must not reduce the effectiveness of the *‘Emergency Brake System’* to less than half that required by clause 8.1. *‘Emergency Brake Systems’* that employ *‘Stored Fluid Energy’* to hold them in the release position must be provided with an auxiliary release mechanism. The auxiliary device, control or tool, may rely on fluid energy stored within the trailer brake system, and must be attached to the trailer chassis rail, or equivalent structure, forward of the forward most *‘Axle’* on the rear *‘Axle Group’* on the right hand side of the trailer. If the auxiliary device utilises stored energy then, with the energy storage devices initially charged to 1.0 *‘E’* the release system must have sufficient reserve to provide at least 3 applications and releases of the *‘Emergency Brake System’* when the towing vehicle is disconnected.
+
+PARKING BRAKE SYSTEM The *‘Parking Brake System 38/...’* must be independent of the *‘Service Brake System’* except that the brakes and any mechanical system attached directly thereto may be common. Once applied, the *‘Parking Brake System 38/...’* must be able to be held in position by purely mechanical means. It must not be possible to release the parking brake unless a means of immediately reapplying it is available. The parking brake must operate when the *‘Supply Line’* energy level drops below 0.24 *‘E’* (155 kPa). The provisions of clause 9.3 do not apply to the auxiliary release mechanism required by clause 8.4 but the other provisions of clause 8.4 must apply. Additional parking brake facilities are permitted provided that the requirements of clauses 9.2, 9.3 and 9.4 are met. Each *‘Unique’* trailer *‘Parking Brake System 38/...’* must be shown to be capable of holding the trailer stationary on an 18 per cent gradient in either direction by either:
+
+test in accordance with clause 10 and clause 15.1; or
+
+test in accordance with clause 10 and clause 15.2; or
+
+calculation based on data for *‘Approved’* components in clause 20.
+
+GENERAL PERFORMANCE ROAD TEST CONDITIONS The ambient temperature at the test site must be greater than 0°C and less than 40°C. All road tests must be conducted with tyres fitted of the size specified by the *‘Manufacturer’* as original equipment and must be inflated to pressures not less than those recommended by the *‘Manufacturer’*. Braking tests must be carried out on approximately level surfaces. Where the levels are unsurveyed, the test must be completed in both directions, the brakes being applied over the same section, and the two results averaged to determine the final result. Where the difference in start and finish elevations for a brake test, expressed as a percentage of the *‘Stopping Distance’,* is known, the brake test need only be completed in one direction and the result corrected for any difference in elevation exceeding 1 per cent. The wind speed difference between two tests in opposite directions, or against the direction of travel in the case of a single brake test, must not exceed 15 km/h. The towing vehicle used to facilitate the tests must be of a type normally employed to tow the particular trailer under test and must have enough power to attain the initial speed required for the specified braking tests. All road tests must be conducted with energy storage devices charged to *‘Nominal Minimum Energy Level’* and the *‘Axle Groups’* loaded, unless otherwise required by this rule, to:
+
+The *‘GTM’* and in a separate series of tests to the values allowed by Table 1 if this results in a trailer mass lower than *‘GTM’*; and
+
+In the case of trailers fitted with a *‘Variable Proportioning Brake System’* in a separate test to the *‘UTM’*; and
+
+In the case of trailers not equipped with an *‘Antilock System’*, solely in accordance with clause 7.2.1.1 above, but if fitted with a *‘Variable Proportioning Brake System’*, in a separate series of tests to the *‘UTM’*. The test surface must be either concrete or bitumen pavement and must be free from loose material. No towing vehicle braking system or other contrived means must contribute to braking effort and the towing vehicle engine must be declutched or neutral engaged, during the braking tests required by this rule. The *‘Brakes’* may be burnished before conducting any effectiveness tests according to the brake manufacturer’s recommended procedures. The *‘Brake System’* must be adjusted in accordance with the brake manufacturer’s recommendations before performance tests are conducted. The performance requirements must be met with no deviation of the vehicle from its course greater than 300 millimetres. No part of the *‘Brake System’* shall exceed 100°C immediately prior to the commencement of a brake test sequence.
+
+SERVICE BRAKE EFFECTIVENESS TEST CONDITIONS Except as provided in clause 11.1.1 below, the initial speed at the point where trailer braking commences must be, 58 to 64 km/h. For special trailers having a design speed less than 58 km/h, the initial speed at the point where trailer braking commences must not be less than the *‘Manufacturer’s’* nominated design speed. The trailer must be braked to a stop from initial speed starting with a *‘Control Signal’* of 0.2 *‘E’* and in increasing increments of not greater than 0.2 *‘E’* for subsequent stops until an *‘Established Retardation Coefficient’* of not less than 0.45 is achieved. In the case of a compressed air *‘Brake System’* the *‘Control Signal’,* applied to the *‘Control Line’* at the front of the trailer, must reach 65 per cent of the final value in less than 0.4 second. *‘Stopping Distance’ or ‘Stopping Time’* may be used to calculate the *‘ERC’* according to the equations in clause 11.5. The *‘Service Brake System’ ‘ERC’* must be determined according to the following as required:
+
+[image: ERC equation in terms of stopping distance]
+
+[image: ERC equation in terms of time]
+
+where:
+
+V is the initial speed in km/h
+
+S is the *‘Stopping Distance’* in metres
+
+T is the *‘Stopping Time’* in seconds
+
+TR is the response time measured from the time the *‘Control’* leaves the *‘Initial Brake Control Location’* until the energy level at the least favoured actuator reaches 65 per cent of final value
+
+*‘Total Combination Mass’* is in tonnes
+
+*‘Total Trailer Axle Load’* is in tonnes with the trailer loaded as specified in clause 10.6
+
+The computed *‘Established Retardation Coefficients’* determined from clause 11.5 must comply with clause 7.1.7. Where a test was not conducted at 1.0 *‘E’* the *‘ERC’* from a test conducted at 0.8 *‘E’* or greater may be increased pro-rata to derive the *‘ERC’* at 1.0 *‘E’*.
+
+No trailer wheels must remain locked, except below 15 km/h, during completion of the braking tests required by clause 11.
+
+Allowance must be made for the effect of the increased rolling resistance resulting from the combination of vehicles being used to carry out the tests.
+
+DOG TRAILER FRICTION UTILISATION In the case of *‘Dog Trailers’* and with any *‘Antilock System’* disengaged or otherwise made not operational, at least one front *‘Axle’* must skid before at least one rear *‘Axle’* at an *‘ERC’* greater than:
+
+0.3 in the case of two *‘Axle’ ‘Dog Trailers’*; and
+
+0.15 in the case of *‘Dog Trailers’* with three or more *‘Axles’.* The test must be conducted in accordance with clause 11 with the *‘Control Signal’* and surface type selected to demonstrate the requirement of clause 12.1 above. The initial speed requirement of clause 11 does not apply.
+
+SERVICE BRAKE FADE EFFECTIVENESS TEST The *‘Service Brake System’* must, on the next application after not less than 20 successive applications, each not more than 70 seconds after the preceding one and with the total of 20 applications completed within 20 minutes, of the trailer *‘Brakes’* from an initial speed of V1 km/h to a final speed as calculated by clause 13.2, achieve a calculated *‘Established Retardation Coefficient’,* when tested in accordance with clause 11, at a nominated *‘Control Signal’* level, of not less than 60 per cent of the value obtained at that *‘Control Signal’* level for the Service Brake Effectiveness Test required by clause 11 nor less than 80 per cent of the value specified by the lower boundary of Figure 1 at that *‘Control Signal’* level. The nominated *‘Control Signal’* level chosen must not be less than that necessary to produce a calculated *‘Established Retardation Coefficient’* of 0.45 under the Service Brake test conditions described in clause 11 without prior fade conditioning stops. The final speed to which the trailer has to be successively braked as part of the brake fade conditioning procedure must be determined from the equation:
+
+[image: Initial speed determination]
+
+where:
+
+V1 is the initial speed in km/h;
+
+V2 is the final speed in km/h;
+
+Masses and Loads are in tonnes
+
+The temperature (100°C) requirement of clause 10.12 does not apply to the test required by clause 13.1.
+
+EMERGENCY BRAKE SYSTEM EFFECTIVENESS TEST The *‘Established Retardation Coefficient’,* as determined by clause 11.5 must be determined by a test to the requirements of clause 11 except where clause 14.2 applies, and except that:
+
+The *‘Control Signal’* source must be left in the “off” position with no *‘Control Signal’* being provided to the trailer control line; and
+
+The energy level in the *‘Supply Line’* must be reduced to zero (in a 2-line compressed air system this will be the emergency line). Where the actuation of the *‘Emergency Brake System’* depends on one or more sources of *‘Stored Energy’* that are common to the *‘Service Brake System’*, for the purposes of testing for compliance with the requirements of clause 14.1, the trailer energy storage devices must be charged to an energy level no greater than 0.05 *‘E’* above the supply level determined for clause 6.5, or the energy storage device level if higher, at which the *‘Emergency Brake System’* commences to activate the *‘Brakes’*. Wheel-locking at *‘Established Retardation Coefficients’* above 0.18 is permitted.
+
+PARKING BRAKE EFFECTIVENESS TEST The *‘Parking Brake System 38/...’* must be able to meet the requirements of clause 9.6 for a 5 minute period in each direction. The necessary longitudinal force will be considered to have been applied if the sum of the force applied to the trailer towing point and the force due to the effect of gravity on the laden trailer mass, in the direction parallel to the test surface and trailer longitudinal axis, is greater than 0.18 times the *‘Aggregate Trailer Mass’*. Where the test involves a force depending on the slope of the test surface, the slope must not be less than 10 per cent. When the test involves the action of slope on the trailer or combination mass, and the towing vehicle remains connected, 1.5 per cent of the towing vehicle mass must be subtracted from the other forces parallel to the test plane, to allow for rolling friction. The test slope must be specified in terms of unit vertical per unit horizontal distance expressed as a percentage. The *‘Parking Brake System 38/...’* must meet the requirements of clause 14.1 when the *‘Foundation Brakes’* geometry is such that a reversal of the required braking torque will not reduce the ability of the *‘Parking Brake System 38/...’* to generate the required braking torque.
+
+RESPONSE AND RELEASE TIME MEASUREMENT Except where hydraulic brakes are used, each *‘Unique’* trailer *‘Brake System’* must be shown to meet the requirements of clause 7.1.4 and 7.1.5 by testing in accordance with this clause 16, or in accordance with clause 21. Where a trailer is fitted with a *‘Variable Proportioning Brake System’*, the response/release time (as applicable) must be measured with the *‘Variable Proportioning Brake System’* set for the fully laden case. In the case of trailers equipped with a pneumatic and an electric *‘Control Line’*, the brake response time must be determined independently for each *‘Control Line’,* according to the relevant procedures defined below. Pneumatic response and release time measurement The pneumatic test rig described in Figure 3 must be calibrated by adjustment of the orifice (O) such that:
+
+Upon application of the brake control valve (V) with the storage reservoir (R1) charged to 1.0 *‘E’* (650 kPa), the time interval is between 0.18 and 0.22 seconds from when the initial pressure measured between the storage reservoir (R1) and the control valve (V) drops, or the initial pressure measured at the output of brake control valve (V) rises, to when the pressure at the end of the calibrating vessel (R2) increases to 0.65 *‘E’* (420 kPa); and
+
+After the pressure in the calibrating vessel (R2) has stabilised, upon release of the brake control valve (V), the time between the initial pressure drop in the calibrating vessel (R2) and the pressure at the end of the calibrating vessel (R2) reaching 0.05 *‘E’* (35 kPa), is between 0.4 and 0.5 seconds. Where one setting of the orifice (O) does not meet both of the above conditions simultaneously, two different settings meeting the appropriate condition can be used, one for the tests prescribed in clauses 16.4.5 and 16.4.6, and another for the test prescribed in clause 16.4.7.
+
+The brake control valve (V) must be of a configuration such that:
+
+It permits energy to flow from the storage reservoir (R1) to the orifice (O) when in the “ON” position and from the orifice (O) to waste when in the “OFF” position; and
+
+It does not allow additional energy to flow into the pneumatic test rig *‘Control Line’* by way of its own *‘Control Signal’;* and
+
+It is designed so that the manner of its operation has no effect on the output response of the pneumatic test rig. The brake control valve (V) may be arranged to provide a modulated pneumatic test rig output signal for other brake development purposes, in which case this function must be rendered inoperative for the purpose of measuring response times in accordance with this clause 16.4.
+
+Where a rear service coupling for towed trailers is provided, the pneumatic response/release time (as applicable) must be measured with an 800-millilitre vessel (R2 in Figure 4) attached to the rear *‘Control Line’* coupling.
+
+The pneumatic test rig and the trailer energy storage devices must be charged to 1.0 *’E’* (650 kPa) prior to each test being conducted and no additional energy shall be added to the storage reservoir (R1) or the trailer *‘Supply Line’* during the period of a test.
+
+The brake response time must be taken from when the pressure level, measured between the storage reservoir (R1) and the brake control valve (V) initially drops, or measured at the output of the brake control valve (V) initially rises, to when the pressure in the least favoured brake actuator reaches 0.65 *‘E’* (420 kPa).
+
+The response time for a rear pneumatic *‘Control Line’* coupling must be taken from when the pressure level, measured between the storage reservoir (R1) and the brake control valve (V) initially drops, or measured at the output of the brake control valve (V) initially rises, to when the pressure at the end of the vessel (R2) connected to the rear *‘Control Line’* coupling reaches 0.65 *‘E’* (420 kPa).
+
+With an initial service brake application level of 1.0 *‘E’* (650 kPa), the release time for a rear pneumatic *‘Control Line’* coupling must be taken from when the pressure level measured between the brake control valve (V) and the orifice (O) initially drops, to when the pressure at the end of the vessel (R2) connected to the rear *‘Control Line’* coupling reaches 0.05 *‘E’* (35 kPa).
+
+Electronic response time measurement The trailer *‘Supply Line’* and energy storage devices must be charged to 1.0 *’E’* (650 kPa) prior to each test being conducted and no additional energy shall be added to the trailer *‘Supply Line’* during the period of a test. An electronic simulator must be used to produce a digital demand signal in the electric *‘Control Line’* according to ISO 11992‑2:2003 and its Amd.1:2007 and must provide the appropriate information to the trailer via pins 6 and 7 of the ISO 7638:2003 connector. For the purpose of the response time measurement, the simulator may at the manufacturer's request transmit to the trailer information that no pneumatic *‘Control Line’* is present and that the electric *‘Control Line’* demand signal is generated from two independent circuits (see paragraphs 6.4.2.2.24 and 6.4.2.2.25 of ISO 11992‑2:2003 and its Amd.1:2007). For the purpose of electronic response time measurement, the signal produced by the electronic simulator must be equivalent to a linear pneumatic pressure increase from 0.0 to 650 kPa in 0.2 ± 0.01 second. The brake response time must be taken from when the signal produced by the simulator exceeds the equivalent of 0.1 *‘E’* (65 kPa), to when the pressure in the least favoured brake actuator reaches 75 per cent of its asymptotic value. Figure 5 shows an example of a suitable configuration and simulator for electronic response time measurement.
+
+Applicability of results for other variants of a trailer *‘Brake System’* A variant of a *‘Unique’* trailer *‘Brake System’* will be considered to be identical in regard to response and release time, when the only variation from the *‘Unique’ ‘Brake System’* is one or more of the following:
+
+Plumbing or energy transmission line lengths and number of fittings are reduced but other characteristics including diameter, material, type of connecting fittings and the characteristic transmission loss per unit length are not changed;
+
+Entire subsections of the *‘Brake System’* have been removed, as would be the case in converting a modular three *‘Axle’* system to a modular two *‘Axle’* system, such that the effect if any is to slightly increase the energy flow rate to and from the remaining brake sub-systems;
+
+The energy required to actuate the substitute brake actuators to their maximum design level is less.
+
+SERVICE BRAKE EFFECTIVENESS CALCULATION In the case of an *‘Axle Group’* fitted with a *‘Brake Reactive Suspension’* the distribution of braking effort amongst the *‘Axles’* in an *‘Axle Group’* must be in the range of *‘Skid Limit’* values determined for the suspension in accordance with clause 22.4. In the case of *‘Dog Trailers’* at least one front *‘Axle’* must have a higher friction utilisation than that of at least one rear *‘Axle’* at decelerations greater than:
+
+0.3 g in the case of two-*’Axle’ ‘Dog Trailers’*; and
+
+0.15 g in the case of *‘Dog Trailers’* with three or more *‘Axles’.* In the case of two-*‘Axle’ ‘Dog Trailers’*-the friction utilisation factors may be calculated according to:
+
+[image: Friction utilization factor]
+
+so:
+
+[image: Friction utilization factor front wheel]
+
+and:
+
+[image: Friction utilization factor rear wheel]
+
+T1 Tangential Force at front wheel (N)
+
+T2 Tangential Force at rear wheel (N)
+
+F1 Friction utilisation factor for front wheel
+
+F2 Friction utilisation factor for rear wheel
+
+P 1 front *‘Axle’* static load (N)
+
+P 2 rear *‘Axle’* static load (N)
+
+P total static *‘Axle Load’* (N)
+
+h height of trailer and load centre of mass (m)
+
+L *‘Wheel Base’* (m)
+
+z deceleration, as a proportion of acceleration due to gravity.
+
+No friction utilisation factor (F) must exceed 0.7 at z = 0.45 (a friction utilisation factor of greater than 0.7 is taken as to mean that wheel lock would have occurred in the physical test otherwise required by clause 11).
+
+The *‘Established Retardation Coefficient’* of the trailer must be calculated using the formula in clause 17.3.2 at levels of input *‘Control Signal’* starting no higher than 0.2 *‘E’* and increasing in increments of not more than 0.2 *‘E’* until an *‘Established Retardation Coefficient’* of not less than 0.45 is achieved. All calculated *‘Established Retardation Coefficient’* values must lie between the upper and lower boundaries of Figure 1 or Figure 2, as specified in clause 7.1.7. The *‘Established Retardation Coefficient’* must be calculated by:
+
+[image: ERC equation]
+
+where:
+
+e is the value of *‘E’*
+
+C is the ratio of output Signal Level to *‘Control Signal’* strength for the *‘Control System’* for the *‘Axle’* concerned
+
+T is the *‘Brakes’* output torque per unit input signal to the *‘Brakes’* actuator from output of the *‘Control System’* for the *‘Axle’* concerned
+
+R is the rolling radius of the tyre on the wheel
+
+P is the static load on the *‘Axle’* concerned
+
+1, 2, etc. are subscripts referring to the concerned *‘Axle’*
+
+*‘Total Trailer Axle Load’* in tonnes with the trailer loaded as specified in clause 10.6
+
+SERVICE BRAKE FADE CALCULATION The *‘Service Brake System’* will be considered to have sufficient brake fade resistance to meet the requirements of this rule if the *‘Gross Axle Load Rating’* of each *‘Foundation Brake’* rated according to the fade test in clause 22.3.6 is greater than the *‘Gross Trailer Mass’* multiplied by the percentage of total brake torque provided by that *‘Foundation Brake’* for at least one *‘Control Signal’* level necessary to produce a calculated *‘Established Retardation Coefficient’* of not less than 0.45 under the Service Brake test Conditions described in clause 11 without prior fade conditioning stops.
+
+EMERGENCY BRAKE SYSTEM CALCULATION The *‘Established Retardation Coefficient’* for the *‘Emergency Brake System’* must be determined by computing the total braking force (kN) at the wheels to which emergency brakes are fitted and dividing by [9.81  *‘Gross Trailer Mass’* (tonnes)]. The braking force at each *‘Axle’* must be calculated according to:
+
+[image: Braking force equation]
+
+where:
+
+F is the tangential force at the braked wheels on the *‘Axle’* concerned
+
+A is the input to the emergency brakes actuator in units of *‘E’*
+
+T is the *‘Brakes’* output torque per 1.0 *‘E’* for the *‘Emergency Brake System’*
+
+R is the rolling radius of the tyre fitted to the wheel
+
+Where the actuating force is dependent on the stroke, as in the case of spring brakes, the value of A used in the equation above must be that corresponding to the *‘Brakes’* actuator stroke achieved by the *‘Emergency Brake System’.* This can be determined by plotting on a graph of *‘Control Signal’* versus stroke as detailed in clauses 19.2.2 and 19.2.3:
+
+The input to the emergency brakes actuator in units of *‘E’* from the data provided for the *‘Control System’* at various strokes; and
+
+The *‘Foundation Brake’* stroke achieved at various *‘Control System’* inputs.
+
+PARKING BRAKE CALCULATION The gradient, expressed as a percentage, on which the *‘Parking Brake System 38/...’* can hold the trailer must be determined by computing the total braking force at the wheels (N) to which the *‘Parking Brake System 38/...’* is fitted and dividing by [98.1 x *‘Aggregate Trailer Mass’* (tonnes)]. The braking force at each *‘Axle’* must be calculated according to:
+
+[image: Braking force equation]
+
+where:
+
+F is the tangential force at the braked wheels on the *‘Axle’* concerned
+
+A is the input to the park brake actuator in units of *‘E’*
+
+T is the *‘Brakes’* output torque per 1.0 *‘E’* for the *‘Park Brake System’*
+
+R is the rolling radius of the tyre fitted to the wheel.
+
+The provisions of clause 19.2.1, 19.2.2 & 19.2.3 must apply.
+
+When *‘Emergency Brake System’* performance data is used to demonstrate compliance of the *‘Parking Brake System 38/...’*, the geometry of the *‘Brakes’* must be such that brake effectiveness will be not less in the reverse direction.
+
+RESPONSE AND RELEASE TIMEs FOR TRAILERS FITTED WITH *‘APPROVED’ ‘CONTROL SYSTEMs’* A *‘Service Brake System’* may be taken as complying with the requirements of clause 7.1.4 and 7.1.5 of this rule, if the *‘Service Brake System’* is installed in a manner identical to that prescribed in the documentation describing the *‘Approved’ ‘Control System’* used, except as allowed in clause 21.2. Actuator volumes at full *‘Foundation Brake’* stroke and line lengths may be reduced and actuator volumes at the point when the *‘Foundation Brake’* friction materials cease to contact each other may be increased from those specified in the *‘Approved’ ‘Control System’* documentation, but other devices, fittings and dimensions may not be changed.
+
+SPECIFICATION OF BRAKE SYSTEM COMPONENTS Sub-assemblies of *‘Brake System’* components may be *‘Approved’* by the *‘Administrator’* as part of the *‘Brake System’* approval process where information has been supplied in accordance with the requirements of the appropriate sub-paragraphs of clause 22. *‘Control System’* The *‘Control System’* must be characterised by determining the *‘Control System’* ratio at not less than five points in the range of *‘Control Signal’* inputs at 0.2 *‘E’* to 1.0 *‘E’*. These points must be equally spaced except where the relationship within that range is non-linear, in which case the points must include each critical point. The *‘Control System’* ratio for each axle is the Output Signal level as a percentage of *‘Control Signal’* level. The input must be taken at the trailer coupling. The output must be taken at the outlet end of the line to the service brake actuator. The input signal strength must be the final value of the applied signal and must be applied to the *‘Control System’* such that it rises from zero to 65 per cent of the final value in not more than 0.22 second. In the case of air *‘Brake System’s’* the input *‘Control Signal’* strength (kPa) will be measured at the trailer *‘Control Line’* coupling. The output signal strength must be the final value of the signal generated for control of the *‘Brakes’* actuator and which must be reached in not more than two seconds. The output signal strength will be measured in the actuator attached to each output having a fundamentally different relation to the input. In the case of air *‘Brake Systems’* a *‘Control Signal’* path having additional pressure limiters, relay valves or other active devices will be considered as being fundamentally different. Response and release times must be measured where necessary in accordance with clause 16. Where the *‘Control System’* is not installed on an actual trailer, it must be installed in an essentially identical manner, in the laboratory, with all bends, fittings and worst case line lengths and representative actuator volumes installed. For the response test (refer clauses 16.4 and 16.5), the actuator displacement must be the largest volume for which the *‘Control System’* is designed. Alternatively, the actuators may be replaced by an equivalent fixed volume. For the release test (refer clause 16.4.7 – where applicable), the initial actuator displacement must be the largest volume for which the *‘Control System’* is designed. Alternatively, the actuators may be replaced by an equivalent fixed volume. All relevant test conditions pertaining to clause 10 must be complied with. The relationship between brake actuator volume and stroke must be measured and plotted from zero to full actuator stroke. If the relationship between stroke and volume is not linear, all critical points must be measured and plotted. The value of the maximum brake actuator design stroke and volume must be stated. *‘Foundation Brakes’* The effectiveness of the *‘Foundation Brakes’* must be characterised by comparing the energy level of the signal provided to the *‘Brakes’* actuator against the output brake torque of the *‘Brakes’* device at not less than five points in the range 0.2 *‘E’* to 1.0 *‘E’*. These points must be equally spaced. Where a test was not conducted at 1.0 *‘E’*, the torque from a test conducted at 0.8 *‘E’* or greater may be increased pro-rata to derive output torque at 1.0 *‘E’*. Parameters relevant to the specification of the *‘Brakes’* actuator including its stroke at each energy level of the signal provided to the *‘Brakes’* actuator must be recorded. In the case of *‘S-Cam’* air systems this will include the actuator size, slack adjuster length and any other special feature. Measurements must be taken in accordance with the relevant conditions for the road test described in clauses 10 and 11. The *‘Brakes’* must be burnished before conducting any effectiveness tests according to the brake manufacturer’s recommended procedures. Specification of effectiveness for *‘Foundation Brakes’* must be on the basis of *‘Axle’* performance with two brake assemblies rather than wheel performance. The *‘Foundation Brake’* must, on the next application after not less than 20 successive applications, each not more than 70 seconds after the preceding one and with the total of 20 applications completed within 20 minutes, of the trailer *‘Brakes’* from an initial speed of V1 km/h to a final speed as calculated by clause 22.3.6.1, achieve a calculated brake torque, when tested in accordance with clause 11, at a nominated energy level of the signal provided to the *‘Brakes’* actuator, of not less than 60 per cent of the brake torque achieved at that Actuator Supply Energy level when tested in accordance with clause 22.3.1. The chosen, nominated energy level of the signal provided to the *‘Brakes’* actuator, must not be less than that necessary to produce a calculated *‘Established Retardation Coefficient’* of 0.45 *under* the Service Brake Test Conditions described in clause 11 when laden to the *‘GALR’* without prior fade conditioning stops. The final speed to which the trailer has to be successively braked as part of the brake fade conditioning procedure must be determined from the equation:
+
+[image: Initial speed determination]
+
+where:
+
+V1 is the initial speed in km/h
+
+V2 is the final speed in km/h
+
+Masses and Loads in tonnes
+
+The temperature (100 °C) requirement of clause 10.12 does not apply to the test required by clause 13.1.
+
+Suspension Behaviour, *‘Brake Reactive Suspensions’* only. *‘Suspension Systems’* for other than hinged drawbar *‘Pig Trailers’*. The suspension must be installed according to the *‘Manufacturer’s’* instructions to a representative trailer, be fitted with *‘Axles’*, wheels and tyres of a size appropriate to the mass rating of the suspension, and be fitted with identical “Pre-calibrated” *‘Brakes’* at each *‘Axle’*. “Pre-calibrated” in this case means that the relationship between the input actuation energy level and the output torque for the *‘Brakes’* on each *‘Axle’* has been measured. To determine the *‘Service Brake System’ ‘Skid Limit’* a Service Brake Effectiveness Test must be conducted applying the brakes on all *‘Axles’* of the trailer and using the General Test Conditions of clause 10 and generally in accordance with the particular conditions of clause 11 with not less than 50 per cent of the *‘Suspension Systems’* rated *‘Axle Group’* load used in place of *‘Gross Trailer Mass’.* Clause 11.2 need not be complied with. The test result must be reported as the value of the computed retardation force for each *‘Axle’* divided by the greatest of the *‘Axle’* retardation forces at which an *‘Established Retardation Coefficient’* of 0.45 can be achieved without wheel lock. In the case of *‘S-Cam’* air *‘Brake Systems’* the overall effect of changing actuator and slack adjuster sizes can be simulated by individually adjusting the air pressure to each *‘Axle’. ‘Suspension Systems’* for hinged drawbar *‘Pig Trailers’*. The suspension must be installed according to the manufacturer’s instructions to a representative trailer, be fitted with *‘Axles’*, wheels and tyres of a size appropriate to the mass rating of the suspension, and be fitted with identical “Pre-calibrated” *‘Brakes’* at each *‘Axle’*. “Pre-calibrated” in this case means that the relationship between the input actuation energy level and the output torque for the *‘Brakes’* on each *‘Axle’* has been measured. The trailer must be laden such that the *‘Axle Group’* load equals the suspension system’s rated *‘Axle Group’* load and that the centre of gravity of the trailer is at the same height as for a typical trailer laden to the rated *‘Axle Group’.* To determine the *‘Service Brake System’ ‘Skid Limit’* a Service Brake Effectiveness Test Conditions test must be conducted applying the brakes on all *‘Axles’* on both the trailer and the towing vehicle such that the computed retardation of the trailer is within 0.05 m/s2 of that of the towing vehicle. The computed retardation must be derived from tests of each vehicle braked alone comparing the *‘Control Signal’* at the truck to trailer coupling with the retardation achieved. The test must be conducted using the General Test Conditions of clause 10 and generally in accordance with the particular conditions of clause 11. Clause 11.2 need not be complied with. The test result must be reported as the value of the indicated retardation force for each *‘Axle’* divided by the greatest of the *‘Axle’* retardation forces at which an *‘Established Retardation Coefficient’* of 0.45, calculated with *‘Total Combination Mass’* held equal to *‘Gross Trailer Mass’,* can be achieved without wheel lock. In the case of *‘S-Cam’* air *‘Brake Systems’* the overall effect of changing actuator and slack adjuster sizes can be simulated by individually adjusting the air pressure to each *‘Axle’.*
+
+ALTERNATIVE STANDARDS The technical requirements of the United Nations Regulation No. 13 – UNIFORM PROVISIONS CONCERNING THE APPROVAL OF VEHICLES OF CATEGORIES M, N AND O WITH REGARD TO BRAKING, incorporating the 11 series of amendments, are deemed to be equivalent to all technical requirements of this standard, except for the requirements of:
+
+Clause 7.1.5, in the case of trailers designed for use in *‘Road Train’* combinations and equipped to tow another trailer, including any such *‘Converter Dolly’*;
+
+Clause 7.2.2, in the case of trailers with more than three *‘Axles’*, or trailers without air suspension;
+
+Clause 7.2.3, in the case of trailers equipped to tow another trailer with an *‘ATM’* greater than 4.5 tonnes; and
+
+Clauses 9.2 to 9.4, in the case of trailers with an *‘ATM*’ greater than 4.5 tonnes.
+
+TABLE 1
+
+GROUP *‘AXLE LOAD’* LIMITS
+
+| **Number of** ***‘Axles’***<br>**in** ***‘Axle Group’*** | **Tyre Type “a” and**<br>**Configuration** | **Group** ***‘Axle Load’***<br>**Limit (tonnes)** |
+|---|---|---|
+| 1 |  |  |
+|  | S | 6.0 |
+|  | D | 9.0 |
+|  | W1 | 6.7 |
+|  | W2 | 7.0 |
+|  | D | 10.0 (RFS) |
+| 2 |  |  |
+|  | S S | 11.0 |
+|  | S D | 13.0 |
+|  | W1 W1 | 13.3 |
+|  | D D | 16.5 |
+|  | W2 W2 | 14.0 |
+|  | D D | 17.0 (RFS) |
+| 3 |  |  |
+|  | S S S | 15.0 |
+|  | D D D | 20.0 |
+|  | W1 W1 W1 or W2 W2 W2 | 20.0 |
+|  | D D D | 22.5 (RFS) |
+| 4 |  |  |
+|  | S S S S | 15.0 |
+|  | W1 W1 W1 W1 or D D D D | 20.0 |
+|  | D D D D | 27.0 (RFS)(PBS) |
+
+Tyre Type “a”:
+
+S Single tyre per wheel
+
+D Dual tyres per wheel
+
+W1 *‘Wide Single Tyre’* (375 to 450 mm width)
+
+W2 *‘Wide Single Tyre’* (over 450 mm width)
+
+RFS ‘Road Friendly Suspension’ (Note: for information only. Not part of this standard).
+
+PBS ‘Performance Based Standards’ approved vehicle as defined under Division 3 of the Heavy Vehicle (General) National Regulation (Note: for information only. Not part of this standard)
+
+**TABLE 2**
+
+**BRAKE CHAMBER RATED VOLUMES**
+
+<table>
+<tr>
+<td><b>Brake chamber type (nominal area of piston in square inches)</b></td>
+<td colspan="2"><b>Stroke[1]</b></td>
+<td><b>Rated Volume</b></td>
+</tr>
+<tr>
+<td></td>
+<td><b>(inches)</b></td>
+<td><b>(mm)</b></td>
+<td><b>(ml)</b></td>
+</tr>
+<tr>
+<td>Type 9</td>
+<td>≥ 1.75<br>≤ 2.10</td>
+<td>≥ 44.4<br>≤ 53.4</td>
+<td>409</td>
+</tr>
+<tr>
+<td>Type 12</td>
+<td>≥ 1.75<br>≤ 2.10</td>
+<td>≥ 44.4<br>≤ 53.4</td>
+<td>491</td>
+</tr>
+<tr>
+<td>Type 14</td>
+<td>≥ 2.25<br>≤ 2.70</td>
+<td>≥ 57.1<br>≤ 68.6</td>
+<td>655</td>
+</tr>
+<tr>
+<td>Type 16</td>
+<td>≥ 2.25<br>≤ 2.70</td>
+<td>≥ 57.1<br>≤ 68.6</td>
+<td>753</td>
+</tr>
+<tr>
+<td>Type 18</td>
+<td>≥ 2.25<br>≤ 2.70</td>
+<td>≥ 57.1<br>≤ 68.6</td>
+<td>819</td>
+</tr>
+<tr>
+<td>Type 20</td>
+<td>≥ 2.25<br>≤ 2.70</td>
+<td>≥ 57.1<br>≤ 68.6</td>
+<td>884</td>
+</tr>
+<tr>
+<td>Type 24</td>
+<td>≥ 2.50<br>≤ 3.20</td>
+<td>≥ 63.5<br>≤ 81.3</td>
+<td>1097</td>
+</tr>
+<tr>
+<td>Type 30</td>
+<td>≥ 2.50<br>≤ 3.20</td>
+<td>≥ 63.5<br>≤ 81.3</td>
+<td>1458</td>
+</tr>
+<tr>
+<td>Type 36</td>
+<td>≥ 3.00<br>≤ 3.60</td>
+<td>≥ 76.2<br>≤ 91.5</td>
+<td>2212</td>
+</tr>
+</table>
+
+FIGURE 1
+
+*‘GTM’* (LADEN)
+
+SERVICE BRAKE EFFECTIVENESS
+
+[image: Figure 1 laden service brake effectiveness]
+
+FIGURE 21
+
+*‘UTM’* (UNLADEN)
+
+SERVICE BREAK EFFECTIVENESS
+
+[image: Figure 2 unladen service brake effectivenss]
+
+Notes
+
+Only applicable to trailers not equipped with an *‘Anti-lock System’*, but fitted with a *‘Variable Proportioning Brake System’*.
+
+The ‘Upper Boundary’ may be increased by up to 40 per cent, where permitted by clause 7.1.7.3 of this standard.
+
+USE OF TRAILER COMPRESSED AIR BRAKE PNEUMATIC TEST RIG
+
+FIGURE 3 – CALIBRATION OF PNEUMATIC TEST RIG
+
+[image: Figure 3 Figure 3 calibration of test rig]
+
+FIGURE 4 – TESTING THE TRAILER
+
+[image: Figure 4 testing the trailer]
+
+NOMENCLATURE FOR FIGURES 3 AND 4
+
+A = supply connection with single check valve and regulator set at 650 kPa
+
+CF = trailer brake actuator
+
+L = coupling hose, 13 mm nominal bore and 2.5 metres long
+
+M = pressure gauge
+
+O = orifice (see clause 16.4)
+
+R1 = reservoir of not less than 30,000 ml
+
+R2 = calibrating vessel of 800 ± 5 ml
+
+RA = shut off valve
+
+TA = coupling head - supply (emergency)
+
+TC = coupling head - control (service)
+
+TOA = transducer point for timing inlet to brake actuation time
+
+TOR = transducer point for timing inlet to brake release time
+
+T1 = transducer point at end of R2 vessel for calibration
+
+T2 = transducer point at end of R2 vessel for testing rear tow coupling of trailer
+
+T3 = transducer point for testing trailer brake response
+
+V = brake control valve
+
+FIGURE 5 – EXAMPLE ELECTRIC *‘CONTROL LINE’* TEST RIG
+
+[image: Figure 5 example electric control line test rig]
+
+NOMENCLATURE FOR FIGURE 5
+
+ECL = Electric Control Line corresponding to ISO 7638
+
+SIMU = Simulator of Byte 3,4 of EBS 11 according to ISO 11992‑2:2003 including its Amd-1
+
+2007 with output signals at start, 65 kPa and 650 kPa
+
+A = Supply connection with shut-off valve
+
+C2 = Pressure switch to be connected to the brake actuator of the trailer, to operate at
+
+75 per cent of the asymptotic pressure in the brake actuator CE
+
+CE = Brake cylinder
+
+M = Pressure gauge
+
+PP = Pressure test connection
+
+TA = Coupling head, supply line
+
+VRU = Emergency relay valve
+
+APPENDIX 1
+
+Additional requirements for trailers (over 4.5 tonnes *‘ATM’*) fitted with a *‘Variable Proportioning Brake System’*
+
+Requirements Trailers fitted with a *‘Variable Proportioning Brake System’* must have markings affixed in a visible position on the trailer in indelible form and containing the following information: Where the *‘Variable Proportioning Brake System’* consists of a device mechanically controlled by the suspension of the trailer, the useful travel (recommended units of mm) of the device between the positions corresponding to *‘UTM’* and *‘GTM’*, as well as any further information to enable the setting of the device to be checked in service. Where the *‘Variable Proportioning Brake System’* consists of a device controlled via the suspension of the trailer by any other means, the information necessary to enable the setting of the device to be checked in service. Where the *‘Variable Proportioning Brake System’* consists of a device which modulates the air pressure in the brake transmission, the *‘Axle’* load(s) (recommended units of kg) corresponding to the *‘UTM’* and *‘GTM’* for the *‘Axle(s)’* which control(s) the device and the corresponding nominal inlet and outlet pressures (recommended units of kPa) of the device, as well as any further information to enable the setting of the device to be checked in service. The inlet pressure must be not less than 80 per cent of the maximum design inlet pressure, as declared by the trailer manufacturer. Trailers fitted with an electronically controlled *‘Variable Proportioning Brake System’* (including as part of a ‘Vehicle Stability Function’), that cannot fulfil the requirements of clause 1.1 of this appendix above, must have a self‑checking procedure of the functions which influence brake force distribution. Each *‘Unique’* trailer *‘Service Brake System’* must be shown by either testing in accordance with clauses 10 and 11 (excluding clause 11.2) of this standard, or by calculation based on data for *‘Approved’* components using the formula in clause 17.3.2, to develop an *‘Established Retardation Coefficient’* of at least 0.45, for at least one *‘Control Signal’* (measured at the *‘Control Line’* coupling) not exceeding 0.8 *‘E’* (520 kPa in the case of a pneumatic *‘Control Line’*), when at *‘UTM’.* Linear interpolation of data obtained from tests conducted in *‘Control Signal’* increments not exceeding 0.2 *‘E’* may be used to demonstrate compliance with this clause. Trailers equipped with both pneumatic and electric *‘Control Lines’* must satisfy the requirements of this clause for each *‘Control Line’*. In the case of an additional electric *‘Control Line’*, the pressure in the *‘Control Line’* is the pressure corresponding to the transmitted digital demand value in the electric *‘Control Line’*, according to ISO 11992:2003 including ISO 11992‑2:2003 and its Amd.1:2007.
+
+Example Markings An example of markings for a mechanically controlled device in a trailer fitted with a compressed air *‘Brake System’* that meets clause 1.1.1 of this appendix is shown below.
+
+| **Control data** | **Vehicle loading** | **Axle No. 2 load at the ground**<br>**[kg]** | **Inlet pressure**<br>**[kPa]** | **Nominal outlet pressure [kPa]** |
+|---|---|---|---|---|
+| [image: Example label of control data for LSV] | Laden<br>Unladen | 7000<br>2000 | 600<br>600 | 600<br>240 |
+
+An example of markings for an air pressure controlled device in a trailer fitted with a compressed air *‘Brake System’* that meets clause 1.1.2 of this appendix is shown below.
+
+| **Control data** | **Vehicle loading** | **Axle No. 2 load at the ground**<br>**[kg]** | **Suspension Pressure [kPa]** | **Nominal outlet pressure [kPa]** |
+|---|---|---|---|---|
+| **Inlet pressure [kPa]** 600 | Laden<br>Unladen | 7000<br>2000 | 300<br>100 | 600<br>240 |
+
+APPENDIX 2
+
+Performance and installation requirements for *‘Antilock Systems’* fitted to trailers with an *‘ATM’* greater than 4.5 tonnes
+
+Performance requirements The *‘Brake System’* of trailers equipped with an *‘Antilock System’*, must:
+
+Comply with the requirements of clauses 7.1.3 to 7.1.8 of this standard with the *‘Antilock Systems’* operational and in the event of any one electrical failure of the *‘Antilock System’*; and
+
+Be capable of developing, including by actuation through a *‘Control Line’* connected to a towing vehicle, an *‘Established Retardation Co-efficient’* of at least that required for the *‘Emergency Brake System’* in clause 8 of this standard, in the event of any one failure of the *‘Antilock System’*. At speeds exceeding 15 km/h the wheels on the *‘Axle(s)’* specified in clause 2.1 of this appendix must remain unlocked when a *‘Control Signal’* of 1.0 *‘E’* (650 kPa) is suddenly applied from an initial speed of 40 km/h +5 to -1 km/h and from an initial speed of at least 80 km/h on a road surface having approximately uniform surface friction on both sides of the trailer. This test is to be performed according to the general test conditions of clause 10 with the trailer laden to both *‘Lightly Laden Test Mass’* and *‘Maximum Loaded Test Mass’*. Brief periods of locking of the wheels are allowed, but stability must not be affected. The operation of an *‘Antilock System’* must not be adversely affected by magnetic or electric fields.
+
+Installation requirements An *‘Antilock System’* complying with clause 1 of this appendix must be fitted to:
+
+Each *‘Single Axle’*;
+
+At least one *‘Axle’* in any *‘Tandem Axle Group’*;
+
+At least two *‘Axles’* in any *‘Triaxle Group’*;
+
+At least three *‘Axles’* in any *‘Axle Group’* with four *‘Axles’*.
+
+APPENDIX 3
+
+‘Vehicle Stability Function’ requirements for category TD trailers
+
+Definitions ‘Automatically Commanded Braking’ means a function within a complex electronic control system where actuation of the braking system(s) or brakes of certain axles is made for the purpose of generating vehicle retardation with or without a direct action of the driver, resulting from the automatic evaluation of on board initiated information. ‘Directional control’ means a function within a ‘Vehicle Stability Function’ that assists the driver, in the event of understeer and oversteer conditions, within the physical limits of the vehicle in maintaining the direction intended by the driver in the case of a power-driven vehicle, and assists in maintaining the direction of the trailer with that of the towing vehicle in the case of a trailer. ‘Roll-over control’ means a function within a ‘Vehicle Stability Function’ that reacts to an impending roll-over in order to stabilise the power-driven vehicle or towing vehicle and trailer combination or the trailer during dynamic manoeuvres within the physical limits of the vehicle. ‘Selective Braking’ means a function within a complex electronic control system where actuation of individual brakes is made by automatic means in which vehicle retardation is secondary to vehicle behaviour modification. ‘Vehicle Stability Function’ means an electronic control function for a vehicle which improves the dynamic stability of the vehicle. A ‘Vehicle Stability Function’ includes one or both of the following:
+
+(a) ‘Directional Control’;
+
+(b) ‘Roll-over Control’.
+
+Functional requirements For each category TD trailer required to be equipped with a ‘Vehicle Stability Function’ as defined above, the following shall apply: In the case of ‘Directional Control’, the function must have the ability to automatically control individually the speed of the left and right wheels on each *‘Axle’* or an *‘Axle’* of each *‘Axle Group’* by ‘Selective Braking’ based on the evaluation of actual trailer behaviour in comparison with a determination of the relative behaviour of the towing vehicle. In the case of ‘Roll-over Control’, the function must have the ability to automatically control the wheel speeds on at least two wheels of each *‘Axle’* or *‘Axle Group’* by ‘Selective Braking’ or ‘Automatically Commanded Braking’ based on the evaluation of actual trailer behaviour that may lead to roll-over. To realise the functionality defined above a ‘Vehicle Stability Function’ must include, in addition to ‘Automatically Commanded Braking’ and where appropriate ‘Selective Braking’, at least the following: The determination of actual trailer behaviour from values of the vertical force on the tyre(s), or at least lateral acceleration and wheel speeds. Only on-board generated information may be used. If these values are not directly measured, the *‘Manufacturer’* must supply to the *‘Administrator’* sufficient evidence of the appropriate correlation with directly measured values under all driving conditions (e.g. including driving in a tunnel). The ‘Vehicle Stability Function’, including the ‘Roll-over Control’ function, does not need to be operational during system initialisation, at trailer operating speeds below 20 km/h, when the trailer is being reversed, or if disabled by an operator according to clause 2.3.1 below. A separate and distinct means (for example an off road mode selector/switch on the trailer) may be provided to enable an operator to disable the ‘Vehicle Stability Function’ for trailer operating speeds up to 40 km/h. Trailers equipped with an electric *‘Control Line’* must, when electrically connected to a towing vehicle with an electric *‘Control Line’*, provide the information "VDC active" via the data communications part of the electric *‘Control Line’* when the ‘Vehicle Stability Function’ is in an intervention mode. Interventions of the ‘Vehicle Stability Function’ used in any learning process to determine the trailer operational characteristics must not generate the above information (note: VDC or Vehicle Dynamic Control, as defined within ISO 11992‑2:2003 including Amd.1:2007, is defined within this national standard as a ‘Vehicle Stability Function’).
+
+APPENDIX 4
+
+Electrical requirements for all trailers (over 4.5 tonnes *‘ATM’*) incorporating an electric *‘Control Line’*, an *‘Antilock System’,* or a ‘Vehicle Stability Function’
+
+Electrical supply system requirements Each trailer must be fitted at the front with a special connector conforming to ISO 7638‑1:2003 configured for 24 volt operation or ISO 7638‑2:2003 configured for 12 volt operation. The ‘Vehicle Stability Function’ and the *‘Antilock Systems’* of the trailer must be able to be simultaneously powered by an electrical supply from a towing vehicle through this connector. Each ISO 7638 connector[2] must be wired to have the following functions:
+
+Contact 1 +ve high current trailer solenoid valve supply;
+
+Contact 2 +ve low current trailer electronic unit supply;
+
+Contact 3 -ve low current trailer electronic unit supply;
+
+Contact 4 -ve high current trailer solenoid valve supply; and
+
+Contact 5 trailer warning signal, switched to -ve (e.g. contact 3 or contact 4) upon fault detection as well as for the signal check required by clause 1.4 below.
+
+The continuous current capacity of the electrical conductive material between each contact of an ISO 7638 connector at the front of a trailer and the brake systems (e.g. electronic control unit(s), solenoid valves) which current flows to or from within the trailer, must be at least the following:
+
+|  | 12 volt connector | 24 volt connector |
+|---|---|---|
+| Contact 1 | 20 amps | 10 amps |
+| Contact 2 | 4 amps | 2 amps |
+| Contact 3 | 6 amps | 3 amps |
+| Contact 4 | 20 amps | 10 amps |
+| Contact 5 | 2 amps | 1 amp |
+
+Each trailer equipped with an *‘Antilock System’*, must connect contact 5 of the applicable electrical connector to -ve (e.g. contact 3 or contact 4) for at least 2 seconds once initially energised, and if no fault / defect is present, then disconnect contact 5 from -ve at this time or before the trailer reaches a speed of 15 km/h.
+
+Each trailer equipped with a ‘Vehicle Stability Function’ and/or an *‘Antilock System’,* must connect contact 5 of the applicable electrical connector to -ve (e.g. contact 3 or contact 4) whenever:
+
+There is a break in the supply of electricity to a ‘Vehicle Stability Function’ and/or an *‘Antilock System’* and any electrical failure of a ‘Vehicle Stability Function’ and/or an *‘Antilock System’*, other than a failure of one or all of the electrical conductors between contacts 3, 4 and 5 on the electrical connector and the vehicle stability/antilock control module; or
+
+The supply voltage to the trailer falls below a value nominated by the manufacturer at which the prescribed requirements for any of the braking functions required by clause 7.2 of this standard can no longer be met. Each category TD trailer other than a *‘Converter Dolly’*, which is equipped with a ‘Vehicle Stability Function’, must also connect contact 5 of the applicable electrical connector to -ve (e.g. contact 3 or contact 4), if/when its ‘Vehicle Stability Function’ is disabled in operation above 20 km/h, by a means satisfying clause 2.3.1 of APPENDIX 3. The power supply transmitted through an ISO 7638 connector must be used exclusively for braking and running gear functions and that required for the transfer of trailer related information not transmitted via an electric *‘Control Line’*. However, in all cases, whenever power transmitted through an ISO 7638 connector is used for the functions defined in this clause above, the braking system must have priority and be protected from an overload external to the braking system. This protection must be a function of the braking system. The power supply for all other functions must use other measures.
+
+Electric *‘Control Line’* requirements In the case of a trailer equipped with an electric *‘Control Line’*:
+
+The communications via the electric *‘Control Line’* must conform to ISO 11992‑1:2003 and ISO 11992‑2:2003 including its amendment 1:2007.[3]
+
+The electric *‘Control Line’* must be a point-to-point type using a seven pin (or tube) connector in accordance with ISO 7638‑1:2003 or ISO 7638‑2:2003; as per which, contact 6 must be wired for the CAN_H signal and contact 7 must be wired for the CAN_L signal. The electric *‘Control Line’* must meet the requirements of ISO 11992‑1:2003 including:
+
+The wiring must be an unshielded twisted pair; and
+
+The maximum cable length of the electric *‘Control Line’* within the trailer must not exceed 18 m and the bus capacitance of the cable must not exceed 2.9 nF, except where otherwise permitted by clause 2.3 of this appendix below. The message “illuminate stop lamps” must be transmitted by the trailer via the electric *‘Control Line’* when the trailer *‘Service Brake System’* is activated during ‘Automatically Commanded Braking’ initiated by the trailer. However, the signal may be suppressed, when the retardation generated is less than 0.7 m/s2. The message “illuminate stop lamps” must not be transmitted by the trailer via the electric *‘Control Line’* during ‘Selective Braking’ initiated by the trailer (note: during a ‘Selective Braking’ event, the function may change to ‘Automatically Commanded Braking’).
+
+The data contacts of an ISO 7638 connector incorporating an electric *‘Control Line’* must be used to transfer information exclusively for braking (including the ‘Vehicle Stability Function’ and *‘Antilock System’*) and running gear (steering, tyres and suspension) functions as specified in ISO 11992‑2:2003 including its amendment 1:2007. The braking functions have priority and must be maintained in the normal and failed modes. The transmission of running gear information must not delay braking functions.
+
+The overall length of the electric *‘Control Line’* installed within a trailer may exceed the 18 m permitted by ISO 11992‑1:2013, where a device (e.g. CAN repeater) is installed to amplify and repeat messages in such a way that all communications throughout the electric *‘Control Line’* otherwise conform with ISO 11992‑1:2003 and ISO 11992‑2:2003 including its amendment 1:2007.
+
+A message routing device/function (e.g. CAN router) conforming to ISO 11992‑2:2003, paragraph 6.3 (Message Routing), is required for all trailers incorporating electric *‘Control Line’* through which messages are distributed between more than two electronic nodes (e.g. trailers for which multiple control units are used to provide the braking functions required by clause 7.2 of this standard). Such a device/function is necessary to satisfy the point‑to‑point type requirement for the electric *‘Control Line’* between electronic devices.
+
+Additional requirements for all trailers equipped to tow another trailer with an *‘ATM’* greater than 4.5 tonnes Except as provided in clause 3.1.1 below, each trailer (including any *‘Converter Dolly’*) equipped to tow another trailer with an *‘Aggregate Trailer Mass (ATM)’* greater than 4.5 tonnes, must be fitted at the rear with a connector conforming to ISO 7638‑1:2003 and meeting the requirements of clause 1.2 of this appendix.[4] This connector must be configured to distribute a 24 volt electrical supply, received via a connector in accordance with ISO 7638‑1:2003 at the front of the trailer, to a ‘Vehicle Stability Function’ and/or the *‘Antilock Systems’* of a towed trailer.[5] A *‘Semi-trailer’* that is equipped with a *‘Fifth Wheel Coupling’* towards the rear (i.e. an A-trailer / Lead-trailer) and is not designed for use in *‘Road Train’* combinations, may be fitted with a connector conforming to ISO 7638‑2:2003 in place of the 24 volt connector otherwise required above. This connector must be configured to distribute a 12 volt electrical supply, received via a connector in accordance with ISO 7638‑2:2003 at the front of the trailer, to a towed trailer. The continuous current capacity of the electrical conductive material through which current flows between the contacts of the ISO 7638 connectors[6] at the front and rear of a trailer equipped to tow another trailer with an *‘ATM’* greater than 4.5 tonnes, must be at least the following:
+
+|  | 12 volt or 24 volt connector |
+|---|---|
+| Contact 1 | 20 amps |
+| Contact 2 | 4 amps |
+| Contact 3 | 6 amps |
+| Contact 4 | 20 amps |
+| Contact 5 | 2 amps |
+
+**Endnotes**
+
+**Endnote 1—About the endnotes**
+
+The endnotes provide information about this compilation and the compiled law.
+
+The following endnotes are included in every compilation:
+
+Endnote 1—About the endnotes
+
+Endnote 2—Abbreviation key
+
+Endnote 3—Legislation history
+
+Endnote 4—Amendment history
+
+**Abbreviation key—Endnote 2**
+
+The abbreviation key sets out abbreviations that may be used in the endnotes.
+
+**Legislation history and amendment history—Endnotes 3 and 4**
+
+Amending laws are annotated in the legislation history and amendment history.
+
+The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation.
+
+The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law.
+
+**Misdescribed amendments**
+
+A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section 15V of the *Legislation Act 2003*.
+
+If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and “(md not incorp)” is added to the amendment history.
+
+**Endnote 2—Abbreviation key**
+
+| ad = added or inserted | orig = original |
+|---|---|
+| am = amended | par = paragraph(s)/subparagraph(s) |
+| amdt = amendment | /sub‑subparagraph(s) |
+| c = clause(s) | pres = present |
+| C[x] = Compilation No. x | prev = previous |
+| Ch = Chapter(s) | (prev…) = previously |
+| def = definition(s) | Pt = Part(s) |
+| Dict = Dictionary | r = regulation(s)/rule(s) |
+| disallowed = disallowed by Parliament | reloc = relocated |
+| Div = Division(s) | renum = renumbered |
+| exp = expires/expired or ceases/ceased to have | rep = repealed |
+| effect | rs = repealed and substituted |
+| F = Federal Register of Legislation | s = section(s)/subsection(s) |
+| gaz = gazette | Sch = Schedule(s) |
+| LA = *Legislation Act 2003* | Sdiv = Subdivision(s) |
+| LIA = *Legislative Instruments Act 2003* | SLI = Select Legislative Instrument |
+| (md not incorp) = misdescribed amendment | SR = Statutory Rules |
+| cannot be given effect | Sub‑Ch = Sub‑Chapter(s) |
+| mod = modified/modification | SubPt = Subpart(s) |
+| No. = Number(s) | underlining = whole or part not |
+| o = order(s) | commenced or to be commenced |
+| Ord = Ordinance |  |
+
+**Endnote 3—Legislation history**
+
+| **Name** | **Registration** | **Commencement** | **Application, saving and transitional provisions** |
+|---|---|---|---|
+| Vehicle Standard (Australian Design Rule 38/05 – Trailer Brake Systems) 2018 | 31/05/2018 | 01/06/2018 |  |
+| Vehicle Standard (Australian Design Rule) Mobile Crane and Other Amendments 2025<br>[F2025L00050] | 29/01/2025 | 30/01/2025 |  |
+
+**Endnote 4—Amendment history**
+
+| **Provision affected** | **How affected** | **Amending legislation/instrument** |
+|---|---|---|
+| c 1.2 | rep | *Legislation Act 2003* – 48D |
+| c 7.1.4 | am | Vehicle Standard (Australian Design Rule) Mobile Crane and Other Amendments 2025 |
+| c 11.5 | am | Vehicle Standard (Australian Design Rule) Mobile Crane and Other Amendments 2025 |
+| c 17.2.1 | am | Vehicle Standard (Australian Design Rule) Mobile Crane and Other Amendments 2025 |
+
+[1] The values in mm shall be taken as the definitive (i.e. normative) values for the purposes of this standard. The values in inches are provided for information/reference only.
+
+[2] ISO 7638 connector means an ISO 7638‑1 (24 volt) connector or an ISO 7638‑2 (12 volt) connector.
+
+[3] These include specific CAN voltage range requirements for 12 volt and 24 volt nominal voltage systems.
+
+[4] Where a seven contact ISO 7638 connector is used at the rear of a trailer equipped to tow another trailer, any electric *‘Control Line’* wired to contacts 6 and 7 of this connector must also meet clause 2 of this appendix.
+
+[5] This does not prevent ISO 7638‑2 connectors and through wiring from also being fitted to distribute a 12 volt nominal supply voltage to a towed trailer.
+
+[6] ‘ISO 7638 connectors or other compatible connectors’ may be used in the case of any *‘Converter Dolly’* not equipped with an *‘Antilock System’* or a ‘Vehicle Stability Function’.

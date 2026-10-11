@@ -1,0 +1,187 @@
+---
+title: Statement of Principles concerning heat-induced burn (Reasonable Hypothesis) (No. 1 of 2024)
+identifier: F2024L00030
+register_id: F2024L00030
+type: legislative_instrument
+number: No. 1 of 2024
+jurisdiction: au
+language: en
+date: "2023-12-22"
+version_start: "2024-01-08"
+status: in_force
+source: "https://www.legislation.gov.au/F2024L00030/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Statement of Principles concerning heat-induced burn (Reasonable Hypothesis) (No. 1 of 2024)
+
+Statement of Principles
+
+concerning
+
+HEAT-INDUCED BURN\
+(Reasonable Hypothesis)
+
+(No. 1 of 2024)
+
+The Repatriation Medical Authority determines the following Statement of Principles under subsection 196B(2) of the *Veterans' Entitlements Act 1986*.
+
+Dated 22 December 2023.
+
+The Common Seal of the\
+Repatriation Medical Authority\
+was affixed to this instrument\
+at the direction of:
+
+Professor Terence Campbell AM\
+Chairperson
+
+1 Name
+
+This is the Statement of Principles concerning *heat-induced burn (Reasonable Hypothesis)* (No. 1 of 2024).
+
+2 Commencement
+
+This instrument commences on 22 January 2024.
+
+3 Authority
+
+This instrument is made under subsection 196B(2) of the *Veterans' Entitlements Act 1986*.
+
+4 Repeal
+
+The Statement of Principles concerning external burn No. 110 of 2015 (Federal Register of Legislation No. F2015L01330) made under subsections 196B(2) and (8) of the VEA is repealed.
+
+5 Application
+
+This instrument applies to a claim to which section 120A of the VEA or section 338 of the *Military Rehabilitation and Compensation Act 2004* applies.
+
+6 Definitions
+
+The terms defined in the Schedule 1 - Dictionary have the meaning given when used in this instrument.
+
+7 Kind of injury, disease or death to which this Statement of Principles relates
+
+(1) This Statement of Principles is about heat-induced burn and death from heat-induced burn.
+
+Meaning of **heat-induced burn**
+
+(2) For the purposes of this Statement of Principles, heat-induced burn:
+
+(a) means an injury to the skin and external body covering tissues due to transfer of energy into the tissue with external contact with flame, or heat; and
+
+(b) includes burns of deep tissues and organs that are part of a multiple burn injury that includes injury to the skin and external body covering tissues; and
+
+(c) excludes:
+
+(i) freezing cold injury (frostbite);
+
+(ii) electrical contact or electrical flash burns (electrical injury);
+
+(iii) chemical burns;
+
+(iv) radiation burns due to ionising radiation;
+
+(v) isolated retinal burn of the eye;
+
+(vi) photocontact dermatitis;
+
+(vii) friction burns (abrasion); and
+
+(viii) isolated burn of the internal body organs such as the respiratory tract, gastrointestinal tract and internal genitourinary tract.
+
+Note 1: flame and heat burns may include the effects of incendiary devices such as white phosphorous grenades and rockets.
+
+Note 2: heat-induced burn may include a systemic response of the body with systemic inflammation and vascular shock.
+
+Death from **heat-induced burn**
+
+(3) For the purposes of this Statement of Principles, heat-induced burn, in relation to a person, includes death from a terminal event or condition that was contributed to by the person's heat-induced burn.
+
+Note: ***terminal event*** is defined in the Schedule 1 – Dictionary.
+
+8 Basis for determining the factors
+
+The Repatriation Medical Authority is of the view that there is sound medical‑scientific evidence that indicates that heat-induced burn and death from heat-induced burn can be related to relevant service rendered by veterans, members of Peacekeeping Forces, or members of the Forces under the VEA, or members under the MRCA.
+
+Note: ***MRCA***, ***relevant service*** and ***VEA*** are defined in the Schedule 1 – Dictionary.
+
+9 Factors that must exist
+
+At least one of the following factors must as a minimum exist before it can be said that a reasonable hypothesis has been raised connecting heat-induced burn or death from heat-induced burn with the circumstances of a person's relevant service:
+
+(1) having exposure to a heat source sufficient to cause at least erythema at the affected area of the body at the time of the clinical onset of heat-induced burn;
+
+(2) having exposure to high intensity, focussed ultrasound sufficient to cause at least erythema at the affected area of the body at the time of the clinical onset of heat-induced burn;
+
+(3) having exposure to ultraviolet radiation sufficient to cause at least erythema at the affected area of the body at the time of the clinical onset of heat-induced burn;
+
+Note: Some examples of potential ultraviolet radiation exposure include sun exposure, electric welding arc exposure, and PUVA therapy for skin conditions.
+
+(4) having exposure to solar radiation sufficient to cause at least erythema at the affected area of the body at the time of the clinical onset of heat-induced burn;
+
+(5) having laser applied, sufficient to cause at least erythema, at the affected area of the body at the time of the clinical onset of heat-induced burn;
+
+(6) having exposure to infrared radiation sufficient to cause at least erythema at the affected area of the body at the time of the clinical onset of heat-induced burn;
+
+(7) having exposure to radiofrequency or microwave radiation sufficient to cause at least erythema at the affected area of the body at the time of the clinical onset of heat-induced burn;
+
+(8) inability to obtain appropriate clinical management for heat-induced burn before the clinical worsening of heat-induced burn.
+
+10 Relationship to service
+
+(1) The existence in a person of any factor referred to in section 9, must be related to the relevant service rendered by the person.
+
+(2) The factor set out in subsection 9(8) applies only to material contribution to, or aggravation of, heat-induced burn where the person's heat-induced burn was suffered or contracted before or during (but did not arise out of) the person's relevant service.
+
+11 Factors referring to an injury or disease covered by another Statement of Principles
+
+In this Statement of Principles:
+
+(1) if a factor referred to in section 9 applies in relation to a person; and
+
+(2) that factor refers to an injury or disease in respect of which a Statement of Principles has been determined under subsection 196B(2) of the VEA;
+
+then the factors in that Statement of Principles apply in accordance with the terms of that Statement of Principles as in force from time to time.
+
+Schedule 1 - Dictionary
+
+Note: See Section 6
+
+1 Definitions
+
+In this instrument:
+
+***heat-induced burn***—see subsection 7(2).
+
+***MRCA*** means the *Military Rehabilitation and Compensation Act 2004*.
+
+***relevant service*** means:
+
+(a) operational service under the VEA;
+
+(b) peacekeeping service under the VEA;
+
+(c) hazardous service under the VEA;
+
+(d) British nuclear test defence service under the VEA;
+
+(e) warlike service under the MRCA; or
+
+(f) non-warlike service under the MRCA.
+
+Note: ***MRCA*** and ***VEA*** are defined in the Schedule 1 - Dictionary.
+
+***terminal event*** means the proximate or ultimate cause of death and includes the following:
+
+(a) pneumonia;
+
+(b) respiratory failure;
+
+(c) cardiac arrest;
+
+(d) circulatory failure; or
+
+(e) cessation of brain function.
+
+***VEA*** means the *Veterans' Entitlements Act 1986*.

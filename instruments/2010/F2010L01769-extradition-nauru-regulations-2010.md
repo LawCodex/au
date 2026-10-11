@@ -1,0 +1,82 @@
+---
+title: Extradition (Nauru) Regulations 2010
+identifier: F2010L01769
+register_id: F2012C00658
+type: legislative_instrument
+subtype: Regulations
+number: Select Legislative Instrument No. 157, 2010
+jurisdiction: au
+language: en
+date: "2010-06-29"
+compilation_number: 1
+last_amended: "2012-09-20"
+version_start: "2012-09-20"
+status: in_force
+source: "https://www.legislation.gov.au/F2010L01769/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Extradition (Nauru) Regulations 2010
+
+Select Legislative Instrument 2010 No. 157 as amended
+
+made under the
+
+Extradition Act 1988
+
+This compilation was prepared on 20 September 2012\
+taking into account amendments up to SLI 2012 No. 210
+
+Prepared by the Office of Legislative Drafting and Publishing,\
+Attorney‑General’s Department, Canberra
+
+###### 1 Name of Regulations [see Note 1]
+
+These Regulations are the *Extradition (Nauru) Regulations 2010*.
+
+###### 2 Commencement [see Note 1]
+
+These Regulations commence on the day after they are registered.
+
+###### 3 Definition
+
+In these Regulations:
+
+***Act*** means the *Extradition Act 1988*.
+
+###### 4 Extradition country
+
+For the definition of ***extradition country*** in section 5 of the Act, Nauru is declared to be an extradition country.
+
+###### 6 Modification of Act — application to Nauru
+
+For section 11 of the Act, the Act applies in relation to Nauru as if a reference to 45 days in paragraph 17 (2) (a) of the Act were a reference to 60 days.
+
+Notes to the *Extradition (Nauru) Regulations 2010*
+
+Note 1
+
+## The Extradition (Nauru) Regulations 2010 (in force under the Extradition Act 1988) as shown in this compilation comprise Select Legislative Instrument 2010 No. 157 amended as indicated in the Tables below.
+
+Table of Instruments
+
+| Year and<br>Number | Date of FRLI registration | Date of<br>commencement | Application, saving or<br>transitional provisions |
+|---|---|---|---|
+| 2010 No. 157 | 1 July 2010 (*see* F2010L01769) | 2 July 2010 |  |
+| 2012 No. 210 | 3 Sept 2012 (*see* F2012L01825) | Schedule 10: 20 Sept 2012 (*see* s. 2) | — |
+
+Table of Amendments
+
+<table>
+<tr>
+<td colspan="2">ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</td>
+</tr>
+<tr>
+<td>Provision affected</td>
+<td>How affected</td>
+</tr>
+<tr>
+<td>R. 5</td>
+<td>rep. 2012 No. 210</td>
+</tr>
+</table>

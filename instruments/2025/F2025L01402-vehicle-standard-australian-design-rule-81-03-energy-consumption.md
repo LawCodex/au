@@ -1,0 +1,794 @@
+---
+title: Vehicle Standard (Australian Design Rule 81/03 – Energy Consumption Labelling for Light Vehicles) 2025
+identifier: F2025L01402
+register_id: F2026C00949
+type: legislative_instrument
+jurisdiction: au
+language: en
+date: "2025-11-18"
+compilation_number: 1
+last_amended: "2026-09-24"
+version_start: "2026-09-24"
+status: in_force
+source: "https://www.legislation.gov.au/F2025L01402/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Vehicle Standard (Australian Design Rule 81/03 – Energy Consumption Labelling for Light Vehicles) 2025
+
+**Vehicle Standard (Australian Design Rule 81/03 – Energy Consumption Labelling for Light Vehicles) 2025**
+
+made under Section 12 of the *Road Vehicle Standards Act 2018*
+
+**Compilation No. 1**
+
+**Compilation date:** 24/09/2026
+
+**Includes amendments:** Vehicle Standard (Australian Design Rule) Amendment Instrument (No. 1) of 2026
+
+**Prepared by:** Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+
+**About this compilation**
+
+**This compilation**
+
+This is a compilation of the Vehicle Standard (Australian Design Rule 81/03 – Energy Consumption Labelling for Light Vehicles) 2025 that shows the text of the law as amended and in force on 24/09/2026 (the ***compilation date***).
+
+The notes at the end of this compilation (the ***endnotes***) include information about amending laws and the amendment history of provisions of the compiled law.
+
+**Uncommenced amendments**
+
+The effect of uncommenced amendments is not shown in the text of the compiled law. The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au).
+
+**Application, saving and transitional provisions**
+
+If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
+
+**Modifications**
+
+If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. Any modifications affecting the law are accessible on the Register.
+
+**Self‑repealing provisions**
+
+If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
+
+**Contents**
+
+## 1. LEGISLATIVE PROVISIONS
+
+1.1. Name of Standard
+
+1.1.1. This standard is the Vehicle Standard (Australian Design Rule 81/03 – Energy Consumption Labelling for Light Vehicles) 2025.
+
+1.1.2. This standard may also be cited as Australian Design Rule 81/03 – Energy Consumption Labelling for Light Vehicles, the Australian Design Rule 81/03, or ADR 81/03.
+
+## 2. FUNCTION
+
+This vehicle standard prescribes the requirements for the measurement of fuel consumption, carbon dioxide emissions, energy consumption and range, and the design and fitment of energy consumption labels to light vehicles.
+
+## 3. APPLICABILITY
+
+3.1. This vehicle standard applies to MA, MB, MC, MD and NA category vehicles with a gross vehicle mass not exceeding 3,500kg from the dates set out in clauses 3.1.1 to 3.1.2 and the table in clause 3.4.
+
+3.1.1 1 July 2026 for new models.
+
+3.1.2 1 July 2028 for all models.
+
+3.2. This vehicle standard also applies to NB1 category vehicles and MA, MB, MC, MD category vehicles with a gross vehicle mass exceeding 3,500kg, from the dates set out in clauses 3.1.1 to 3.1.2 and the table in clause 3.4, if the vehicle is fitted with a label containing information on the vehicle’s fuel consumption, carbon dioxide emissions, energy consumption and/or battery range.
+
+3.3 For the purposes of clause 3.1.1 above, a “new model” is a vehicle model first produced with a ‘Date of Manufacture’ on or after the agreed date in that clause.
+
+3.4 Applicability Table
+
+<table>
+<tr>
+<td colspan="2"><b>Vehicle Category</b></td>
+<td><b>ADR Category Code</b></td>
+<td><b>UN Category Code*</b></td>
+<td><b>Manufactured on or After</b></td>
+<td><b>Acceptable Prior Rules</b></td>
+</tr>
+<tr>
+<td colspan="2">Moped 2 wheels</td>
+<td>LA</td>
+<td>L1</td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Moped 3 wheels</td>
+<td>LB</td>
+<td>L2</td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Motor cycle</td>
+<td>LC</td>
+<td>L3</td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Motor cycle and sidecar</td>
+<td>LD</td>
+<td>L4</td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Motor tricycle</td>
+<td>LE</td>
+<td>L5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>LEM</td>
+<td></td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>LEP</td>
+<td></td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>LEG</td>
+<td></td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Passenger car</td>
+<td>MA</td>
+<td>M1</td>
+<td>See clauses 3.1.1 to 3.1.2</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td colspan="2">Forward-control passenger vehicle</td>
+<td>MB</td>
+<td>M1</td>
+<td>See clauses 3.1.1 to 3.1.2</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td colspan="2">Off-road passenger vehicle</td>
+<td>MC</td>
+<td>M1</td>
+<td>See clauses 3.1.1 to 3.1.2</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td colspan="2">Light omnibus</td>
+<td>MD</td>
+<td>M2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>up to 3.5 tonnes ‘<i>GVM’</i> and up to 12 seats</td>
+<td>MD1</td>
+<td></td>
+<td>See clauses 3.1.1 to 3.1.2</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td></td>
+<td>up to 3.5 tonnes <i>‘GVM’</i> and more than 12 seats</td>
+<td>MD2</td>
+<td></td>
+<td>See clauses 3.1.1 to 3.1.2</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td></td>
+<td>over 3.5 tonnes and up to 4.5 tonnes <i>‘GVM’</i></td>
+<td>MD3</td>
+<td></td>
+<td>See clause 3.2</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td></td>
+<td>over 4.5 tonnes and up to 5 tonnes <i>‘GVM’</i></td>
+<td>MD4</td>
+<td></td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Heavy omnibus</td>
+<td>ME</td>
+<td>M3</td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Light goods vehicle</td>
+<td>NA</td>
+<td>N1</td>
+<td>See clauses 3.1.1 and 3.1.2</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td colspan="2">Medium goods vehicle</td>
+<td>NB</td>
+<td>N2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>over 3.5 tonnes up to 4.5 tonnes <i>‘GVM’</i></td>
+<td>NB1</td>
+<td></td>
+<td>See clause 3.2</td>
+<td>Nil</td>
+</tr>
+<tr>
+<td></td>
+<td>over 4.5 tonnes up to 12 tonnes <i>‘GVM’</i></td>
+<td>NB2</td>
+<td></td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Heavy goods vehicle</td>
+<td>NC</td>
+<td>N3</td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Very light trailer</td>
+<td>TA</td>
+<td>O1</td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Light trailer</td>
+<td>TB</td>
+<td>O2</td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Medium trailer</td>
+<td>TC</td>
+<td>O3</td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Heavy trailer</td>
+<td>TD</td>
+<td>O4</td>
+<td>Not Applicable</td>
+<td></td>
+</tr>
+</table>
+
+\* The category code may also be in the format L1, L2, L3 etc
+
+## 4. DEFINITIONS
+
+4.1. *Supporting Information* has the same meaning as in the Road Vehicle Standards Rules 2019.
+
+4.2 For all other vehicle categories, definitions and meanings used in this standard, refer to Vehicle Standard (Australian Design Rule 111/00 – Advanced Emission Control for Light Vehicles) 2024.
+
+4.3. If the term is not defined in ADR 111/00, refer to the Vehicle Standard (Australian Design Rule – Definitions and Vehicle Categories) 2005.
+
+## 5. REQUIREMENTS
+
+5.1 All vehicles must have their fuel consumption and carbon dioxide emissions tested in accordance with ADR 111/00, or one of the alternative standards specified in clause 7.
+
+5.2 If the vehicle is a *Pure Electric Vehicle*, or an *OVC-HEV*, or an *OVC-FCHV*, the vehicle must also have its energy consumption and range tested in accordance with ADR 111/00, or one of the alternative standards specified in clause 7.
+
+5.3 The manufacturer must record the following in their *Supporting Information*:
+
+5.3.1 the carbon dioxide emissions value declared for the vehicle (in grams per kilometre);
+
+5.3.2 the carbon dioxide emissions measured for the vehicle over the complete test cycle (in grams per kilometre);
+
+5.3.3 the fuel consumption value declared for the vehicle (in litres per 100 kilometres or kilograms per 100 kilometres, as appropriate for the fuel type); and
+
+5.3.4 the fuel consumption measured for the vehicle over the complete test cycle (in litres per 100 kilometres or kilograms per 100 kilometres, as appropriate for the fuel type).
+
+5.3.5 If the vehicle is an *OVC-HEV*, or an *OVC-FCHV,* the manufacturer must also record:
+
+5.3.5.1 the carbon dioxide emissions value declared for the vehicle in charge sustaining mode (in grams per kilometre);
+
+5.3.5.2 the carbon dioxide emissions measured for the vehicle over the complete test cycle in charge sustaining mode (in grams per kilometre);
+
+5.3.5.3 the fuel consumption value declared for the vehicle in charge sustaining model (in litres per 100 kilometres or kilograms per 100 kilometres, as appropriate for the fuel type);
+
+5.3.5.4 the fuel consumption measured for the vehicle over the complete test cycle in charge sustaining mode (in litres per 100 kilometres or kilograms per 100 kilometres, as appropriate for the fuel type).
+
+5.3.5.5. the equivalent all electric range declared for the vehicle (in kilometres); and
+
+5.3.5.6 the equivalent all electric range measured for the vehicle over the complete test cycle (in kilometres);
+
+5.3.5.7 the energy consumption value declared for the vehicle (in watt hours per kilometre); and
+
+5.3.5.8 the energy consumption value measured for the vehicle over the complete test cycle (in watt hours per kilometre).
+
+5.3.6 If the vehicle is a *Pure Electric Vehicle*, the manufacturer must also record:
+
+5.3.6.1. The range declared for the vehicle (in kilometres); and
+
+5.3.6.2 The range measured for the vehicle over the complete test cycle (in kilometres); and
+
+5.3.6.3 The energy consumption value declared for the vehicle (in watt hours per kilometre); and
+
+5.3.6.4 The energy consumption value measured for the vehicle over the complete test cycle (in watt hours per kilometre).
+
+5.3.7 If the vehicle is an MA, MB, MC, NA or NB1 category vehicle, the manufacturer must also record the NEDC equivalent carbon dioxide emissions value calculated for the vehicle in accordance with Appendix B or the alternative procedures specified in clause 6 (in grams per kilometre and rounded to the nearest whole number).
+
+5.4 Vehicles must be fitted with an Energy Consumption Label that meets the applicable requirements of clauses 5.3 to 5.7 and the specifications in Appendix A.
+
+5.5 The label must be fitted on the lower left (passenger side) corner of the windscreen from the inside of the vehicle.
+
+5.6 The energy consumption label fitted to the vehicle must display:
+
+5.6.1 the fuel consumption value declared for the vehicle to comply with clause 5.3.3; and
+
+5.6.2 the tailpipe carbon dioxide emissions value declared for the vehicle to comply with clause 5.3.1
+
+5.7 If the vehicle is a *Pure Electric Vehicle*, or an *OVC-HEV*, or an *OVC-FCHV*, the energy consumption label fitted to the vehicle must also display:
+
+5.7.1 the electric energy consumption declared for the vehicle to comply with clause 5.3.5.7 or 5.3.6.3 (as applicable for the vehicle type); and
+
+5.7.2 the battery range declared for the vehicle to comply with clause 5.3.5.5 or 5.3.6.1 (as applicable for the vehicle type).
+
+**6. EXEMPTIONS AND ALTERNATIVE PROCEDURES**
+
+6.1 At the choice of the manufacturer, the NEDC equivalent carbon dioxide emissions value required under clause 5.3.7 may be determined by testing the vehicle in accordance with the complete Type I test specified in United Nations (UN) Regulation No. 101 - *Uniform provisions concerning the approval of passenger cars powered by an internal combustion engine only, or powered by a hybrid electric power train with regard to the measurement of the emission of carbon dioxide and fuel consumption and/or the measurement of electric energy consumption and electric range, and of categories M1 and N1 vehicles powered by an electric power train only with regard to the measurement of electric energy consumption and electric range*, incorporating all amendments up to and including Supplement 12 to the 01 series of amendments or later, in lieu of the procedure specified in Appendix B of this vehicle standard.
+
+6.1.1 Notwithstanding the scope of UN Regulation No. 101, a test report for a vehicle with a reference mass exceeding 2,610kg or a gross vehicle mass over 3,500kg tested in accordance with UN Regulation No. 101 is acceptable as evidence of compliance with clause 5.3.7 of this vehicle standard.
+
+**7. ALTERNATIVE STANDARDS**
+
+7.1 The technical requirements of Annexes B1 to B8 of United Nations Regulation No. 154 - *Uniform provisions concerning the approval of light duty passenger and commercial vehicles with regards to criteria emissions, emissions of carbon dioxide and fuel consumption and/or the measurement of electric energy consumption and electric range (WLTP)*.
+
+7.2 The technical requirements of Annex XXI of Commission Regulation (EC) 2017/1151 of the European Parliament and of the Council of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Commission Regulation (EC) No 692/2008.
+
+7.3 The technical requirements of Annex XXI of Commission Implementing Regulation (EU) 2025/1706 of 25 July 2025 laying down rules, procedures and testing methodologies for the application of Regulation (EU) 2024/1257 as regards exhaust and evaporative emission type-approval of vehicles of categories M1 and N1 and amending Implementing Regulation (EU) 2020/683.
+
+7.4 Subject to 7.4.1 to 7.4.2, the technical requirements of Title 40 the United States Code of Federal Regulations (CFR), Part 600, Fuel Economy and Greenhous Gas Exhaust Emissions of Motor Vehicles.
+
+7.4.1 The fuel consumption value declared for the vehicle must be determined in accordance with § 600.210-12.
+
+7.4.2 The carbon dioxide emissions value declared for the vehicle must be determined in accordance with § 600.210-12.
+
+7.4.3 The energy consumption value declared for the vehicle must be determined in accordance with § 600.116-12.
+
+7.4.4 The range value declared for the vehicle must be determined in accordance with § 600.116-12.
+
+**APPENDIX A**
+
+**ENERGY CONSUMPTION LABEL SPECIFICATIONS**
+
+1\. If the carbon dioxide (CO2) emissions value declared for the vehicle is greater than 50 grams per kilometre, the label must be of the form, dimensions and fonts illustrated in Figure 1 of this Appendix A, with Figure 3 providing an illustration of the label for printing purposes.
+
+2\. If the CO2emissions value declared for the vehicle is less than or equal to 50 grams per kilometre, the label must be of the form, dimensions and fonts illustrated in Figure 2 of this Appendix A, with Figure 4 providing an illustration of the label for printing purposes
+
+2.1. Subject to 2.1.1, fuel consumption values displayed on the label must be expressed in Litres per 100 kilometres (L/100km) and rounded to one decimal place.
+
+2.1.1 If the vehicle is powered or charged by an engine or fuel cell that operates on hydrogen, fuel consumption values displayed on the label must be expressed in kilograms per 100 kilometres (kg/100km) and rounded to one decimal place.
+
+3\. Tailpipe carbon dioxide emissions values displayed on the label must be expressed in grams per kilometre (g/km) and rounded to the nearest whole number.
+
+4\. Electric energy consumption values displayed on the label must be expressed in watt hours per kilometre and rounded to the nearest whole number.
+
+5\. Battery range values displayed on the label must be expressed in kilometres and rounded to the nearest whole number.
+
+6\. The label must be self-adhesive, durable and removable, and of a type suitable for application to the windscreen of the vehicle.
+
+7\. The information on the label must be in the English language, legible and visible from outside the vehicle when the label is applied to the windscreen.
+
+8\. All text and numerals on the label must be black, except:
+
+8.1 the “ENERGY CONSUMPTION” heading, which must be white lettering reversed out of the solid black background surrounding the heading and statement; and
+
+8.2 the statement “You can compare vehicles and estimate your fuel costs and emissions online at greenvehicleguide.gov.au”, which must be white lettering reversed out of the solid green background surrounding the statement.
+
+9\. The colours used on the label are black, red, yellow and green, with the red to be Pantone Warm Red, the yellow to be Pantone 116 and the green to be Pantone 360CVC.
+
+10\. The following background areas of the label must be white:
+
+10.1 The background area between the solid red background surrounding the fuel consumption, electric energy consumption and battery range and values and the inner border containing these values; and
+
+10.2 If the CO2 emissions value declared for the vehicle is 50 grams per kilometre or less, the background area between the solid green background surrounding the tailpipe CO2 emissions value and the inner border containing this value.
+
+10.3 If the CO2 emissions value declared for the vehicle is greater than 50 grams per kilometre or less, the background area between the solid red background surrounding the tailpipe CO2 emissions value and the inner border containing this value.
+
+11\. The background area between the inner borders and the edge of the label must be yellow.
+
+12\. A description of the vehicle must be placed on the yellow background between the energy consumption heading and the white data boxes.
+
+13\. The wording of the vehicle description on the label must have normal spacing of letter, line and word, and be centred horizontally and vertically in the area specified in clause 12.
+
+14\. The vehicle description specified in clause 13 must include the:
+
+14.1 vehicle make, model and variant description by which the vehicle is advertised and sold;
+
+14.2 transmission type of the vehicle; and
+
+14.3 fuel type of the vehicle, where:
+
+14.3.1 for *Pure ICE vehicles,* the terms “Petrol”, “Diesel”, “LPG”, “CNG” or “Hydrogen Combustion” must be used as appropriate, for the fuel type;
+
+14.3.2 for *NOVC-HEVs*, the terms “Petrol Hybrid”, “Diesel Hybrid”, “LPG Hybrid” or “Hydrogen Combustion Hybrid” must be used, as appropriate, for the fuel type;
+
+14.3.3 for *Pure Electric Vehicles,* the term ‘Electric’ must be used for the fuel type;
+
+14.3.4 for *OVC-HEVs*, the terms “Petrol Plug-in Hybrid”, “Diesel Plug-in Hybrid”, “LPG Plug-in Hybrid” or “Hydrogen Combustion Plug-in Hybrid” must be used, as appropriate, for the fuel type;
+
+14.3.5 for *Fuel Cell Vehicles*, the term ‘Hydrogen Fuel Cell’ must be used for the fuel type;
+
+14.3.6 for *NOVC-HFCVs*, the term ‘Hydrogen Fuel Cell Hybrid’ must be used for the fuel type; and
+
+14.3.7 for *OVC-FCHVs*, the term ‘Hydrogen Fuel Cell Plug-in Hybrid’ must be used for the fuel type.
+
+15\. The fuel consumption value declared for the vehicle must be centred in the red area on the label indicated by the letters “XX.X” in Figure 1 or Figure 2, as appropriate for the vehicle type.
+
+15.1 for *Pure Electric Vehicles*, the value must be displayed as “0”.
+
+15.2 for all other vehicles the value must be as specified for the vehicle type in clause 5.3.4 of this vehicle standard;
+
+16\. The tailpipe CO2 emissions value in must be centred in the red area of the label indicated by the letters “XXX” in Figure 1 for vehicles with a CO2 value greater than 50 grams per kilometre; or the green area of the label indicated by the letters “XX” in Figure 2 for vehicles with a CO2 value less than 50 grams per kilometre.
+
+16.1 for all vehicles powered or charged exclusively by electricity and/or hydrogen, the value must be displayed as “0”.
+
+16.2 for all other vehicles, the value must be as specified for the vehicle type in clause 5.3.1 of this vehicle standard;
+
+17\. The electric energy consumption value must be centred in the red area on the label indicated by the letters “XXX” in Figure 1 or Figure 2, as appropriate for the vehicle type.
+
+17.1 for *OVC-HEVs* and *OVC-FCHVs*, the value must be as specified for the vehicle type in clause 5.3.5.7 of this vehicle standard; and
+
+17.2 for *Pure Electric Vehicles* the value must be as specified for the vehicle type in clause 5.3.6.3 of this vehicle standard; and
+
+17.3 for all other vehicles, the value is to be displayed as “NA”;
+
+18\. The battery range in kilometres must be centred in the red area of the label indicated by the letter “XXX” in Figure 1 or Figure 2, as appropriate for the vehicle type.
+
+18.1 for *OVC-HEVs* and *OVC-FCHVs*, the value must be as specified for the vehicle type in clause 5.3.5.5 of this vehicle standard; and
+
+18.2 for *Pure Electric Vehicles* the value must be as specified for the vehicle type in clause 5.3.6.1 of this vehicle standard; and
+
+18.3 for all other vehicles, the value is to be displayed as “NA”;
+
+19\. The dimensions of the red and green areas featuring the fuel consumption, tailpipe CO2 emissions, electric energy consumption and battery range values may be varied by up to 1mm to allow for printing tolerances.
+
+20\. Figures 5 and 6 provides a sample label to illustrate placement of the vehicle description and fuel consumption, tailpipe CO2 emissions, electric energy consumption and battery range values for all vehicles subject to this vehicle standard.
+
+[image: Diagram showing the dimensions, colours and fonts required for the energy consumption label for vehicles with CO2 emissions over 50 grams per kilometre. The top part is black with white text, the middle edges are yellow. The centre has four white sections with four red boxes and black text in the centre of each section. The section at the end is green with white text.]
+
+Figure 1: Illustration of Energy Consumption Label with fonts and dimensions
+
+[image: Diagram showing the dimensions, colours and fonts required for the energy consumption label for vehicles with CO2 emissions less than or equal to 50 grams per kilometre. The top part is black with white text, the middle edges are yellow. The centre has four white sections. The white sections on the left and lower right have a red box in the centre of the section with black text. The top right section a green box in the centre with black text. The section at the end is green with white text.]
+
+Figure 2: Illustration of Energy Consumption Label for vehicles with CO2 emissions less than or equal to 50 grams per kilometre with fonts and dimensions
+
+[image: Diagram illustrating a blank energy consumption label for vehicles with CO2 emissions over 50 grams per kilometre. The top part is black with white text, the middle edges are yellow. The centre has four white sections with four red boxes and black text in the centre of each section. The section at the end is green with white text.]
+
+Figure 3: Illustration of Energy Consumption Label
+
+[image: Diagram illustrating a blank energy consumption label for vehicles with CO2 emissions less than or equal to 50 grams per kilometre. The top part is black with white text, the middle edges are yellow. The centre has four white sections. The white sections on the left and lower right have a red box in the centre of the section with black text. The top right section a green box in the centre with black text. The section at the end is green with white text.]
+
+Figure 4: Illustration of Energy Consumption Label for vehicles with CO2 emissions less than or equal to 50 grams per kilometre
+
+[image: Diagram showing an example of a completed energy consumption label for a petrol non-plug-in hybrid vehicle with CO2 emissions greater than 50 grams per kilometre. This vehicle when tested consumed 4.5 litres of fuel per 100 kilometres and emitted 104 grams of CO2 per kilometre. As this vehicle is not powered by electricity, it has NA for the electric energy consumption and battery range figure.]
+
+Figure 5: Sample Energy Consumption Label (for illustrative purposes only)
+
+[image: Diagram showing an example of a completed energy consumption label for a plug-in hybrid vehicle with CO2 emissions less than or equal to 50 grams per kilometre. This vehicle when tested consumed 2.0 litres of fuel per 100 kilometres, emitted 46 grams of CO2 per kilometre, consumed 189 watt hours of electricity per kilometre and had a battery range of 53 kilometres.]
+
+Figure 6: Sample Energy Consumption Label for vehicles with CO2 emissions less than or equal to 50 grams per kilometre (for illustrative purposes only)
+
+**APPENDIX B**
+
+**Calculation of NEDC equivalent carbon dioxide value for vehicles tested to the WLTP or US EPA test cycle**
+
+Introduction
+
+This appendix specifies an approved method for calculating an NEDC equivalent carbon dioxide emissions value for the purposes of clause 5.3.7 of this vehicle standard.
+
+Definitions
+
+*4-phase WLTP* means a vehicle with a carbon dioxide emissions value determined over the complete cycle of the WLTP as adopted in Annex XXI of EU Regulation 2017/1151 or EU Regulation 2025/1706 or Level 1A or Level 2 of UN Regulation No.154.
+
+*3-phase WLTP* means a vehicle with a carbon dioxide emissions value determined over the complete cycle of the WLTP as adopted in Level 1B of UN Regulation No.154.
+
+*US 2-cycle test procedure* means a vehicle with a carbon dioxide emissions value determined over the ‘Federal Test Procedure’ and the ‘Highway Fuel Economy Test’ specified in Title 40 of the United States Code of Federal Regulations, Part 600 – Fuel Economy and Greenhouse Gas Exhaust Emissions of Motor Vehicles.
+
+3\. Calculation of an NEDC equivalent carbon dioxide emissions value for *Pure ICE* vehicles and *NOVC-HEVs*
+
+3.1 *Pure ICE vehicles* and *NOVC-HEVs* with a carbon dioxide emissions value determined in accordance with the *‘4-phase WLTP’*, ‘*3-phase WLTP’* or the ‘*US 2-cycle’* test procedure, may use the following equation to calculate the vehicle’s NEDC equivalent carbon dioxide emissions value for the purposes of this vehicle standard:
+
+[image]
+
+Where:
+
+[image] is the NEDC equivalent carbon dioxide emissions value in grams per kilometre (g/km)
+
+[image] is the carbon dioxide emissions value (in g/km) determined over the original test procedure
+
+Parameters a and b are defined in Table B1 depending on the procedure used for determining the reported carbon dioxide emissions value determined over the original test procedure, vehicle category, and fuel type.
+
+**Table B1: Parameters a and b for the conversion of carbon dioxide emission values of Pure ICE vehicles and NOVC-HEVs.**
+
+<table>
+<tr>
+<td><b>Original test procedure</b></td>
+<td><b>ADR vehicle category</b></td>
+<td><b>Fuel type</b></td>
+<td><b>a</b></td>
+<td><b>b</b></td>
+</tr>
+<tr>
+<td rowspan="4">Vehicles tested in accordance with the <i>4 phase WLTP</i></td>
+<td>MA, MB, MC</td>
+<td>Petrol</td>
+<td>0.9294</td>
+<td>-13.2248</td>
+</tr>
+<tr>
+<td>NA, NB1</td>
+<td>Petrol</td>
+<td>0.9294</td>
+<td>-13.2248</td>
+</tr>
+<tr>
+<td>MA, MB, MC</td>
+<td>Diesel</td>
+<td>0.8075</td>
+<td>1.8475</td>
+</tr>
+<tr>
+<td>NA, NB1</td>
+<td>Diesel</td>
+<td>0.7633</td>
+<td>1.0199</td>
+</tr>
+<tr>
+<td rowspan="4">Vehicles tested in accordance with the <i>3 phase WLTP</i></td>
+<td>MA, MB, MC</td>
+<td>Petrol</td>
+<td>0.7946</td>
+<td>11.8702</td>
+</tr>
+<tr>
+<td>NA, NB1</td>
+<td>Petrol</td>
+<td>0.7946</td>
+<td>11.8702</td>
+</tr>
+<tr>
+<td>MA, MB, MC</td>
+<td>Diesel</td>
+<td>0.7773</td>
+<td>10.0080</td>
+</tr>
+<tr>
+<td>NA, NB1</td>
+<td>Diesel</td>
+<td>0.7347</td>
+<td>8.7332</td>
+</tr>
+<tr>
+<td rowspan="4">Vehicles tested in accordance with the <i>US 2-cycle</i> test procedure</td>
+<td>MA, MB, MC</td>
+<td>Petrol</td>
+<td>0.9849</td>
+<td>0.9819</td>
+</tr>
+<tr>
+<td>NA, NB1</td>
+<td>Petrol</td>
+<td>0.9849</td>
+<td>0.9819</td>
+</tr>
+<tr>
+<td>MA, MB, MC</td>
+<td>Diesel</td>
+<td>1.0478</td>
+<td>-3.0061</td>
+</tr>
+<tr>
+<td>NA, NB1</td>
+<td>Diesel</td>
+<td>1.0419</td>
+<td>-3.2551</td>
+</tr>
+</table>
+
+4\. Calculation of an NEDC equivalent carbon dioxide emissions value for *OVC-HEVs*
+
+4.1 If the vehicle is an *OVC-HEV*, the following procedure may be used to determine the vehicle’s NEDC equivalent carbon dioxide emissions value:
+
+4.1.1 The declared charge sustaining CO2 emissions value from the original test procedure may be converted to a NEDC equivalent charge sustaining CO2 emissions value [image] using the following equation:
+
+[image: Start formula CO2, CS, NEDC equals a times CO2 type approval plus b]
+
+Where:
+
+*CO2,CS,type-approval* is the carbon dioxide emissions value (in g/km) determined over the original test procedure
+
+Parameters a and b are defined in Table B1 depending on the procedure used for determining the reported carbon dioxide emissions value determined over the original test procedure, vehicle category, and fuel type of the internal combustion engine.
+
+4.1.2 The NEDC equivalent carbon dioxide emissions value ([image]for the vehicle shall then be calculated using the following equation
+
+[image: Start formula CO subscript 2, NEDC equals CO2 subscript CS, NEDC times start fraction 25km over EAER plus 25km end fraction end formula]
+
+Where:
+
+*CO2,CS,NEDC* is the NEDC equivalent charge-sustaining CO2 emissions value in g/km determined in accordance with clause 4.2.1
+
+EAER is the equivalent all-electric range determined in accordance with the original test procedure in km
+
+4.2 At the choice of the manufacturer, an *OVC-HEV* tested in accordance with the *‘4-phase WLTP’*, with a utility factor weighted carbon dioxide emissions value calculated using:
+
+a. the dn utility factor curve specified in Annex B8-Appendix 5 of the 00 or 01 series of UN Regulation No. 154, or EU Regulation 2017/1151; or
+
+b. the dnea utility factor curve specified in Annex B8-Appendix 5 of Level 1A or Level 2 of UN Regulation No. 154, or EU Regulation 2023/443;
+
+the vehicle’s NEDC equivalent carbon dioxide emissions value may be calculated using the following equation:
+
+[image: Start formula CO2,NEDC equals a times CO2 type approval plus b end formula]
+
+Where:
+
+*CO2,NEDC* is the NEDC equivalent carbon dioxide emissions value in g/km
+
+*CO2,type-approval* is the carbon dioxide emissions value declared in accordance with the original test procedure
+
+Parameters a and b are defined in Table B2 depending on the procedure used for determining the reported declared carbon dioxide emissions value, the vehicle category, and the fuel type of the internal combustion engine.
+
+**Table B2: Parameters a and b for the conversion of carbon dioxide emission values of off-vehicle charging hybrid electric vehicles (OVC-HEVs).**
+
+<table>
+<tr>
+<td><b>Original test procedure</b></td>
+<td><b>ADR vehicle category</b></td>
+<td><b>Fuel type</b></td>
+<td><b>a</b></td>
+<td><b>b</b></td>
+</tr>
+<tr>
+<td rowspan="4"><i>OVC-HEVs</i> tested in accordance with the 4 phase WLTP, with a utility factor weighted CO2 value calculated using:<br>the dn (Euro 6d) utility factor curve specified in Annex B8-Appendix 5 of the 00 or 01 series of UN Regulation No. 154 (Level 1A or Level 2), or EU Regulation 2017/1151 as amended by EU Regulation 2018/1832; or<br>the dnea (Euro 6e-EA) utility factor curve specified in Annex B8-Appendix 5 of UN Regulation No. 154 (Level 1A or Level 2), or EU Regulation 2017/1151 as amended by EU Regulation 2023/443.</td>
+<td>MA, MB, MC</td>
+<td>Petrol</td>
+<td>0.6879</td>
+<td>13.9135</td>
+</tr>
+<tr>
+<td>NA, NB1</td>
+<td>Petrol</td>
+<td>0.6879</td>
+<td>13.9135</td>
+</tr>
+<tr>
+<td>MA, MB, MC</td>
+<td>Diesel</td>
+<td>0.7084</td>
+<td>14.5883</td>
+</tr>
+<tr>
+<td>NA, NB1</td>
+<td>Diesel</td>
+<td>0.7084</td>
+<td>14.5883</td>
+</tr>
+</table>
+
+Supporting information requirements
+
+5.1 For each vehicle type reporting a carbon dioxide or fuel consumption value determined in accordance with this Appendix, the following information must be recorded in the manufacturer’s *Supporting Information*:
+
+5.1.1 the vehicle’s NEDC equivalent carbon dioxide emissions value (in g/km) determined in accordance with clause 3.1, 4.1 or 4.2;
+
+5.1.2 The vehicle’s carbon dioxide emissions value (in g/km) determined in accordance with the original test procedure; and
+
+5.1.3 the vehicle’s ADR vehicle category; and
+
+5.1.4 the fuel-type for the vehicle’s internal combustion engine (“petrol” or “diesel”); and
+
+5.1.5 the vehicle’s powertrain type (“Pure ICE vehicle”, “NOVC-HEV” or “OVC-HEV”).
+
+5.2. If the vehicle is an *OVC-HEV* with an NEDC equivalent CO2 value determined in accordance with clause 4.1 of this Appendix, the following information must also be recorded in the manufacturer’s *Supporting Information*:
+
+5.2.1 The vehicle’s charge sustaining carbon dioxide emissions value in g/km, determined in accordance with the original test procedure;
+
+5.2.2. the vehicle’s NEDC equivalent charge sustaining carbon dioxide emissions value emissions (in g/km), calculated in accordance with clause 3.1;
+
+5.2.3 the vehicle’s equivalent all electric range in km, determined in accordance with the original test procedure.
+
+## Endnotes
+
+### Endnote 1—About the endnotes
+
+The endnotes provide information about this compilation and the compiled law.
+
+The following endnotes are included in every compilation:
+
+Endnote 1—About the endnotes
+
+Endnote 2—Abbreviation key
+
+Endnote 3—Legislation history
+
+Endnote 4—Amendment history
+
+**Abbreviation key—Endnote 2**
+
+The abbreviation key sets out abbreviations that may be used in the endnotes.
+
+**Legislation history and amendment history—Endnotes 3 and 4**
+
+Amending laws are annotated in the legislation history and amendment history.
+
+The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation.
+
+The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law.
+
+**Misdescribed amendments**
+
+A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section 15V of the *Legislation Act 2003*.
+
+If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and “(md not incorp)” is added to the amendment history.
+
+### Endnote 2—Abbreviation key
+
+| ad = added or inserted | orig = original |
+|---|---|
+| am = amended | p = page(s) |
+| amdt = amendment | para = paragraph(s)/subparagraph(s) |
+| C[x] = Compilation No. x | /sub‑subparagraph(s) |
+| ch = Chapter(s) | pres = present |
+| cl = clause(s) | prev = previous |
+| cont. = continued | (prev…) = previously |
+| def = definition(s) | pt = Part(s) |
+| Dict = Dictionary | r = regulation(s)/Court rule(s) |
+| disallowed = disallowed by Parliament | reloc = relocated |
+| div = Division(s) | renum = renumbered |
+| exp = expires/expired or ceases/ceased to have | rep = repealed |
+| effect | rs = repealed and substituted |
+| gaz = gazette | s = section(s)/subsection(s) |
+| LA = *Legislation Act 2003* | /rule(s)/subrule(s)/order(s)/suborder(s) |
+| LIA = *Legislative Instruments Act 2003* | sch = Schedule(s) |
+| (md not incorp) = misdescribed amendment | SLI = Select Legislative Instrument |
+| cannot be given effect | SR = Statutory Rules |
+| mod = modified/modification | sub ch = Sub‑Chapter(s) |
+| No. = Number(s) | sub div = Subdivision(s) |
+| Ord = Ordinance | sub pt = Subpart(s) |
+|  | underlining = whole or part not |
+|  | commenced or to be commenced |
+
+### Endnote 3—Legislation history
+
+| Name | Registration | Commencement | Application, saving and transitional provisions |
+|---|---|---|---|
+| Vehicle Standard (Australian Design Rule 81/03 – Energy Consumption Labelling for Light Vehicles) 2025<br>[F2025L01402] | 20/11/2025 | 21/11/2025 |  |
+| Vehicle Standard (Australian Design Rule) Amendment Instrument (No.1) of 2026<br>[F2026L01273] | 23/09/2026 | 24/09/2026 |  |
+
+### Endnote 4—Amendment history
+
+| **Provision affected** | **How affected** | **Amending legislation/instrument** |
+|---|---|---|
+| cl 1.2 | rep | Legislation Act 2003 – section 48D |
+| cl 1.2.1 | rep | Legislation Act 2003 – section 48D |
+| cl 5.6.1 | am | Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2026 |
+| Appendix A cl 5 | am | Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2026 |
+| Appendix B cl 1 | am | Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2026 |
+| Appendix B cl 4.1.2 | am | Vehicle Standard (Australian Design Rule) Amendment Instrument No. 1 of 2026 |

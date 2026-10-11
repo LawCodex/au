@@ -1,0 +1,158 @@
+---
+title: Statement of Principles concerning acute articular cartilage tear (Reasonable Hypothesis) (No. 21 of 2019)
+identifier: F2019L00233
+register_id: F2019L00233
+type: legislative_instrument
+number: No. 21 of 2019
+jurisdiction: au
+language: en
+date: "2019-03-01"
+version_start: "2019-03-04"
+status: in_force
+source: "https://www.legislation.gov.au/F2019L00233/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Statement of Principles concerning acute articular cartilage tear (Reasonable Hypothesis) (No. 21 of 2019)
+
+Statement of Principles
+
+concerning
+
+ACUTE ARTICULAR CARTILAGE TEAR\
+(Reasonable Hypothesis)
+
+(No. 21 of 2019)
+
+The Repatriation Medical Authority determines the following Statement of Principles under subsection 196B(2) of the *Veterans' Entitlements Act 1986*.
+
+Dated 1 March 2019
+
+The Common Seal of the\
+Repatriation Medical Authority\
+was affixed to this instrument\
+at the direction of:
+
+[image]\
+Professor Nicholas Saunders AO\
+Chairperson
+
+1 Name
+
+This is the Statement of Principles concerning *acute articular cartilage tear (Reasonable Hypothesis)* (No. 21 of 2019).
+
+2 Commencement
+
+This instrument commences on 25 March 2019.
+
+3 Authority
+
+This instrument is made under subsection 196B(2) of the *Veterans' Entitlements Act 1986*.
+
+4 Repeal
+
+The Statement of Principles concerning acute articular cartilage tear No. 53 of 2010 (Federal Register of Legislation No. F2010L01666) made under subsection 196B(2) of the VEA is repealed.
+
+5 Application
+
+This instrument applies to a claim to which section 120A of the VEA or section 338 of the *Military Rehabilitation and Compensation Act 2004* applies.
+
+6 Definitions
+
+The terms defined in the Schedule 1 - Dictionary have the meaning given when used in this instrument.
+
+7 Kind of injury, disease or death to which this Statement of Principles relates
+
+(1) This Statement of Principles is about acute articular cartilage tear and death from acute articular cartilage tear.
+
+Meaning of **acute articular cartilage tear**
+
+(2) For the purposes of this Statement of Principles, acute articular cartilage tear:
+
+(a) means an injury involving tearing or damage of the articular (hyaline) cartilage of a joint resulting in a sudden onset of pain and tenderness; and
+
+(b) excludes chronic tears and degenerative tears of articular cartilage.
+
+Note: Acute articular cartilage tear may be accompanied by the following symptoms and signs occurring within the 24 hours following the injury: swelling, bruising, or loss of functional ability.
+
+Death from **acute articular cartilage tear**
+
+(3) For the purposes of this Statement of Principles, acute articular cartilage tear, in relation to a person, includes death from a terminal event or condition that was contributed to by the person's acute articular cartilage tear.
+
+Note: ***terminal event*** is defined in the Schedule 1 – Dictionary.
+
+8 Basis for determining the factors
+
+The Repatriation Medical Authority is of the view that there is sound medical‑scientific evidence that indicates that acute articular cartilage tear and death from acute articular cartilage tear can be related to relevant service rendered by veterans, members of Peacekeeping Forces, or members of the Forces under the VEA, or members under the MRCA.
+
+Note: ***MRCA***, ***relevant service*** and ***VEA*** are defined in the Schedule 1 – Dictionary.
+
+9 Factors that must exist
+
+At least one of the following factors must as a minimum exist before it can be said that a reasonable hypothesis has been raised connecting acute articular cartilage tear or death from acute articular cartilage tear with the circumstances of a person's relevant service:
+
+(1) having a significant physical force applied to or through the affected joint at the time of the clinical onset of acute articular cartilage tear;
+
+(2) having intra-articular surgery of the affected joint at the time of the clinical onset of acute articular cartilage tear;
+
+Note: Examples of processes involved during intra-articular surgery include, but are not limited to, using a drill, placing an anchor suture and inserting an intra-articular infusion pump.
+
+(3) inability to obtain appropriate clinical management for acute articular cartilage tear.
+
+10 Relationship to service
+
+(1) The existence in a person of any factor referred to in section 9, must be related to the relevant service rendered by the person.
+
+(2) The factor set out in subsection 9(3) applies only to material contribution to, or aggravation of, acute articular cartilage tear where the person's acute articular cartilage tear was suffered or contracted before or during (but did not arise out of) the person's relevant service.
+
+11 Factors referring to an injury or disease covered by another Statement of Principles
+
+In this Statement of Principles:
+
+(1) if a factor referred to in section 9 applies in relation to a person; and
+
+(2) that factor refers to an injury or disease in respect of which a Statement of Principles has been determined under subsection 196B(2) of the VEA;
+
+then the factors in that Statement of Principles apply in accordance with the terms of that Statement of Principles as in force from time to time.
+
+Schedule 1 - Dictionary
+
+Note: See Section 6
+
+1 Definitions
+
+In this instrument:
+
+***acute articular cartilage tear***—see subsection 7(2).
+
+***MRCA*** means the *Military Rehabilitation and Compensation Act 2004*.
+
+***relevant service*** means:
+
+(a) operational service under the VEA;
+
+(b) peacekeeping service under the VEA;
+
+(c) hazardous service under the VEA;
+
+(d) British nuclear test defence service under the VEA;
+
+(e) warlike service under the MRCA; or
+
+(f) non-warlike service under the MRCA.
+
+Note: ***MRCA*** and ***VEA*** are also defined in the Schedule 1 - Dictionary.
+
+***terminal event*** means the proximate or ultimate cause of death and includes the following:
+
+(a) pneumonia;
+
+(b) respiratory failure;
+
+(c) cardiac arrest;
+
+(d) circulatory failure; or
+
+(e) cessation of brain function.
+
+***VEA*** means the *Veterans' Entitlements Act 1986*.
