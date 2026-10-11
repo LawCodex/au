@@ -1,0 +1,68 @@
+---
+title: Currency Determination No. 14 of 1993
+identifier: F2008B00100
+register_id: F2008B00100
+type: legislative_instrument
+number: No. 14 of 1993
+jurisdiction: au
+language: en
+date: "1993-11-17"
+version_start: "1993-11-17"
+status: in_force
+source: "https://www.legislation.gov.au/F2008B00100/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Currency Determination No. 14 of 1993
+
+**Commonwealth of Australia**
+
+*Currency Act 1965*
+
+**Currency Determination No. 14 of 1993**
+
+I, GARY JOHNS, Parliamentary Secretary to the Treasurer, acting for the Treasurer, make the following Determination under subsection 13A (1) the *Currency Act 1965.*
+
+Dated 17.11.1993.
+
+Parliamentary Secretary to the Treasurer
+
+[image]**Citation**
+
+**1.** This Determination may be cited as Currency Determination No. 14 of 1993.
+
+**Commencement**
+
+**2.** This Determination commences on 22 November 1993.
+
+**Specifications and design of a $10 coin**
+
+**3. (1)** This clause sets out the specifications and design of a coin of the denomination of $ 10 the standard composition of which includes not less than 92.5% silver.
+
+**(2)** The shape of the coin is circular.
+
+**(3)** The edge of the coin is milled.
+
+**(4)** The standard weight of the coin is 20.00 grams.
+
+**(5)** A variation of 0.500 grams from the standard weight is allowed.
+
+**(6)** The diameter of the coin is 34.10 millimetres.
+
+**(7)** The thickness of the coin is 2.90 millimetres,
+
+**(8)** The obverse of the coin bears:
+
+(a) an effigy of the Queen; and
+
+(b) the inscriptions “ELIZABETH II”, “AUSTRALIA” and “1993”.
+
+**(9)** The reverse of the coin bears:
+
+(a) a representation of a Palm Cockatoo; and
+
+(b) the inscriptions “TEN DOLLARS”; and
+
+(c) a small motif of the United Nations Environment Program logo.
+
+**(10)** This clause does not affect any other determination of the specifications or design of a coin.

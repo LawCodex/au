@@ -1,0 +1,1989 @@
+---
+title: List of Specimens Taken to be Suitable for Live Import (29/11/2001)
+identifier: F2006B01053
+register_id: F2026C00169
+type: legislative_instrument
+jurisdiction: au
+language: en
+date: "2001-11-29"
+compilation_number: 104
+last_amended: "2026-01-28"
+version_start: "2026-01-28"
+status: in_force
+source: "https://www.legislation.gov.au/F2006B01053/latest/text"
+retrieved: "2026-10-11"
+---
+
+# List of Specimens Taken to be Suitable for Live Import (29/11/2001)
+
+**List of Specimens taken to be Suitable for Live Import (29/11/2001)**
+
+made under section 303EB of the
+
+Environment Protection and Biodiversity Conservation Act 1999
+
+**Compilation No. 104**
+
+**Compilation date: 28 January 2026**
+
+**Includes amendments: F2026L00052**
+
+Prepared by the Department of Climate Change, Energy, the Environment and Water
+
+**About this compilation**
+
+**This compilation**
+
+This is a compilation of the *List of Specimens taken to be Suitable for Live Import (29/11/2001)* that shows the text of the law as amended and in force on 28/01/2026 (the ***compilation date***).
+
+The notes at the end of this compilation (the ***endnotes***) include information about amending laws and the amendment history of provisions of the compiled law.
+
+**Uncommenced amendments**
+
+The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the Register for the compiled law.
+
+**Application, saving and transitional provisions for provisions and amendments**
+
+If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
+
+**Modifications**
+
+If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the Register for the compiled law.
+
+**Self‑repealing provisions**
+
+If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
+
+###### Schedule
+
+**List of Specimens taken to be Suitable for Live Import**
+
+*Environment Protection and Biodiversity Conservation Act 1999*
+
+This is a list of specimens suitable for live import. The list is divided into two parts:
+
+**Part 1** is a list of live specimens that do not require an import permit under this Act; and
+
+**Part 2** is a list of live specimens that require an import permit under this Act.
+
+**Definitions** as defined under Part 23 of the *Environment Protection and Biodiversity Conservation Act 1999.*
+
+**animal** means any member, alive or dead, of the animal kingdom (other than a human being).
+
+**live animal** includes animal reproductive material.
+
+**plant** means a member, alive or dead, of the plant kingdom or of the fungus kingdom, and\
+includes a part of a plant and plant reproductive material.
+
+**live plant** includes plant reproductive material.
+
+###### Part 1 – Live specimens not requiring an import permit
+
+This list includes species of animals and plants suitable for live import without an import permit issued under this Act.
+
+This list also contains species that were approved for release prior to 1 May 1984, under the *Quarantine Act 1908* for the purpose of biological control. The species that have been included are based on current accessible records.
+
+Part 1 of the list must not contain a CITES specimen.
+
+This list is also taken to include any live plant the introduction of which into Australia is in accordance with the *Biosecurity Act 2015*, provided the plant is not included in the list of CITES specimens under this Act.
+
+The import of live animals included in this list are largely unrestricted, however, some freshwater fish can only be imported if specific restrictions are met (eg: Only male *Myloplus rubripinnis* of minimum length 8 cm SL). Restrictions are listed as part of the ‘*Taxon’* column.
+
+The ‘*Taxon’* column of the list includes the scientific name of the listed taxa.
+
+The *‘Common Name’* column of the list is included for information only and the scientific name determines if a species is included on the list.
+
+The list is organised as follows:
+
+Major group Subgroups
+
+**Vertebrate Animals**
+
+Class: Aves (Birds) Species in Alphabetic sequence
+
+Class: Chondrichthyes (Cartilaginous fishes) Species in Alphabetic sequence
+
+Class: Mammalia (Mammals) Species in Alphabetic sequence
+
+Class: Osteichthyes (Bony fish) *Freshwater Fish*: Species in Alphabetic sequence
+
+*Marine Fish*: General (not species specific)
+
+Species in Alphabetic sequence
+
+**Invertebrate Animals**
+
+Phylum: Arthropoda (Arthropods) Class: Arachnida Species in Alphabetic sequence
+
+Class: Insecta Species in Alphabetic sequence
+
+Class: Malacostraca Species in Alphabetic sequence
+
+Phylum: Mollusca (Molluscs) Species in Alphabetic sequence
+
+Phylum: Nematoda (Roundworms) Species in Alphabetic sequence
+
+**Vertebrate Animals**
+
+Birds (Aves)
+
+| ***Taxon*** | ***Common Name*** |
+|---|---|
+| *Anas platyrhynchos* | Mallard |
+| *Anser anser* | Greylag Goose |
+| *Cairina moschata* | Muscovy Duck |
+| Columba livia | Rock Dove, Domestic Pigeon |
+| Coturnix coturnix | Quail |
+| Gallus gallus | Red Junglefowl |
+| Meleagris gallopavo | Wild Turkey |
+| Phasianus colchicus | Ring-necked Pheasant |
+
+Cartilaginous fishes (Chondrichthyes)
+
+| ***Taxon*** | ***Common name*** |
+|---|---|
+| *Heterodontus zebra* | Zebra Bullhead Shark |
+| *Taeniura lymma* | Blue Spotted Fantail Ray |
+
+Mammals (Mammalia)
+
+| ***Taxon*** | ***Common Name*** |
+|---|---|
+| *Bos taurus indicus* | Indian Ox |
+| *Bos taurus taurus* | Domestic Cattle |
+| Camelus dromedaries | Dromedary (Arabian) Camel |
+| Canis lupus familiaris | Domestic Dog |
+| *Capra hircus* | Domestic Goat |
+| Cavia porcellus | Domestic Guinea Pig |
+| Equus asinus | Donkey (Ass) |
+| Equus asinus x Equus caballus | Mule = Male Donkey x Female Horse<br>Hinny = Female Donkey x Male Horse |
+| Equus caballus | Domestic Horse |
+| *Felis catus,* excluding any specimen of *Felis catus* derived from cross breeding with:<br>a *Leptailurus serval* or<br>a Savannah Cat (*Felis catus* x *Leptailurus serval*).<br>Note: To avoid doubt, (a) and (b) exclude from the definition of Felis catus any specimen with any genetic material derived from Leptailurus serval. | Domestic Cat |
+| Mus musculus | House Mouse |
+| *Ovis aries* | Domestic Sheep |
+| Rattus norvegicus | Brown Rat |
+| Rattus rattus | Black Rat |
+| Sus scrofa | Pig |
+
+Bony fishes (Osteichthyes)\
+All fish listings with size limits are to be measured using Standard Length (SL),\
+which is the measurement from the snout to the end of the caudal peducle.
+
+Freshwater Fish
+
+| ***Taxon*** | ***Common Name*** |
+|---|---|
+| Abramites hypselonotus | Marbled Headstander |
+| Alestopetersius caudalis | Yellowtail Congo Tetra |
+| Ambassis ambassis | Commerson's glassy perchlet |
+| Ambassis buruensis | Buru glass perchlet |
+| Ambassis elongata | Elongate glassfish, Yellow-fin perchlet |
+| Ambassis gymnocephalus | Bald glassy perchlet |
+| Ambassis interrupta | Long-spined glass perchlet |
+| Ambassis kopsii | Singapore glassy perchlet |
+| Ambassis macleayi | Macleay's glass perchlet, Reticulated glassfish |
+| Ambassis nalua | Scalloped perchlet |
+| Ambastaia sidthimunki of minimum length 2.5 cm SL | Dwarf botia, Skunk loach |
+| Andinoacara pulcher of minimum length 3 cm SL | blue acara |
+| *Anostomus* spp. | Headstander |
+| *Aphyocharax* spp. | Bloodfin Tetras |
+| *Aphyosemion* spp. | Killie Fish |
+| *Apistogramma* spp. | Dwarf Cichlid |
+| *Aplocheilus* spp. | Panchax |
+| Apteronotus albifrons | Black Ghost Knifefish |
+| Apteronotus leptorhynchus | Long Nose Brown Ghost Knifefish |
+| *Arnoldichthys spilopterus* | Niger Tetra, Arnold’s Characin,<br>Red-eye Characin |
+| *Astronotus ocellatus* | Oscar |
+| Only albino form of Astyanax jordani | Blind Cave Fish |
+| *Aulonocara nyassae* of minimum length 5 cm SL | African Peacock Cichlid, Emperor Cichlid |
+| *Aulonocara* spp. | African Cichlids |
+| Only male Bagrichthys hypselopterus | Black Lancer Catfish |
+| Balantiocheilos melanopterus | Silver Sharkminnow, Tricolor Sharkminnow |
+| Barbodes everetti | clown barb |
+| Barbodes lateristriga | spanner barb |
+| Barbodes semifasciolatus of minimum length 3 cm SL | golden barb, Chinese barb |
+| *Bedotia geayi* | Madagascar Rainbow, Red-tailed Silverside |
+| *Benthochromis tricoti* | Benthochromis Tricoti |
+| *Betta spp.* | Fighting Fish |
+| *Boehlkea fredcochui* | Chochu's Blue Tetra |
+| *Boraras maculatus* | Dwarf Spotted Rasbora |
+| *Botia lohachata* of minimum length 3 cm SL | Reticulate loach, Yo Yo loach |
+| *Brachygobius* spp. | Bumble Bee Fish |
+| *Brevibora dorsiocellata* | Emerald Eye Rasbora, Eyespot Rasbora |
+| *Brochis spp.* | Blue Catfish |
+| Brycinus longipinnis | African Tetra, Longfin Tetra |
+| Campylomormyrus cassaicus | Double-Nose Elephant Nose |
+| Campylomormyrus rhynchophorus | Double-Nose Elephant Nose |
+| *Carassius auratus auratus* | Goldfish |
+| *Carnegiella* spp. | Hatchet Fish |
+| *Chalinochromis* spp. | Lake Tanganyika Cichlids |
+| *Chanda nama* | Perchlet |
+| Characidium laterale | Pencil fish |
+| Chilatherina bulolo of minimum length 4 cm SL | Bulolo rainbowfish |
+| Chilatherina campsi of minimum length 4 cm SL | highland rainbowfish |
+| Chilatherina lorentzii of minimum length 4 cm SL | Lorentz’s rainbowfish |
+| Chilodus punctatus | Spotted Headstander |
+| *Chilotilapia rhoadesii* of minimum length 5 cm SL | Rhoadesii Cichlid, Bream |
+| *Chromobotia macracanthus* | Clown Loach |
+| *Cleithracara maronii* | Keyhole Cichlid |
+| Copeina guttata | Red Spotted Copeina |
+| Copella arnoldi | Splash Tetra, Characin, Jumping Tetra |
+| *Corydoras spp.* | Armoured Catfish |
+| Only male *Corynopoma riisei* of minimum length 2 cm SL | Swordtail characin |
+| *Crossocheilus oblongus* | Siamese Flying Fox, Siamese Algae Eater |
+| *Cyathopharynx furcifer* | Featherfin Cichlid, Thread Fin Furcifer |
+| *Cyphotilapia frontosa* of minimum length 10 cm SL | Frontosa, Humphead cichlid |
+| *Cyprichromis leptosoma* | Yellowtail Cyprichromis |
+| *Cyrtocara moorii* | Lake Malawi Cichlid |
+| *Danio albolineatus* | Pearl Danio |
+| *Danio kerri* | Kerr’s Danio, Blue Danio |
+| *Danio nigrofasciatus* | Spotted Danio, Dwarf Danio |
+| *Danio rerio* | Zebra Danio, Leopard Danio |
+| *Dasyloricaria filamentosa* | Whiptail Catfish |
+| *Dawkinsia arulius* | longfin barb, Arulius barb |
+| *Dawkinsia filamentosa* | blackspot barb |
+| Dekeyseria pulchra of minimum length 3 cm SL | Clown Peckoltia, Butterfly Pleco |
+| *Dermogenys pusilla* | Half Beak, Wrestling Halfbeak |
+| *Desmopuntius hexazona* | tiger barb |
+| *Desmopuntius pentazona* | five-banded barb |
+| *Devario devario* | Bengal Danio, Sind Danio |
+| Devario malabaricus | Malabar Danio, Giant Danio |
+| *Dianema urostriatum* | Stripe Tailed Catfish |
+| *Dicrossus filamentosus* | Checkerboard Lyretail, Checkerboard Cichlid, Chessboard Cichlid |
+| *Dicrossus maculatus* of minimum length 3 cm SL | Checkerboard cichlid |
+| *Ectrepopterus uruguayensis* | Tetra |
+| *Epalzeorhynchos bicolor* | Redtail Shark, Redtail Sharkminnow |
+| *Epalzeorhynchos frenatum* | Rainbow Shark, Rainbow Sharkminnow |
+| *Epalzeorhynchos kalopterum* | flying fox |
+| *Epalzeorhynchos munense* | Redfin Shark |
+| *Epiplatys* spp. | Killie Fish |
+| *Eretmodus cyanostictus* | Dwarf Goby Cichlid, Tanganyika Clown Cichlid |
+| *Esomus malayensis* | Flying Barb, Malayan Flying Barb |
+| Farlowella acus | Twig Catfish, Whiptail catfish |
+| *Gasteropelecus* spp. | Hatchet Fish |
+| *Glossolepis incisus* of minimum length of 3.5 cm SL | Red rainbow fish |
+| *Glossolepis kabia* of minimum length 4 cm SL | Kabia rainbowfish |
+| *Glossolepis leggetti* of minimum length 4 cm SL | Leggett’s Rainbowfish |
+| *Glossolepis multisquamata* of minimum length 4 cm SL | Mamberamo rainbowfish |
+| *Gnathochromis permaxillaris* | African Cichlid |
+| Gnathonemus petersii | Elephant Nose |
+| *Gymnocorymbus bondi* | Tetra |
+| *Gymnocorymbus ternetzi* | Black Widow Tetra |
+| Gymnocorymbus thayeri | Black tetra |
+| Gyrinocheilus aymonieri | Sucking Asian Catfish |
+| *Haludaria fasciata* | melon barb |
+| *Hasemania nana* | Silver Tip Tetra |
+| Helostoma temminkii | Green Kissing Gourami, Pink Kissing Gourami |
+| *Hemigrammus* spp. | Tetras |
+| Hemiodus sterni | Striped Hemiodus |
+| Homaloptera orthogoniata | Indonesian Lizard Fish |
+| *Hyphessobrycon* spp*.* | Tetras |
+| *Hypsophrys nicaraguensis* of minimum length 5 cm SL | Nicaraguan cichlid, Moga, Parrot cichlid |
+| *Inpaichthys kerri* | Blue Emperor Tetra, Royal Tetra |
+| *Iodotropheus sprengerae* | African Cichlid, Rusty Cichlid |
+| *Julidochromis* spp. | Dwarf Cichlid |
+| Kryptopterus bicirrhis | Glass Catfish |
+| *Kryptopterus macrocephalus* | Poormans Glass Catfish, Striped Glass Catfish |
+| *Kryptopterus vitreolus* | - |
+| *Labeo chrysophekadion* | Black Shark |
+| *Labeo cyclorhynchus* | Variegated Shark, Harlequin Shark |
+| *Labidochromis caeruleus* | Electric Yellow Cichlid |
+| *Laetacara curviceps* | Curviceps, Flag Acara |
+| Laetacara dorsigera | Redbreast Acara, Smiling Acara |
+| *Lamprologus ocellatus* of minimum length 3 cm SL | Gold African cichlid, Gold ocellatus |
+| *Laubuka laubuca* | Indian hatchet fish |
+| *Leiognathus ruconius* | deep pugnose ponyfish |
+| *Lepidarchus adonis* | Flagtail Tetra, Adonis Tetra, Jellybean Tetra |
+| *Lepidocephalichthys lorentzi* | Loach |
+| *Lepidiolamprologus meeli* of minimum length 3 cm SL | African cichlid |
+| *Leporinus arcus* | Lipstick Leporinus |
+| *Leporinus fasciatus* | Banded Leporinus |
+| *Leporinus maculatus* | Spotted Leporinus |
+| *Leporinus multifasciatus* | Multi-banded Leporinus |
+| *Lestradea stappersii* | Blacknosed threadfin cichlid |
+| Macrognathus aculeatus | Spiny Eel, Lesser Spiny Eel |
+| *Macropodus opercularis* of minimum length 3.5 cm SL | Paradise fish |
+| *Marcusenius macrolepidotus* | Elephant Nose, Bulldog |
+| *Marosatherina ladigesi* | Celebes Rainbow |
+| *Melanochromis auratus* | Auratus, Golden Mbuna |
+| *Melanochromis simulans* | auratus |
+| Only non-Albino form of *Mesonauta festivus* | Festivum, Flag Cichlid |
+| *Metynnis* spp. of minimum length 4 cm SL | Silver Dollars |
+| Mikrogeophagus altispinosus | Bolivian Butterfly Cichlid |
+| Mikrogeophagus ramirezi | Ram Cichlid |
+| *Mimagoniates microlepis* | Croaking Tetra, Blue Tetra |
+| *Moenkhausia* spp. | Tetras |
+| *Monodactylus argenteus* | Angel Mono, Malayan Mono, Batfish,<br>Silver Moony |
+| *Monodactylus sebae* | African Mono, African Moony |
+| *Myloplus rubripinnis* of minimum length 8 cm SL | Redhook myleus |
+| *Nannacara anomala* | Golden Dwarf Acara, Goldeneye Cichlid |
+| *Nannacara aureocephalus* | Golden Head Cichlid |
+| *Nannacara taenia* | Dwarf Lattice Cichlid |
+| *Nannostomus* spp. | Pencil Fish |
+| *Nematobrycon* spp. | Emperor Tetra |
+| *Neolamprologus brichardi* | Princess of Burundi |
+| *Neolamprologus cylindricus* | Tanganyikan Cichlid |
+| Only yellow morph of *Neolamprologus leleupi* of minimum<br>length 5cm SL | Lemon Cichlid |
+| *Neolamprologus mustax* of minimum length 3.5 cm SL | Mustax, Mask lamprologus |
+| *Oliotius oligolepis* | checkered barb |
+| *Ophthalmotilapia* spp. | Blacknosed Threadfin Cichlid |
+| *Oryzias latipes* | Golden Medaka, Japanese Rice Fish |
+| *Osteochilus vittatus* | Bony Lipped Barb, Silver Sharkminnow |
+| *Otocinclus arnoldi* | Sucker Catfish |
+| Pangio agma | loach |
+| Pangio anguillaris | loach |
+| Pangio borneensis | loach |
+| Pangio cuneovirgata | loach |
+| Pangio goaensis | Indian coolie-loach |
+| Pangio kuhlii | Coolie loach |
+| Pangio longipinnis | loach |
+| Pangio malayana | loach |
+| Pangio mariarum | loach |
+| Pangio muraeniformis | Spotted coolie loach, Spotted eel-loach |
+| Pangio myersi | loach |
+| Pangio oblonga | Java loach |
+| Pangio pangia | loach |
+| Pangio robiginosa | loach |
+| Pangio semicincta | loach |
+| Pangio shelfordii | Borneo loach, Shelford’s loach |
+| Pantodon buchholzi | Butterfly Fish |
+| *Paracheirodon axelrodi* | Cardinal Tetra |
+| *Paracheirodon innesi* | Neon Tetra |
+| *Parachela oxygastroides* | Glass Barb |
+| *Paracyprichromis nigripinnis* | Blue Neon Cyprichromis |
+| *Parambassis apogonoides* | Perchlet |
+| *Parambassis baculis* | Himalayan glassy perchlet |
+| *Parambassis lala* | Highfin glassy perchlet |
+| *Parambassis macrolepis* | Perchlet |
+| *Parambassis ranga* | Glass perchlet |
+| *Parambassis siamensis* | Glassfish |
+| *Parosphromenus deissneri* of minimum length 2 cm SL | Licorice gourami |
+| *Pelvicachromis pulcher* | Rainbow Kribensis |
+| *Pelvicachromis subocellatus* | Eye-spot Kribensis, Eye-spot Cichlid |
+| *Pelvicachromis taeniatus* | Striped Kribensis, Nigerian Cichlid |
+| *Pethia conchonius* | rosy barb |
+| *Pethia cumingii* | Cummings barb, two spot barb |
+| *Pethia nigrofasciata* | ruby barb |
+| *Pethia ticto* | Ticto barb |
+| *Petitella georgiae* | False Rummy Nose |
+| *Petrochromis trewavasae* of minimum length 3.5 cm SL | Texas cichlid, White Spotted peerchromis, Threadfin cichlid |
+| *Phenacogrammus interruptus* | Congo Tetra |
+| *Pimelodus ornatus* | Ornate Pimelodus Catfish |
+| *Pimelodus pictus* | Pictus Catfish |
+| Poecilia latipinna | Sailfin Mollie |
+| *Poecilia reticulata* of minimum length 2 cm SL | Guppy |
+| *Poecilia sphenops* | Black Mollie |
+| *Poecilia velifera* | Yucatan Sailfin Mollie |
+| Only male Poecilocharax weitzmani | Shining Tetra |
+| *Prionobrama filigera* | Glass Bloodfin |
+| *Pristella maxillaris* | Pristella, X-ray Tetra |
+| *Pseudogastromyzon myersi* | Dwarf Stone Sucker, Sucker-belly Loach |
+| *Pseudomystus siamensis* of minimum length 8 cm SL | Siamese catfish, Bumblebee catfish |
+| *Pterophyllum* spp. | Angel Fish |
+| *Puntigrus partipentazona* | tiger barb |
+| *Puntigrus tetrazona* | tiger barb, Sumatra barb |
+| *Puntius bimaculatus* | Two Spot Barb, Redside Barb |
+| *Puntius titteya* | Cherry Barb |
+| *Puntius vittatus* | Kooli Barb, Greenstripe Barb |
+| *Rasbora argyrotaenia* | Silver Rasbora |
+| *Rasbora borapetensis* | Red Tail Rasbora, Blackline Rasbora |
+| *Rasbora caudimaculata* | Red Tail Rasbora, Greater Scissortail |
+| *Rasbora dusonensis* | Yellow Tail Rasbora, Rosefin Rasbora |
+| *Rasbora einthovenii* | Blue Line Rasbora, Brilliant Rasbora |
+| *Rasbora elegans* | Two Spot Rasbora |
+| *Rasbora kalochroma* | Clown Rasbora |
+| *Rasbora leptosoma* | Copper Striped Rasbora |
+| *Rasbora sarawakensis* | Sarawak Rasbora |
+| *Rasbora steineri* | Gold Line Rasbora, Chinese Rasbora |
+| *Rasbora trilineata* | Black Scissortail, Three-lined Rasbora |
+| *Rasboroides vaterifloris* | Flame Rasbora, Pearly Rasbora |
+| *Rhodeus amarus* | European Bitterling |
+| *Rhodeus sericeus* | Amur Bitterling |
+| Sawbwa resplendens of minimum length 1.5 cm SL | Asian Rummynose, Sawbwa Barb |
+| Semaprochilodus insignis | Flagtail Prochilodus |
+| *Semaprochilodus taeniurus* | Silver Prochilodus |
+| *Spathodus erythrodon* | Blue Spotted Goby Cichlid |
+| *Sphaerichthys osphromenoides* | Chocolate Gourami |
+| *Striuntius lineatus* | striped barb |
+| *Sturisomatichthys panamense* of minimum length 10 cm SL | armoured catfish |
+| *Symphysodon* spp. | Discus |
+| Synodontis decorus of minimum length 10 cm SL | Clown squeaker catfish |
+| *Synodontis multipunctatus* | Cuckoo Catfish, African Catfish |
+| *Synodontis nigriventris* | Upsidedown Catfish, Blotched Upsidedown Catfish |
+| *Systomus asoka* | Asoka barb |
+| *Tanganicodus irsacae* | Goby Cichlid, Spotfin Goby Cichlid |
+| *Tanichthys albonubes* | White Cloud, Mountain Minnow |
+| *Tateurndina ocellicauda* | Peacock Gudgeon |
+| *Tetragonopterus rarus* | Tetra |
+| *Thayeria* spp. | Hockeystick Tetra |
+| *Theriodes sandakanensis* | loach |
+| *Thoracocharax securis* | Giant hatchetfish |
+| Thoracocharax stellatus | Silver hatchetfish, Spotfin hatchetfish |
+| Toxotes jaculatrix | Banded Archer Fish |
+| Only male Trachelyopterus fisheri of minimum length 7 cm SL | Woodcat, Driftwood catfish |
+| *Trichogaster chuna* | Honey Dwarf Gourami |
+| Trichogaster fasciata | Giant Dwarf Gourami, Banded Gourami |
+| *Trichogaster labiosa* | Thick-lipped Gourami |
+| *Trichogaster lalius* | Dwarf Gourami |
+| *Trichogaster microlepis* | Moonbeam Gourami |
+| *Trichopodus leerii* | Pearl Gourami |
+| *Trichopsis pumila* | Pygmy Gourami |
+| *Trichopodus trichopterus* | golden gourami, three spot gourami |
+| *Trichopsis vittata* | Croaking Gourami |
+| *Trigonopoma pauciperforatum* | Red Line Rasbora |
+| *Trigonostigma hengeli* | Harlequin Rasbora, Glowlight Rasbora |
+| *Trigonostigma heteromorpha* | Harlequin Rasbora |
+| Trinectes maculatus | Freshwater Flounder, Hogchocker |
+| *Triportheus* spp. | False Hatchet |
+| *Tropheus* spp. of minimum length 3 cm SL | African Cichlids |
+| *Xiphophorus hellerii* | Swordtail |
+| *Xiphophorus maculatus* | Platy |
+| *Xiphophorus variatus* | Variegated Platy |
+
+Marine Fish
+
+Note: Any Freshwater members of a family listed as Marine fish are *not* allowed for unregulated import
+
+unless included separately in the Freshwater Fish list.
+
+| ***Taxon*** | ***Common name*** |
+|---|---|
+| General (not species specific) |  |
+| All species of the family Acanthuridae | Surgeonfish, tang, unicornfish |
+| All species of the family Anomalopidae | Flashlight fish, lanterneye fish |
+| All species of the family Apogonidae | Cardinal fishes |
+| All species of the family Balistidae | Triggerfish |
+| All species of the family Bythitidae | Viviparous brotulas |
+| All species of the family Callionymidae | Dragonets |
+| All species of the family Carapidae | Pearlfish |
+| All species of the family Centriscidae | Snipefish, shrimpfish |
+| All species of the family Chaetodontidae | Butterfly fish |
+| All species of the family Cirrhitidae | Hawk fish |
+| All species of the family Ephippidae | Batfish, spadefish, scats |
+| All species of the family Grammatidae | Basslets |
+| All species of the family Holocentridae | Squirrel fish, Soldier fish |
+| All species of the family Labridae excluding *Cheilinus undulatus* | Wrasses |
+| All species of the family Malacanthidae | Blanquillos, tilefish |
+| All species of the family Monacanthidae | Filefish |
+| All species of the family Monocentridae | Pinecone fish |
+| All species of the family Mullidae | Goatfish |
+| All species of the family Muraenidae | Moray eels |
+| All species of the family Ostraciidae | Box fish |
+| All species of the family Pegasidae | Seamoths |
+| All species of the family Pempheridae | Sweepers |
+| All species of the family Pholidichthyidae | Convict blennies |
+| All species of the family Pinguipedidae | Weevers, sandperches |
+| All species of the family Plesiopidae | Roundheads |
+| All species of the family Pomacanthidae (except *Holacanthus clarionensis* and *Holacanthus limbaughi.* For *Holocanthus clarionensis* see Part 2) | Angelfish |
+| All species of the family Pomacentridae | Damsel fish, clownfish |
+| All species of the family Priacanthidae | Bigeyes, catalufas |
+| All species of the family Pseudochromidae | Dottybacks |
+| All species of the family Scaridae | Parrotfish |
+| All species of the family Syngnathidae excluding *Hippocampus* spp | Pipe fish, seahorses |
+| Species (in alphabetic sequence) |  |
+| *Alectis* spp. | Trevally |
+| *Anthias* spp. | Rock Cods |
+| *Brachirus* spp. | Sole |
+| *Brotula* spp. | Cusk eels |
+| *Canthigaster* spp. | Puffer fish |
+| Cirripectes stigmaticus | Red-streaked Blenny, Reticulated Blenny |
+| *Cromileptes* spp. | Groupers |
+| *Dendrochirus* spp. | Scorpion fish |
+| *Ecsenius axelrodi* | Axelrod’s Clown Blenny |
+| *Ecsenius bicolor* | Bicolor Combtooth Blenny, Bicolor Blenny, Two-colour Comb-tooth Blenny |
+| *Ecsenius gravieri* | Red Sea Mimic Blenny |
+| *Ecsenius melarchus* | Yellow-eyed Comb-Tooth Blenny |
+| Ecsenius midas | Midas Comb-tooth Blenny, Lyre-tail Comb-tooth, Midas Blenny, Persian Blenny |
+| *Ecsenius pulcher* | blenny |
+| *Gobiodon* spp. | Gobies |
+| *Lipophrys nigriceps* | Black-headed Blenny |
+| *Lobotes* spp. | Jumping Cod |
+| *Lythrypnus* spp. | Gobies |
+| *Macolor* spp. | Snapper |
+| *Meiacanthus atrodorsalis* | Eyelash Fang Blenny, Eyelash Harptail Blenny, Lyretail Blenny, Yellow-tail Fang Blenny, Forktail Blenny |
+| *Meiacanthus grammistes* | Linespot Fang Blenny, Black-banded Blenny, Line-spot Harp-tail, Striped Poison-fang Blenny |
+| *Meiacanthus oualanensis* | Canary Fang Blenny, Oualan Forktail Blenny |
+| *Nemateleotris* spp. | Gobies |
+| Plotosus lineatus | Eel-tailed Catfish, Striped Eel Catfish, Lined Catfish |
+| *Ptereleotris* spp. | Gobies |
+| *Pterois* spp. | Lionfish |
+| *Rhinopias* spp. | Scorpion fish |
+| *Scolopsis bilineata* | Spine-cheek, Two-lined Monocle Bream |
+| *Siganus* spp. excluding *Siganus rivulatus* and *Siganus luridus* | Rabbit fishes |
+| *Signigobius* spp. | Gobies |
+| *Symphorichthys* spp. | Sailfin snapper |
+| *Valenciennea strigata* | Blueband Glider Goby, Bluestreak Goby, Golden-head Sleeper Goby |
+| *Zanclus cornutus* | Moorish idol |
+
+**Invertebrate Animals**
+
+Arthropods (Arthropoda)
+
+| ***Taxon*** | *Common Name* |
+|---|---|
+| Class: Arachnida |  |
+| *Aceria lantanae* | Lantana bud mite |
+| *Aculus hyperici* | St John’s wort stunt mite |
+| *Amblyseius fallacis* | predatory mite |
+| *Anystis baccarum* | whirligig mite |
+| *Bdellodes lapidaria* | pasture snout mite |
+| *Neomolgus capillatus* | spiny snout mite |
+| *Neoseiulus cucumeris* | thrip predatory mite |
+| *Phytoseliulus persimilis* | spinning mite |
+| *Tetranychus linearius* | spider mite |
+| *Typhlodromus pyri* | predatory mite |
+| *Typhlodromus rickeri* | predatory mite |
+| Class: Insecta |  |
+| *Acaciothrips ebneri* | A gall thrip |
+| *Acanthoscelides puniceus* | Mimosa Seed Weevil |
+| *Acanthoscelides quadridentatus* | Mexican Mimosa Seed-feeding Weevil |
+| *Aconophora compressa* | Lantana Stem-sucking Treehopper |
+| *Actinotia hyperici* | Pale-shouldered Purple Cloud Moth |
+| *Aerenicopsis championi* | Stem-boring Cerambycid, Long-horned Wood-boring Beetle |
+| *Agasicles hygrophila* | Alligator Weed Flea Beetle |
+| *Ageniaspis citricola* | Citrus Leaf-miner Parasitoid Encyrtid Wasp |
+| *Agonopterix ulicetella* | Gorse Soft Shoot Moth, Gorse Shoot-tip Moth |
+| *Agrilus hyperici* | St John’s Wort Root-borer Beetle |
+| *Alagoasa parana* | Lantana Leaf-feeding Beetle |
+| *Alcidion cereicola* | Harrisia Cactus Long-horn Beetle |
+| *Algarobius bottimeri* | Kiawe Bean Weevil, Mesquite Seed-feeding Bruchid Beetle |
+| *Algarobius prosopis* | Mesquite Seed-feeding Bruchid Beetle, Mesquite Seed-feeding Weevil |
+| *Allurus muricatus* | Parasitic Braconid Wasp |
+| *Aloencyrtus ingens* | Parasitoid Encyrtid Wasp |
+| *Anacassis cribrum* | Groundsel Bush Foliage-feeding Beetle |
+| *Anacassis fuscata unicolor* | Foliage-feeding Beetle |
+| *Anacassis phaeopoda* | Foliage-feeding Beetle |
+| *Anagyrus pseudococci* | Mealybug Endoparasitoid Encyrtid Wasp |
+| *Anaphes diana* | Sitona Egg Parasitic Mymarid Wasp |
+| *Apanteles scutellaris* | brachonid moth |
+| *Apanteles subandinus* | brachonid moth |
+| *Aphelinus asychis* | Aphid Parasitoid Aphelinid Wasp |
+| *Aphidius eadyi* | Pea Aphid Parasitic Braconid Wasp |
+| *Aphidius ervi ervi* | Lucerne Aphid Parasitic Braconid Wasp |
+| *Aphidius gifuensis* | Green Peach Aphid Parasitoid Wasp |
+| *Aphidius pisivorus* | Pea Aphid Parasitoid Braconid Wasp |
+| *Aphidius rhopalosiphi* | Cereal Aphid Parasitoid Braconid Wasp |
+| *Aphidius rosae* | Rose-bush Aphid Parasitoid Braconid Wasp |
+| *Aphidius smithi* | Pea Aphid Parasitoid Braconid Wasp |
+| *Aphidius sonchi* | Pea Aphid Parasitoid Braconid Wasp |
+| *Aphis chloris* | St John’s Wort Aphid |
+| *Aphytis aonidiae* | San Jose Scale Parasitoid Aphelinid Wasp |
+| *Aphytis coheni* | Californian Red Scale Parasitoid Aphelinid Wasp |
+| *Aphytis gordoni* | Parasitoid Aphelinid Wasp |
+| *Aphytis holoxanthus* | Circular Black Scale Parasitic Aphelinid Wasp |
+| *Aphytis lepidosaphes* | Mussel Scale Parasitic Aphelinid Wasp |
+| *Aphytis lingnanensis* | Red Scale Parasitic Aphelinid Wasp |
+| *Aphytis malloi* | Parasitoid Aphelinid Wasp |
+| *Aphytis mytilaspidis* | Mussel Scale Parasitic Aphelinid Wasp |
+| *Apion aculeatum* | Mimosa Flower-feeding Weevil |
+| *Apion miniatum* | Red Apion Seed Weevil |
+| *Apis mellifera mellifera* | Honey Bee, Apiary Bee, European Dark Bee |
+| *Aplocera plagiata* | St John’s Wort Inchworm, Defoliating Moth |
+| *Aprostocetus ceroplastae* | White Wax Parasitic Eulophid Wasp |
+| *Arcola malloi* | Alligator Weed Stem-borer Moth |
+| *Arytainilla spartiophila* | Scotch Broom Psyllid |
+| *Ascogaster quadridentata* | Codling Moth Parasitic Braconid Wasp |
+| *Asolcus basalis* | Green Stink Bug Parasitoid Scelionid Wasp |
+| *Ateuchetus laticollis* | dung beetle |
+| *Autoplusia illustrata* | Jamaican Moth, Lantana Leaf-skeletonising Caterpillar |
+| *Bembecia chrysidiformis* | Fiery Clearwing Moth, Clearwing Dock Moth |
+| *Bombyx mori* | Mulberry Silkworm, Mulberry Silk Moth |
+| *Botanophila spinosa* | Cotton Thistle Crown-feeding Fly |
+| *Bradyrrhoa gilveolella* | Rush Skeletonweed Root-feeding Moth |
+| *Bruchidius sahlbergi* | Prickly Acacia Seed-feeding Beetle |
+| *Bruchidius villosus* | Scotch Broom Seed-feeding Beetle |
+| *Bubas bubalus* | Scarabaeine Dung Beetle |
+| *Bucculatrix ivella* | Groundsel Leaf-perforator Moth, Groundsel Leaf-mining Moth |
+| *Cactoblastis spp.* | Cactus Moths, Nopal Moths |
+| *Calligrapha pantherina* | Sida Leaf-feeding Beetle |
+| *Campogaster exigua* | Sitona Weevils Parasitoid Tachinid Fly |
+| *Campoletis chlorideae* | Helicoverpa Parasitoid Ichneumonid Wasp |
+| *Carmenta ithacae* | Mexican Clearwing Stem-boring Moth |
+| *Carmenta mimosa* | Mimosa Stem-boring Moth |
+| *Carvalhotingis visenda* | Cat’s Claw Leaf-sucking Lace Bug |
+| *Cassida* spp*.* | Tortoise Beetles |
+| *Cecidochares connexa* | A gall fly |
+| *Chalcodermus serripes* | Mimosa Green Seed Weevil |
+| *Chamaesphecia mysiniformis* | Horehound Clearwing Moth |
+| *Charidotis pygmaea* | Leaf-Eating Beetle |
+| *Cheironitis scabrosus* | dung beetle |
+| *Chiasmia assimilis* | Prickly Acacia Geometrid Moth |
+| *Chlamisus spp.* | Wild Blueberry Beetles, Leaf Beetles |
+| *Chrysolina hyperici* | St John’s Wort Leaf Beetle |
+| *Chrysolina oberprieleri* | Painted Boneseed Leaf Beetle |
+| *Chrysolina progressa* | Vogel’s Leaf Beetle, Black Boneseed Beetle |
+| *Chrysolina quadrigemina* | St John’s Wort Root-borer Beetle |
+| *Cirrospilus quadristriatus* | Citrus Leaf-miner Parasitic Eulophid Wasp |
+| *Citrostichus phyllocnistoides* | Citrus Leaf-miner Parasitoid Eulophid Wasp |
+| *Coccidiphaga scitula* | Scale-feeding Noctuid Moth |
+| *Cochylis atricapitana* | Ragwort Crown-boring Moth, Ragwort Leaf-boring Moth |
+| *Coelocephalapion pigrae* | Mimosa Flower-feeding Weevil |
+| *Coeloides pissodis* | Southern Pine Beetle Parasitoid Braconid Wasp |
+| *Coeloides sympitys* | Parasitoid Braconid Wasp |
+| *Comostolopsis germana* | Bitou Bush Tip Moth |
+| *Conotrachelus spp.* | Stem-galling Weevils |
+| *Copidosoma koehleri* | Egg Parasitoid Encyrtid Wasp |
+| *Copris hispanus* | Scarabaeid Dung Beetle |
+| *Copris incertus* | dung beetle |
+| *Copris integer* | dung beetle |
+| *Copris lunaris* | dung beetle |
+| *Cotesia kazak* | Cotton Bollworm Parasitic Braconid Wasp |
+| *Cotesia marginiventris* | Beet Armyworm Parasitic Braconid Wasp |
+| *Cotesia ruficrus* | Armyworm Parasitic Braconid Wasp |
+| *Cuphodes profluens* | Prickly Acacia Tip-boring Moth |
+| Only sterile *Cydia pomonella* | Codling Moth |
+| *Cyrtobagous salviniae* | South American Salvinia Weevil |
+| *Cystiphora schmidti* | Skeletonweed Gall Midge |
+| *Dactylopius opuntiae* | Prickly Pear Cochineal, Opuntia Cochineal Mealybug |
+| *Dactylopius tomentosus* | a cochineal insect |
+| *Diaeretus essigellae* | Parasitoid wasp |
+| *Deuterocampta quadrijuga* | Blue Heliotrope Leaf-feeding Beetle |
+| *Dialectica scalariella* | Paterson’s Curse Leaf-miner Moth, Echium Leaf-miner Moth |
+| *Dinotiscus burkei* | Western Pine Beetle Parasitoid Pteromalid Wasp |
+| *Disonycha argentinensis* | Alligator Weed Flea Beetle |
+| *Diversinervus elegans* | Scale Nymph Parasitoid Encyrtid Wasp |
+| *Diversinervus stramineus* | Kenyan Green Coffee Scale Parasitic Encyrtid Wasp |
+| *Drosophila melanogaster* | Common Fruit Fly, Vinegar Fly, Pomace Fly |
+| *Elachertus spp.* | Parasitoid Eulophid Wasps |
+| *Encarsia spp.* | Whitefly Parasitoid Aphelinid Wasps |
+| *Ephedrus nacheri* | Aphid Parasitic Aphidiid Wasp |
+| *Ephedrus plagiator* | Soybean Aphid Parasitic Aphidiid Wasp |
+| *Epiblema strenuana* | Parthenium Stem-galling Tortricid Moth |
+| *Eretmocerus hayati* | Sliverleaf Whitefly Parasitoid Aphelinid Wasp |
+| *Erynniopsis antennata* | Elm Leaf Beetle Parasitic Tachinid Fly |
+| *Eublemma respersa* | Scotch Thistle Leaf-boring Noctuid Moth |
+| *Euclasta gigantalis* | Rubber Vine Pyralid Moth |
+| *Eueupithecia cisplatensis* | a geometrid moth |
+| *Eueupithecia vollonoides* | A geometrid moth |
+| *Euonthophagus crocatus* | Scarabaeid Dung Beetle |
+| *Euoniticellus triangulatus* | dung beetle |
+| *Eutinobothrus spp.* | Brazilian Root-borer Weevils, Brazilian Stem-borer Weevils |
+| *Eutreta xanthochaeta* | Lantana Gall-forming Tephritid Fly |
+| *Euxanthellus philippiae* | Soft Scale Aphelinid Parasitoid Wasp |
+| *Evippe spp.* | Leaf-tying Gelechiid Moths |
+| *Falconia intermedia* | Lantana Sap-sucker Mirid Beetle |
+| *Geotrupes stercorarius* | dung beetle |
+| *Goetheana shakespearei* | Thrips Parasitic Eulophid Wasp |
+| *Gymnopleurus humanus* | dung Beetle |
+| *Gymnopleurus sturmi* | Scarabaeid Dung Beetle |
+| *Habrolepis rouxi* | Scale Parasitoid Encyrtid Wasp |
+| *Haimbachia infusella* | pyralid moth |
+| *Heilipodus intricatus* | Groundsel Root-boring Weevil |
+| *Hellinsia balanotes* | Groundsel Plume Moth |
+| *Homichloda barkeri* | African Chrysomelid Beetle, Prickly Acacia Leaf-feeding Beetle |
+| *Hydrotimetes natans* | A weevil |
+| *Hypocosmia pyrochroma* | Cat’s Claw Leaf-tying Pyralid Moth |
+| *Hyposoter didymator* | Noctuid Larvae Parasitoid Ichneumonid Wasp |
+| *Ibalia spp.* | Parasitoid Ibaliid Wasps |
+| *Larinus latus* | Onopordum Seed Weevil, Thistle Seed-head Weevil |
+| *Leptobyrsa decora* | Lantana Sap-sucking Lace Bug |
+| *Leptomastix dactylopii* | Citrus Mealybug Parasitic Encyrtid Wasp |
+| *Leuciris fimbriaria* | Mimosa Foliage-feeding Geometrid Moth |
+| *Leptomastix epona* | Mealybug Parasitoid Encyrtid Wasp |
+| *Leucoptera spartifoliella* | Twig-mining Moth, Broom Lyonetiid Moth |
+| *Lioplacis elliptica* | Broom Twig-miner Moth |
+| *Listronotus appendiculatus* | A weevil |
+| *Listronotus setosipennis* | Parthenium Stem-boring Weevil |
+| *Litomastix spp.* | parasitoid wasps |
+| *Lixus cardui* | Thistle Stem-boring Weevil |
+| *Lixus cribricollis* | Emex Stem-boring Weevil |
+| *Longitarsus aeneus* | Paterson’s Curse Root Hair Flea Beetle |
+| *Longitarsus albineus* | Heliotrope Flea Beetle |
+| *Longitarsus echii* | Paterson’s Curse Tap Root Flea Beetle |
+| *Longitarsus flavicornis* | Ragwort Flea Beetle |
+| *Longitarsus jacobaeae* | Tansy Ragwort Flea Beetle |
+| *Lysiphlebus confusus* | wasp |
+| *Lysiphlebus fabarum* | Black Bean Aphid Parasitic Aphidiid Wasp |
+| *Macaria pallidata* | Mimosa Leaf-feeding Looper Moth |
+| *Macrocentrus ancylivorus* | Oriental Fruit Moth Parasitic Braconid Wasp |
+| *Macrocentrus collaris* | parasitoid wasp |
+| *Malacorhinus irregularis* | Mexican Leaf Beetle, Mimosa Leaf-feeding Beetle |
+| *Mastrus ridens* | a parasitoid wasp |
+| *Megacyllene mellyi* | Groundsel Stem-borer Beetle |
+| *Megaphragma mymaripenne* | Greenhouse Thrips Parasitic Trichogrammatid Wasp |
+| *Megarhyssa nortoni nortoni* | Sirex Woodwasp Parasitoid Ichneumonid Wasp |
+| *Megarhyssa nortoni quebecensis* | Sirex Woodwasp Parasitoid Ichneumonid Wasp |
+| *Meibomeus* sp. | beetle |
+| *Meligethes planiusculus* | Paterson’s Curse Pollen Beetle |
+| *Meligethes rotroui* | Horehound Pollen Beetle |
+| *Mesoclanis polana* | Bitou Bush Seed Fly |
+| *Metallactus patagonicus* | Groundsel Foliage-feeding Chrysomelid Beetle |
+| *Metaphycus lounsburyi* | Black Olive Scale Parasitoid Encyrtid Wasp |
+| *Microctonus aethiopoides* | Alfalfa Weevil Parasitic Braconid Wasp |
+| *Microgaster spp.* | Heliothis Parasitoid Braconid Wasps |
+| *Mimosestes ulkei* | Seed-feeding Bruchid Beetle |
+| *Mogulones geographicus* | Paterson’s Curse Root-boring Weevil |
+| *Mogulones larvatus* | Paterson’s Curse Root-boring Weevil, Paterson’s Curse Crown-boring Weevil |
+| *Neochetina bruchi* | Chevroned Water Hyacinth Weevil |
+| *Neolasioptera lathami* | Gall-forming Cecidomyiid Fly |
+| *Nesaecrepida infuscata* | Root-breeding Leaf Beetle |
+| *Neurostrota gunniella* | Mimosa Stem-mining Moth |
+| *Niphograpta albiguttalis* | Water Hyacinth Stem-borer Moth |
+| *Octotoma championi* | Lantana Leaf-mining Beetle |
+| *Odontocolon geniculatus* | Sircine Woodwasp Parasitoid Ichneumonid Wasp |
+| *Oedionychus spp.* | Flea Beetles |
+| *Oidaematophorus lacteodactylus* | Stem-borer Pterophorid Moth |
+| *Onitis minutus* | dung beetle |
+| *Onthophagus marginalis* spp. *andalusicus* | Scarabaeid Dung Beetle |
+| *Onthophagus medius* | dung beetle |
+| *Onthophagus nuchicornis* | dung beetle |
+| *Onthophagus opacicollis* | dung beetle |
+| *Onthophagus vacca* | Scarabaeine Dung Beetle |
+| *Oomyzus gallerucae* | Elm Leaf Beetle Parasitic Eulophid Wasp |
+| *Ophiomyia camarae* | Lantana Herringbone Leaf-mining Fly |
+| *Orgilus spp.* | Potato Moth Parasitic Braconid Wasps |
+| *Orius laevigatus* | Thrips Predatory Bug, Flower Bug, Pirate Bug |
+| *Pelidnoptera nigripennis* | Millipede Parasitiod Fly |
+| *Penthobruchus germaini* | Parkinsonia Seed Beetle |
+| *Perapion antiquum* | South African Emex Weevil |
+| *Phytoecia coerulescens* | Paterson’s Curse Stem Beetle |
+| *Plagiohammus spinipennis* | Lantana Stem-borer Cerambycid Beetle |
+| *Platphalonidia mystica* | Parthenium Stem-boring Moth |
+| *Plectonycha correntina* | Leaf-feeding beetle |
+| *Praon barbatum* | Aphid Parasitic Braconid Wasp |
+| *Praon dorsale* | Aphid Parasitic Braconid Wasp |
+| *Praon exoletum* | Aphid Parasitic Braconid Wasp |
+| *Praon volucre* | Aphid Parasitic Braconid Wasp |
+| *Procecidochares alani* | Mist Flower Gall Fly |
+| *Prochoerodes truxaliata* | Groundsel Bush Geometrid Moth |
+| *Prosopidopsylla flava* | Mesquite Sap-sucking Psyllid |
+| *Pseudaphycus flavidulus* | Obscure Mealybug Parasitoid Encyrtid Wasp |
+| *Pseudaphycus maculipennis* | Obscure Mealybug Parasitoid Wasp |
+| *Pseudorhyssa spp.* | Sirex Woodwasp Parasitoid Ichneumonid Wasps |
+| *Pyramidobela spp.* | Leaf-rolling Ethmiine Moths |
+| *Rhinocyllus conicus* | Musk Thistle Head Weevil |
+| *Rhyssa alaskensis* | Sirex Woodwasp Parasitoid Ichneumonid Wasp |
+| *Rhyssa amoena* | Sirex Woodwasp Parasitoid Ichneumonid Wasp |
+| *Rhyssa crevieri* | Sirex Woodwasp Parasitoid Ichneumonid Wasp |
+| *Rhyssa lineolata* | Sirex Woodwasp Parasitoid Ichneumonid Wasp |
+| *Rhyssa persuasoria* | Sirex Woodwasp Parasitoid Ichneumonid Wasp |
+| *Rogas spp.* | Noctuid Moth Parasitoid Braconid Wasp |
+| *Roptrocerus xylophagorum* | Bark Beetle Parasitoid Pteromalid Wasp |
+| *Samea multiplicalis* | Salvinia Stem-borer Moth |
+| *Scamurius* spp*.* | Mimosa Shoot-feeding Coreid Bugs |
+| *Scarabaeus sacer* | dung beetle |
+| *Schlettererius cinctipes* | Sirex Woodwasp Parasitic Stephanid Wasp |
+| *Sericothrips staphylinus* | Gorse Thrips |
+| *Sibinia fastigiata* | Green-seed Weevil |
+| *Sisyphus schaefferi* | dung beetle |
+| *Smicronyx lutulentus* | Parthenium Seed-feeding Weevil |
+| *Spathius pallidus* | Southern Pine Beetle Parasitoid Braconid Wasp |
+| *Sphecophaga vesparum* | European Wasp Parasitoid Ichneumonid Wasp |
+| *Stobaera concinna* | Parthenium Sap-feeding Planthopper |
+| *Telenomus nakagawai* | Egg Parasitic Scelionid Wasp |
+| *Telenomus remus* | Egg Parasitic Scelionid Wasp |
+| *Teleonemia elata* | Lantana Leaf-feeding Tingid Bug, Lantana Flower-feeding Bug |
+| *Teleonemia scrupulosa* | Lantana Leaf-sucking Lace Bug |
+| *Temnochila virescens* | Bark-gnawing Trogossitid Beetle |
+| *Tephritis postica* | Thistle Seed Tephritid Fly |
+| *Tetrastichus brontispae* | Blue Coconut Leaf Beetle Parasitic Eulophid Wasp, Coconut Leaf Hispa Parasitic Eulophid Wasp |
+| *Tettigometra sulphurea* | Thistle Sap-sucking Planthopper |
+| *Thanasimus dubius* | Bark Beetle Predatory Checkered Beetle |
+| *Tortrix spp.* | Fruit-feeding Tortrix Moths |
+| *Trichogramma pretiosum* | Egg Parasitoid Trichogrammatid Wasp |
+| *Trichopoda giacomellii* | Argentinian Parasitoid Tachinid Fly, Green Vegetable Bug Parasitic Fly |
+| *Trichopoda pennipes* | Stink Bug Parasitic Tachinid Fly, Squash Bug Parasitic Fly |
+| *Trichosirocalus briesei* | Thistle Rosette Crown-feeding Weevil |
+| *Trichosirocalus mortadelo* | Thistle Rosette Crown-feeding Weevil |
+| *Trirhabda bacharidis* | Groundsel Leaf-feeding Beetle |
+| *Trissolcus basalis* | Green Vegetable Bug Egg Parasitoid Scelionid Wasp |
+| *Tyria jacobaeae* | Cinnabar Moth |
+| *Urophora solstitialis* | Thistle Flower Gall-forming Fly |
+| *Urophora stylata* | Spear Thistle Seed-feeding Fly, Bull Thistle Gall-forming Fly |
+| *Urophora terebrans* | Thistle Flower Head Gall-forming Fly |
+| *Wheeleria spilodactylus* | Horehound Plume Moth |
+| *Xenopsylla cunicularis* | Spannish Rabbit Flea |
+| *Xubida infesellus* | Water Hyacinth Stem-borer Moth |
+| *Zygina sp.* | foliage feeding beetle |
+| *Zygogramma bigenera* | Ragweed Leaf Beetle |
+| *Zygogramma suturalis* | Ragweed Leaf-feeding Beetle |
+| Class: Malacostraca |  |
+| *Artemia salina* | Brine Shrimp, Sea Monkeys |
+
+Molluscs (Mollusca)
+
+| ***Taxon*** | *Common Name* |
+|---|---|
+| *Cornu aspersum* | Common Garden Snail |
+
+Roundworms (Nematoda)
+
+| ***Taxon*** | *Common Name* |
+|---|---|
+| *Deladenus siridicola* | Siricid Woodwasp Parasitic Nematode |
+
+**Plants**
+
+Part 1 of this list is taken to include any live plant the introduction of which into Australia is in accordance with the *Biosecurity Act 2015*, provided the plant is not included in the list of CITES species established under the *Environment Protection and Biodiversity Conservation Act 1999*.
+
+###### Part 2 –Live specimens requiring an import permit
+
+This list includes species of animals and plants suitable for live import with an import permit issued under this Act.
+
+This list is also taken to include any live plant included in the list of CITES specimens under this Act, provided the introduction of the plant into Australia is in accordance with the *Biosecurity Act 2015*.
+
+The ‘*Taxon’* column of the list includes the scientific name of the listed taxa.
+
+The *‘Common Name’* column of the list is included for information only and the scientific name determines if a species is included on the list.
+
+The *‘Conditions for Import’* column lists any restrictions and/or conditions that will apply to the live import of specimens in the listed taxon. For the purposes of this list, the import of a specimen is an “eligible non-commercial purpose import” if the import is in accordance with section 303FB of this Act.
+
+The list is organised as follows:
+
+## Major group Subgroups
+
+Vertebrate Animals
+
+Class: Amphibia (Amphibians) Species in Alphabetic sequence
+
+Class: Aves (Birds) Species in Alphabetic sequence
+
+Class: Chondrichthyes (Cartilaginous fishes) Species in Alphabetic sequence
+
+Class: Mammalia (Mammals) Species in Alphabetic sequence
+
+Class: Osteichthyes (Bony fish) Species in Alphabetic sequence
+
+Class: Reptilia (Reptiles) Species in Alphabetic sequence
+
+Invertebrate Animals
+
+Phylum: Annelida (Annelids) Species in Alphabetic sequence
+
+Phylum: Arthropoda (Arthropods) Species in Alphabetic sequence within
+
+Class: Arachnida (spiders, mites, ticks)
+
+Branchiopoda (brine shrimps)
+
+Insecta ( flies, moths, beetles, wasps)
+
+Malacostraca (shrimps, crabs, lobsters)
+
+Phylum: Cnidaria (Coral-like animals) Species in Alphabetic sequence
+
+Phylum: Echinodermata (Echinoderms) Species in Alphabetic sequence
+
+Phylum: Mollusca (Molluscs) Species in Alphabetic sequence
+
+Phylum: Nematoda (Roundworms) Species in Alphabetic sequence
+
+Phylum: Platyhelminthes (Flatworms) Species in Alphabetic sequence
+
+Phylum: Trematoda (Flukes) Species in Alphabetic sequence
+
+**Fungi:** non-motile Eukaryotes Species in Alphabetic sequence
+
+**Monera:** Prokaryotes: single celled organisms Species in Alphabetic sequence
+
+**Protoctista:** simplest (single celled) Eukaryotes Species in Alphabetic sequence
+
+**Vertebrate Animals**
+
+Amphibians (Amphibia)
+
+| ***Taxon*** | ***Common Name*** | ***Conditions for Import*** |
+|---|---|---|
+| *Ambystoma mexicanum* | Axolotl | Research only. High security facilities only. |
+| *Andrias japonicus* | Japanese Giant Salamander | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Dendrobates auratus* | Green and Golden Poison Arrow Frog | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Dendrobates azureus* | Blue Poison Arrow Frog | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Dendrobates galactonotus* | Splash-back Poison Arrow Frog | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Dendrobates tinctorius* | Dyeing Poison Dart Frog (Various Colour Morphs) | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Litoria infrafrenata* | Giant Green Tree Frog | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Litoria raniformis* | Growling Grass Frog | Research only. High security facilities only. |
+| *Liuixalus romeri* | Romer's Tree Frog | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Pyxicephalus adspersus adspersus* | African Bullfrog (southern subspecies) | Eligible non-commercial purpose only, excluding household pets. Certified males over 14 cm snout-vent length only. High security facilities only. |
+| *Rhinella marina* | Cane Toad | Research only. High security facilities only. |
+| *Taricha granulosa* | Rough Skinned Newt | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Xenopus laevis* | South African Clawed Frog | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+
+Birds (Aves)
+
+| ***Taxon*** | ***Common Name*** | ***Conditions for Import*** |
+|---|---|---|
+| *Agapornis roseicollis* | Peach-faced Lovebird, Rosy-faced Lovebird |  |
+| *Amazona aestiva* | Blue-fronted Amazon |  |
+| *Amazona ochrocephala* | Yellow-crowned Amazon |  |
+| *Aptenodytes patagonicus* | King Penguin | Eligible non-commercial purpose only, excluding household pets.<br>High security facilities only. |
+| *Apteryx australis* | Brown Kiwi | Eligible non-commercial purpose only, excluding household pets. |
+| *Ara ararauna* | Blue and Yellow Macaw |  |
+| *Ara chloroptera* | Green-winged Macaw |  |
+| *Ara macao* | Scarlet Macaw |  |
+| *Ara rubrogenys* | Red-fronted Macaw | Specimens and progeny must be micro-chipped and a DNA sample kept and provided to the Australian Government on request. |
+| *Barnardius zonarius barnardi* | Mallee Ringneck Parrot |  |
+| *Cacatua galerita* | Sulphur Crested Cockatoo |  |
+| *Cacatua leadbeateri* | Major Mitchell Cockatoo |  |
+| *Cacatua sanguinea* | Little Corella |  |
+| *Callocephalon fimbriatum* | Gang Gang Cockatoo |  |
+| *Diopsittaca nobilis* | Red-shouldered Macaw, Hahn’s Macaw, Noble Macaw |  |
+| *Eolophus roseicapillus* | Galah, Roseate Cockatoo |  |
+| *Eudyptes pachyrhynchus* | Fiordland crested penguin | Eligible non-commercial purpose only, excluding household pets. |
+| *Eos bornea* | Red Lory |  |
+| *Guaruba guarouba* | Golden Parakeet |  |
+| *Lorius garrulus* | Chattering Lory |  |
+| *Lorius lory* | Black-Capped Lory |  |
+| *Melopsittacus undulatus* | Budgerigar |  |
+| *Neophema elegans* | Elegant Parrot |  |
+| *Neophema pulchella* | Turquoise Parrot |  |
+| *Ninox novaeseelandiae* | Boobook Owl | Eligible non-commercial purpose only, excluding household pets. |
+| *Nymphicus hollandicus* | Cockatiel |  |
+| *Pionites melanocephalus* | Black-headed Caique, Black-headed Parrot |  |
+| *Platycercus elegans* | Crimson Rosella |  |
+| *Polytelis alexandrae* | Princess Parrot |  |
+| *Psephotus haematonotus* | Red Rumped Parrot |  |
+| *Pseudeos fuscata* | Dusky Lory |  |
+| *Psittacula eupatria* | Alexandrine Parakeet |  |
+| Psittacula krameri | Ring-neck Parakeet |  |
+| *Psittacus erithacus* | African Grey Parrot | For eligible non-commercial purposes only. Specimens and progeny must be micro-chipped and a DNA sample kept and provided to the Australian Government on request. |
+| *Pygoscelis antarcticus* | Chinstrap Penguin | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Pygoscelis papua* | Gentoo Penguin | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Pyrrhura frontalis* | Maroon-bellied Conure | For eligible non-commercial purposes only. Specimens and progeny must be microchipped and a DNA sample kept and provided to the Australian Government on request. |
+| *Serinus canaria* | Canary |  |
+| *Spheniscus demersus* | Jackass Penguin, Blackfooted Cape Penguin | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Struthio camelus* | Ostrich |  |
+| *Trichoglossus chlorolepidotus* | Scaly-breasted Lorikeet |  |
+| *Trichoglossus haematodus* | Rainbow Lorikeet |  |
+
+Cartilaginous fishes (Chondrichthyes)
+
+| ***Taxon*** | *Common Name* | ***Conditions for Import*** |
+|---|---|---|
+| *Carcharias taurus* | Grey Nurse Shark | Eligible non-commercial purposes only, excluding household pets. High security facilities only. |
+
+Mammals (Mammalia)
+
+| ***Taxon*** | *Common Name* | ***Conditions for Import*** |
+|---|---|---|
+| *Acinonyx jubatus* | Cheetah | Eligible non-commercial purpose only, excluding household pets. |
+| Acomys cahirinus | Cairo Spiny Mouse | Eligible non-commercial purpose only, excluding household pets. |
+| *Addax nasomaculatus* | Addax | Eligible non-commercial purpose only, excluding household pets. |
+| *Ailuropoda melanoleuca* | Giant Panda | Eligible non-commercial purpose only, excluding household pets. |
+| *Ailurus fulgens* | Red Panda, Lesser Panda | Eligible non-commercial purpose only, excluding household pets. |
+| *Aonyx cinerea* | Oriental Small-clawed Otter,<br>Small-clawed Otter | Eligible non-commercial purpose only, excluding household pets. |
+| *Aotus lemurinus* | Lemurine Night Monkey | Eligible non-commercial purposes only, excluding household pets. High security facilities only. |
+| *Aotus nancymaae* | Ma’s Night Monkey | Eligible non-commercial purposes only, excluding household pets. High security facilities only. |
+| *Aotus trivirgatus* | Northern Owl Monkey | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Arctictis binturong* | Binturong | Eligible non-commercial purpose only, excluding household pets. |
+| *Arctocephalus forsteri* | New Zealand Fur Seal | Eligible non-commercial purpose only, excluding household pets. |
+| *Arctocephalus tropicalis* | Sub-Antarctic Fur Seal | Eligible non-commercial purpose only, excluding household pets. |
+| *Ateles geoffroyi* | Black-handed Spider Monkey | Eligible non-commercial purpose only, excluding household pets. |
+| *Bison bison* | American Bison |  |
+| *Boselaphus tragocamelus* | Nilgai, Bluebuck | Eligible non-commercial purpose only, excluding household pets. |
+| Bubalus bubalis | Water Buffalo |  |
+| *Callithrix jacchus* | Common Marmoset | Eligible non-commercial purpose only, excluding household pets. |
+| *Callithrix pygmaea* | Pygmy Marmoset | Eligible non-commercial purpose only, excluding household pets. |
+| *Canis lupus dingo* | Dingo |  |
+| *Caracal caracal* | Caracal | Eligible non-commercial purpose only, excluding household pets. |
+| *Catopuma temminckii* | Asiatic Golden Cat | Eligible non-commercial purpose only, excluding household pets. |
+| *Cebus apella* | Black-capped Capuchin, Tufted Capuchin Monkey | Eligible non-commercial purpose only, excluding household pets. |
+| *Cebus capucinus* | White-throated Capuchin monkey | Commercial filming purposes only, excluding household pets. Specimens imported cannot be capable of breeding with each other. Specimens must be re-exported at the conclusion of filming requirements. |
+| *Ceratotherium simum* | White Rhinoceros | Eligible non-commercial purpose only, excluding household pets. |
+| *Cercopithecus neglectus* | Debrazza Monkey | Eligible non-commercial purpose only, excluding household pets. |
+| *Cervus alfredi* | Philippine Spotted Deer | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Cervus canadensis* | Elk |  |
+| *Cervus elaphus* | Red Deer |  |
+| *Chlorocebus aethiops* | Grivet Monkey, Savanna Monkey | Eligible non-commercial purpose only, excluding household pets. |
+| *Choeropsis liberiensis* | Pygmy Hippopotamus | Eligible non-commercial purpose only, excluding household pets. |
+| *Choloepus hoffmanni* | Hoffmann’s Two-toed Sloth | Eligible non-commercial purpose only, excluding household pets. |
+| *Colobus guereza* | Black and White Colobus | Eligible non-commercial purpose only, excluding household pets. High security facilities only |
+| *Chrysocyon brachyurus* | Maned Wolf | Eligible non-commercial purpose only, excluding household pets. |
+| *Crocuta crocuta* | Spotted Hyena | Eligible non-commercial purpose only, excluding household pets. |
+| *Cuon alpinus* | Asiatic Wild Dog, Indian Wild Dog, Dhole | Eligible non-commercial purpose only, excluding household pets. |
+| *Dactylopsila megalura* | Great-tailed Trioch | Eligible non-commercial purpose only, excluding household pets. |
+| *Dama dama* | Fallow Deer |  |
+| *Dasyprocta leporina* | Brazilian Agouti | Eligible non-commercial purpose only, excluding household pets. |
+| *Dasypus novemcinctus* | Nine Banded Armadillo | Eligible non-commercial purpose only, excluding household pets. |
+| *Dendrolagus goodfellowi* | Goodfellow’s Tree Kangaroo | Eligible non-commercial purpose only, excluding household pets. |
+| *Dendrolagus matschiei* | Matschies Tree Kangaroo, Huon Tree Kangaroo | Eligible non-commercial purpose only, excluding household pets. |
+| *Diceros bicornis* | Black Rhinoceros | Eligible non-commercial purpose only, excluding household pets. |
+| *Dolichotis patagonum* | Patagonian Cavy, Patagonian Hare, Patagonian Mara | Eligible non-commercial purpose only, excluding household pets. |
+| *Elephas maximus* | Indian Elephant, Asiatic Elephant | Eligible non-commercial purpose only, excluding household pets. |
+| *Equus grevyi* | Grevy’s Zebra | Eligible non-commercial purpose only, excluding household pets. |
+| *Equus przewalskii* | Przewalski’s Horse | Eligible non-commercial purpose only, excluding household pets. |
+| *Equus quagga* | Plains Zebra, Common Zebra | Eligible non-commercial purpose only, excluding household pets. |
+| *Erinaceus europaeus* | European Hedgehog | Eligible non-commercial purpose only, excluding household pets. |
+| *Felis manul* | Pallas Cat | Eligible non-commercial purpose only, excluding household pets. |
+| *Galago senegalensis* | Lesser Galago, Bush Baby | Eligible non-commercial purpose only, excluding household pets. |
+| *Giraffa camelopardalis* | Giraffe | Eligible non-commercial purpose only, excluding household pets. |
+| *Gorilla gorilla* | Gorilla | Eligible non-commercial purpose only, excluding household pets. |
+| *Gymnobelideus leadbeateri* | Leadbeater’s Possum | Eligible non-commercial purpose only, excluding household pets. |
+| *Helarctos malayanus* | Sun Bear, Malayan Sun Bear | Eligible non-commercial purpose only, excluding household pets. |
+| *Hippopotamus amphibius* | Hippopotamus | Eligible non-commercial purpose only, excluding household pets. |
+| *Hippotragus niger* | Sable Antelope | Eligible non-commercial purpose only, excluding household pets. |
+| *Hydrochoerus hydrochaeris* | Capybaras | Eligible non-commercial purpose only, excluding household pets. |
+| *Hylobates leucogenys* | White-cheeked Gibbon | Eligible non-commercial purpose only, excluding household pets. |
+| *Hylobates moloch* | Moloch Gibbon | Eligible non-commercial purpose only, excluding household pets. |
+| *Hylobates syndactylus* | Siamang | Eligible non-commercial purpose only, excluding household pets. |
+| *Hystrix africaeaustralis* | Cape Porcupine | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Kobus ellipsiprymnus* | Water Buck | Eligible non-commercial purpose only, excluding household pets. |
+| *Kobus leche* | Ethiopian Lechwe | Eligible non-commercial purpose only, excluding household pets. |
+| *Lama glama* | Llama |  |
+| *Lama pacos* | Alpaca |  |
+| *Lemur catta* | Ring-tailed Lemur | Eligible non-commercial purpose only, excluding household pets. |
+| *Leontopithecus chrysopygus* | Black Lion Tamarin | Eligible non-commercial purpose only, excluding household pets. |
+| *Leontopithecus rosalia* | Golden Lion Tamarin | Eligible non-commercial purpose only, excluding household pets. |
+| *Leopardus pardalis* | Ocelot | Eligible non-commercial purpose only, excluding household pets. |
+| *Leptailurus serval* | Serval | Eligible non-commercial purpose only, excluding household pets. |
+| *Lepus europaeus* | European Brown Hare | Eligible non-commercial purpose only, excluding household pets. |
+| *Lutrogale perspicillata* | Smooth-coated Otter, Indian Smooth-coated Otter | Eligible non-commercial purpose only, excluding household pets. |
+| *Lycaon pictus* | African Hunting Dog | Eligible non-commercial purpose only, excluding household pets. |
+| *Macaca fascicularis* | Cynomolgus Monkeys | Eligible non-commercial purpose only, excluding household pets. |
+| Macaca nemestrina | Pig-tailed Macaque | Eligible non-commercial purpose only, excluding household pets. |
+| *Macaca nigra* | Celebes Black Ape | Eligible non-commercial purpose only, excluding household pets. |
+| *Macaca silenus* | Lion-Tailed Macaque | Eligible non-commercial purpose only, excluding household pets. |
+| *Macropus eugenii eugenii* | Tammar Wallaby |  |
+| *Meles meles* | Eurasian Badger | Eligible non-commercial purpose only, excluding household pets. |
+| Mesocricetus auratus | Golden Hamster | Research only. High security facilities only. |
+| *Mico argentatus* | Silvery Marmoset | Eligible non-commercial purpose only, excluding household pets. |
+| *Miopithecus talapoin* | Southern Talapoin, Talapoin Monkey | Eligible non-commercial purpose only, excluding household pets. |
+| *Monodelphis domestica* | Gray Short-tailed Oppossum | Eligible non-commercial purpose only, excluding household pets. |
+| *Murexia habbema* | Habbema Antechinus | Eligible non-commercial purpose only, excluding household pets. |
+| *Murexia longicaudata* | Short-haired Marsupial Mouse | Eligible non-commercial purpose only, excluding household pets. |
+| *Murexia melanurus* | Black-tailed Antechinus | Eligible non-commercial purpose only, excluding household pets. |
+| *Murexia naso* | Long-nosed Antechinus | Eligible non-commercial purpose only, excluding household pets. |
+| *Mustela putorius furo* | domestic ferret | Research only. High security facilities only. |
+| *Myoictis melas* | Three-striped Dasyure | Eligible non-commercial purpose only, excluding household pets. |
+| *Myrmecophaga tridactyla* | Giant Anteater | Eligible non-commercial purpose only, excluding household pets. |
+| *Nanger dama ruficollis* | Addra Gazelle, Dama Gazelle | Eligible non-commercial purpose only, excluding household pets. |
+| *Nanger granti* | Grant’s Gazelle | Eligible non-commercial purpose only, excluding household pets. |
+| *Nasua nasua* | Brown-nosed Coati | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Neofelis nebulosa* | Clouded Leopard | Eligible non-commercial purpose only, excluding household pets. |
+| *Neophascogale lorentzii* | Speckled Dasyure | Eligible non-commercial purpose only, excluding household pets. |
+| *Nycticebus coucang* | Slow Loris | Eligible non-commercial purpose only, excluding household pets. |
+| *Okapia johnstoni* | Okapi | Eligible non-commercial purpose only, excluding household pets. |
+| *Oryctolagus cuniculus* | Rabbit | Except Watanabe Heritable Hyper-lipidaemic Rabbits which are suitable for Eligible non-commercial purpose only, excluding household pets. |
+| *Oryx dammah* | Scimitar-horned Oryx | Eligible non-commercial purpose only, excluding household pets. |
+| *Oryx gazella* | Gemsbok | Eligible non-commercial purpose only, excluding household pets. |
+| *Pan troglodytes* | Chimpanzee | Eligible non-commercial purpose only, excluding household pets. |
+| *Panthera leo* | Lion | Eligible non-commercial purpose only, excluding household pets. |
+| *Panthera onca* | Jaguar | Eligible non-commercial purpose only, excluding household pets. |
+| *Panthera pardus* | Leopard | Eligible non-commercial purpose only, excluding household pets. |
+| *Panthera tigris* | Tiger, Sumatran Tiger | Eligible non-commercial purpose only, excluding household pets. |
+| *Papio hamadryas* | Hamadryas Baboon | Eligible non-commercial purpose only, excluding household pets. |
+| *Papio sphinx* | Mandrill | Eligible non-commercial purpose only, excluding household pets. |
+| *Pecari tajacu* | Collared Peccary, Musk Hog | Eligible non-commercial purpose only, excluding household pets. |
+| *Peroryctes longicauda* | Striped Bandicoot | Eligible non-commercial purpose only, excluding household pets. |
+| *Petrogale penicillata* | Brush-tailed Rock Wallaby | Eligible non-commercial purpose only, excluding household pets. |
+| *Phalanger vestitus* | Stein’s Cuscus | Eligible non-commercial purpose only, excluding household pets. |
+| *Phascolarctos cinereus* | Koala | Eligible non-commercial purpose only, excluding household pets. |
+| *Phascolosorex doriae* | Red-bellied Marsupial Shrew | Eligible non-commercial purpose only, excluding household pets. |
+| *Phascolosorex dorsalis* | Narrow-striped Marsupial Shrew | Eligible non-commercial purpose only, excluding household pets. |
+| *Phoca vitulina* | Harbour Seal | Eligible non-commercial purpose only, excluding household pets. |
+| *Pongo pygmaeus abelii* | Sumatran Orang-utan | Eligible non-commercial purpose only, excluding household pets. |
+| *Pongo pygmaeus pygmaeus* | Orangutan | Eligible non-commercial purpose only, excluding household pets. |
+| *Presbytis femoralis* | Banded Leaf-monkey | Eligible non-commercial purpose only, excluding household pets. |
+| *Prionailurus viverrinus* | Fishing Cat | Eligible non-commercial purpose only, excluding household pets. |
+| *Procavia capensis* | Cape Hyrax | Eligible non-commercial purpose only, excluding household pets. |
+| Pteropus vampyrus malaccensis | Malayan Flying Fox | Research purposes only.<br>Biosafety level 4 facilities only. Specimens must be euthanased upon completion of research. |
+| Puma concolor | Puma | Eligible non-commercial purpose only, excluding household pets. Desexed specimens only. |
+| Rhinoceros unicornis | Great Indian One-horned Rhinoceros | Eligible non-commercial purpose only, excluding household pets. |
+| Rusa alfredi | Phillipine Spotted Deer, Visayan Spotted Deer | Eligible non-commercial purpose only, excluding household pets.<br>High security facilities only. |
+| *Saguinus imperator* | Emperor Tamarin | Eligible non-commercial purpose only, excluding household pets. |
+| *Saguinus midas* | Red Handed Tamarin | Eligible non-commercial purpose only, excluding household pets. |
+| *Saguinus oedipus* | Cotton-headed Tamarin, Cotton-top Tamarin | Eligible non-commercial purpose only, excluding household pets. |
+| *Saimiri boliviensis* | Bolivian Squirrel Monkey | Eligible non-commercial purpose only, excluding household pets<br>High security facilities only |
+| *Saimiri sciureus* | Squirrel Monkey | Eligible non-commercial purpose only, excluding household pets. |
+| *Semnopithecus obscurus* | Malasian Leaf-monkey | Eligible non-commercial purpose only, excluding household pets. |
+| *Sminthopsis virginiae* | Red-cheeked Dunnart | Eligible non-commercial purpose only, excluding household pets. |
+| *Spilocuscus maculatus* | Spotted Cuscus | Eligible non-commercial purpose only, excluding household pets. |
+| *Suricata suricatta* | Meerkat | Eligible non-commercial purpose only, excluding household pets. |
+| *Syncerus caffer nanus* | Congo Buffalo | Eligible non-commercial purpose only, excluding household pets. |
+| *Tapirus indicus* | Malayan Tapir | Eligible non-commercial purpose only, excluding household pets. |
+| *Tapirus terrestris* | Brazilian Tapir, South American Tapir, Lowland Tapir | Eligible non-commercial purpose only, excluding household pets. |
+| *Taurotragus oryx* | Common Eland | Eligible non-commercial purpose only, excluding household pets. |
+| *Trachypithecus auratus* | Ebony Langur | Eligible non-commercial purpose only, excluding household pets. |
+| *Trachypithecus francoisis* | Francois’ Langur | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Trachypithecus obscurus* | Dusky Leaf-monkey, Spectacled Leaf-monkey | Eligible non-commercial purpose only, excluding household pets. |
+| *Tragelaphus angasii* | Nyala | Eligible non-commercial purpose only, excluding household pets. |
+| *Tragelaphus eurycerus* | Bongo antelope | Eligible non-commercial purpose only, excluding household pets. |
+| *Tragelaphus spekii* | Sitatunga antelope | Eligible non-commercial purpose only, excluding household pets. |
+| *Tragelaphus strepsiceros* | Greater Kudu | Eligible non-commercial purpose only, excluding household pets. |
+| *Tupaia belangeri* | Northern Tree Shrew | Eligible non-commercial purpose only, excluding household pets. |
+| *Tupaia glis* | Common Tree Shrew | Eligible non-commercial purpose only, excluding household pets. |
+| *Uncia uncia* | Snow Leopard | Eligible non-commercial purpose only, excluding household pets. |
+| *Ursus arctos syriacus* | Syrian Bear | Eligible non-commercial purpose only, excluding household pets. |
+| *Ursus maritimus* | Polar Bear | Eligible non-commercial purpose only, excluding household pets. |
+| *Varecia rubra* | red ruffed lemur | Import for the purposes of conservation breeding in accordance with subsection 303FF(2). |
+| *Varecia variegata* | Ruffed Lemur | Eligible non-commercial purpose only, excluding household pets. |
+| *Vulpes zerda* | Fennec Fox | Eligible non-commercial purpose only, excluding household pets. |
+| *Zaglossus bruijni* | Long-beaked Echidna | Eligible non-commercial purpose only, excluding household pets. |
+| *Zalophus californianus* | Californian Sea Lion | Eligible non-commercial purpose only, excluding household pets. |
+
+Bony fishes (Osteichthyes)
+
+| ***Taxon*** | *Common Name* | ***Conditions for Import*** |
+|---|---|---|
+| *Acipenser baerii* | Siberian Sturgeon | Commercial aquaculture only, in secure recirculation systems. |
+| *Champsocephalus gunnari* | Mackerel Icefish | High security facilities only. |
+| *Channichthys rhinoceratus* | Unicorn Icefish | High security facilities only. |
+| *Cheilinus undulatus* | Humphead Wrasse |  |
+| *Chilatherina alleni* | Allen’s rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Chilatherina axelrodi* | Axelrod’s rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Chilatherina bleheri* | Bleher’s rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Chilatherina pagwiensis* | Pagwi rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Chilatherina pricei* | Price’s rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Chilatherina sentaniensis* | Sentani rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Chionodraco hamatus* | Icefish | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Chrysophrys auratus* | Squirefish | High security facilities only. |
+| *Dawkinsia denisonii* | torpedo barb | For identification purposes only. High security facilities only. Bred in captivity specimens only. |
+| *Dissostichus eleginoides* | Patagonian Toothfish | High security facilities only. |
+| *Dissostichus mawsoni* | Antarctic Toothfish | High security facilities only. |
+| *Epinephelus fuscoguttatus* | Flowery Cod, Tiger Grouper | High security facilities only. |
+| *Eptatretus stouti* | Pacific Hagfish | High security facilities only. |
+| *Gadus macrocephalus* | Pacific Cod | High security facilities only. |
+| *Glossolepis dorityi* | Grime rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Glossolepis maculosa* | spotted rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Glossolepis pseudoincisus* | Tami rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Glossolepis ramuensis* | Ramu rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Glossolepis wanamensis* | Lake Wanam rainbowfish | Captive-bred specimens only, of minimum length 4 cm SL |
+| *Gymnodraco acuticeps* | Dragonfish | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Gymnoscopelus bolini* | lanternfish | High security facilities only. |
+| *Gymnoscopelus nicholsi* | lanternfish | High security facilities only. |
+| *Gymnoscopelus piabilis* | lanternfish | High security facilities only. |
+| *Harpagifer antarcticus* | Antarctic Spiny Plunderfish | High security facilities only. |
+| *Harpagifer georgianus* | South Georgia Spiny Plunderfish | High security facilities only. |
+| *Hippocampus* spp. | Seahorses |  |
+| *Holacanthus clarionensis* | Clarion angelfish |  |
+| *Huso huso* | Beluga | Commercial aquaculture only, in secure recirculation systems. |
+| *Kiunga ballochi* | glass blue-eye, Balloch’s blue-eye, Kiunga blue-eye | Captive-bred specimens only, of minimum length 2 cm SL |
+| *Kiunga bleheri* | Bleher’s blue-eye | Captive-bred specimens only, of minimum length 2 cm SL |
+| *Lepidonotothen squamifrons* | Grey Rockcod | High security facilities only. |
+| *Muraenolepis marmoratus* | Marbled Moray Cod | High security facilities only. |
+| *Neophrynichthys magnicirrus* | Fathead Sculpin | High security facilities only. |
+| *Nothobranchius furzeri* | Turquoise Killifish | Research only. High security facilities only. |
+| *Notothenia coriiceps* | Yellowbelly Rockcod | High security facilities only. |
+| *Notothenia magellanica* | Maori Cod | High security facilities only. |
+| *Notothenia rossii* | Marbled Rockcod | High security facilities only. |
+| *Pagetopsis macropterus* | Crocodile Icefish | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Pagothenia borchgrevinki* | Bald Notothen | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Pleuragramma antarcticum* | Antarctic Silverfish | High security facilities only. |
+| *Poecilia parae* | Parae livebearer | High security facilities only. |
+| *Pseudomugil connieae* | Popondetta blue-eye | Captive-bred specimens only, of minimum length 2 cm SL |
+| *Pseudomugil furcatus* | forktail rainbowfish | Captive-bred specimens only, of minimum length 2 cm SL |
+| *Pseudomugil ivantsoffi* | Ivantsoff’s blue-eye | Captive-bred specimens only, of minimum length 2 cm SL |
+| *Pseudomugil luminatus* | red neon blue-eye | Captive-bred specimens only, of minimum length 2 cm SL |
+| *Pseudomugil reticulatus* | Vogelkop blue-eye | Captive-bred specimens only, of minimum length 2 cm SL |
+| *Synodontis eupterus* | featherfin catfish | For identification purposes only. High security facilities only. |
+| *Theragra chalcogramma* | Alaska Pollack | High security facilities only. |
+| *Trematomus bernacchii* | Emerald Rockcod | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Trematomus hansoni* | Striped Rockcod | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Trematomus newnesi* | Dusky Notothen | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Trematomus nicolai* | Spotted Notothen | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Trematomus pennellii* | Sharp Spined Notothen | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Zanclorhynchus spinifer* | Spiny Horsefish | High security facilities only. |
+
+Reptiles (Reptilia)
+
+| ***Taxon*** | ***Common Name*** | ***Conditions for Import*** |
+|---|---|---|
+| *Aldabrachelys gigantea* | Aldabra giant tortoise | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Alligator mississippiensis* | American Alligator | Eligible non-commercial purpose only, excluding household pets. |
+| *Apodora papuana* | Papuan Python, Papuan Olive Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Astrochelys radiata* | Radiated tortoise | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Basiliscus plumifrons* | Crested Basilisk | Eligible non-commercial purpose only, excluding household pets. |
+| *Bitis gabonica* | Gaboon Viper | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Bitis nasicornis* | Rhinoceros Viper | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Boa constrictor occidentalis* | Argentine Boa Constrictor | Eligible non-commercial purpose only, excluding household pets. |
+| *Boiga dendrophila* | Banded Mangrove Snake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Bothriechis schlegelii* | Eye-lash Pitviper | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Bothrops alternatus* | Urutu, Yarara Parker’s Pit Viper | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Brachylophus fasciatus* | Banded Iguana | Eligible non-commercial purpose only, excluding household pets. |
+| *Brachylophus vitiensis* | Fijian Crested Iguana | Eligible non-commercial purpose only, excluding household pets. |
+| *Candoia aspera* | Viper Boa | Eligible non-commercial purpose only, excluding household pets. |
+| *Candoia bibroni* | Tree Boa | Eligible non-commercial purpose only, excluding household pets. |
+| *Candoia carinata* | Ground Boa | Eligible non-commercial purpose only, excluding household pets. |
+| *Chamaeleo calyptratus* | Veiled Chameleon | Eligible non-commercial purpose only, excluding household pets.<br>Locked enclosures in high security facilities with 24 hour monitoring and movement detectors and access controlled by authorised persons. |
+| *Chamaeleo jacksonii* | Jacksons Chameleon | Eligible non-commercial purpose only, excluding household pets. |
+| *Chelonia mydas* | Green Sea Turtle | Eligible non-commercial purpose only, excluding household pets. |
+| *Chelonoidis nigra* | Galapagos Giant Tortoise | Eligible non-commercial purpose only, excluding household pets. |
+| *Chelus fimbriata* | Mata | Eligible non-commercial purpose only, excluding household pets. |
+| *Corallus caninus* | Emerald Tree Boa | Eligible non-commercial purpose only, excluding household pets. |
+| *Corallus hortulanus* | Garden Tree Boa, Amazon Tree Boa | Eligible non-commercial purpose only, excluding household pets. |
+| *Corucia zebrata* | Solomon Islands Giant Skink, Prehensile-tailed skink | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Crocodylus mindorensis* | Philippine Crocodile, Mindoro Crocodile | Eligible non-commercial purpose only, excluding household pets. |
+| *Crotalus adamanteus* | Eastern Diamondback Rattlesnake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Crotalus atrox* | Western Diamondback Rattlesnake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Crotalus basiliscus* | West Mexican Coast Rattlesnake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Crotalus durissus* | Neotropical Rattlesnake | Commercial venom production and research purposes only. High security facilities only. |
+| *Crotalus durissus terrificus* | South American Rattlesnake, Cascabel | Commercial venom production and research purposes only. High security facilities only. |
+| *Crotalus lepidus* | Rock Rattlesnake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Crotalus unicolor* | Aruba Island Rattlesnake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Cryptelytrops albolabris* | White-lipped Green Pit<br>Viper | Commercial venom production and research purposes only. High security facilities only. |
+| *Cryptophis nigrostriatus* | Black-striped Snake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Cuora trifasciata* | Chinese Three-striped box turtle | Eligible non-commercial purpose only, excluding household pets. |
+| *Cyclura cornuta* | Rhinoceros Iguana | Eligible non-commercial purpose only, excluding household pets. |
+| *Cyrtodactylus biordinis* | gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Cyrtodactylus louisiadensis* | Ringtailed Gecko, Banded Gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Daboia russelii* | Russel’s Viper | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Demansia papuensis* | Papuan Whip Snake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Dendroaspis angusticeps* | Common Mamba, Eastern Green Mamba | Commercial venom production and research purposes only. High security facilities only. |
+| *Dendroaspis polylepis* | Black Mamba | Commercial venom production and research purposes only. High security facilities only. |
+| *Elaphe schrenckii* | Russian Rat Snake, Siberian Ratsnake | Eligible non-commercial purpose only, excluding household pets and travelling exhibitions.<br>High security facilities only. |
+| *Emoia flavigularis* | Pacific Skink | Eligible non-commercial purpose only, excluding household pets. |
+| *Eunectes murinus* | Anaconda | Eligible non-commercial purpose only, excluding household pets. |
+| *Eunectes notaeus* | yellow anaconda | Male specimens only. Exhibition purposes only. |
+| *Eurydactylodes vieillardi* | Bavay’s Gecko, White-lined Gecko, Striped Gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Furina tristis* | Brown-headed Snake, Grey-naped Snake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Gecko vittatus* | White Lined Gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Gehyra mutilata* | Skin-shedding Dtella | Eligible non-commercial purpose only, excluding household pets. |
+| *Geochelone elegans* | Star Tortoise | Eligible non-commercial purpose only, excluding household pets. |
+| *Geomyersia glabra* | Greer’s Island Skink | Eligible non-commercial purpose only, excluding household pets. |
+| *Geoscincus haraldmeieri* | scincid lizard | Eligible non-commercial purpose only, excluding household pets. |
+| *Heloderma suspectum* | Gila Monster | Eligible non-commercial purpose only, excluding household pets. |
+| *Hemidactylus garnotii* | Indo-Pacific Gecko, Garnot's House Gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Hydromedusa tectifera* | Long Necked Turtle | Eligible non-commercial purpose only, excluding household pets. |
+| *Hydrosaurus pustulatus* | Philippine Sailfin Lizard | Eligible non-commercial purpose only, excluding household pets. |
+| *Indotestudo elongata* | Elongate tortoise | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Lampropeltis triangulum* | Honduran Milk Snake | Eligible non-commercial purpose only, excluding household pets. |
+| *Laticauda colubrina* | Yellow-lipped Sea Snake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Laticauda crockeri* | Rennell Island Sea Krait | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Laticauda laticaudata* | Amphibious Sea Krait | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Laticauda schistorhynchus* | Banded Sea Krait | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Leiopython albertisii* | White-lipped Python, D’Albert’s Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Lepidodactylus lugubris* | Dark House Gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Liasis fuscus* | Water Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Liasis olivaceus* | Olive Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Loveridgelaps elapoides* | Orange-banded Snake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Macrochelys temminckii* | Alligator Snapping Turtle | Eligible non-commercial purpose only, excluding household pets. |
+| *Micropechis ikaheka* | New Guinea Small-eyed Snake, Ikaheka Snake | Eligible non-commercial purpose only, excluding household pets. |
+| *Morelia amethistina* | Amethystine Scrub Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Morelia boeleni* | Boelen’s Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Morelia spilota* | Diamond Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Morelia viridis* | Green Tree Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Nactus pelagicus* | Pelagic Gecko, Rock Gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Naja haje* | Banded Egyptian Cobra | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Naja melanoleuca* | Forest Cobra | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Naja* | Asian Cobra, Indian Cobra | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Naja nigricollis* | Black-necked Spitting<br>Cobra | Commercial venom production and research purposes only. High security facilities only. |
+| *Naja nivea* | Cape Cobra | Commercial venom production and research purposes only. High security facilities only. |
+| *Ophiophagus hannah* | King Cobra | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Orthriophis taeniurus* | Taiwan Beauty Snake | Eligible non-commercial purpose only, excluding household pets. |
+| *Oxyuranus scutellatus* | Taipan | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Parapistocalamus hedigeri* | Hediger’s Snake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Phelsuma grandis* | giant Madagascar day gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Platemys platycephala* | Twist Necked Turtle | Eligible non-commercial purpose only, excluding household pets. |
+| *Prasinohaema virens* | Green Skink | Eligible non-commercial purpose only, excluding household pets. |
+| *Protobothrops flavoviridis* | Habu | Commercial venom production and research purposes only. High security facilities only. |
+| *Psammobates pardalis* | Leopard Tortoise, Mountain Tortoise | Eligible non-commercial purpose only, excluding household pets. |
+| *Pseudechis papuanus* | Papuan Black Snake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Pseudonaja textilis* | Eastern Brown Snake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Pseudopus apodus* | Scheltopusik | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Python curtus* | Blood Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Python molurus bivattatus* | Burmese Python | Eligible non-commercial purpose only, excluding household pets and travelling exhibitions.<br>High security facilities only. |
+| *Python regius* | Royal Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Python reticulatus* | Reticulated Python | Eligible non-commercial purpose only, excluding household pets and travelling exhibitions.<br>High security facilities only. |
+| *Python timoriensis* | Timor Python | Eligible non-commercial purpose only, excluding household pets. |
+| *Ramphotyphlops braminus* | Brahminy Blind Snake | Eligible non-commercial purpose only, excluding household pets. |
+| *Rhacodactylus auriculatus* | New Caledonia Bumpy Gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Rhacodactylus ciliatus* | Crested Gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Rhacodactylus sarasinorum* | New Caledonian Arboreal Gecko | Eligible non-commercial purpose only, excluding household pets. |
+| *Salomonelaps par* | Solomon Island Elapid | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Sanzinia madagascariensis* | Madagascan Tree Boa, Sanzinia | Eligible non-commercial purpose only, excluding household pets. |
+| *Sistrurus catenatus tergeminus* | Western Massasauga Rattlesnake | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Sphenodon punctatus* | Tuatara | Eligible non-commercial purpose only, excluding household pets. |
+| *Sphenomorphus concinnatus* | scincid lizard | Eligible non-commercial purpose only, excluding household pets. |
+| *Testudo graeca* | Spur-thighed Tortoise | Eligible non-commercial purpose only, excluding household pets. |
+| *Testudo hermanni* | Hermann\`s Tortoise | Eligible non-commercial purpose only, excluding household pets. |
+| *Tiliqua gigas* | Papuan Blue-tongue lizard | Eligible non-commercial purpose only, excluding household pets. |
+| *Tomistoma schlegelli* | False Gavial, False Gharial, Malayan Gharial, Tomistoma | Eligible non-commercial purpose only, excluding household pets. |
+| *Tribolonotus gracilis* | Crocodile Skink | Eligible non-commercial purpose only, excluding household pets. |
+| *Tropidolaemus wagleri* | Wagler’s Viper | Commercial venom production and eligible non-commercial purpose only, excluding household pets and traveling exhibitions. High security facilities only. |
+| *Tropidoscincus aubrianus* | scincid lizard | Eligible non-commercial purpose only, excluding household pets. |
+| *Tropidoscincus variabilis* | New Caledonian Scincid Lizard | Eligible non-commercial purpose only, excluding household pets. |
+| *Tupinambis merianae* | Black and White Tegu | Eligible non-commercial purpose only, excluding household pets.<br>High security facilities only. |
+| *Varanus jobiensis* | Peachthroat Monitor, Schmidt's Monitor, Sepik Monitor | Eligible non-commercial purpose only, excluding household pets. |
+| *Varanus komodoensis* | Komodo Dragon | Eligible non-commercial purpose only, excluding household pets. |
+| *Varanus prasinus* | emerald tree monitor | For eligible non-commercial purpose only, excluding household pets. |
+
+**Invertebrate Animals**
+
+Annelid worms (Annelida)
+
+| ***Taxon*** | ***Common name*** | ***Conditions for Import*** |
+|---|---|---|
+| *Flabelligera mundata* | Antarctic Flabelligerid Polychaete | Research only. High security facilities only. |
+| *Glossiphonia complanata* | British Lake-dwelling Leech | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Helobdella sp.* | Glossiphoniid Leech | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Hirudinaria manillensis* | Asian Medicinal Leech, Buffalo Leech | Eligible non-commercial purpose only, excluding household pets. |
+| *Hirudo medicinalis* | European Medicinal Leech | Eligible non-commercial purpose only, excluding household pets. |
+| *Motobdella montezuma* | Predaceous Engulfing Leech | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Motobdella sedonensis* | Erpobdellid Leech | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+
+Arthropods (Arthropoda)
+
+| ***Taxon*** | *Common Name* | ***Conditions for Import*** |
+|---|---|---|
+| Class: Arachnida |  |  |
+| *Aceria genistae* | Scotch Broom Gall Mite |  |
+| *Aceria neseri* | Boneseed Leaf-buckle Mite, Bitou Bush Leaf-buckle Mite | Research only. High security facilities only. |
+| *Aceria sp. (VAIC 46501)* | Boneseed leaf buckle mite |  |
+| *Amblyseius herbicolus* | Predatory Coffee Phytoseiid Mite | Research only. High security facilities only. |
+| *Amblyseius okinawanus* | Predatory Phytoseiid Mite | Research only. High security facilities only. |
+| *Aponomma sphenodonti* | Tuatara Tick | Research only. High security facilities only. |
+| *Argyrodes antipodiana* | Kleptoparasitic Dew-drop Spider | Research only. High security facilities only.<br>Non-pregnant females only. |
+| *Avicularia urticans* | Peruvian Pink-toed Tarantula | Eligible non-commercial purpose only, excluding household pets. High security facilities only.<br>Non-pregnant females only. |
+| *Brachypelma smithi* | Mexican Redknee Tarantula | Eligible non-commercial purpose only, excluding household pets. High security facilities only.<br>Non-pregnant females only. |
+| *Citharischius crawshayi* | King Baboon Tarantula | Eligible non-commercial purpose only, excluding household pets. High security facilities only.<br>Non-pregnant females only. |
+| *Eriophora biapicata* | Garden Orb-weaving Spider | Eligible non-commercial purpose only, excluding household pets. |
+| *Eriophora pustulosa* | Garden Orb-web Spider | Eligible non-commercial purpose only, excluding household pets. High security facilities only.<br>Non-pregnant females only. |
+| *Lasiodora parahybana* | Salmon Pink Bird-eater Tarantula, Brazilian Salmon Tarantula | Eligible non-commercial purpose only, excluding household pets. High security facilities only.<br>Non-pregnant females only. |
+| *Theraphosa blondi* | Goliath Bird-eater Tarantula | Eligible non-commercial purpose only, excluding household pets. High security facilities only.<br>Non-pregnant females only. |
+| Class: Branchiopoda |  |  |
+| *Ceriodaphnia dubia* | Daphnid Water Flea | For the purposes of Research only. Quarantine Approved Premise only. All specimens must be destroyed on completion of Research. |
+| Class: Insecta |  |  |
+| *Acacidiplosis imbricata* | Prickly Acacia Flower Bud Gall-forming Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Acacidiplosis spinosa* | Prickly Acacia Flower Gall-forming Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Acanthoscelides brevipes* | Sida Seed-feeding Bruchid Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Acanthoscelides ramirezi* | Mimosa Seed-feeding Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Acyrthosiphon pisum* | Pea aphid | Eligible non-commercial research purposes only, excluding household pets. High security facilities only. |
+| *Aedes aegypti* | Yellow Fever Mosquito | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Aedes albopictus* | Asian Tiger Mosquito | Research only. High security facilities only |
+| *Aedes polynesiensis* | Polynesian Tiger Mosquito | Research only. High security facilities only |
+| *Aerenica multipunctata* | Stem-boring Cerambycid Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ageniosa electoralis* | Bitou Leaf Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Agonosoma trilineatum* | Bellyache Bush Jewel Bug |  |
+| *Aleurodothrips fasciapennis* | Tropical Tramp Thrips, Whitefly Thrips | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ambia sp. nov. 3404QA* | lygodium stem borer | Research only. High security facilities only. |
+| *Amniscus perplexus* | Long-horned Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Anagyrus indicus* | Spherical Mealybug Parasitic Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Anagyrus saccharicola* | Sugar Cane Mealybug Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Anagyrus swezeyi* | Grass-infesting Mealybug Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Anicetus beneficus* | Red Wax Scale Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Anopheles farauti* | Mosquito | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Anopheles koliensis* | Solomon Islands Malarial Mosquito | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Anopheles punctulatus* | Mosquito | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Anopheles stephensi* | Saudi Arabian Malarial Mosquito | Research only. High security facilities only. |
+| *Apanteles erionotae* | Banana Skipper Larva Parasitoid Braconid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Aphelinus varipes* | Russian Wheat Aphid Parasitoid Aphelinid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Apion spretissimum* | Straight-snouted Seed Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Apotoforma rotundipennis* | Mimosa Leaf-tying Tortricid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Arytainilla hakani* | Broom Psyllid | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Asphondylia ambrosiae* | Gall-forming Gnat, Gall-forming Midge | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Bagous affaber* | hydrilla stem-boring weevil | Research only. High security facilities only. |
+| *Bagous chinensis* | hydrilla stem-boring weevil | Research only. High security facilities only. |
+| *Bagous indistinctus* | hydrilla stem-boring weevil | Research only. High security facilities only. |
+| *Bagous vicinus* | hydrilla stem-boring weevil | Research only. High security facilities only. |
+| *Bagous n. sp. nov. 3409QA* | hydrilla stem-boring weevil | Research only. High security facilities only. |
+| *Baris picicornis* | Mignonette Stem-feeding Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Bemisia tabaci* | Tobaco Whitefly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Bracon hebetor* | Mediterranean Flour Moth Parasitoid Braconid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Bruchella rufipes* | Mignonette Weevil, Weld Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Bruchella suturalis* | Mignonette Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Bruchidius grandemaculatus* | Kenyan Seed Chrysomelid Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Bubas bison* | Scarabaeid Dung Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Caenopsylla laptevi ibera* | Rabbit Flea | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Caledia captiva* | Australian Plague Locust | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Calligrapha felina* | beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Calycomyza lantanae* | Lantana Leaf-mining Fly, Lantana Gall-forming Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Carcharodus boeticus* | Southern Marbled Horehound Skipper Butterfly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Carea varipes* | rhodomyrtus leaf borer | Research only. High security facilities only. |
+| *Ceratitis capitata* | Medfly, Mediterranean Fruit Fly | Vienna strain only. High security facilities only. Only sterile males may be released. |
+| *Ceutorhynchus geographicus* | seed weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ceutorhynchus larvatus* | seed weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Charidotis auroguttata* | Cat’s Claw Leaf Beetle |  |
+| *Cheilosia corydon* | Musk Thistle Flower Fly, Thistle Crown Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Chiasmia inconspicua* | Kenyan Geometrid Moth, Leaf-feeding Looper Caterpillar |  |
+| *Chrysolina dissoluta* | Boneseed Leaf Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Chrysolina hebe* | Clarke’s Leaf Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Closterocerus trifasciatus* | Aspen Leaf-miner Parasitic Eulophid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Coccophagus bogoriensis* | Green Coffee Scale Parasitic Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Cometaster pyrula* | Prickly Acacia Leaf-feeding Caterpillar, Cutworm Moth |  |
+| *Comperiella lemniscata* | Oriental Yellow Scale Parasitoid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Coniocleonus excoriatus* | Emex Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Contarinia partheniicola* | Parthenium Gall-forming Midge Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Coremacera marginata* | Snail-killing Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Costelytra zealandica* | Grass Grub Beetle, Common Brown Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Cotesia plutellae* | Diamond-back Moth Parasitic Braconid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Cremastobombycia lantanella* | Lantana Leaf-miner Gracillariid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ctenopseustis obliquana* | Brown-headed Leaf-roller Tortricid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Culex quinquefasciatus* | Brown House Mosquito | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Cyclocephala borealis* | Northern Masked Chafer Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Cyclocephala hirta* | South-western Masked Chafer Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Diaeretiella rapae* | Cabbage Aphid Parasitic Braconid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Dictyla echii* | Eurasian Lace Bug, Paterson’s Curse Lace Bug | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Dictyla nassata* | Paterson’s Curse Lace Bug | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila americana* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila ananassae* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila azteca* | Vinegar fly, Pomace Fly | Research only. High security facilities only. |
+| *Drosophila bifasciata* | Vinegar fly, Pomace Fly | Research only. High security facilities only. |
+| *Drosophila birchii* | Fruit Fly, Vinegar Fly, Pomace Fly | Research only. High security facilities only. |
+| *Drosophila busckii* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila buzzatii* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila erecta* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila eugracilis* | Vinegar fly, Pomace Fly | Research only. High security facilities only. |
+| *Drosophila grimshawi* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila hydei* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila mauritiana* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila mojavensis* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila pachea* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila pseudoobscura* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila repleta* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila santomea* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila sechellia* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila simulans* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila subobscura* | Vinegar fly, Pomace Fly | Research only. High security facilities only. |
+| *Drosophila teisseri* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila virilis* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila willistoni* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Drosophila yakuba* | Fruit Fly, Vinegar Fly, Pomace Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Dysaphis emicis* | Greek Emex Aphid | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Eccritotarsus catarinensis* | Water Hyacinth Mirid Bug | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ectaga garcia* | Lantana Leaf-rolling Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Encyrtus infelix* | Scale Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ephestia kuhniella* | Mediteranean Flour Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ethmia bipunctella* | Viper’s Bugloss Ethmiid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ethmia distigmatella* | Viper’s Bugloss Ethmiid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ethmia terminella* | Viper’s Bugloss Ethmiid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Euclasta whalleyi* | Rubber Vine Leaf-feeding Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Exapion fuscirostre* | Straight-snouted Scotch Broom Seed Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Frankliniella occidentalis* | Western Flower Thrips | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Gryllodes sigillatus* | Decorated Cricket | Research only. High security facilities only. |
+| *Halaedes australis* | Saltwater Mosquito | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Helicoverpa armigera* | Corn Earworm, Corn Bollworm, Tobacco Budworm | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Heteropsylla texana* | Mesquite Psyllid | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Homoeosoma stenotea* | Sunflower Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Hylaeogena jureceki* | Leaf-mining jewel beetle |  |
+| *Hypolimnas bolina* | Common Eggfly Butterfly | For the purposes of Research only. Quarantine Approved Premise only. All specimens must be destroyed on completion of Research. |
+| *Idiophantis sp. nov. 4031QA* | rhodomyrtus fruit borer | Research only. High security facilities only. |
+| *Isturgia disputaria* | Prickly Acacia Looper Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Isturgia presbitaria* | Prickly Acacia Looper Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Isturgia pulinda* | geometrid moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Itame varadaria* | Groundsel Bush Geometrid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Kokujewia ectrapela* | Dock Leaf Defoliator Sawfly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Leptomastix algirica* | Citrus Mealybug Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Lexiphanes guerini* | Mimosa Leaf Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Lucilia cuprina* | Australian Sheep Blowfly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Lygomusotima stria* | lygodium leaf defoliator | Research only. High security facilities only. |
+| *Macrocentrus homonae* | Tea Tortrix Moth Parasitoid Braconid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Megachile rotundata* | Alfalfa Leaf-cutter Bee, Lucerne Leaf-cutting Bee |  |
+| *Melipotis indomita* | Indomitable Melipotis Cutworm Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Meskea horor* | Spinyhead Sida Gall-forming Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Mesoclanis dubia* | Boneseed Seed Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Mesoclanis magnipalpis* | Lacy-winged Seed Fly |  |
+| *Metaphycus baruensis* | Green Coffee Scale Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Metaphycus helvolus* | Black Scale Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Metaphycus lounsburyi* | black scale parasitoid wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Metaphycus luteolus* | Soft Brown Scale Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Metaphycus stanleyi* | Tessellated Scale Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Microplitis croceipes* | Helicoverpa Caterpillar Parasitoid Braconid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Mozena obtusa* | Mesquite Sap-sucking Coreid Bug | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Musca domestica* | House Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Myzus persicae* | Green Peach Aphid | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Nasonia vitripennis* | Jewel Wasp, Parasitoid Pteromalid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Nephele densoi* | Hawk Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Nezara viridula* | Green Stink Bug, Green Vegetable Bug | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ochlerotatus (Aedes) koreicus* | a mosquito | Research only. High security facilities only. |
+| *Oidaematophorus beneficus* | Hamakua Pamakani Plume Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Oncideres rhodosticta* | Mesquite Twig Girdler Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Onitis belial* | Scarabaeid Dung Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ooencyrtus erionotae* | Polyphagous Egg Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Pachycoris klugii* | Shield-backed Bug | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Paraceraptrocerus nyasicus* | White Wax Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Parevander xanthomelas* | Mexican Lantana Root-feeding Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Perapion neofallax* | Moroccan Stem-feeding Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Perapion violaceum* | Blackberry Seed-feeding Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Pherbellia cinerella* | Snail-killing Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Phidotricha insularella* | Mimosa Pyralid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Pieris rapae* | White Cabbage Butterfly, Small White Butterfly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Platyptilia isodactyla* | Ragwort Plume Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Plutella xylostella* | Diamond-back Moth, Cabbage Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Popillia japonica* | Japanese Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Prasinocyma nereis* | Prickly Acacia Geometrid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Psigida walkeri* | Mimosa Citheroniid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Pyrrhalta luteola* | Elm Leaf Chrysomelid Beetle | Research only. High security facilities only. |
+| *Rhinacloa callicrates* | Parkinsonia Leaf Bug | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Rhodometra sacraria* | Vestal Caterpillar, Geometrid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Rhopalomyia ambrosiae* | Gall-forming Midge Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Rhopus nigroclavatus* | Pink Sugarcane Mealybug Parasitoid Encyrtid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Rhyzopertha dominica* | Lesser Grain Borer Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Salticella fasciata* | Dune Snail-killing Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sarcophaga balanina* | Snail Flesh-feeding Sciomyzid Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sarcophaga penicillata* | Snail Parasitic Sciomyzid Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sarcophaga uncicurva* | Garden Snail Parasitic Sciomyzid Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Semiothisa assimilus* | geometrid moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Semiothisa cyda* | Mesquite Looper Geometrid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sesamia grisescens* | Sugarcane-borer Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sesquialtera ridicula* | South African Geometrid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sibinia ochreosa* | Mimosa Flower-feeding Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sibinia peruana* | Mimosa Flower-feeding Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sibinia seminicola* | Mimosa Young Green Seed Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sitophilus oryzae* | Rice Weevil | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Slaterocoris pallipes* | Groundsel Bush Leaf-feeding Mirid Bug | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sphenoptera fulgens* | Sudanian Root-boring Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Spilopsyllus cuniculi* | European Rabbit Flea | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Sternuchopsis reticulatus* | rhodomyrtus shoot borer | Research only. High security facilities only. |
+| *Stobaera pallida* | Delphacid Planthopper | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Stomphastis thraustica* | A leaf mining moth | Peru sourced specimens only. |
+| *Sympiesis striatipes* | Citrus Leaf-miner Parasitoid Eulophid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Syphrea flavipes* | Leaf-feeding Flea Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Tachardiaephagus somervillei* | a parasitoid wasp | Importation to the Territory of Christmas Island only. |
+| *Tarachidia candefacta* | Olive-shaded Bird-dropping Noctuid Moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Teleogryllus oceanicus* | Pacific Field Cricket | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Tephritis palmeri* | Tephritid Seed Fly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Tetrastichus phyllocnistoides* | citrus leaf miner | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Trialeurodes vaporariorum* | Greenhouse Whitefly | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Tribolium castaneum* | Red Flour Beetle, Red-rust Flour Beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Trioxys auctus* | Parasitic Braconid Wasp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Venturia canescens* | Pyralid Moth Parasitic Ichneumonid Wasp | For the purposes of Research Only. Quarantine Approved Premise only. All specimens must be destroyed on completion of Research.. |
+| *Weiseana barkeri* | acacia beetle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Xenoecista pallidata* | geometrid moth | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| Class: Malacostraca |  |  |
+| *Artemia franciscana* | brine shrimp |  |
+| *Birgus latro* | Christmas Island Robber Crab, Christmas Island Coconut Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Cardisoma carnifex* | Kenyan Semi-terrestrial Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Coenobita brevimanus* | Terrestrial Hermit Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Coenobita perlatus* | Strawberry Terrestrial Hermit Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Coenobita rugosa* | Tawny Hermit Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Daphnia magna* | Water Flea, Planktonic Crustacean | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Discoplax hirtipes* | Leaf-feeding Blue Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Euphausia crystallorophias* | Crystal Krill, Antarctic Coastal Krill | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Euphausia superba* | Antarctic Krill | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Gecarcoidea natalis* | Christmas Island Red Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Geograpsus crinipes* | Pale Shore Crab, Yellow Nipper | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Geograpsus grayi* | Little Nipper Shore Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Holthuisana festiva* | True Freshwater Land Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Holthuisana subconvexa* | True Freshwater Land Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Macrocheira kaempferi* | Giant Japanese Spider Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Mesocyclops guangxiensis* | copepod | Research only. High security facilities only. |
+| *Mesocyclops ogunnus* | Cyclopoid Copepod | Research only. High security facilities only. |
+| *Mesocyclops pehpeiensis* | copepod | Research only. High security facilities only. |
+| *Mesocyclops thermocyclopoides* | Mosquito-feeding Cyclopoid Copepod | Research only. High security facilities only. |
+| *Metasesarma obesum* | Mottles Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Ocypode ceratophthalma* | Hawaiian Ghost Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Panulirus ornatus* | Tropical Rock Lobster, Ornate Rock Lobster | Eligible non-commercial purpose, excluding household pets, into high security facilities only; or commercial imports of specimens taken in the Torres Strait Tropical Rock Lobster Fishery. |
+| *Paramoera walkeri* | Antarctic Gammarid Amphipod | Research only. High security facilities only. |
+| *Scylla serrata* | Mud Crab, Mangrove Crab | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+
+Coral-like animals (Cnidaria)
+
+| ***Taxon*** | *Common Name* | ***Conditions for Import*** |
+|---|---|---|
+| *Chrysaora fuscescens* | Pacific Sea Nettle | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Chrysaora quinquecirrha* | Atlantic Sea Nettle, Stinging Sea Jellyfish | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+| *Hydra vulgaris* | Freshwater Polyp | Eligible non-commercial purpose only, excluding household pets. High security facilities only. |
+
+Echinoderms (Echinodermata)
+
+| ***Taxon*** | *Common Name* | ***Conditions for Import*** |
+|---|---|---|
+| *Abatus agassizii* | Heart Urchin, Antarctic Sea Urchin | Research only. High security facilities only. |
+| *Abatus elongatus* | Heart Urchin, Antarctic Sea Urchin | Research only. High security facilities only. |
+| *Abatus ingens* | Heart Urchin, Antarctic Sea Urchin | Research only. High security facilities only. |
+| *Abatus nimrodi* | Heart Urchin, Antarctic Sea Urchin | Research only. High security facilities only. |
+| *Cucumaria georgiana* | Little Pink Sea Cucumber | Research only. High security facilities only. |
+| *Ekmocucumis steineni* | sea cucumber | Research only. High security facilities only. |
+| *Lophaster gaini* | Starfish, Antarctic Sea Star | Research only. High security facilities only. |
+| *Ophiacantha antarctica* | Starfish, Antarctic Brittle Star | Research only. High security facilities only. |
+| *Ophiura crassa* | Starfish, Antarctic Brittle Star, Antarctic Ophiuroid | Research only. High security facilities only. |
+| *Psilaster charcoti* | Starfish, Antarctic Sea Star | Research only. High security facilities only. |
+
+<table>
+<tr>
+<td colspan="4">Molluscs (Mollusca)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b><i>Taxon</b></i></td>
+<td><b><i>Common name</b></i></td>
+<td colspan="2"><b><i>Conditions for Import</b></i></td>
+</tr>
+<tr>
+<td><i>Achatina fulica</i></td>
+<td>Giant African snail</td>
+<td colspan="2">Eligible non-commercial Government institutions only.<br>High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Biomphalaria glabrata</i></td>
+<td>Bloodfluke Planorb Snail</td>
+<td colspan="2">Eligible non-commercial purpose only, excluding household pets. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Bulinus truncatus</i></td>
+<td>Ram’ horn snail</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Conus spp.</i></td>
+<td>Cone snails</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Crassostrea gigas</i></td>
+<td>Pacific Oyster</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Crassostrea sikamea</i></td>
+<td>Kumamoto Oyster</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Crassostrea virginica</i></td>
+<td>Atlantic Oyster</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Enteroctopus dofleini</i></td>
+<td>North Pacific Giant Octopus</td>
+<td colspan="2">Eligible non-commercial purpose only, excluding household pets.</td>
+</tr>
+<tr>
+<td><i>Haliotis discus hannai</i></td>
+<td>Pacific Abalone</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Haliotis iris</i></td>
+<td>New Zealand Blackfoot Paua</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Haliotis mariae</i></td>
+<td>Omani Abalone</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td><i>Haliotis rubra rubra</i></td>
+<td>Black-lipped Abalone</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td><i>Haliotis rufescens</i></td>
+<td>Red Abalone</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Nautilus macromphalus</i></td>
+<td>New Caledonia Nautilus</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td><i>Nautilus pompilius</i></td>
+<td>Chambered Nautilus</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td><i>Neobuccinum eatoni</i></td>
+<td>Common Gastropod Snail, Whelk</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Oncomelania hupensis hupensis</i></td>
+<td>Chinese Freshwater Whelk, Small Tropical Freshwater Snail</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Oncomelania hupensis quadrasi</i></td>
+<td>A freshwater snail</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Ostrea conchaphila</i></td>
+<td>Olympia Oyster</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Ostrea edulis</i></td>
+<td>European Flat Oyster</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Ostrea lurida</i></td>
+<td>Northern Olympia Oyster</td>
+<td colspan="2">Research only. High security facilities only.</td>
+</tr>
+<tr>
+<td><i>Pinctada maxima</i></td>
+<td>Silver-lip Pearl Oyster, Mother-of-pearl</td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+Roundworms (Nematoda)
+
+| ***Taxon*** | ***Common name*** | ***Conditions for Import*** |
+|---|---|---|
+| *Caenorhabditis elegans* | Soil Nematode, Soil Roundworm |  |
+| *Heterorhabditis bacteriophora* | Rhabid Nematode, Entomopathogenic Nematode |  |
+| *Heterorhabditis megidis* | Insect Parasitic Rhabid Nematode |  |
+| *Neoaplectana carpocapsae* | Entomogenous Nematode, Insect Parasitic Roundworm |  |
+| *Orrina phyllobia* | Leaf-galling Nematode, Foliar Roundworm |  |
+| *Steinernema feltiae* | Insect Parasitic Roundworm, Insect Parasitic Nematode |  |
+| *Steinernema riobravis* | Insect Parasitic Roundworm, Insect Parasitic Nematode |  |
+| *Steinernema scapterisci* | Mole Cricket Parasitic Roundworm, Mole Cricket Parasitic Nematode |  |
+
+Flatworms (Platyhelminthes)
+
+| ***Taxon*** | ***Common Name*** | ***Conditions for Import*** |
+|---|---|---|
+| *Schmidtea mediterranea* CIW4 clonal laboratory strain | a planarian | Research only. High security facilities only. |
+
+Flukes (Trematoda)
+
+| ***Taxon*** | ***Common name*** | ***Conditions for Import*** |
+|---|---|---|
+| *Schistosoma haematobium* | Parasitic Blood Fluke | Research only. High security facilities only. |
+| *Schistosoma japonicum* | Snail Fever Blood Fluke, Parasitic Blood Fluke | Research only. Quarantine approved premises only. |
+| *Schistosoma mansoni* | Snail Fever Blood Fluke, Parasitic Blood Fluke | Research only. Quarantine approved premises only. |
+
+**Plants**
+
+Part 2 of this list is taken to include any live plant included on the list of CITES species established under the *Environment Protection and Biodiversity Conservation Act 1999*, provided the introduction of the plant into Australia is in accordance with the *Biosecurity Act 2015.*
+
+## Endnotes to the List of Specimens taken to be Suitable for Live Import
+
+## The List of Specimens taken to be Suitable for Live Import (established under subsection 303EB(1) of the Environment Protection and Biodiversity Conservation Act 1999) as shown in this compilation is amended as indicated in the Tables below.
+
+## Endnotes
+
+### Endnote 1—About the endnotes
+
+The endnotes provide information about this compilation and the compiled law.
+
+The following endnotes are included in every compilation:
+
+Endnote 1—About the endnotes
+
+Endnote 2—Abbreviation key
+
+Endnote 3—Legislation history
+
+Endnote 4—Amendment history
+
+**Abbreviation key—Endnote 2**
+
+The abbreviation key sets out abbreviations that may be used in the endnotes.
+
+**Legislation history and amendment history—Endnotes 3 and 4**
+
+Amending laws are annotated in the legislation history and amendment history.
+
+The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation.
+
+The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law.
+
+**Editorial changes**
+
+The *Legislation Act 2003* authorises First Parliamentary Counsel to make editorial and presentational changes to a compiled law in preparing a compilation of the law for registration. The changes must not change the effect of the law. Editorial changes take effect from the compilation registration date.
+
+If the compilation includes editorial changes, the endnotes include a brief outline of the changes in general terms. Full details of any changes can be obtained from the Office of Parliamentary Counsel.
+
+**Misdescribed amendments**
+
+A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section 15V of the *Legislation Act 2003*.
+
+If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and “(md not incorp)” is added to the amendment history.
+
+### Endnote 2- Abbreviation key
+
+| ad. = added or inserted | ed = editorial change |
+|---|---|
+| am. = amended | rep. = repealed |
+| C[x] = Compilation No. x | rs. = repealed and substituted |
+
+### Endnote 3- Legislation History
+
+| Name | Registration | Commencement | Application, saving or transitional provisions |
+|---|---|---|---|
+| List of Specimens taken to be Suitable for Live Import (29/11/2001) | 21/12/2001<br>F2006B01053 | 11/01/2002 | - |
+| First declaration of amendments – List of specimens taken to be suitable for live import for the Purposes of the Act – s303EB | 24/05/2002<br>F2006B11598 | 24/05/2002 | - |
+| Amendment - List of specimens taken to be suitable for live import (15/08/2002) | 21/08/2002<br>F2006B01070 | 21/08/2002 | - |
+| Amendment - List of specimens taken to be suitable for live import (12/09/2002) | 25/09/2002<br>F2006B01071 | 25/09/2002 | - |
+| Amendment - List of specimens taken to be suitable for live import (24/09/2002) | 16/10/2002<br>F2006B01072 | 16/10/2002 | - |
+| Amendment - List of specimens taken to be suitable for live import (10/10/2002) | 16/10/2002<br>F2006B01073 | 16/10/2002 | - |
+| Amendment - List of specimens taken to be suitable for live import (20/11/2002) | 11/12/2002<br>F2006B01078 | 11/12/2002 | - |
+| Amendment - List of specimens taken to be suitable for live import (10/12/2002) | 08/01/2003<br>F2006B01074 | 08/01/2003 | - |
+| Amendment - List of specimens taken to be suitable for live import (17/02/2003) | 26/02/2003<br>F2006B01075 | 26/02/2003 | - |
+| Amendment - List of specimens taken to be suitable for live import (04/03/2003) | 12/03/2003<br>F2006B01076 | 12/03/2003 | - |
+| Amendment - List of specimens taken to be suitable for live import (24/04/2003) | 14/05/2003<br>F2006B01087 | 14/05/2003 | - |
+| Amendment - List of specimens taken to be suitable for live import (03/11/2003) | 12/11/2003<br>F2006B01088 | 12/11/2003 | - |
+| Amendment - List of specimens taken to be suitable for live import (21/11/2003) | 03/12/2003<br>F2006B01089 | 03/12/2003 | - |
+| Amendment - List of specimens taken to be suitable for live import (15/12/2003) | 16/12/2003<br>F2006B01090 | 16/12/2003 | - |
+| Amendment - List of specimens taken to be suitable for live import (19/12/2003) | 14/01/2004<br>F2006B01092 | 14/01/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (18/03/2004) | 31/03/2004<br>F2006B01093 | 31/03/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (24/03/2004) | 31/03/2004<br>F2006B01094 | 31/03/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (31/03/2004) | 14/04/2004<br>F2006B01095 | 14/04/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (24/03/2003) | 31/03/2003<br>F2006B01077 | 15/05/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (12/05/2004) | 26/05/2004<br>F2006B01096 | 26/05/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (22/06/2004) | 07/07/2004<br>F2006B01098 | 07/07/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (05/08/2004) | 11/08/2004<br>F2006B01099 | 11/08/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (10/08/2004) | 25/08/2004<br>F2006B01100 | 25/08/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (11/08/2004) | 25/08/2004<br>F2006B01101 | 25/08/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (18/08/2004) | 15/09/2004<br>F2006B01102 | 15/09/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (24/08/2004) | 15/09/2004<br>F2006B01103 | 15/09/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (08/10/2004) | 27/10/2004<br>F2006B01104 | 27/10/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (15/10/2004) | 27/10/2004<br>F2006B01105 | 27/10/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (13/10/2004) | 27/10/2004<br>F2006B01106 | 27/10/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (07/12/2004) | 15/12/2004<br>F2006B01107 | 15/12/2004 | - |
+| Amendment - List of specimens taken to be suitable for live import (13/12/2004) | 22/12/2004<br>F2006B01108 | 12/01/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (31/01/2005) | 14/02/2005<br>F2005L00258 | 15/02/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (09/02/2005) | 16/02/2005<br>F2005L00300 | 17/02/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (25/01/2005) | 16/02/2005<br>F2005L00303 | 17/02/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (11/02/2005) | 28/02/2005<br>F2005L00363 | 01/03/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (03/03/2005) | 04/03/2005<br>F2005L00526 | 05/03/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (06/07/2005) | 14/07/2005<br>F2005L01996 | 15/07/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (10/08/2005) | 19/08/2005<br>F2005L02316 | 20/08/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (23/08/2005) | 31/08/2005<br>F2005L02371 | 01/09/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (06/06/2005) | 20/06/2005<br>F2005L01549 | 16/09/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (09/09/2005) | 15/09/2005<br>F2005L02655 | 16/09/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (12/09/2005) | 23/09/2005<br>F2005L02742 | 24/09/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (11/04/2005) | 18/04/2005<br>F2005L00922 | 30/09/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (04/07/2005) | 15/07/2005<br>F2005L01994 | 12/10/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (07/07/2005) | 20/07/2005<br>F2005L02016 | 12/10/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (24/10/2005) | 04/11/2005<br>F2005L03324 | 05/11/2005 | - |
+| Amendment - List of specimens taken to be suitable for live import (21/09/2005) | 07/10/2005<br>F2005L03045 | 08/02/2006 | - |
+| Amendment - List of specimens taken to be suitable for live import (13/10/2005) | 24/10/2005<br>F2005L03228 | 10/02/2006 | - |
+| Amendment - List of specimens taken to be suitable for live import (20/12/2005) | 10/01/2006<br>F2006L00082 | 15/06/2006 | - |
+| Amendment - List of specimens taken to be suitable for live import (15/02/2006) | 24/02/2006<br>F2006L00610 | 22/06/2006 | - |
+| Amendment - List of specimens taken to be suitable for live import (21/07/2006) | 03/08/2006<br>F2006L02535 | 04/08/2006 | - |
+| Amendment - List of specimens taken to be suitable for live import (26/07/2006) | 03/08/2006<br>F2006L02538 | 04/08/2006 | - |
+| Amendment - List of specimens taken to be suitable for live import (16/08/2006) | 30/08/2006<br>F2006L02818 | 20/10/2006 | - |
+| Amendment - List of specimens taken to be suitable for live import (25/09/2006) | 09/10/2006<br>F2006L03309 | 09/02/2007 | - |
+| Amendment - List of specimens taken to be suitable for live import (07/11/2006) | 22/11/2006<br>F2006L03717 | 21/03/2007 | - |
+| Amendment - List of specimens taken to be suitable for live import (01/05/2007) | 18/05/2007<br>F2007L01434 | 12/09/2007 | - |
+| Amendment - List of specimens taken to be suitable for live import (26/04/2007) | 14/05/2007<br>F2007L01319 | 13/09/2007 | - |
+| Amendment - List of specimens taken to be suitable for live import (05/09/2007) | 12/09/2007<br>F2007L03653 | 13/09/2007 | - |
+| Amendment - List of specimens taken to be suitable for live import (17/10/2007) | 26/10/2007<br>F2007L04201 | 27/10/2007 | - |
+| Amendment - List of specimens taken to be suitable for live import (29/06/2007) | 20/07/2007<br>F2007L02239 | 14/02/2008 | - |
+| Amendment - List of specimens taken to be suitable for live import (05/09/2007) (1) | 26/09/2007<br>F2007L03760 | 19/06/2008 | - |
+| Amendment - List of specimens taken to be suitable for live import (18/09/2007) | 03/10/2007<br>F2007L03883 | 19/06/2008 | - |
+| Amendment - List of specimens taken to be suitable for live import (05/02/2008) | 18/02/2008<br>F2008L00370 | 25/06/2008 | - |
+| Amendment - List of specimens taken to be suitable for live import (30/07/2008) | 02/08/2008<br>F2008L02917 | 02/08/2008 | - |
+| Amendment - List of specimens taken to be suitable for live import (22/12/2008) | 07/01/2009<br>F2009L00023 | 08/01/2009 | - |
+| Amendment - List of specimens taken to be suitable for live import (19/03/2009) | 31/03/2009<br>F2009L01211 | 01/04/2009 | - |
+| Amendment - List of specimens taken to be suitable for live import (09/09/2009) | 24/09/2009<br>F2009L03548 | 25/09/2009 | - |
+| Amendment - List of specimens taken to be suitable for live import (18/06/2009) | 29/06/2009<br>F2009L02577 | 27/10/2009 | - |
+| Amendment - List of specimens taken to be suitable for live import (04/08/2009) | 07/08/2009<br>F2009L03132 | 28/10/2009 | - |
+| Amendment - List of specimens taken to be suitable for live import (08/02/2010) | 24/02/2010<br>F2010L00508 | 24/06/2010 | - |
+| Amendment - List of specimens taken to be suitable for live import (27/07/2010) | 11/08/2010<br>F2010L02251 | 12/08/2010 | - |
+| Amendment - List of specimens taken to be suitable for live import (16/03/2010) | 17/06/2010<br>F2010L01572 | 23/11/2010 | - |
+| Amendment - List of specimens taken to be suitable for live import (03/06/2010) | 17/06/2010<br>F2010L01574 | 23/11/2010 | - |
+| Amendment - List of specimens taken to be suitable for live import (12/11/2010) | 24/1/2010<br>F2010L03107 | 24/11/2010 | - |
+| Amendment - List of specimens taken to be suitable for live import (19/07/2010) | 24/08/2010<br>F2010L02347 | 09/02/2011 | - |
+| Amendment - List of specimens taken to be suitable for live import (15/12/2010) | 22/02/2011<br>F2011L00293 | 23/02/2011 | - |
+| Amendment - List of specimens taken to be suitable for live import (02/02/2011) (1) | 22/02/2011<br>F2011L00291 | 23/02/2011 | - |
+| Amendment - List of specimens taken to be suitable for live import (02/02/2011) (2) | 22/02/2011<br>F2011L00292 | 23/02/2011 | - |
+| Amendment - List of specimens taken to be suitable for live import (15/02/2011) | 01/03/2011<br>F2011L00335 | 02/03/2011 | - |
+| Amendment - List of specimens taken to be suitable for live import (11/02/2011) | 01/03/2011<br>F2011L00339 | 02/03/2011 | - |
+| Amendment - List of specimens taken to be suitable for live import (09/09/2011) | 27/09/2011<br>F2011L01962 | 28/09/2011 | - |
+| Amendment - List of specimens taken to be suitable for live import (06/12/2011) | 20/12/2011<br>F2011L02751 | 21/12/2011 | - |
+| Amendment - List of specimens taken to be suitable for live import (15/12/2011) | 11/01/2012<br>F2012L00030 | 11/01/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (09/03/2012) | 20/03/2012<br>F2012L00609 | 21/03/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (05/04/2012) | 17/04/2012<br>F2012L00871 | 18/04/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (27/04/2012) | 05/06/2012<br>F2012L01162 | 06/06/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (08/05/2012) (2) | 05/06/2012<br>F2012L01159 | 06/06/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (08/05/2012) (1) | 05/06/2012<br>F2012L01161 | 06/06/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (26/06/2012) | 10/07/2012<br>F2012L01527 | 11/07/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (16/08/2012) | 28/08/2012<br>F2012L01778 | 29/08/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (10/09/2012) | 02/10/2012<br>F2012L01984 | 03/10/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (29/10/2012) | 13/11/2012<br>F2012L02168 | 14/11/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (13/11/2012) | 04/12/2012<br>F2012L02312 | 05/12/2012 | - |
+| Amendment - List of specimens taken to be suitable for live import (03/01/2013) | 29/01/2013<br>F2013L00105 | 30/01/2013 | - |
+| Amendment - List of specimens taken to be suitable for live import (30/01/2013) | 12/02/2013<br>F2013L00181 | 13/02/2013 | - |
+| Amendment - List of specimens taken to be suitable for live import (19/2/2013) | 12/03/2013<br>F2013L00443 | 13/03/2013 | - |
+| Amendment - List of specimens taken to be suitable for live import (15/04/2013) | 30/04/2013<br>F2013L00710 | 01/05/2013 | - |
+| Amendment - List of specimens taken to be suitable for live import (16/10/2013) | 24/10/2013<br>F2013L01831 | 25/10/2013 | - |
+| Amendment - List of specimens taken to be suitable for live import (17/11/2013)(1) | 05/12/2013<br>F2013L02051 | 06/12/2013 | - |
+| Amendment - List of specimens taken to be suitable for live import (17/11/2013)(2) | 05/12/2013<br>F2013L02052 | 06/12/2013 | - |
+| Amendment - List of specimens taken to be suitable for live import (26/11/2013)(1) | 12/12/2013<br>F2013L02079 | 13/12/2013 | - |
+| Amendment - List of specimens taken to be suitable for live import (26/11/2013)(2) | 12/12/2013<br>F2013L02080 | 13/12/2013 | - |
+| Amendment - List of specimens taken to be suitable for live import (4/11/2013) | 29/01/2014<br>F2014L00097 | 30/01/2014 | - |
+| Amendment - List of specimens taken to be suitable for live import (25/03/2014) | 16/04/2014<br>F2014L00420 | 17/04/2014 | - |
+| Amendment - List of specimens taken to be suitable for live import (02/05/2014) | 23/05/2014<br>F2014L00601 | 24/05/2014 | - |
+| Amendment - List of specimens taken to be suitable for live import (04/06/2014) | 04/08/2014<br>F2014L01070 | 05/08/2014 | - |
+| Amendment - List of specimens taken to be suitable for live import (10/11/2014) | 20/11/2014<br>F2014L01565 | 21/11/2014 | - |
+| Amendment - List of specimens taken to be suitable for live import (12/01/2015) | 29/01/2015<br>F2015L00079 | 30/01/2015 | - |
+| Amendment - List of specimens taken to be suitable for live import (24/02/2015) | 27/02/2015<br>F2015L00221 | 28/2/2015 | - |
+| Amendment - List of specimens taken to be suitable for live import (18/06/2015) | 06/07/2015<br>F2015L01100 | 07/07/2015 | - |
+| Amendment - List of specimens taken to be suitable for live import (22/10/2015) | 17/11/2015<br>F2015L01807 | 18/11/2015 | - |
+| Amendment - List of specimens taken to be suitable for live import (19/11/2015) | 30/11/2015<br>F2015L01877 | 01/12/2015 | - |
+| Amendment - List of specimens taken to be suitable for live import (20/12/2016) | 5/01/2017<br>F2017L00022 | 06/01/2017 | - |
+| Amendment - List of specimens taken to be suitable for live import (18/01/2017) | 24/01/2017<br>F2017L00064 | 25/01/2017 | - |
+| Amendment - List of specimens taken to be suitable for live import (11/05/2017) | 19/05/2017<br>F2017L00546 | 20/05/2017 | - |
+| Amendment - List of specimens taken to be suitable for live import (No. 1) (12/2/2018) | 26/3/2018<br>F2018L00401 | 27/3/2018 | - |
+| Amendment - List of specimens taken to be suitable for live import (No. 2) (12/2/2018) | 26/3/2018<br>F2018L00402 | 27/3/2018 | - |
+| Amendment - List of specimens taken to be suitable for live import (No. 3) (19/3/2018) | 26/3/2018<br>F2018L00403 | 27/3/2018 | - |
+| Amendment - List of specimens taken to be suitable for live import (No. 4) (27/3/2018) | 23/4/2018<br>F2018L00507 | 24/4/2018 | - |
+| Amendment - List of specimens taken to be suitable for live import (No. 5) (28/3/2018) | 23/4/2018<br>F2018L00508 | 24/4/2018 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Growling Grass Frog) Instrument 2018 | 5/9/2018<br>F2018L01259 | 06/09/2018 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Okapi) Instrument 2018 | 03/10/2018<br>F2018L01400 | 04/10/2018 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (*Cecidochares connexa*) Instrument 2018 | 23/01/2019<br>F2019L00056 | 24/01/2019 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (*Oncomelania hupensis quadrasi*) Instrument 2018 | 23/01/2019<br>F2019L00057 | 24/01/2019 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Electric Yellow Cichlid) Instrument 2018 | 23/01/2019<br>F2019L00058 | 24/01/2019 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Pygmy Hippopotamus) Instrument 2019 | 25/03/2019<br>F2019L00367 | 26/03/2019 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Turquoise Killifish) Instrument 2019 | 24/04/2019<br>F2019L00626 | 25/04/2019 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Polynesian Tiger Mosquito) Instrument 2019 | 09/08/2019<br>F2019L01039 | 10/08/2019 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Silvery Marmoset) Instrument 2019 | 04/12/2019<br>F2019L01563 | 05/12/2019 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Three species of Scarabaeid Dung Beetle) Instrument 2019 | 14/01/2020<br>F2020L00021 | 15/01/2020 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Puma) Instrument 2020 | 08/07/2020<br>F2020L00890 | 09/07/2020 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (domestic ferret) Instrument 2020 | 03/08/2020<br>F2020L00982 | 04/08/2020 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Common Garden Snail) Instrument 2020 | 10/09/2020<br>F2020L01154 | 11/09/2020 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (*Listronotus appendiculatus*) Instrument 2020 | 26/10/2020<br>F2020L01343 | 27/10/2020 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Leggett’s Rainbowfish) Instrument 2020 | 27/10/2020<br>F2020L01344 | 28/10/2020 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (sterile Codling Moth) Instrument 2021 | 02/07/2021<br>F2021L00951 | 03/07/2021 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (*Hydrotimetes natans*) Instrument 2021 | 06/08/2021<br>F2021L01083 | 07/08/2021 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Asian Tiger Mosquito) Instrument 2021 | 05/11/2021<br>F2021L01520 | 06/11/2021 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Golden Hamster) Instrument 2021 | 29/11/2021<br>F2021L01625 | 30/11/2021 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (*Stomphastis thraustica*) Instrument 2022 | 20/09/2022<br>F2022L01230 | 21/09/2022 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (*Acaciothrips ebneri*) Instrument 2022 | 30/09/2022<br>F2022L01396 | 01/10/2022 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Emerald Tree Monitor) Instrument 2022 | 04/11/2022<br>F2022L01434 | 05/11/2022 | - |
+| List of Specimens taken to be Suitable for Import Amendment (4 species of Vinegar Flies, *Drosophila* spp.) Instrument 2022 | 22/12/2022<br>F2022L01735 | 23/12/2022 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (red ruffed lemur) Instrument 2022 | 16/01/2023 F2023L00037 | 17/01/2023 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Names of Twenty-four Species of Freshwater Fish) Instrument 2023 | 08/02/2023<br>F2023L00096 | 09/02/2023 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (Fourteen species of dung beetles) Instrument 2023 | 16/10/2023<br>F2023L01385 | 17/10/2023 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (*Kryptopterus vitreolus*) Instrument 2023 | 14/11/2023<br>F2023L01495 | 15/11/2023 | - |
+| List of Specimens Taken to be Suitable for Live Import Amendment (Sixteen species of rainbowfish) Instrument 2023 | 17/11/2023<br>F2023L01520 | 18/11/2023 | - |
+| List of Specimens Taken to be Suitable for Live Import Amendment (seven species of rainbowfish) Instrument 2023 | 05/02/2024<br>F2024L00142 | 06/02/2024 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (torpedo barb and featherfin catfish) Instrument 2024. | 31/10/2024<br>F2024L01396 | 01/11/2024 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (giant Madagascar day gecko) Instrument 2024 | 26/11/2024<br>F2024L01504 | 27/11/2024 | - |
+| List of Specimens taken to be Suitable for Live Import Amendment (*Angelfish*) Instrument 2026 | 27/01/2026 F2026L00052 | 28/01/2026 | - |
+
+### Endnote 4- Amendment History
+
+<table>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Provision affected</td>
+<td>How affected</td>
+</tr>
+<tr>
+<td>Part 1 – Live specimens not requiring an import permit</td>
+<td>am. F2018L00402</td>
+</tr>
+<tr>
+<td>Vertebrate Animals</td>
+<td>am. F2006B11598, F2006B01077, F2006B01103, F2006B01108, F2005L00922, F2007L04201, F2008L02917, F2009L00023, F2009L03548, F2010L03107, F2011L00335, F2012L00609, F2012L00871, F2012L01527, F2012L01778, F2013L00105, F2014L00420, F2018L00401 (ed C72), F2018L00402 (ed C72), F2019L00058, F2019L01002, F2020L01344, F2023L00096, F2023L01495; F2023L01520, F2026L00052</td>
+</tr>
+<tr>
+<td>Invertebrate Animals</td>
+<td>am. F2006B01092, F2006B01101, F2006B01102, F2005L00300, F2005L00526, F2005L01549, F2006L02535, F2006L02818, F2006L03717, F2007L01434, F2007L01319, F2009L03548, F2009L03132, F2010L01574, F2011L00293, F2012L01161, F2012L02168, F2013L01831, F2014L00601, F2014L01070, F2015L01877, F2018L00403 (ed C72), F2019L00056, F2020L00021, F2020L01154, F2020L01343, F2021L00951, F2021L01083, F2022L01396, F2023L01385</td>
+</tr>
+<tr>
+<td>Part 2 – Live specimens requiring an import permit</td>
+<td>am. F2018L00402</td>
+</tr>
+<tr>
+<td>Vertebrate Animals</td>
+<td>am. F2006B01074, F2006B01087, F2006B01088, F2006B01094, F2006B01093, F2006B01095, F2006B01077, F2006B01096, F2006B01098, F2006B01099, F2006B01100, F2006B01104, F2006B01105, F2006B01106, F2006B01107, F2006B01108, F2005L00258, F2005L02316, F2005L01994, F2005L02016, F2005L03228, F2006L00082, F2006L00610, F2006L02538, F2007L03653, F2007L04201, F2007L02239, F2007L03883, F2008L00370, F2009L01211, F2009L03548, F2010L00508, F2010L02251, F2010L01572, F2011L00291, F2011L00292, F2011L00339, F2012L00030, F2012L01527, F2012L02312, F2013L02051, F2013L02052, F2013L02079, F2014L01565, F2015L00079, F2015L00221, F2017L00022, F2017L00064, F2018L00402, F2018L00507, F2018L01259, F2018L01400, F2019L00367, F2019L00626, F2019L01002, F2019L01563, F2020L00890, F2020L00982, F2021L01625; F2022L01434, F2023L00037; F2023L01520 (ed C100); F2024L00142, F2024L01396, F2024L01504</td>
+</tr>
+<tr>
+<td>Invertebrate Animals</td>
+<td>am. F2006B11598, F2006B01070, F2006B01072, F2006B01073, F2006B01078, F2006B01075, F2006B01076, F2006B01089, F2006B01090, F2006B01102, F2005L00303, F2005L00363, F2005L00526, F2005L01996, F2005L02371, F2005L02655, F2005L02742, F2005L03324, F2005L03045, F2006L02818, F2006L03309, F2007L03760, F2009L03548, F2009L02577, F2010L01574, F2010L02347, F2011L01962, F2011L02751, F2012L01162,F2012L01159, F2012L01527, F2012L01984, F2013L00181, F2013L00443, F2013L00710, F2013L02080, F2014L00097, F2015L01100, F2015L01807, F2017L00546, F2018L00508, F2019L00057, F2019L01039, F2021L01520, F2022L01230, F2022L01735</td>
+</tr>
+<tr>
+<td>Plants</td>
+<td>am. F2006B11598, F2006B01071</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>

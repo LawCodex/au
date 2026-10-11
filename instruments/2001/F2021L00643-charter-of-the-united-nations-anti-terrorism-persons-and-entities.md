@@ -1,0 +1,146 @@
+---
+title: Charter of the United Nations (Anti-terrorism — Persons and Entities) List 2001 (No. 2)
+identifier: F2021L00643
+register_id: F2021L00643
+type: legislative_instrument
+jurisdiction: au
+language: en
+date: "2001-12-10"
+version_start: "2001-12-10"
+status: in_force
+source: "https://www.legislation.gov.au/F2021L00643/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Charter of the United Nations (Anti-terrorism — Persons and Entities) List 2001 (No. 2)
+
+[image]\
+Charter of the United Nations (Anti­ terrorism — Persons and Entities) List 2001 (No. 2)
+
+I, ALEXANDER DOWNER, Minister for Foreign Affairs, being satisfied that the entities in this List are mentioned in paragraph 1 (c) of United Nations Security Council Resolution 1373, issue this List under subregulation 7 (1) of the *Charter of the United Nations (Anti-terrorism Measures) Regulations 2001.*
+
+Dated 10/12/2001
+
+Alexander Downer\
+Minister for Foreign Affairs
+
+[image]
+
+**1 Name of List**
+
+This List is the *Charter of the United Nations (Anti-terrorism — Persons and Entities) List 2001 (No. 2).*
+
+**2 Commencement**
+
+This List commences on gazettal.
+
+**3 Persons, entities and assets**
+
+For subregulation 7 (1) of the *Charter of the United Nations (Anti-terrorism Measures) Regulations 2001,* the entities in Schedule 1 are listed.
+
+*Note* Under subregulation 7 (1), the Minister must be satisfied that an entity is mentioned in paragraph 1 (c) of Resolution 1373 (2001) of the Security Council of the United Nations.
+
+[image]
+
+**Schedule 1 Entities**
+
+ABU NIDAL ORGANIZATION (a.k.a. ANO; a.k.a. BLACK SEPTEMBER; a.k.a. FATAH REVOLUTIONARY COUNCIL; a.k.a. ARAB REVOLUTIONARY COUNCIL; a.k.a. ARAB REVOLUTIONARY BRIGADES; a.k.a.
+
+REVOLUTIONARY ORGANIZATION OF SOCIALIST MUSLIMS)
+
+AL-AQSA ISLAMIC BANK (a.k.a. AL-AQSA AL-ISLAMI BANK), P.O. Box 3753
+
+al-Beireh, West Bank; Ramallah II 970, West Bank
+
+AUM SHINRIKYO (a.k.a. A.I.C. COMPREHENSIVE RESEARCH INSTITUTE;
+
+a.k.a. A.I.C. SOGO KENKYUSHO; a.k.a. ALEPH; a.k.a. AUM SUPREME TRUTH)
+
+BASQUE FATHERLAND AND LIBERTY (a.k.a. ETA; a.k.a. EUZKADI TA ASKATASUNA)
+
+BEIT EL-MAL HOLDINGS (a.k.a. ARAB PALESTINIAN BEIT EL-MAL COMPANY; a.k.a. BEIT AL MAL HOLDINGS; a.k.a. BEIT EL MAL AL­ PHALASTINI AL-ARABI AL-MUSHIMA AL-AAMA AL-MAHADUDA LTD.;
+
+a.k.a. PALESTINIAN ARAB BEIT EL MAL CORPORATION, LTD.)(translated as
+
+HOUSE OF MONEY), P.O. Box 662, Ramallah, West Bank
+
+GAMA'A AL-ISLAMIYYA (a.k.a. GI; a.k.a. ISLAMIC GROUP; a.k.a. IG; a.k.a.
+
+AL-GAMA'AT;·a.k.a. ISLAMIC GAMA'AT; a.k.a. EGYPTIAN AL-GAMA'AT AL­ ISLAMIYYA)
+
+HAMAS (a.k.a. ISLAMIC RESISTANCE MOVEMENT; a.k.a. HARAKAT AL­ MUQAWAMA AL-ISLAMIYA; a.k.a. STUDENTS OF AYYASH; a.k.a.
+
+STUDENTS OF THE ENGINEER; a.k.a. YAHYA AYYASH UNITS; a.k.a. IZZ AL­ DIN AL-QASSIM BRIGADES; a.k.a. IZZ AL-DIN AL-QASSIM FORCES; a.k.a.
+
+IZZ AL-DIN AL-QASSIM BATTALIONS; a.k.a. IZZ AL-DIN AL QASSAM BRIGADES; a.k.a. IZZ AL-DIN AL QASSAM FORCES; a.k.a. IZZ AL-DIN AL QASSAM BATTALIONS)
+
+HIZBALLAH (a.k.a. PARTY OF GOD; a.k.a. ISLAMIC JIHAD; a.k.a. ISLAMIC
+
+JIHAD ORGANIZATION; a.k.a. REVOLUTIONARY JUSTICE ORGANIZATION;
+
+a.k.a. ORGANIZATION OF THE OPPRESSED ON EARTH; a.k.a. ISLAMIC JIHAD FOR THE LIBERATION OF PALESTINE; a.k.a. ORGANIZATION OF RIGHT AGAINST WRONG; a.k.a. ANSAR ALLAH; a.k.a. FOLLOWERS OF THE PROPHET MUHAMMED)
+
+[image]
+
+HOLY LAND FOUNDATION FOR RELIEF AND DEVELOPMENT (f.k.a.
+
+OCCUPIED LAND FUND), 525 International Parkway, Suite 509, Richardson, Texas 75081, U.S.A.; P.O. Box 832390, Richardson, Texas 75083, U.S.A.; 9250 S.
+
+Harlem Avenue, Bridgeview, Illinois, U.S.A.; 345 E. Railway Avenue, Paterson, New Jersey 07503, U.S.A.; 12798 Rancho Penasquitos Blvd., Suite F, San Diego, California 92128 U.S.A.; Hebron, West Bank; Gaza; and other locations within the United States; U.S. FEIN: 95-4227517
+
+KAHANE LIVES (a.k.a. KAHANE CHAI; a.k.a. COMMITTEE FOR THE SAFETY OF THE ROADS; a.k.a. DIKUY BOGDIM; a.k.a. DOV; a.k.a. FOREFRONT OF THE IDEA; a.k.a. JUDEA POLICE; a.k.a. KACH; a.k.a. KFAR TAPUAH FUND;
+
+a.k.a. KOACH; a.k.a. REPRESSION OF TRAITORS; a.k.a. STATE OF JUDEA;
+
+a.k.a. SWORD OF DAVID; a.k.a. THE JUDEAN LEGION; a.k.a. THE JUDEAN VOICE; a.k.a. THE QOMEMIYUT MOVEMENT; a.k.a. THE WAY OF THE TORAH; a.k.a. THE YESHIVA OF THE JEWISH IDEA)
+
+KURDISTAN WORKERS' PARTY (a.k.a. HALU MESRU SAVUNMA KUVVETI (HSK); a.k.a. PARTIYA KARKERAN KURDISTAN; a.k.a. PKK; a.k.a. THE PEOPLE'S DEFENSE FORCE)
+
+LIBERATION TIGERS OF TAMIL EELAM (a.k.a. LTTE; a.k.a. TAMIL TIGERS;
+
+a.k.a. ELLALAN FORCE)
+
+MUJAHEDIN-E KHALQ ORGANIZATION (a.k.a. MEK; a.k.a. MKO; a.k.a. MUJAHEDIN-E KHALQ; a.k.a. NATIONAL COUNCIL OF RESISTANCE (NCR);
+
+a.k.a. NLA; a.k.a. ORGANIZATION OF THE PEOPLE'S HOLY WARRIORS OF IRAN; a.k.a. PEOPLE'S MUJAHEDIN ORGANIZATION OF IRAN; a.k.a. PMOI;
+
+a.k.a. SAZEMAN-E MUJAHEDIN-E KHALQ-E IRAN; a.k.a. THE NATIONAL LIBERATION ARMY OF IRAN)
+
+NATIONAL LIBERATION ARMY (a.k.a. ELN; a.k.a. EJERCITO DE LIBERACION NACIONAL)
+
+PALESTINIAN ISLAMIC JIHAD (a.k.a. PALESTINE ISLAMIC JIHAD ­ SHAQAQI FACTION; a.k.a. ABU GHUNAYM SQUAD OF THE HIZBALLAH BAYT AL-MAQDIS; a.k.a. AL-AWDAH BRIGADES; a.k.a. AL-QUDS BRIGADES; a.k.a. AL-QUDS SQUADS; a.k.a. ISLAMIC JIHAD IN PALESTINE;
+
+a.k.a. ISLAMIC JIHAD OF PALESTINE; a.k.a. PIJ; a.k.a. PIJ-SHALLAH FACTION; a.k.a. PIJ-SHAQAQI FACTION; a.k.a. SAYARA AL-QUDS)
+
+PALESTINE LIBERATION FRONT (a.k.a. PALESTINE LIBERATION FRONT - ABU ABBAS FACTION; a.k.a. PLF; a.k.a. PLF-ABU ABBAS)
+
+[image]\
+POPULAR FRONT FOR THE LIBERATION OF PALESTINE (a.k.a. HALHUL GANG; a.k.a. HALHUL SQUAD; a.k.a. PALESTINIAN POPULAR RESISTANCE FORCES; a.k.a. PFLP; a.k.a. PPRF; a.k.a. RED EAGLE GANG; a.k.a. RED EAGLE GROUP; a.k.a. RED EAGLES)
+
+*Charter of the United Nations (Anti-terrorism* – *Persons* 3
+
+*and Entities) List 2001 (No. 2)*
+
+[image]
+
+POPULAR FRONT FOR THE LIBERATION OF PALESTINE - GENERAL COMMAND (a.k.a. PFLP-GC)
+
+REAL IRA (a.k.a. 32 COUNTY SOVEREIGNTY COMMITTEE; a.k.a. 32 COUNTY SOVEREIGNTY MOVEMENT; a.k.a. IRISH REPUBLICAN PRISONERS WELFARE ASSOCIATION; a.k.a. REAL IRISH REPUBLICAN ARMY; a.k.a. REAL OGLAIGH NA HEIREANN; a.k.a. RIRA)
+
+REVOLUTIONARY ARMED FORCES OF COLOMBIA (a.k.a. FARC; a.k.a. FUERZAS ARMADAS REVOLUCIONARIAS DE COLOMBIA)
+
+REVOLUTIONARY NUCLEI (a.k.a. POPULAR REVOLUTIONARY STRUGGLE;
+
+a.k.a. EPANASTATIKOS LAIKOS AGONAS; a.k.a. REVOLUTIONARY POPULAR STRUGGLE; a.k.a. REVOLUTIONARY PEOPLE'S STRUGGLE; a.k.a. JUNE 78; a.k.a. ORGANIZATION OF REVOLUTIONARY INTERNATIONALIST SOLIDARITY; a.k.a. ELA; a.k.a. REVOLUTIONARY CELLS; a.k.a. LIBERATION STRUGGLE)
+
+REVOLUTIONARY ORGANIZATION 17 NOVEMBER (a.k.a. 17 NOVEMBER;
+
+a.k.a. EPANASTATIKI ORGANOSI 17 NOEMVRI)
+
+REVOLUTIONARY PEOPLE'S LIBERATION PARTY/FRONT (a.k.a. DEVRIMCI HALK KURTULUS PARTISI-CEPHESI; a.k.a. DHKP/C; a.k.a. DEVRIMCI SOL;
+
+a.k.a. REVOLUTIONARY LEFT; a.k.a. DEV SOL; a.k.a. DEV SOL SILAHLI DEVRIMCI BIRLIKLERI; a.k.a. DEV SOL SDB; a.k.a. DEV SOL ARMED REVOLUTIONARY UNITS)
+
+SHINING PATH (a.k.a. SENDERO LUMINOSO; a.k.a. SL; a.k.a. PARTIDO COMUNISTA DEL PERU EN EL SENDERO LUMINOSO DE JOSE CARLOS MARIATEGUI (COMMUNIST PARTY OF PERU ON THE SHINING PATH OF JOSE CARLOS MARIATEGUI); a.k.a. PARTIDO COMUNISTA DEL PERU (COMMUNIST PARTY OF PERU); a.k.a. PCP; a.k.a. SOCORRO POPULAR DEL PERU (PEOPLE'S AID OF PERU); a.k.a. SPP; a.k.a EJERCITO GUERRILLERO POPULAR (PEOPLE'S GUERRILLA ARMY); a.k.a. EGP; a.k.a. EJERCITO POPULAR DE LIBERACION (PEOPLE'S LIBERATION ARMY); a.k.a. EPL)
+
+UNITED SELF-DEFENSE FORCES OF COLOMBIA (a.k.a. AUC; a.k.a. AUTODEFENSAS UNIDAS DE COLOMBIA)
