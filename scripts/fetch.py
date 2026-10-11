@@ -66,10 +66,11 @@ def fetch_meta(tid):
 
 
 def pick_docs(meta):
-    """Return the Primary documents to download: EPUB(s) if any, else Word."""
+    """Return the Primary documents to download: EPUB(s) if any, else Word, else PDF."""
     docs = [d for d in meta.get("documents") or [] if d["type"] == "Primary"]
-    for fmt in ("Epub", "Word"):
-        sel = sorted((d for d in docs if d["format"] == fmt), key=lambda d: d["volumeNumber"])
+    for fmt in ("Epub", "Word", "Pdf"):
+        sel = sorted((d for d in docs if d["format"] == fmt and (fmt != "Word" or d.get("extension") == ".docx")),
+                     key=lambda d: d["volumeNumber"])
         if sel:
             return sel
     return []

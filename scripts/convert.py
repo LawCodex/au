@@ -303,6 +303,9 @@ def epub_to_md(paths, title):
         if path.endswith(".docx"):
             out.extend(docx_to_md(path))
             continue
+        if path.endswith(".pdf"):
+            out.extend(pdf_to_md(path))
+            continue
         with zipfile.ZipFile(path) as z:
             for name in html_files(z):
                 body = parse_html(z.read(name))
@@ -389,6 +392,20 @@ def docx_to_md(path):
     return out
 
 
+def pdf_to_md(path):
+    """Last-resort fallback for PDF-only titles: extracted text, one paragraph per blank-line block."""
+    from pypdf import PdfReader
+    out = []
+    for page in PdfReader(path).pages:
+        txt = page.extract_text() or ""
+        for block in re.split(r"\n\s*\n", txt):
+            lines = [SPACES.sub(" ", l).strip() for l in block.splitlines()]
+            lines = [l for l in lines if l]
+            if lines:
+                out.append(para(esc("\x00BR\x00".join(lines))))
+    return out
+
+
 def date_only(s):
     return s[:10] if s else None
 
@@ -399,10 +416,14 @@ def out_path(t, coll):
     if coll == "Constitution":
         return os.path.join(ROOT, d, f"{slugify(name)}.md")
     year = t.get("year") or (t.get("makingDate") or "0000")[:4]
-    if coll == "LegislativeInstrument":
-        sub = slugify(t.get("subCollection") or "other")
-        return os.path.join(ROOT, d, sub, str(year), f"{t['id']}-{slugify(name, 70)}.md")
-    return os.path.join(ROOT, d, str(year), f"{t['id']}-{slugify(name, 70)}.md")
+    fname = f"{t['id']}-{slugify(name, 70)}.md"
+    if coll == "LegislativeInstrument" and LI_BIG_YEARS and str(year) in LI_BIG_YEARS:
+        # GitHub lists at most 1,000 entries per directory: split crowded years by id block
+        return os.path.join(ROOT, d, str(year), t["id"][:-3] + "xxx", fname)
+    return os.path.join(ROOT, d, str(year), fname)
+
+
+LI_BIG_YEARS = set()
 
 
 def front_matter(t, meta, coll, retrieved):
@@ -487,6 +508,10 @@ def main():
     a = ap.parse_args()
     for coll in a.collections:
         titles = read_json(os.path.join(RAW, "lists", f"{coll}.json"))
+        if coll == "LegislativeInstrument":
+            import collections
+            yc = collections.Counter(str(t.get("year") or (t.get("makingDate") or "0000")[:4]) for t in titles)
+            LI_BIG_YEARS.update(y for y, n in yc.items() if n > 900)
         if a.only:
             titles = [t for t in titles if t["id"] in a.only.split(",")]
         ok, bad = 0, []

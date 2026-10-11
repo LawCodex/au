@@ -18,8 +18,6 @@ for d, _, files in os.walk(ROOT):
         p = os.path.join(d, f)
         size += os.path.getsize(p)
         top = rel.split(os.sep)[0]
-        if top == "instruments":
-            top = "instruments/" + rel.split(os.sep)[1]
         counts[top] += 1
         if top == "acts":
             with open(p, encoding="utf-8") as fh:
