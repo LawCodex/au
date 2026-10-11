@@ -1,6 +1,7 @@
 """Shared helpers: polite HTTP client for the Federal Register of Legislation API, paths."""
 import json
 import os
+import sys
 import threading
 import time
 
@@ -23,7 +24,7 @@ COLLECTIONS = {
 }
 
 # Minimum seconds between the start of two requests (global, across threads).
-MIN_INTERVAL = float(os.environ.get("LAWCODEX_MIN_INTERVAL", "0.5"))
+MIN_INTERVAL = float(os.environ.get("LAWCODEX_MIN_INTERVAL", "0.3"))
 
 _lock = threading.Lock()
 _last = [0.0]
@@ -69,6 +70,7 @@ def get(url, params=None, timeout=120, tries=10):
                 if ra and ra.isdigit():
                     delay = max(delay, int(ra))
         if attempt < tries - 1:
+            print(f"  retry in {delay}s: {url} ({err[:120]})", file=sys.stderr, flush=True)
             time.sleep(delay)
             delay = min(delay * 2, 300)
     raise RuntimeError(f"GET {url} {params} failed: {err}")

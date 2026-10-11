@@ -1,0 +1,1597 @@
+---
+title: Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Act 2025
+identifier: C2025A00033
+register_id: C2025A00033
+type: act
+principal: false
+number: Act No. 33, 2025
+jurisdiction: au
+language: en
+date: "2025-08-02"
+version_start: "2025-08-02"
+status: in_force
+source: "https://www.legislation.gov.au/C2025A00033/latest/text"
+retrieved: "2026-10-11"
+---
+
+# Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Act 2025
+
+Customs Tariff Amendment (Australia‑United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Act 2025
+
+No. 33, 2025
+
+An Act to amend the *Customs Tariff Act 1995*, and for related purposes
+
+Contents
+
+[image: Commonwealth Coat of Arms of Australia]
+
+No. 33, 2025
+
+An Act to amend the *Customs Tariff Act 1995*, and for related purposes
+
+[*Assented to 2 August 2025*]
+
+The Parliament of Australia enacts:
+
+###### 1 Short title
+
+This Act is the *Customs Tariff Amendment (Australia‑United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Act 2025*.
+
+###### 2 Commencement
+
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<tr>
+<td colspan="3">Commencement information</td>
+</tr>
+<tr>
+<td>Column 1</td>
+<td>Column 2</td>
+<td>Column 3</td>
+</tr>
+<tr>
+<td>Provisions</td>
+<td>Commencement</td>
+<td>Date/Details</td>
+</tr>
+<tr>
+<td>1. Sections 1 to 3 and anything in this Act not elsewhere covered by this table</td>
+<td>The day this Act receives the Royal Assent.</td>
+<td>2 August 2025</td>
+</tr>
+<tr>
+<td>2. Schedule 1</td>
+<td>At the same time as Schedule 1 to the <i>Customs Amendment (Australia‑United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Act 2025</i> commences.</td>
+<td></td>
+</tr>
+</table>
+
+Note: This table relates only to the provisions of this Act as originally enacted. It will not be amended to deal with any later amendments of this Act.
+
+(2) Any information in column 3 of the table is not part of this Act. Information may be inserted in this column, or information in it may be edited, in any published version of this Act.
+
+###### 3 Schedules
+
+Legislation that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+
+## Schedule 1—Amendments
+
+##### Customs Tariff Act 1995
+
+**1 Subsection 3(1) (at the end of the definition of rate column)**
+
+Add:
+
+; or (n) the third column of the table in Schedule 16.
+
+**2 Subsection 9(1)**
+
+Omit “or 15”, substitute “, 15 or 16”.
+
+**3 After paragraph 11(1)(bk)**
+
+Insert:
+
+or (bl) the third column of an item in the table in Schedule 16 that applies to goods;
+
+**4 After paragraph 11(1)(o)**
+
+Insert:
+
+or (p) the third column of that item in the table in Schedule 16;
+
+**5 After paragraph 11(2)(bk)**
+
+Insert:
+
+or (bl) the third column of an item in the table in Schedule 16 that applies to goods;
+
+**6 After section 13M**
+
+Insert:
+
+###### 13N When goods are UAE originating goods
+
+For the purposes of this Act, goods are UAE originating goods if, and only if, they are UAE originating goods under Division 1Q of Part VIII of the *Customs Act 1901*.
+
+**7 After subparagraph 16(1)(a)(xiii)**
+
+Insert:
+
+and (xiv) are not UAE originating goods;
+
+**8 Subparagraph 16(1)(u)(ii)**
+
+Omit “Free.”, substitute “Free;”.
+
+**9 At the end of subsection 16(1) (after the note)**
+
+Add:
+
+(v) if the goods are UAE originating goods:
+
+(i) if the goods are classified to a heading or subheading in Schedule 3 that is specified in column 2 of an item in the table in Schedule 16—by reference to the rate of duty set out in column 3 of that item; or
+
+(ii) otherwise—Free.
+
+Note: See also subsection (4D).
+
+**10 After subsection 16(4C)**
+
+Insert:
+
+UAE originating goods
+
+(4D) For the purposes of Schedule 16:
+
+(a) a reference in that Schedule to year 2 is a reference to the first calendar year beginning after the commencement of this subsection; and
+
+(b) a reference in that Schedule to year 3 is a reference to the second calendar year beginning after the commencement of this subsection; and
+
+(c) a reference in that Schedule to year 4 is a reference to the third calendar year beginning after the commencement of this subsection; and
+
+(d) a reference in that Schedule to year 5 is a reference to the fourth calendar year beginning after the commencement of this subsection.
+
+**11 At the end of subsection 18(1)**
+
+Add:
+
+; or (m) under an item in the table in Schedule 16 that applies to the goods.
+
+**12 After subparagraph 18(2)(a)(xiii)**
+
+Insert:
+
+and (xiv) are not UAE originating goods;
+
+**13 At the end of subsection 18(2)**
+
+Add:
+
+; (v) if the goods are UAE originating goods:
+
+(i) if a rate of duty that applies in relation to the United Arab Emirates is set out in the third column of that item—by reference to that rate of duty; or
+
+(ii) otherwise—Free.
+
+**14 Paragraph 19AAC(1)(b)**
+
+Omit “or 15”, substitute “, 15 or 16”.
+
+**15 Paragraph 19AA(b)**
+
+Omit “or 15”, substitute “, 15 or 16”.
+
+**16 Paragraph 19AC(b)**
+
+Omit “or 15”, substitute “, 15 or 16”.
+
+**17 Paragraph 19ACA(1)(b)**
+
+Omit “or 15”, substitute “, 15 or 16”.
+
+**18 Schedule 4 (table item 17A, column headed “Rate of duty”)**
+
+After “UK”, insert “/AE”.
+
+**19 Schedule 4 (table item 20, column headed “Description of goods”, paragraph (d))**
+
+Omit “or 15”, substitute “, 15 or 16”.
+
+**20 Schedule 4 (table item 20, column headed “Rate of duty”)**
+
+After “UK”, insert “/AE”.
+
+**21 Schedule 4 (table item 22, column headed “Rate of duty”)**
+
+After “UK” (wherever occurring), insert “/AE”.
+
+**22 Schedule 4 (table item 45, column headed “Rate of duty”)**
+
+After “UK”, insert “/AE”.
+
+**23 Schedule 4 (table item 50, column headed “Rate of duty”)**
+
+After “UK” (wherever occurring), insert “/AE”.
+
+**24 Schedule 4 (table item 53, at the end of the column headed “Rate of duty”)**
+
+Add:
+
+AE:5%
+
+**25 At the end of the Act**
+
+Add:
+
+## Schedule 16—UAE originating goods
+
+Note: See sections 15 and 16.
+
+<table>
+<tr>
+<td colspan="3">UAE originating goods</td>
+</tr>
+<tr>
+<td>Column 1<br>Item</td>
+<td>Column 2<br>Heading or subheading in Schedule 3</td>
+<td>Column 3<br>Rate</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2203.00.63</td>
+<td>$10.57/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2203.00.64</td>
+<td>$52.87/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2203.00.65</td>
+<td>$33.11/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>4</td>
+<td>2203.00.66</td>
+<td>$61.57/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>5</td>
+<td>2203.00.67</td>
+<td>$43.39/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>6</td>
+<td>2203.00.69</td>
+<td>$61.57/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>7</td>
+<td>2203.00.71</td>
+<td>$10.57/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>8</td>
+<td>2203.00.72</td>
+<td>$33.11/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>9</td>
+<td>2203.00.79</td>
+<td>$43.39/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>10</td>
+<td>2203.00.91</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>11</td>
+<td>2203.00.99</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>12</td>
+<td>2204.10.23</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>13</td>
+<td>2204.10.29</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>14</td>
+<td>2204.10.83</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>15</td>
+<td>2204.10.89</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>16</td>
+<td>2204.21.30</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>17</td>
+<td>2204.21.90</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>18</td>
+<td>2204.22.30</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>19</td>
+<td>2204.22.90</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>20</td>
+<td>2204.29.30</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>21</td>
+<td>2204.29.90</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>22</td>
+<td>2205.10.30</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>23</td>
+<td>2205.10.90</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>24</td>
+<td>2205.90.30</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>25</td>
+<td>2205.90.90</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>26</td>
+<td>2206.00.13</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>27</td>
+<td>2206.00.14</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>28</td>
+<td>2206.00.21</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>29</td>
+<td>2206.00.22</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>30</td>
+<td>2206.00.23</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>31</td>
+<td>2206.00.24</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>32</td>
+<td>2206.00.52</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>33</td>
+<td>2206.00.59</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>34</td>
+<td>2206.00.62</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>35</td>
+<td>2206.00.69</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>36</td>
+<td>2206.00.72</td>
+<td>$10.57/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>37</td>
+<td>2206.00.73</td>
+<td>$52.87/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>38</td>
+<td>2206.00.76</td>
+<td>$33.11/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>39</td>
+<td>2206.00.77</td>
+<td>$61.57/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>40</td>
+<td>2206.00.78</td>
+<td>$43.39/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>41</td>
+<td>2206.00.79</td>
+<td>$61.57/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>42</td>
+<td>2206.00.82</td>
+<td>$10.57/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>43</td>
+<td>2206.00.83</td>
+<td>$33.11/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>44</td>
+<td>2206.00.89</td>
+<td>$43.39/L of alcohol, calculated on that alcohol content by which the percentage by volume of alcohol of the goods exceeds 1.15</td>
+</tr>
+<tr>
+<td>45</td>
+<td>2206.00.92</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>46</td>
+<td>2206.00.99</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>47</td>
+<td>2207.10.00</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>48</td>
+<td>2207.20.10</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>49</td>
+<td>2208.20.10</td>
+<td>$97.41/L of alcohol</td>
+</tr>
+<tr>
+<td>50</td>
+<td>2208.20.90</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>51</td>
+<td>2208.30.00</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>52</td>
+<td>2208.40.00</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>53</td>
+<td>2208.50.00</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>54</td>
+<td>2208.60.00</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>55</td>
+<td>2208.70.00</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>56</td>
+<td>2208.90.20</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>57</td>
+<td>2208.90.90</td>
+<td>$104.31/L of alcohol</td>
+</tr>
+<tr>
+<td>58</td>
+<td>2401.10.00</td>
+<td>Applicable rate (see section 19ACA)/kg</td>
+</tr>
+<tr>
+<td>59</td>
+<td>2401.20.00</td>
+<td>Applicable rate (see section 19ACA)/kg</td>
+</tr>
+<tr>
+<td>60</td>
+<td>2401.30.00</td>
+<td>Applicable rate (see section 19ACA)/kg</td>
+</tr>
+<tr>
+<td>61</td>
+<td>2402.10.20</td>
+<td>$1.40312/stick</td>
+</tr>
+<tr>
+<td>62</td>
+<td>2402.10.80</td>
+<td>Applicable rate (see section 19ACA)/kg</td>
+</tr>
+<tr>
+<td>63</td>
+<td>2402.20.20</td>
+<td>$1.40312/stick</td>
+</tr>
+<tr>
+<td>64</td>
+<td>2402.20.80</td>
+<td>Applicable rate (see section 19ACA)/kg</td>
+</tr>
+<tr>
+<td>65</td>
+<td>2403.11.00</td>
+<td>Applicable rate (see section 19ACA)/kg</td>
+</tr>
+<tr>
+<td>66</td>
+<td>2403.19.10</td>
+<td>$1.40312/stick</td>
+</tr>
+<tr>
+<td>67</td>
+<td>2403.19.90</td>
+<td>Applicable rate (see section 19ACA)/kg</td>
+</tr>
+<tr>
+<td>68</td>
+<td>2403.91.00</td>
+<td>Applicable rate (see section 19ACA)/kg</td>
+</tr>
+<tr>
+<td>69</td>
+<td>2403.99.80</td>
+<td>Applicable rate (see section 19ACA)/kg</td>
+</tr>
+<tr>
+<td>70</td>
+<td>2404.11.00</td>
+<td>Applicable rate (see section 19ACA)/kg</td>
+</tr>
+<tr>
+<td>71</td>
+<td>2707.10.00</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>72</td>
+<td>2707.20.00</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>73</td>
+<td>2707.30.00</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>74</td>
+<td>2707.50.00</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>75</td>
+<td>2709.00.90</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>76</td>
+<td>2710.12.61</td>
+<td>$0.03556/L</td>
+</tr>
+<tr>
+<td>77</td>
+<td>2710.12.62</td>
+<td>$0.508/L of gasoline<br>plus<br>$0.508/L of ethanol<br>plus<br>$0.508/L of other substances (if any) in the blend</td>
+</tr>
+<tr>
+<td>78</td>
+<td>2710.12.69</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>79</td>
+<td>2710.12.70</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>80</td>
+<td>2710.19.16</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>81</td>
+<td>2710.19.22</td>
+<td>$0.508/L of diesel<br>plus<br>$0.508/L of ethanol<br>plus<br>$0.508/L of other substances (if any) in the blend</td>
+</tr>
+<tr>
+<td>82</td>
+<td>2710.19.28</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>83</td>
+<td>2710.19.40</td>
+<td>$0.03556/L</td>
+</tr>
+<tr>
+<td>84</td>
+<td>2710.19.51</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>85</td>
+<td>2710.19.52</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>86</td>
+<td>2710.19.53</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>87</td>
+<td>2710.19.70</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>88</td>
+<td>2710.19.91</td>
+<td>$0.142/L</td>
+</tr>
+<tr>
+<td>89</td>
+<td>2710.19.92</td>
+<td>$0.142/kg</td>
+</tr>
+<tr>
+<td>90</td>
+<td>2710.20.00</td>
+<td>$0.508/L of biodiesel<br>plus<br>$0.508/L of ethanol (if any)<br>plus<br>$0.508/L of other substances in the blend</td>
+</tr>
+<tr>
+<td>91</td>
+<td>2710.91.16</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>92</td>
+<td>2710.91.22</td>
+<td>$0.508/L of diesel<br>plus<br>$0.508/L of ethanol<br>plus<br>$0.508/L of other substances (if any) in the blend</td>
+</tr>
+<tr>
+<td>93</td>
+<td>2710.91.28</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>94</td>
+<td>2710.91.40</td>
+<td>$0.03556/L</td>
+</tr>
+<tr>
+<td>95</td>
+<td>2710.91.51</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>96</td>
+<td>2710.91.52</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>97</td>
+<td>2710.91.53</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>98</td>
+<td>2710.91.61</td>
+<td>$0.03556/L</td>
+</tr>
+<tr>
+<td>99</td>
+<td>2710.91.62</td>
+<td>$0.508/L of gasoline<br>plus<br>$0.508/L of ethanol<br>plus<br>$0.508/L of other substances (if any) in the blend</td>
+</tr>
+<tr>
+<td>100</td>
+<td>2710.91.69</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>101</td>
+<td>2710.91.70</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>102</td>
+<td>2710.91.80</td>
+<td>$0.508/L of biodiesel<br>plus<br>$0.508/L of ethanol (if any)<br>plus<br>$0.508/L of other substances in the blend</td>
+</tr>
+<tr>
+<td>103</td>
+<td>2710.91.91</td>
+<td>$0.142/L</td>
+</tr>
+<tr>
+<td>104</td>
+<td>2710.91.92</td>
+<td>$0.142/kg</td>
+</tr>
+<tr>
+<td>105</td>
+<td>2710.99.16</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>106</td>
+<td>2710.99.22</td>
+<td>$0.508/L of diesel<br>plus<br>$0.508/L of ethanol<br>plus<br>$0.508/L of other substances (if any) in the blend</td>
+</tr>
+<tr>
+<td>107</td>
+<td>2710.99.28</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>108</td>
+<td>2710.99.40</td>
+<td>$0.03556/L</td>
+</tr>
+<tr>
+<td>109</td>
+<td>2710.99.51</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>110</td>
+<td>2710.99.52</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>111</td>
+<td>2710.99.53</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>112</td>
+<td>2710.99.61</td>
+<td>$0.03556/L</td>
+</tr>
+<tr>
+<td>113</td>
+<td>2710.99.62</td>
+<td>$0.508/L of gasoline<br>plus<br>$0.508/L of ethanol<br>plus<br>$0.508/L of other substances (if any) in the blend</td>
+</tr>
+<tr>
+<td>114</td>
+<td>2710.99.69</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>115</td>
+<td>2710.99.70</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>116</td>
+<td>2710.99.80</td>
+<td>$0.508/L of biodiesel<br>plus<br>$0.508/L of ethanol<br>plus<br>$0.508/L of other substances in the blend</td>
+</tr>
+<tr>
+<td>117</td>
+<td>2710.99.91</td>
+<td>$0.142/L</td>
+</tr>
+<tr>
+<td>118</td>
+<td>2710.99.92</td>
+<td>$0.142/kg</td>
+</tr>
+<tr>
+<td>119</td>
+<td>2711.11.00</td>
+<td>$0.348/kg</td>
+</tr>
+<tr>
+<td>120</td>
+<td>2711.12.10</td>
+<td>$0.166/L</td>
+</tr>
+<tr>
+<td>121</td>
+<td>2711.13.10</td>
+<td>$0.166/L</td>
+</tr>
+<tr>
+<td>122</td>
+<td>2711.21.10</td>
+<td>$0.348/kg</td>
+</tr>
+<tr>
+<td>123</td>
+<td>2902.20.00</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>124</td>
+<td>2902.30.00</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>125</td>
+<td>2902.41.00</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>126</td>
+<td>2902.42.00</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>127</td>
+<td>2902.43.00</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>128</td>
+<td>2902.44.00</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>129</td>
+<td>3403.11.10</td>
+<td>$0.142/kg</td>
+</tr>
+<tr>
+<td>130</td>
+<td>3403.11.90</td>
+<td>$0.142/L</td>
+</tr>
+<tr>
+<td>131</td>
+<td>3403.19.10</td>
+<td>$0.142/kg</td>
+</tr>
+<tr>
+<td>132</td>
+<td>3403.19.90</td>
+<td>$0.142/L</td>
+</tr>
+<tr>
+<td>133</td>
+<td>3403.91.10</td>
+<td>$0.142/kg</td>
+</tr>
+<tr>
+<td>134</td>
+<td>3403.91.90</td>
+<td>$0.142/L</td>
+</tr>
+<tr>
+<td>135</td>
+<td>3403.99.10</td>
+<td>$0.142/kg</td>
+</tr>
+<tr>
+<td>136</td>
+<td>3403.99.90</td>
+<td>$0.142/L</td>
+</tr>
+<tr>
+<td>137</td>
+<td>3811.21.10</td>
+<td>$0.142/kg</td>
+</tr>
+<tr>
+<td>138</td>
+<td>3811.21.90</td>
+<td>$0.142/L</td>
+</tr>
+<tr>
+<td>139</td>
+<td>3817.00.10</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>140</td>
+<td>3819.00.00</td>
+<td>$0.142/L</td>
+</tr>
+<tr>
+<td>141</td>
+<td>3824.99.30</td>
+<td>$0.508/L of gasoline<br>plus<br>$0.508/L of ethanol<br>plus<br>$0.508/L of other substances (if any)<br>in the blend</td>
+</tr>
+<tr>
+<td>142</td>
+<td>3824.99.40</td>
+<td>$0.508/L of diesel<br>plus<br>$0.508/L of ethanol<br>plus<br>$0.508/L of other substances (if any)<br>in the blend</td>
+</tr>
+<tr>
+<td>143</td>
+<td>3826.00.10</td>
+<td>$0.508/L</td>
+</tr>
+<tr>
+<td>144</td>
+<td>3826.00.20</td>
+<td>$0.508/L of biodiesel<br>plus<br>$0.508/L of ethanol (if any)<br>plus<br>$0.508/L of other substances in the blend</td>
+</tr>
+<tr>
+<td>145</td>
+<td>7208.10.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>146</td>
+<td>7208.25.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>147</td>
+<td>7208.26.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>148</td>
+<td>7208.27.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>149</td>
+<td>7208.36.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>150</td>
+<td>7208.37.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>151</td>
+<td>7208.38.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>152</td>
+<td>7208.39.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>153</td>
+<td>7208.40.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>154</td>
+<td>7208.51.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>155</td>
+<td>7208.52.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>156</td>
+<td>7208.53.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>157</td>
+<td>7208.54.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>158</td>
+<td>7208.90.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>159</td>
+<td>7209.15.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>160</td>
+<td>7209.16.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>161</td>
+<td>7209.17.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>162</td>
+<td>7209.18.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>163</td>
+<td>7209.25.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>164</td>
+<td>7209.26.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>165</td>
+<td>7209.27.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>166</td>
+<td>7209.28.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>167</td>
+<td>7209.90.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>168</td>
+<td>7210.41.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>169</td>
+<td>7210.49.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>170</td>
+<td>7210.50.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>171</td>
+<td>7210.61.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>172</td>
+<td>7210.69.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>173</td>
+<td>7210.70.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>174</td>
+<td>7210.90.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>175</td>
+<td>7211.14.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>176</td>
+<td>7211.19.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>177</td>
+<td>7211.23.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>178</td>
+<td>7211.29.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>179</td>
+<td>7211.90.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>180</td>
+<td>7212.30.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>181</td>
+<td>7212.40.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>182</td>
+<td>7212.50.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>183</td>
+<td>7213.10.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>184</td>
+<td>7213.91.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>185</td>
+<td>7213.99.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>186</td>
+<td>7214.20.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>187</td>
+<td>7214.91.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>188</td>
+<td>7214.99.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>189</td>
+<td>7215.10.90</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>190</td>
+<td>7215.50.90</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>191</td>
+<td>7215.90.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>192</td>
+<td>7216.10.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>193</td>
+<td>7216.21.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>194</td>
+<td>7216.31.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>195</td>
+<td>7216.32.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>196</td>
+<td>7216.33.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>197</td>
+<td>7216.40.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>198</td>
+<td>7217.10.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>199</td>
+<td>7217.20.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>200</td>
+<td>7217.30.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>201</td>
+<td>7217.90.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>202</td>
+<td>7222.20.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>203</td>
+<td>7222.30.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>204</td>
+<td>7223.00.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>205</td>
+<td>7225.30.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>206</td>
+<td>7225.40.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>207</td>
+<td>7225.50.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>208</td>
+<td>7225.91.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>209</td>
+<td>7225.92.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>210</td>
+<td>7225.99.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>211</td>
+<td>7226.91.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>212</td>
+<td>7226.92.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>213</td>
+<td>7226.99.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>214</td>
+<td>7227.20.10</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>215</td>
+<td>7227.20.90</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>216</td>
+<td>7227.90.10</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>217</td>
+<td>7227.90.90</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>218</td>
+<td>7228.10.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>219</td>
+<td>7228.20.10</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>220</td>
+<td>7228.20.21</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>221</td>
+<td>7228.20.90</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>222</td>
+<td>7228.30.10</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>223</td>
+<td>7228.30.90</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>224</td>
+<td>7228.50.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>225</td>
+<td>7228.60.10</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>226</td>
+<td>7228.60.90</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>227</td>
+<td>7228.70.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>228</td>
+<td>7228.80.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>229</td>
+<td>7229.20.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>230</td>
+<td>7229.90.90</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>231</td>
+<td>7306.30.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>232</td>
+<td>7306.50.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>233</td>
+<td>7306.61.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>234</td>
+<td>7306.69.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>235</td>
+<td>7306.90.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>236</td>
+<td>7307.19.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>237</td>
+<td>7307.99.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>238</td>
+<td>7308.40.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>239</td>
+<td>7308.90.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>240</td>
+<td>7309.00.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>241</td>
+<td>7311.00.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>242</td>
+<td>7312.10.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>243</td>
+<td>7318.15.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>244</td>
+<td>7318.16.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>245</td>
+<td>7318.19.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>246</td>
+<td>7318.29.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>247</td>
+<td>7320.10.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>248</td>
+<td>7323.93.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>249</td>
+<td>7323.99.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>250</td>
+<td>7325.91.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>251</td>
+<td>7325.99.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>252</td>
+<td>7326.90.90</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>253</td>
+<td>7604.10.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>254</td>
+<td>7604.21.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>255</td>
+<td>7604.29.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>256</td>
+<td>7608.10.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+<tr>
+<td>257</td>
+<td>7608.20.00</td>
+<td>4%<br>From 1 January of year 2: 3%<br>From 1 January of year 3: 2%<br>From 1 January of year 4: 1%<br>From 1 January of year 5: Free</td>
+</tr>
+</table>
+
+**26 User’s guide**
+
+Omit “to 15”, substitute “to 16”.
+
+**27 User’s guide**
+
+Omit “or 15”, substitute “, 15 or 16”.
+
+**28 User’s guide**
+
+Omit “and 15”, substitute “, 15 and 16”.
+
+**29 At the end of the User’s guide**
+
+Add:
+
+Schedule 16 sets out the rate of duty for UAE originating goods.
+
+30 Application provision
+
+The amendments made by items 1 to 13 and 18 to 25 apply in relation to:
+
+(a) goods imported into Australia on or after the commencement of this Schedule; and
+
+(b) goods imported into Australia before the commencement of this Schedule, where the time for working out the rate of import duty on the goods had not occurred before the commencement of this Schedule.
+
+31 Transitional provisions—indexation
+
+Alcohol duty rates and fuel duty rates
+
+(1) If, on one or more CPI indexation days, an alcohol duty rate, or a fuel duty rate, in the rate column of a subheading in Schedule 3 to the *Customs Tariff Act 1995* was increased by an amount in accordance with section 19 of that Act, then, on the day this Schedule commences, the alcohol duty rate, or fuel duty rate, set out in the rate column of an item in the table in Schedule 16 to that Act that relates to that subheading is increased by that amount or the sum of those amounts (as the case requires).
+
+Tobacco duty rates
+
+(2) If, on one or more tobacco indexation days, a tobacco duty rate in the rate column of a subheading in Schedule 3 to the *Customs Tariff Act 1995* was increased by an amount in accordance with section 19AB of that Act, then, on the day this Schedule commences, a rate of duty set out in the rate column of an item in the table in Schedule 16 to that Act that relates to that subheading is increased by that amount or the sum of those amounts (as the case requires).
+
+Definitions
+
+(3) In this item:
+
+***alcohol duty rate*** has the meaning given by section 19AA of the *Customs Tariff Act 1995*.
+
+***CPI indexation day*** means a day occurring:
+
+(a) on or after the day the Bill for this Act was introduced into the House of Representatives; and
+
+(b) before the day on which this Schedule commences;
+
+on which a rate of duty was replaced under section 19 of the *Customs Tariff Act 1995*.
+
+***fuel duty rate*** has the meaning given by section 19AAC of the *Customs Tariff Act 1995*.
+
+***tobacco duty rate*** has the meaning given by section 19AC of the *Customs Tariff Act 1995*.
+
+***tobacco indexation day*** means a day occurring:
+
+(a) on or after the day the Bill for this Act was introduced into the House of Representatives; and
+
+(b) before the day on which this Schedule commences;
+
+on which a rate of duty was replaced under section 19AB of the *Customs Tariff Act 1995*.
+
+[*Minister’s second reading speech made in—*
+
+*House of Representatives on 24 July 2025*
+
+*Senate on 31 July 2025*]
+
+(28/25)

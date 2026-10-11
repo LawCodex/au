@@ -84,18 +84,12 @@ def fetch_docs(tid, meta):
     for d in pick_docs(meta):
         path = doc_path(tid, d)
         if not os.path.exists(path):
-            url = (f"{API}/documents/find(titleid='{tid}',registerid='{d['registerId']}',"
+            # (the registerid parameter of documents/find does not select the document: use Latest)
+            url = (f"{API}/documents/find(titleid='{tid}',asatspecification='Latest',"
                    f"type='Primary',format='{d['format']}',uniquetypenumber={d['uniqueTypeNumber']},"
                    f"volumenumber={d['volumeNumber']},"
                    f"rectificationversionnumber={d['rectificationVersionNumber']})")
             r = get(url)
-            if r is None:
-                # fall back to "latest" lookup without registerId
-                url = (f"{API}/documents/find(titleid='{tid}',asatspecification='Latest',"
-                       f"type='Primary',format='{d['format']}',uniquetypenumber={d['uniqueTypeNumber']},"
-                       f"volumenumber={d['volumeNumber']},"
-                       f"rectificationversionnumber={d['rectificationVersionNumber']})")
-                r = get(url)
             if r is None:
                 if not d.get("synthetic"):
                     print(f"  ! 404 {tid} {d['format']} vol {d['volumeNumber']}", file=sys.stderr)
